@@ -50,17 +50,24 @@ public class Eurovision implements Serializable
             playerNames[i] = scan.next();
         }
         Eurovision euro = new Eurovision(players);
-        System.out.println("Do you have a set list already saved? \nType Y to load it or anything else to start new.");
-        String ans = scan.next().toUpperCase();
-        if (ans.equals("Y")) {
-            euro.loadSetList();
-        }
-        else {
-            euro.addCountryConsole();
-            System.out.println("Save the current set list? Type Y to save or anything else to skip.");
-            ans = scan.next().toUpperCase();
+        while (true){    
+            System.out.println("Do you have a set list already saved? \nType Y to load it or N to start new.");
+            String ans = scan.next().toUpperCase();
             if (ans.equals("Y")) {
-                euro.saveSetList();
+                euro.loadSetList();
+                break;
+            }
+            else if (ans.equals("N")){
+                euro.addCountryConsole();
+                System.out.println("Save the current set list? Type Y to save or anything else to skip.");
+                ans = scan.next().toUpperCase();
+                if (ans.equals("Y")) {
+                    euro.saveSetList();
+                }
+                break;
+            }
+            else {
+                System.out.println("Invalid input, please try again.");
             }
         }
         System.out.println("Now allocating countries to each player...");
@@ -164,7 +171,7 @@ public class Eurovision implements Serializable
             Song theSong = new Song(artist, title);
             Country theCountry = new Country(country, theSong);
             setList.add(theCountry);
-            System.out.println("Add another country? Type no if finished.");
+            System.out.println("Add another country? Type no if finished or anything else to continue.");
             ans = sc.nextLine();
         }
     }
