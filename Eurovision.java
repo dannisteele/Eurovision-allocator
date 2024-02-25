@@ -266,6 +266,7 @@ public class Eurovision implements Serializable
         {
             FileInputStream fis = new FileInputStream("Set_Lists/" + year);
             ObjectInputStream ois = new ObjectInputStream(fis);
+            @SuppressWarnings("unchecked")
             ArrayList<Country> loadedList = (ArrayList<Country>) ois.readObject();
             setList = loadedList;
             ois.close();
