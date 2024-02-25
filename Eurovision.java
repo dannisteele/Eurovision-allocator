@@ -41,21 +41,26 @@ public class Eurovision implements Serializable
      */
     public static void main(String[] args) throws IOException, ClassNotFoundException, InterruptedException
     {
+        System.out.println("Welcome to the Eurovision allocator!");
+        Thread.sleep(3000);
         Scanner scan = new Scanner(System.in);
         System.out.println("How many players?");
         int players = scan.nextInt();
         String[] playerNames = new String[players];
         for (int i = 0; i < players; i++) {
+            System.out.println();
             System.out.println("What is the name of PLAYER " + (i+1));
             playerNames[i] = scan.next();
         }
         Eurovision euro = new Eurovision(players);
         String ans = "";
         while (!ans.equals("Y") && !ans.equals("N")) {
+            System.out.println();
             System.out.println("Do you have a set list already saved? Y/N");
             ans = scan.next().toUpperCase();
         }
         if (ans.equals("Y")) {
+            System.out.println();
             System.out.println("What year is the set list?");
             String year = scan.next().toUpperCase();
             
@@ -65,15 +70,18 @@ public class Eurovision implements Serializable
             euro.addCountryConsole();
             ans = "";
             while (!ans.equals("Y") && !ans.equals("N")) {
+                System.out.println();
                 System.out.println("Save the current set list? Y/N");
                 ans = scan.next().toUpperCase();
             }
             if (ans.equals("Y")) {
+                System.out.println();
                 System.out.println("What year is this set list for?");
                 String year = scan.next().toUpperCase();
                 euro.saveSetList(year);
             }
         }
+        System.out.println();
         System.out.println("Now allocating countries to each player...");
         Thread.sleep(1000);
         euro.allocateCountries(playerNames);
@@ -170,10 +178,13 @@ public class Eurovision implements Serializable
         while (!(ans.equals("N"))) {
             ans = "";
             correct = "";
+            System.out.println();
             System.out.println("What is the name of the country?");
             String country = sc.nextLine();
+            System.out.println();
             System.out.println("What artist is performing for " + country + "?");
             String artist = sc.nextLine();
+            System.out.println();
             System.out.println("What is the name of the song performed by " + artist + "?");
             String title = sc.nextLine();
             Song theSong = new Song(artist, title);
@@ -183,7 +194,7 @@ public class Eurovision implements Serializable
                 System.out.println();
                 System.out.println("So that is...");
                 System.out.println(country.toUpperCase());
-                System.out.println(artist + " - " + title);
+                System.out.println(artist + ": " + title);
                 System.out.println();
                 System.out.println("Does that look right? Y/N");
                 correct = sc.nextLine().toUpperCase();
@@ -191,15 +202,17 @@ public class Eurovision implements Serializable
             
             if (correct.equals("Y")) {
                 setList.add(theCountry);
-                System.out.println("Country added!");
                 System.out.println();
+                System.out.println("Country added!");
             }
             else {
+                System.out.println();
                 System.out.println("Let's scrap that one then and start it again.");
             }
 
             while (!ans.equals("Y") && !ans.equals("N")) 
             {
+                System.out.println();
                 System.out.println("Add another country? Y/N.");
                 ans = sc.nextLine().toUpperCase();
             }
