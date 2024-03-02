@@ -7,6 +7,8 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
+import java.io.BufferedReader;
+import java.io.FileReader;
 import java.io.IOException;
 
 /**
@@ -56,7 +58,7 @@ public class Eurovision implements Serializable
         String ans = "";
         while (!ans.equals("Y") && !ans.equals("N")) {
             System.out.println();
-            System.out.println("Do you have a set list already saved? Y/N");
+            System.out.println("Do you have a set list already saved (not including CSV)? Y/N");
             ans = scan.next().toUpperCase();
         }
         if (ans.equals("Y")) {
@@ -67,7 +69,19 @@ public class Eurovision implements Serializable
             euro.loadSetList(year);
         }
         else {
-            euro.addCountryConsole();
+            ans = "";
+			String fileName = "";
+            while (!ans.equals("Y") && !ans.equals("N")) {
+                System.out.println();
+                System.out.println("Load from CSV? Y/N");
+                ans = scan.next().toUpperCase();
+            }
+            if (ans.equals("Y")) {
+                fileName = euro.addCountriesFromCSV();
+            }
+            else {
+                euro.addCountryConsole();
+            }
             ans = "";
             while (!ans.equals("Y") && !ans.equals("N")) {
                 System.out.println();
@@ -75,17 +89,24 @@ public class Eurovision implements Serializable
                 ans = scan.next().toUpperCase();
             }
             if (ans.equals("Y")) {
-                System.out.println();
-                System.out.println("What year is this set list for?");
-                String year = scan.next().toUpperCase();
-                euro.saveSetList(year);
+				if (!fileName.isEmpty()) {
+					euro.saveSetList(fileName);
+				}
+				else {
+                	System.out.println();
+                	System.out.println("What year is this set list for?");
+                	String year = scan.next().toUpperCase();
+                	euro.saveSetList(year);
+				}
             }
         }
         System.out.println();
-        System.out.println("Now allocating countries to each player...");
-        Thread.sleep(1000);
-        euro.allocateCountries(playerNames);
-        scan.close();
+		if (players > 0) {
+       	    System.out.println("Now allocating countries to each player...");
+        	Thread.sleep(1000);
+        	euro.allocateCountries(playerNames);
+        	scan.close();
+		}
     }
     
     /**
@@ -290,5 +311,39 @@ public class Eurovision implements Serializable
             Thread.sleep(3000);
             main(null);
         }
+    }
+    
+    /**
+     * Adds countries and songs from a CSV file.
+     *
+     * @param cssFilePath The path of the CSV file.
+     */
+    public String addCountriesFromCSV() {
+        String file = "";
+		try {
+            System.out.println();
+            System.out.println("What is the name of the CSV file?");
+			file = sc.nextLine();
+            String csvFilePath = "Set_Lists/CSV/" + file + ".csv";
+            BufferedReader reader = new BufferedReader(new FileReader(csvFilePath));
+            String line;
+            while ((line = reader.readLine()) != null) {
+                String[] parts = line.split(",");
+                if (parts.length >= 3) {
+                    String countryName = parts[0].trim().replace("\"", "");
+                    String artistName = parts[1].trim().replace("\"", "");
+                    String songTitle = parts[2].trim().replace("\"", "");
+
+                    Song theSong = new Song(artistName, songTitle);
+                    Country theCountry = new Country(countryName, theSong);
+
+                    setList.add(theCountry);
+                }
+            }
+            System.out.println("Countries added from CSS file.");
+        } catch (IOException e) {
+            System.err.println("Error reading CSS file: " + e.getMessage());
+        }
+		return file;
     }
 }
