@@ -112,6 +112,7 @@ public class Eurovision implements Serializable {
             euro.allocateCountries(playerNames);
             scan.close();
         }
+        euro.cleanOutFiles("Set_Lists/");
     }
 
     /**
@@ -415,5 +416,21 @@ public class Eurovision implements Serializable {
         }
 
         return outputStringBuilder.toString();
+    }
+
+    public void cleanOutFiles(String directoryPath) {
+        try (DirectoryStream<Path> stream = Files.newDirectoryStream(Paths.get(directoryPath))) {
+            for (Path filePath : stream) {
+                if (Files.isRegularFile(filePath)) {
+                    try {
+                        Files.delete(filePath);
+                    } catch (IOException e) {
+                        System.err.println("Error deleting file " + filePath.toString() + ": " + e.getMessage());
+                    }
+                }
+            }
+        } catch (IOException e) {
+            System.err.println("Error reading directory: " + e.getMessage());
+        }
     }
 }
