@@ -51,8 +51,26 @@ public class Eurovision implements Serializable {
         System.out.println("Welcome to the Eurovision allocator!");
         Thread.sleep(3000);
         Scanner scan = new Scanner(System.in);
-        System.out.println("How many players?");
-        int players = scan.nextInt();
+        int players = -1;
+        while (players <= 0) {
+            System.out.println();
+            System.out.println("How many players?");
+            
+            try {
+                players = scan.nextInt();
+                
+                if (players <= 0) {
+                    System.out.println();
+                    System.out.println("Number of players must be greater than 0. Try again.");
+                }
+            } catch (Exception e) {
+                System.out.println();
+                System.out.println("Number must be a whole integer. Try again.");
+                // Clear the buffer
+                scan.nextLine();
+                players = -1;
+            }
+        }
         String[] playerNames = new String[players];
         for (int i = 0; i < players; i++) {
             System.out.println();
