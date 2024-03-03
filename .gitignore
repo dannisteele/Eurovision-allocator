@@ -1,4 +1,2 @@
 *.class
 .DS_Store
-Set_Lists/*
-!Set_Lists/CSV/*
