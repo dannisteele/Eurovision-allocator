@@ -1,19 +1,20 @@
-Belgium,Ann Christy,"Gelukkig zijn"
-Finland,Pihasoittajat,"Old Man Fiddle"
-France,Nicole,"Et bonjour à toi l'artiste"
-Germany,Joy Fleming,"Ein Lied kann eine Brücke sein"
-Ireland,The Swarbriggs,"That's What Friends Are For"
-Israel,Shlomo Artzi,"At Ve'Ani"
-Italy,Wess and Dori Ghezzi,"Era"
-Luxembourg,Géraldine,"Toi"
-Malta,Renato,"Singing This Song"
-Monaco,Sophie,"Une chanson c'est une lettre"
-Netherlands,Teach-In,"Ding-a-dong"
-Norway,Ellen Nikolaysen,"Touch My Life with Summer"
-Portugal,Duarte Mendes,"Madrugada"
-Spain,Sergio and Estíbaliz,"Tú volverás"
-Sweden,Lars Berghagen,"Jennie, Jennie"
-Switzerland,Simone Drexel,"Mikado"
-Turkey,Semiha Yankı,"Seninle Bir Dakika"
-United Kingdom,The Shadows,"Let Me Be the One"
-Yugoslavia,Pepel in kri,"Dan ljubezni"
+"ID","Country","Artist","Song","CountryID","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff"
+1,"Belgium","Ann Christy","Gelukkig zijn",1,11,14,14,NULL,NULL,17,17,NULL,NULL
+2,"Finland","Pihasoittajat","Old Man Fiddle",14,15,7,7,NULL,NULL,74,74,NULL,NULL
+3,"France","Nicole","Et bonjour à toi l'artiste",2,3,4,4,NULL,NULL,91,91,NULL,NULL
+4,"Germany","Joy Fleming","Ein Lied kann eine Brücke sein",3,4,16,16,NULL,NULL,15,15,NULL,NULL
+5,"Ireland","The Swarbriggs","That's What Friends Are For",18,2,9,9,NULL,NULL,68,68,NULL,NULL
+6,"Israel","Shlomo Artzi","At Ve'Ani",20,12,11,11,NULL,NULL,40,40,NULL,NULL
+7,"Italy","Wess and Dori Ghezzi","Era",4,19,3,3,NULL,NULL,115,115,NULL,NULL
+8,"Luxembourg","Géraldine","Toi",5,5,5,5,NULL,NULL,84,84,NULL,NULL
+9,"Malta","Renato","Singing This Song",19,10,12,12,NULL,NULL,32,32,NULL,NULL
+10,"Monaco","Sophie","Une chanson c'est une lettre",12,14,13,13,NULL,NULL,22,22,NULL,NULL
+11,"Netherlands","Teach-In","Ding-a-dong",6,1,1,1,NULL,NULL,152,152,NULL,NULL
+12,"Norway","Ellen Nikolaysen","Touch My Life with Summer",13,6,17,17,NULL,NULL,11,11,NULL,NULL
+13,"Portugal","Duarte Mendes","Madrugada",17,16,15,15,NULL,NULL,16,16,NULL,NULL
+14,"Spain","Sergio and Estíbaliz","Tú volverás",15,17,10,10,NULL,NULL,53,53,NULL,NULL
+15,"Sweden","Lars Berghagen","Jennie, Jennie",11,18,8,8,NULL,NULL,72,72,NULL,NULL
+16,"Switzerland","Simone Drexel","Mikado",7,7,6,6,NULL,NULL,77,77,NULL,NULL
+17,"Turkey","Semiha Yankı","Seninle Bir Dakika",22,13,18,18,NULL,NULL,3,3,NULL,NULL
+18,"United Kingdom","The Shadows","Let Me Be the One",10,9,2,2,NULL,NULL,138,138,NULL,NULL
+19,"Yugoslavia","Pepel in kri","Dan ljubezni",16,8,13,13,NULL,NULL,22,22,NULL,NULL

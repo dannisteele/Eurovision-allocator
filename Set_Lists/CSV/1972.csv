@@ -1,18 +1,19 @@
-Austria,The Milestones,"Falter im Wind"
-Belgium,Serge and Christine Ghisoland,"À la folie ou pas du tout"
-Finland,Päivi Paunu and Kim Floor,"Muistathan"
-France,Betty Mars,"Comé-comédie"
-Germany,Mary Roos,"Nur die Liebe läßt uns leben"
-Ireland,Sandie Jones,"Ceol an Ghrá"
-Italy,Nicola Di Bari,"I giorni dell'arcobaleno"
-Luxembourg,Vicky Leandros,"Après toi"
-Malta,Helen and Joseph,"L-imħabba"
-Monaco,Anne-Marie Godart and Peter MacLane,"Comme on s'aime"
-Netherlands,Sandra and Andres,"Als het om de liefde gaat"
-Norway,Grethe Kausland and Benny Borg,"Småting"
-Portugal,Carlos Mendes,"A festa da vida"
-Spain,Jaime Morey,"Amanece"
-Sweden,The Family Four,"Härliga sommardag"
-Switzerland,Véronique Müller,"C'est la chanson de mon amour"
-United Kingdom,The New Seekers,"Beg, Steal or Borrow"
-Yugoslavia,Tereza,"Muzika i ti"
+"ID","Country","Artist","Song","CountryID","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff"
+1,"Austria","The Milestones","Falter im Wind",8,11,5,5,NULL,NULL,100,100,NULL,NULL
+2,"Belgium","Serge and Christine Ghisoland","À la folie ou pas du tout",1,16,17,17,NULL,NULL,55,55,NULL,NULL
+3,"Finland","Päivi Paunu and Kim Floor","Muistathan",14,10,12,12,NULL,NULL,78,78,NULL,NULL
+4,"France","Betty Mars","Comé-comédie",2,2,11,11,NULL,NULL,81,81,NULL,NULL
+5,"Germany","Mary Roos","Nur die Liebe läßt uns leben",3,1,3,3,NULL,NULL,107,107,NULL,NULL
+6,"Ireland","Sandie Jones","Ceol an Ghrá",18,3,15,15,NULL,NULL,72,72,NULL,NULL
+7,"Italy","Nicola Di Bari","I giorni dell'arcobaleno",4,12,6,6,NULL,NULL,92,92,NULL,NULL
+8,"Luxembourg","Vicky Leandros","Après toi",5,17,1,1,NULL,NULL,128,128,NULL,NULL
+9,"Malta","Helen and Joseph","L-imħabba",19,9,18,18,NULL,NULL,48,48,NULL,NULL
+10,"Monaco","Anne-Marie Godart and Peter MacLane","Comme on s'aime",12,15,16,16,NULL,NULL,65,65,NULL,NULL
+11,"Netherlands","Sandra and Andres","Als het om de liefde gaat",6,18,4,4,NULL,NULL,106,106,NULL,NULL
+12,"Norway","Grethe Kausland and Benny Borg","Småting",13,6,14,14,NULL,NULL,73,73,NULL,NULL
+13,"Portugal","Carlos Mendes","A festa da vida",17,7,7,7,NULL,NULL,90,90,NULL,NULL
+14,"Spain","Jaime Morey","Amanece",15,4,10,10,NULL,NULL,83,83,NULL,NULL
+15,"Sweden","The Family Four","Härliga sommardag",11,14,13,13,NULL,NULL,75,75,NULL,NULL
+16,"Switzerland","Véronique Müller","C'est la chanson de mon amour",7,8,8,8,NULL,NULL,88,88,NULL,NULL
+17,"United Kingdom","The New Seekers","Beg, Steal or Borrow",10,5,2,2,NULL,NULL,114,114,NULL,NULL
+18,"Yugoslavia","Tereza","Muzika i ti",16,13,9,9,NULL,NULL,87,87,NULL,NULL

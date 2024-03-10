@@ -1,18 +1,19 @@
-Austria,Waterloo and Robinson,"My Little World"
-Belgium,Pierre Rapsat,"Judy et Cie"
-Finland,Fredi and the Friends,"Pump-Pump"
-France,Catherine Ferry,"Un, deux, trois"
-Germany,Les Humphries Singers,"Sing, Sang, Song"
-Greece,Mariza Koch,"Panaghia mou, panaghia mou"
-Ireland,Red Hurley,"When"
-Israel,"Chocolate, Menta, Mastik","Emor Shalom"
-Italy,Romina and Al Bano,"We'll Live It All Again"
-Luxembourg,Jürgen Marcus,"Chansons pour ceux qui s'aiment"
-Monaco,Mary Christy,"Toi, la musique et moi"
-Netherlands,Sandra Reemer,"The Party Is Over Now"
-Norway,Anne-Karine Strøm,"Mata Hari"
-Portugal,Carlos do Carmo,"Uma flor de verde pinho"
-Spain,Braulio,"Sobran las palabras"
-Switzerland,"Peter, Sue and Marc","Djambo Djambo"
-United Kingdom,Brotherhood of Man,"Save Your Kisses for Me"
-Yugoslavia,Ambasadori,"Ne mogu skriti svoju bol"
+"ID","Country","Artist","Song","CountryID","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff"
+1,"Austria","Waterloo and Robinson","My Little World",8,14,5,5,NULL,NULL,80,80,NULL,NULL
+2,"Belgium","Pierre Rapsat","Judy et Cie",1,6,8,8,NULL,NULL,68,68,NULL,NULL
+3,"Finland","Fredi and the Friends","Pump-Pump",14,11,11,11,NULL,NULL,44,44,NULL,NULL
+4,"France","Catherine Ferry","Un, deux, trois",2,17,2,2,NULL,NULL,147,147,NULL,NULL
+5,"Germany","Les Humphries Singers","Sing, Sang, Song",3,3,15,15,NULL,NULL,12,12,NULL,NULL
+6,"Greece","Mariza Koch","Panaghia mou, panaghia mou",21,10,13,13,NULL,NULL,20,20,NULL,NULL
+7,"Ireland","Red Hurley","When",18,7,10,10,NULL,NULL,54,54,NULL,NULL
+8,"Israel","Chocolate, Menta, Mastik","Emor Shalom",20,4,6,6,NULL,NULL,77,77,NULL,NULL
+9,"Italy","Romina and Al Bano","We'll Live It All Again",4,13,7,7,NULL,NULL,69,69,NULL,NULL
+10,"Luxembourg","Jürgen Marcus","Chansons pour ceux qui s'aiment",5,5,14,14,NULL,NULL,17,17,NULL,NULL
+11,"Monaco","Mary Christy","Toi, la musique et moi",12,16,3,3,NULL,NULL,93,93,NULL,NULL
+12,"Netherlands","Sandra Reemer","The Party Is Over Now",6,8,9,9,NULL,NULL,56,56,NULL,NULL
+13,"Norway","Anne-Karine Strøm","Mata Hari",13,9,18,18,NULL,NULL,7,7,NULL,NULL
+14,"Portugal","Carlos do Carmo","Uma flor de verde pinho",17,15,12,12,NULL,NULL,24,24,NULL,NULL
+15,"Spain","Braulio","Sobran las palabras",15,12,16,16,NULL,NULL,11,11,NULL,NULL
+16,"Switzerland","Peter, Sue and Marc","Djambo Djambo",7,2,4,4,NULL,NULL,91,91,NULL,NULL
+17,"United Kingdom","Brotherhood of Man","Save Your Kisses for Me",10,1,1,1,NULL,NULL,164,164,NULL,NULL
+18,"Yugoslavia","Ambasadori","Ne mogu skriti svoju bol",16,18,17,17,NULL,NULL,10,10,NULL,NULL

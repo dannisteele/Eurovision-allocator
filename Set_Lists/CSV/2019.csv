@@ -1,41 +1,42 @@
-Albania,Jonida Maliqi,"Ktheju tokës"
-Armenia,Srbuk,"Walking Out"
-Australia,Kate Miller-Heidke,"Zero Gravity"
-Austria,Paenda,"Limits"
-Azerbaijan,Chingiz,"Truth"
-Belarus,Zena,"Like It"
-Belgium,Eliot,"Wake Up"
-Croatia,Roko,"The Dream"
-Cyprus,Tamta,"Replay"
-Czech Republic,Lake Malawi,"Friend of a Friend"
-Denmark,Leonora,"Love Is Forever"
-Estonia,Victor Crone,"Storm"
-Finland,Darude feat. Sebastian Rejman,"Look Away"
-France,Bilal Hassani,"Roi"
-Georgia,Oto Nemsadze,"Keep On Going"
-Germany,Sisters,"Sister"
-Greece,Katerine Duska,"Better Love"
-Hungary,Joci Pápai,"Az én apám"
-Iceland,Hatari,"Hatrið mun sigra"
-Ireland,Sarah McTernan,"22"
-Israel,Kobi Marimi,"Home"
-Italy,Mahmood,"Soldi"
-Latvia,Carousel,"That Night"
-Lithuania,Jurij Veklenko,"Run with the Lions"
-Malta,Michela,"Chameleon"
-Moldova,Anna Odobescu,"Stay"
-Montenegro,D mol,"Heaven"
-Netherlands,Duncan Laurence,"Arcade"
-North Macedonia,Tamara Todevska,"Proud"
-Norway,Keiino,"Spirit in the Sky"
-Poland,Tulia,"Fire of Love (Pali się)"
-Portugal,Conan Osíris,"Telemóveis"
-Romania,Ester Peony,"On a Sunday"
-Russia,Sergey Lazarev,"Scream"
-San Marino,Serhat,"Say Na Na Na"
-Serbia,Nevena Božović,"Kruna (Круна)"
-Slovenia,Zala Kralj and Gašper Šantl,"Sebi"
-Spain,Miki,"La venda"
-Sweden,John Lundvik,"Too Late for Love"
-Switzerland,Luca Hänni,"She Got Me"
-United Kingdom,Michael Rice,"Bigger than Us"
+"ID","Country","Artist","Song","CountryID","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff"
+1,"Albania","Jonida Maliqi","Ktheju tokës",39,2,16,16,17,1,90,43,47,4
+2,"Armenia","Srbuk","Walking Out",45,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3,"Australia","Kate Miller-Heidke","Zero Gravity",52,25,9,6,7,1,284,153,131,22
+4,"Austria","Paenda","Limits",8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+5,"Azerbaijan","Chingiz","Truth",50,20,8,5,8,3,302,202,100,102
+6,"Belarus","Zena","Like It",41,19,23,21,23,2,31,18,13,5
+7,"Belgium","Eliot","Wake Up",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+8,"Croatia","Roko","The Dream",27,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+9,"Cyprus","Tamta","Replay",24,11,13,11,20,9,109,77,32,45
+10,"Czechia","Lake Malawi","Friend of a Friend",46,3,11,8,24,16,157,150,7,143
+11,"Denmark","Leonora","Love Is Forever",9,6,12,12,15,3,120,69,51,18
+12,"Estonia","Victor Crone","Storm",29,18,19,19,16,3,76,28,48,20
+13,"Finland","Darude feat. Sebastian Rejman","Look Away",14,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+14,"France","Bilal Hassani","Roi",2,21,15,13,18,5,105,67,38,29
+15,"Georgia","Oto Nemsadze","Keep On Going",47,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+16,"Germany","Sisters","Sister",3,4,24,20,26,6,24,24,0,24
+17,"Greece","Katerine Duska","Better Love",21,13,20,14,21,7,74,50,24,26
+18,"Hungary","Joci Pápai","Az én apám",30,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+19,"Iceland","Hatari","Hatrið mun sigra",25,17,10,15,6,9,232,46,186,140
+20,"Ireland","Sarah McTernan","22",18,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+21,"Israel","Kobi Marimi","Home",20,14,22,25,19,6,35,0,35,35
+22,"Italy","Mahmood","Soldi",4,22,2,4,3,1,472,219,253,34
+23,"Latvia","Carousel","That Night",37,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+24,"Lithuania","Jurij Veklenko","Run with the Lions",31,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+25,"Malta","Michela","Chameleon",19,1,14,10,22,12,107,87,20,67
+26,"Moldova","Anna Odobescu","Stay",44,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+27,"Montenegro","D mol","Heaven",48,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+28,"Netherlands","Duncan Laurence","Arcade",6,12,1,3,2,1,498,237,261,24
+29,"North Macedonia","Tamara Todevska","Proud",36,8,7,1,12,11,305,247,58,189
+30,"Norway","Keiino","Spirit in the Sky",13,15,6,17,1,16,331,40,291,251
+31,"Poland","Tulia","Fire of Love (Pali się)",32,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+32,"Portugal","Conan Osíris","Telemóveis",17,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+33,"Romania","Ester Peony","On a Sunday",33,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+34,"Russia","Sergey Lazarev","Scream",34,5,3,9,4,5,370,126,244,118
+35,"San Marino","Serhat","Say Na Na Na",51,7,18,22,10,12,77,12,65,53
+36,"Serbia","Nevena Božović","Kruna (Круна)",49,23,17,18,13,5,89,35,54,19
+37,"Slovenia","Zala Kralj and Gašper Šantl","Sebi",28,10,15,15,11,4,105,46,59,13
+38,"Spain","Miki","La venda",15,26,21,24,14,10,54,1,53,52
+39,"Sweden","John Lundvik","Too Late for Love",11,9,5,2,9,7,334,241,93,148
+40,"Switzerland","Luca Hänni","She Got Me",7,24,4,7,5,2,364,152,212,60
+41,"United Kingdom","Michael Rice","Bigger than Us",10,16,25,23,25,2,11,8,3,5

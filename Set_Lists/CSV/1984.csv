@@ -1,19 +1,20 @@
-Austria,Anita,"Einfach weg"
-Belgium,Jacques Zegers,"Avanti la vie"
-Cyprus,Andy Paul,"Anna Mari-Elena"
-Denmark,Hot Eyes,"Det' lige det"
-Finland,Kirka,"Hengaillaan"
-France,Annick Thoumazeau,"Autant d'amoureux que d'étoiles"
-Germany,Mary Roos,"Aufrecht geh'n"
-Ireland,Linda Martin,"Terminal 3"
-Italy,Alice and Franco Battiato,"I treni di Tozeur"
-Luxembourg,Sophie Carle,"100% d'amour"
-Netherlands,Maribelle,"Ik hou van jou"
-Norway,Dollie de Luxe,"Lenge leve livet"
-Portugal,Maria Guinot,"Silêncio e tanta gente"
-Spain,Bravo,"Lady, Lady"
-Sweden,Herreys,"Diggi-Loo Diggi-Ley"
-Switzerland,Rainy Day,"Welche Farbe hat der Sonnenschein"
-Turkey,"Beş Yıl Önce, On Yıl Sonra","Halay"
-United Kingdom,Belle and the Devotions,"Love Games"
-Yugoslavia,Ida and Vlado,"Ciao, amore"
+"ID","Country","Artist","Song","CountryID","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff"
+1,"Austria","Anita","Einfach weg",8,13,17,17,NULL,NULL,5,5,NULL,NULL
+2,"Belgium","Jacques Zegers","Avanti la vie",1,8,5,5,NULL,NULL,70,70,NULL,NULL
+3,"Cyprus","Andy Paul","Anna Mari-Elena",24,7,13,13,NULL,NULL,31,31,NULL,NULL
+4,"Denmark","Hot Eyes","Det' lige det",9,10,4,4,NULL,NULL,101,101,NULL,NULL
+5,"Finland","Kirka","Hengaillaan",14,16,8,8,NULL,NULL,46,46,NULL,NULL
+6,"France","Annick Thoumazeau","Autant d'amoureux que d'étoiles",2,3,7,7,NULL,NULL,61,61,NULL,NULL
+7,"Germany","Mary Roos","Aufrecht geh'n",3,14,12,12,NULL,NULL,34,34,NULL,NULL
+8,"Ireland","Linda Martin","Terminal 3",18,9,2,2,NULL,NULL,137,137,NULL,NULL
+9,"Italy","Alice and Franco Battiato","I treni di Tozeur",4,18,5,5,NULL,NULL,70,70,NULL,NULL
+10,"Luxembourg","Sophie Carle","100% d'amour",5,2,9,9,NULL,NULL,39,39,NULL,NULL
+11,"Netherlands","Maribelle","Ik hou van jou",6,11,12,12,NULL,NULL,34,34,NULL,NULL
+12,"Norway","Dollie de Luxe","Lenge leve livet",13,5,15,15,NULL,NULL,29,29,NULL,NULL
+13,"Portugal","Maria Guinot","Silêncio e tanta gente",17,19,10,10,NULL,NULL,38,38,NULL,NULL
+14,"Spain","Bravo","Lady, Lady",15,4,3,3,NULL,NULL,106,106,NULL,NULL
+15,"Sweden","Herreys","Diggi-Loo Diggi-Ley",11,1,1,1,NULL,NULL,145,145,NULL,NULL
+16,"Switzerland","Rainy Day","Welche Farbe hat der Sonnenschein",7,17,14,14,NULL,NULL,30,30,NULL,NULL
+17,"Turkey","Beş Yıl Önce, On Yıl Sonra","Halay",22,15,11,11,NULL,NULL,37,37,NULL,NULL
+18,"United Kingdom","Belle and the Devotions","Love Games",10,6,6,6,NULL,NULL,63,63,NULL,NULL
+19,"Yugoslavia","Ida and Vlado","Ciao, amore",16,12,16,16,NULL,NULL,26,26,NULL,NULL

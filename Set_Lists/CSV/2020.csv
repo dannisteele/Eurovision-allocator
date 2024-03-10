@@ -1,41 +1,42 @@
-Albania,Arilena Ara,"Fall from the Sky"
-Armenia,Athena Manoukian,"Chains on You"
-Australia,Montaigne,"Don't Break Me"
-Austria,Vincent Bueno,"Alive"
-Azerbaijan,Efendi,"Cleopatra"
-Belarus,VAL,"Da vidna (Да відна)"
-Belgium,Hooverphonic,"Release Me"
-Bulgaria,Victoria,"Tears Getting Sober"
-Croatia,Damir Kedžo,"Divlji vjetre"
-Cyprus,Sandro,"Running"
-Czech Republic,Benny Cristo,"Kemama"
-Denmark,Ben and Tan,"Yes"
-Estonia,Uku Suviste,"What Love Is"
-Finland,Aksel,"Looking Back"
-France,Tom Leeb,"Mon alliée (The Best in Me)"
-Georgia,Tornike Kipiani,"Take Me as I Am"
-Germany,Ben Dolic,"Violent Thing"
-Greece,Stefania,"Supergirl"
-Iceland,Daði og Gagnamagnið,"Think About Things"
-Ireland,Lesley Roy,"Story of My Life"
-Israel,Eden Alene,"Feker Libi (ፍቅር ልቤ)"
-Italy,Diodato,"Fai rumore"
-Latvia,Samanta Tīna,"Still Breathing"
-Lithuania,The Roop,"On Fire"
-Malta,Destiny,"All of My Love"
-Moldova,Natalia Gordienko,"Prison"
-Netherlands,Jeangu Macrooy,"Grow"
-North Macedonia,Vasil,"You"
-Norway,Ulrikke,"Attention"
-Poland,Alicja,"Empires"
-Portugal,Elisa,"Medo de sentir"
-Romania,Roxen,"Alcohol You"
-Russia,Little Big,"Uno"
-San Marino,Senhit,"Freaky!"
-Serbia,Hurricane,"Hasta la vista"
-Slovenia,Ana Soklič,"Voda"
-Spain,Blas Cantó,"Universo"
-Sweden,The Mamas,"Move"
-Switzerland,Gjon's Tears,"Répondez-moi"
-Ukraine,Go_A,"Solovey (Соловей)"
-United Kingdom,James Newman,"My Last Breath"
+"ID","Country","Artist","Song","CountryID","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff"
+1,"Albania","Arilena Ara","Fall from the Sky",39,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2,"Armenia","Athena Manoukian","Chains on You",45,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3,"Australia","Montaigne","Don't Break Me",52,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+4,"Austria","Vincent Bueno","Alive",8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+5,"Azerbaijan","Efendi","Cleopatra",50,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+6,"Belarus","VAL","Da vidna (Да відна)",41,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7,"Belgium","Hooverphonic","Release Me",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+8,"Bulgaria","Victoria","Tears Getting Sober",43,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+9,"Croatia","Damir Kedžo","Divlji vjetre",27,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+10,"Cyprus","Sandro","Running",24,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+11,"Czech Republic","Benny Cristo","Kemama",46,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+12,"Denmark","Ben and Tan","Yes",9,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+13,"Estonia","Uku Suviste","What Love Is",29,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+14,"Finland","Aksel","Looking Back",14,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+15,"France","Tom Leeb","Mon alliée (The Best in Me)",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+16,"Georgia","Tornike Kipiani","Take Me as I Am",47,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+17,"Germany","Ben Dolic","Violent Thing",3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+18,"Greece","Stefania","Supergirl",21,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+19,"Iceland","Daði og Gagnamagnið","Think About Things",25,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+20,"Ireland","Lesley Roy","Story of My Life",18,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+21,"Israel","Eden Alene","Feker Libi (ፍቅር ልቤ)",20,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+22,"Italy","Diodato","Fai rumore",4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+23,"Latvia","Samanta Tīna","Still Breathing",37,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+24,"Lithuania","The Roop","On Fire",31,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+25,"Malta","Destiny","All of My Love",19,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+26,"Moldova","Natalia Gordienko","Prison",44,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+27,"Netherlands","Jeangu Macrooy","Grow",6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+28,"North Macedonia","Vasil","You",36,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+29,"Norway","Ulrikke","Attention",13,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+30,"Poland","Alicja","Empires",32,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+31,"Portugal","Elisa","Medo de sentir",17,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+32,"Romania","Roxen","Alcohol You",33,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+33,"Russia","Little Big","Uno",34,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+34,"San Marino","Senhit","Freaky!",51,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+35,"Serbia","Hurricane","Hasta la vista",49,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+36,"Slovenia","Ana Soklič","Voda",28,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+37,"Spain","Blas Cantó","Universo",15,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+38,"Sweden","The Mamas","Move",11,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+39,"Switzerland","Gjon's Tears","Répondez-moi",7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+40,"Ukraine","Go_A","Solovey (Соловей)",38,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+41,"United Kingdom","James Newman","My Last Breath",10,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL

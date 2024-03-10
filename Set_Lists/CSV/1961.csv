@@ -1,16 +1,17 @@
-Austria,Jimmy Makulis,"Sehnsucht"
-Belgium,Bob Benny,"September, gouden roos"
-Denmark,Dario Campeotto,"Angelique"
-Finland,Laila Kinnunen,"Valoa ikkunassa"
-France,Jean-Paul Mauric,"Printemps (avril carillonne)"
-Germany,Lale Andersen,"Einmal sehen wir uns wieder"
-Italy,Betty Curtis,"Al di là"
-Luxembourg,Jean-Claude Pascal,"Nous les amoureux"
-Monaco,Colette Deréal,"Allons, allons les enfants"
-Netherlands,Greetje Kauffeld,"Wat een dag"
-Norway,Nora Brockstedt,"Sommer i Palma"
-Spain,Conchita Bautista,"Estando contigo"
-Sweden,Lill-Babs,"April, april"
-Switzerland,Franca di Rienzo,"Nous aurons demain"
-United Kingdom,The Allisons,"Are You Sure?"
-Yugoslavia,Ljiljana Petrović,"Neke davne zvezde"
+"ID","Country","Artist","Song","CountryID","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff"
+1,"Austria","Jimmy Makulis","Sehnsucht",8,3,12,12,NULL,NULL,1,1,NULL,NULL
+2,"Belgium","Bob Benny","September, gouden roos",1,11,12,12,NULL,NULL,1,1,NULL,NULL
+3,"Denmark","Dario Campeotto","Angelique",9,13,5,5,NULL,NULL,12,12,NULL,NULL
+4,"Finland","Laila Kinnunen","Valoa ikkunassa",14,4,9,9,NULL,NULL,6,6,NULL,NULL
+5,"France","Jean-Paul Mauric","Printemps (avril carillonne)",2,9,4,4,NULL,NULL,13,13,NULL,NULL
+6,"Germany","Lale Andersen","Einmal sehen wir uns wieder",3,8,10,10,NULL,NULL,3,3,NULL,NULL
+7,"Italy","Betty Curtis","Al di là",4,16,5,5,NULL,NULL,12,12,NULL,NULL
+8,"Luxembourg","Jean-Claude Pascal","Nous les amoureux",5,14,1,1,NULL,NULL,31,31,NULL,NULL
+9,"Monaco","Colette Deréal","Allons, allons les enfants",12,2,9,9,NULL,NULL,6,6,NULL,NULL
+10,"Netherlands","Greetje Kauffeld","Wat een dag",6,6,9,9,NULL,NULL,6,6,NULL,NULL
+11,"Norway","Nora Brockstedt","Sommer i Palma",13,12,6,6,NULL,NULL,10,10,NULL,NULL
+12,"Spain","Conchita Bautista","Estando contigo",15,1,8,8,NULL,NULL,8,8,NULL,NULL
+13,"Sweden","Lill-Babs","April, april",11,7,11,11,NULL,NULL,2,2,NULL,NULL
+14,"Switzerland","Franca di Rienzo","Nous aurons demain",7,10,3,3,NULL,NULL,16,16,NULL,NULL
+15,"United Kingdom","The Allisons","Are You Sure?",10,15,2,2,NULL,NULL,24,24,NULL,NULL
+16,"Yugoslavia","Ljiljana Petrović","Neke davne zvezde",16,5,7,7,NULL,NULL,9,9,NULL,NULL

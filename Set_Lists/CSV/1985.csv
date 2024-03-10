@@ -1,19 +1,20 @@
-Austria,Gary Lux,"Kinder dieser Welt"
-Belgium,Linda Lepomme,"Laat me nu gaan"
-Cyprus,Lia Vissi,"To katalava arga"
-Denmark,Hot Eyes,"Sku' du spørg' fra no'en"
-Finland,Sonja Lumme,"Eläköön elämä"
-France,Roger Bens,"Femme dans ses rêves aussi"
-Germany,Wind,"Für alle"
-Greece,Takis Biniaris,"Miazoume"
-Ireland,Maria Christian,"Wait Until the Weekend Comes"
-Israel,Izhar Cohen,"Olé, Olé"
-Italy,Al Bano and Romina Power,"Magic, Oh Magic"
-Luxembourg,"Margo, Franck Olivier, Chris Roberts, Malcolm Roberts, Ireen Sheer and Diane Solomon","Children, Kinder, Enfants"
-Norway,Bobbysocks!,"La det swinge"
-Portugal,Adelaide,"Penso em ti, eu sei"
-Spain,Paloma San Basilio,"La fiesta terminó"
-Sweden,Kikki Danielsson,"Bra vibrationer"
-Switzerland,Mariella Farré and Pino Gasparini,"Piano, piano"
-Turkey,MFÖ,"Didai didai dai"
-United Kingdom,Vikki,"Love Is"
+"ID","Country","Artist","Song","CountryID","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff"
+1,"Austria","Gary Lux","Kinder dieser Welt",8,17,8,8,NULL,NULL,60,60,NULL,NULL
+2,"Belgium","Linda Lepomme","Laat me nu gaan",1,8,17,17,NULL,NULL,7,7,NULL,NULL
+3,"Cyprus","Lia Vissi","To katalava arga",24,3,15,15,NULL,NULL,15,15,NULL,NULL
+4,"Denmark","Hot Eyes","Sku' du spørg' fra no'en",9,4,11,11,NULL,NULL,41,41,NULL,NULL
+5,"Finland","Sonja Lumme","Eläköön elämä",14,2,9,9,NULL,NULL,58,58,NULL,NULL
+6,"France","Roger Bens","Femme dans ses rêves aussi",2,6,10,10,NULL,NULL,56,56,NULL,NULL
+7,"Germany","Wind","Für alle",3,10,2,2,NULL,NULL,105,105,NULL,NULL
+8,"Greece","Takis Biniaris","Miazoume",21,19,15,15,NULL,NULL,15,15,NULL,NULL
+9,"Ireland","Maria Christian","Wait Until the Weekend Comes",18,1,6,6,NULL,NULL,91,91,NULL,NULL
+10,"Israel","Izhar Cohen","Olé, Olé",20,11,5,5,NULL,NULL,93,93,NULL,NULL
+11,"Italy","Al Bano and Romina Power","Magic, Oh Magic",4,12,7,7,NULL,NULL,79,79,NULL,NULL
+12,"Luxembourg","Margo, Franck Olivier, Chris Roberts, Malcolm Roberts, Ireen Sheer and Diane Solomon","Children, Kinder, Enfants",5,18,13,13,NULL,NULL,37,37,NULL,NULL
+13,"Norway","Bobbysocks!","La det swinge",13,13,1,1,NULL,NULL,123,123,NULL,NULL
+14,"Portugal","Adelaide","Penso em ti, eu sei",17,9,16,16,NULL,NULL,9,9,NULL,NULL
+15,"Spain","Paloma San Basilio","La fiesta terminó",15,5,14,14,NULL,NULL,36,36,NULL,NULL
+16,"Sweden","Kikki Danielsson","Bra vibrationer",11,16,3,3,NULL,NULL,103,103,NULL,NULL
+17,"Switzerland","Mariella Farré and Pino Gasparini","Piano, piano",7,15,12,12,NULL,NULL,39,39,NULL,NULL
+18,"Turkey","MFÖ","Didai didai dai",22,7,14,14,NULL,NULL,36,36,NULL,NULL
+19,"United Kingdom","Vikki","Love Is",10,14,4,4,NULL,NULL,100,100,NULL,NULL

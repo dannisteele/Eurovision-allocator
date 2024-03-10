@@ -1,43 +1,44 @@
-Albania,Aurela Gaçe,Feel the Passion
-Armenia,Emmy,Boom Boom
-Austria,Nadine Beiler,The Secret is Love
-Azerbaijan,Ell and Nikki,Running Scared
-Belarus,Anastasia Vinnikova,I Love Belarus
-Belgium,Witloof Bay,With Love Baby
-Bosnia and Herzegovina,Dino Merlin,Love in Rewind
-Bulgaria,Poli Genova,Na inat
-Croatia,Daria,Celebrate
-Cyprus,Christos Mylordos,San aggelos s'agapisa
-Denmark,A Friend in London,New Tomorrow
-Estonia,Getter Jaani,Rockefeller Street
-Finland,Paradise Oskar,Da Da Dam
-France,Amaury Vassili,Sognu
-Georgia,Eldrine,One More Day
-Germany,Lena,Taken by a Stranger
-Greece,Loukas Yorkas feat. Stereo Mike,Watch My Dance
-Hungary,Kati Wolf,What About My Dreams?
-Iceland,Sjonni's Friends,Coming Home
-Ireland,Jedward,Lipstick
-Israel,Dana International,Ding Dong
-Italy,Raphael Gualazzi,Madness of Love
-Latvia,Musiqq,Angel in Disguise
-Lithuania,Evelina Sašenko,C'est ma vie
-Macedonia,Vlatko Ilievski,Rusinka
-Malta,Glen Vella,One Life
-Moldova,Zdob şi Zdub,So Lucky
-Netherlands,3JS,Never Alone
-Norway,Stella Mwangi,Haba Haba
-Poland,Magdalena Tul,Jestem
-Portugal,Homens da Luta,A luta é alegria
-Romania,Hotel FM,Change
-Russia,Alexey Vorobyov,Get You
-San Marino,Senit,Stand By
-Serbia,Nina,Čaroban
-Slovakia,Twiins,I'm Still Alive
-Slovenia,Maja Keuc,No One
-Spain,Lucía Pérez,Que me quiten lo bailao
-Sweden,Eric Saade,Popular
-Switzerland,Anna Rossinelli,In Love for a While
-Turkey,Yüksek Sadakat,Live It Up
-Ukraine,Mika Newton,Angel
-United Kingdom,Blue,I Can
+"ID","Country","Artist","Song","CountryID","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff"
+1,"Albania","Aurela Gaçe","Feel the Passion",39,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2,"Armenia","Emmy","Boom Boom",45,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3,"Austria","Nadine Beiler","The Secret is Love",8,18,14,5,23,18,170,145,25,120
+4,"Azerbaijan","Ell and Nikki","Running Scared",50,19,1,2,1,1,405,182,223,41
+5,"Belarus","Anastasia Vinnikova","I Love Belarus",41,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+6,"Belgium","Witloof Bay","With Love Baby",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7,"Bosnia and Herzegovina","Dino Merlin","Love in Rewind",26,2,6,11,6,5,241,90,151,61
+8,"Bulgaria","Poli Genova","Na inat",43,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+9,"Croatia","Daria","Celebrate",27,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+10,"Cyprus","Christos Mylordos","San aggelos s'agapisa",24,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+11,"Denmark","A Friend in London","New Tomorrow",9,3,7,3,17,14,229,168,61,107
+12,"Estonia","Getter Jaani","Rockefeller Street",29,8,23,17,22,5,106,74,32,42
+13,"Finland","Paradise Oskar","Da Da Dam",14,1,20,16,20,4,122,75,47,28
+14,"France","Amaury Vassili","Sognu",2,11,15,11,14,3,166,90,76,14
+15,"Georgia","Eldrine","One More Day",47,25,10,15,7,8,217,79,138,59
+16,"Germany","Lena","Taken by a Stranger",3,16,10,10,8,2,217,104,113,9
+17,"Greece","Loukas Yorkas feat. Stereo Mike","Watch My Dance",21,9,5,13,3,10,260,84,176,92
+18,"Hungary","Kati Wolf","What About My Dreams?",30,5,19,20,16,4,124,60,64,4
+19,"Iceland","Sjonni's Friends","Coming Home",25,21,18,18,18,0,132,72,60,12
+20,"Ireland","Jedward","Lipstick",18,6,9,6,9,3,220,119,101,18
+21,"Israel","Dana International","Ding Dong",20,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+22,"Italy","Raphael Gualazzi","Madness of Love",4,12,2,1,10,9,350,251,99,152
+23,"Latvia","Musiqq","Angel in Disguise",37,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+24,"Lithuania","Evelina Sašenko","C'est ma vie",31,4,21,19,19,0,121,66,55,11
+25,"Macedonia","Vlatko Ilievski","Rusinka",36,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+26,"Malta","Glen Vella","One Life",19,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+27,"Moldova","Zdob şi Zdub","So Lucky",44,15,13,14,11,3,180,82,98,16
+28,"Netherlands","3JS","Never Alone",6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+29,"Norway","Stella Mwangi","Haba Haba",13,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+30,"Poland","Magdalena Tul","Jestem",32,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+31,"Portugal","Homens da Luta","A luta é alegria",17,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+32,"Romania","Hotel FM","Change",33,17,16,12,13,1,165,86,79,7
+33,"Russia","Alexey Vorobyov","Get You",34,10,17,24,7,17,163,25,138,113
+34,"San Marino","Senit","Stand By",51,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+35,"Serbia","Nina","Čaroban",49,24,11,8,12,4,200,111,89,22
+36,"Slovakia","Twiins","I'm Still Alive",35,20,12,4,21,17,199,160,39,121
+37,"Slovenia","Maja Keuc","No One",28,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+38,"Spain","Lucía Pérez","Que me quiten lo bailao",15,22,22,23,15,8,111,38,73,35
+39,"Sweden","Eric Saade","Popular",11,7,3,9,2,7,327,106,221,115
+40,"Switzerland","Anna Rossinelli","In Love for a While",7,13,24,22,24,2,55,53,2,51
+41,"Turkey","Yüksek Sadakat","Live It Up",22,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+42,"Ukraine","Mika Newton","Angel",38,23,4,7,4,3,285,117,168,51
+43,"United Kingdom","Blue","I Can",10,14,8,21,5,16,223,57,166,109
