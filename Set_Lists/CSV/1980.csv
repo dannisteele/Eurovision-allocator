@@ -1,19 +1,20 @@
-Austria,Blue Danube,"Du bist Musik"
-Belgium,Telex,"Euro-Vision"
-Denmark,Bamses Venner,"Tænker altid på dig"
-Finland,Vesa-Matti Loiri,"Huilumies"
-France,Profil,"Hé, hé m'sieurs dames"
-Germany,Katja Ebstein,Theater
-Greece,Anna Vissi and the Epikouri,"Autostop"
-Ireland,Johnny Logan,"What's Another Year"
-Italy,Alan Sorrenti,"Non so che darei"
-Luxembourg,Sophie and Magaly,"Papa Pingouin"
-Morocco,Samira Bensaïd,"Bitakat Hob"
-Netherlands,Maggie MacNeal,Amsterdam
-Norway,Sverre Kjelsberg and Mattis Hætta,"Sámiid ædnan"
-Portugal,José Cid,"Um grande, grande amor"
-Spain,Trigo Limpio,"Quédate esta noche"
-Sweden,Tomas Ledin,"Just nu"
-Switzerland,Paola,Cinéma
-Turkey,Ajda Pekkan,"Pet'r Oil"
-United Kingdom,Prima Donna,"Love Enough for Two"
+"ID","Country","Artist","Song","CountryID","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff"
+1,"Austria","Blue Danube","Du bist Musik",8,1,8,8,NULL,NULL,64,64,NULL,NULL
+2,"Belgium","Telex","Euro-Vision",1,19,17,17,NULL,NULL,14,14,NULL,NULL
+3,"Denmark","Bamses Venner","Tænker altid på dig",9,7,14,14,NULL,NULL,25,25,NULL,NULL
+4,"Finland","Vesa-Matti Loiri","Huilumies",14,10,19,19,NULL,NULL,6,6,NULL,NULL
+5,"France","Profil","Hé, hé m'sieurs dames",2,16,11,11,NULL,NULL,45,45,NULL,NULL
+6,"Germany","Katja Ebstein","Theater",3,12,2,2,NULL,NULL,128,128,NULL,NULL
+7,"Greece","Anna Vissi and the Epikouri","Autostop",21,3,13,13,NULL,NULL,30,30,NULL,NULL
+8,"Ireland","Johnny Logan","What's Another Year",18,17,1,1,NULL,NULL,143,143,NULL,NULL
+9,"Italy","Alan Sorrenti","Non so che darei",4,6,6,6,NULL,NULL,87,87,NULL,NULL
+10,"Luxembourg","Sophie and Magaly","Papa Pingouin",5,4,9,9,NULL,NULL,56,56,NULL,NULL
+11,"Morocco","Samira Bensaïd","Bitakat Hob",23,5,18,18,NULL,NULL,7,7,NULL,NULL
+12,"Netherlands","Maggie MacNeal","Amsterdam",6,15,5,5,NULL,NULL,93,93,NULL,NULL
+13,"Norway","Sverre Kjelsberg and Mattis Hætta","Sámiid ædnan",13,11,16,16,NULL,NULL,15,15,NULL,NULL
+14,"Portugal","José Cid","Um grande, grande amor",17,14,7,7,NULL,NULL,71,71,NULL,NULL
+15,"Spain","Trigo Limpio","Quédate esta noche",15,18,12,12,NULL,NULL,38,38,NULL,NULL
+16,"Sweden","Tomas Ledin","Just nu",11,8,10,10,NULL,NULL,47,47,NULL,NULL
+17,"Switzerland","Paola","Cinéma",7,9,4,4,NULL,NULL,104,104,NULL,NULL
+18,"Turkey","Ajda Pekkan","Pet'r Oil",22,2,15,15,NULL,NULL,23,23,NULL,NULL
+19,"United Kingdom","Prima Donna","Love Enough for Two",10,13,3,3,NULL,NULL,106,106,NULL,NULL

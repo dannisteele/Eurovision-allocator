@@ -1,24 +1,25 @@
-Austria,The Rounder Girls,All to You
-Belgium,Nathalie Sorce,Envie de vivre
-Croatia,Goran Karan,Kad zaspu anđeli
-Cyprus,Voice,Nomiza
-Denmark,Olsen Brothers,Fly on the Wings of Love
-Estonia,Ines,Once in a Lifetime
-Finland,Nina Åström,A Little Bit
-France,Sofia Mestari,On aura le ciel
-Germany,Stefan Raab,Wadde hadde dudde da?
-Iceland,August and Telma,Tell Me!
-Ireland,Eamonn Toal,Millennium of Love
-Israel,PingPong,Sameach
-Latvia,Brainstorm,My Star
-Macedonia,XXL,100% te ljubam
-Malta,Claudette Pace,Desire
-Netherlands,Linda,No Goodbyes
-Norway,Charmed,My Heart Goes Boom
-Romania,Taxi,The Moon
-Russia,Alsou,Solo
-Spain,Serafín Zubiri,Colgado de un sueño
-Sweden,Roger Pontare,When Spirits Are Calling My Name
-Switzerland,Jane Bogaert,La vita cos'è?
-Turkey,Pınar and the SOS,Yorgunum Anla
-United Kingdom,Nicki French,Don't Play That Song Again
+"ID","Country","Artist","Song","CountryID","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff"
+1,"Austria","The Rounder Girls","All to You",8,24,14,11,14,3,34,9,25,16
+2,"Belgium","Nathalie Sorce","Envie de vivre",1,10,23,17,23,6,2,2,0,2
+3,"Croatia","Goran Karan","Kad zaspu anđeli",27,17,9,1,13,12,70,36,34,2
+4,"Cyprus","Voice","Nomiza",24,11,20,15,21,6,8,4,4,0
+5,"Denmark","Olsen Brothers","Fly on the Wings of Love",9,14,1,1,1,0,195,36,159,123
+6,"Estonia","Ines","Once in a Lifetime",29,4,4,3,6,3,98,25,73,48
+7,"Finland","Nina Åström","A Little Bit",14,20,18,11,18,7,18,9,9,0
+8,"France","Sofia Mestari","On aura le ciel",2,5,22,14,23,9,5,5,0,5
+9,"Germany","Stefan Raab","Wadde hadde dudde da?",3,15,5,4,5,1,96,20,76,56
+10,"Iceland","August and Telma","Tell Me!",25,12,12,13,11,2,45,7,38,31
+11,"Ireland","Eamonn Toal","Millennium of Love",18,23,6,9,4,5,92,13,79,66
+12,"Israel","PingPong","Sameach",20,1,21,18,20,2,7,1,6,5
+13,"Latvia","Brainstorm","My Star",37,21,3,12,3,9,136,8,128,120
+14,"Macedonia","XXL","100% te ljubam",36,7,15,7,16,9,29,17,12,5
+15,"Malta","Claudette Pace","Desire",19,2,8,2,10,8,73,33,40,7
+16,"Netherlands","Linda","No Goodbyes",6,19,13,16,12,4,40,3,37,34
+17,"Norway","Charmed","My Heart Goes Boom",13,8,11,8,9,1,57,16,41,25
+18,"Romania","Taxi","The Moon",33,6,17,6,19,13,25,18,7,11
+19,"Russia","Alsou","Solo",34,9,2,5,2,3,155,19,136,117
+20,"Spain","Serafín Zubiri","Colgado de un sueño",15,13,18,13,17,4,18,7,11,4
+21,"Sweden","Roger Pontare","When Spirits Are Calling My Name",11,18,7,6,7,1,88,18,70,52
+22,"Switzerland","Jane Bogaert","La vita cos'è?",7,16,19,9,22,13,14,13,1,12
+23,"Turkey","Pınar and the SOS","Yorgunum Anla",22,22,10,7,8,1,59,17,42,25
+24,"United Kingdom","Nicki French","Don't Play That Song Again",10,3,16,10,15,5,28,12,16,4

@@ -55,10 +55,10 @@ public class Eurovision implements Serializable {
         while (players <= 0) {
             System.out.println();
             System.out.println("How many players?");
-            
+
             try {
                 players = scan.nextInt();
-                
+
                 if (players <= 0) {
                     System.out.println();
                     System.out.println("Number of players must be greater than 0. Try again.");
@@ -328,7 +328,6 @@ public class Eurovision implements Serializable {
      */
     public String addCountriesFromCSV(boolean useUserInput) {
         if (useUserInput) {
-            // Your existing code for user input
             String file = "";
             try {
                 System.out.println();
@@ -337,35 +336,18 @@ public class Eurovision implements Serializable {
                 String csvFilePath = "Set_Lists/CSV/" + file + ".csv";
                 BufferedReader reader = new BufferedReader(new FileReader(csvFilePath));
                 String line;
+                boolean firstLine = true;
                 while ((line = reader.readLine()) != null) {
-                    String[] parts = line.split(",");
-                    if (parts.length >= 3) {
-                        String countryName = parts[0].trim().replace("\"", "");
-                        String artistName = parts[1].trim().replace("\"", "");
-                        String songTitle = parts[2].trim().replace("\"", "");
-
-                        Song theSong = new Song(artistName, songTitle);
-                        Country theCountry = new Country(countryName, theSong);
-
-                        setList.add(theCountry);
+                    if (firstLine) {
+                        firstLine = false;
+                        continue; // Skip the first line
                     }
-                }
-                System.out.println("Countries added from CSS file.");
-            } catch (IOException e) {
-                System.err.println("Error reading CSS file: " + e.getMessage());
-            }
-            return file;
-        } else {
-            try (DirectoryStream<Path> stream = Files.newDirectoryStream(Paths.get("Set_Lists/CSV"), "*.csv")) {
-                for (Path filePath : stream) {
-                    BufferedReader reader = new BufferedReader(new FileReader(filePath.toString()));
-                    String line;
                     while ((line = reader.readLine()) != null) {
                         String[] parts = line.split(",");
                         if (parts.length >= 3) {
-                            String countryName = parts[0].trim().replace("\"", "");
-                            String artistName = parts[1].trim().replace("\"", "");
-                            String songTitle = parts[2].trim().replace("\"", "");
+                            String countryName = parts[1].trim().replace("\"", "");
+                            String artistName = parts[2].trim().replace("\"", "");
+                            String songTitle = parts[3].trim().replace("\"", "");
 
                             Song theSong = new Song(artistName, songTitle);
                             Country theCountry = new Country(countryName, theSong);
@@ -373,15 +355,48 @@ public class Eurovision implements Serializable {
                             setList.add(theCountry);
                         }
                     }
+                    System.out.println("Countries added from CSS file.");
+                }
+            } catch (IOException e) {
+                System.err.println("Error reading CSS file: " + e.getMessage());
+            }
+            return file;
+        } else {
+            try (DirectoryStream<Path> stream = Files.newDirectoryStream(Paths.get("Set_Lists/CSV/"), "*.csv")) {
+                for (Path filePath : stream) {
+                    BufferedReader reader = new BufferedReader(new FileReader(filePath.toString()));
+                    String line;
+                    boolean firstLine = true;
+                    
+                    while ((line = reader.readLine()) != null) {
+                        if (firstLine) {
+                            firstLine = false;
+                            continue; // Skip the first line
+                        }
+        
+                        String[] parts = line.split(",");
+                        if (parts.length >= 3) {
+                            String countryName = parts[1].trim().replace("\"", "");
+                            String artistName = parts[2].trim().replace("\"", "");
+                            String songTitle = parts[3].trim().replace("\"", "");
+        
+                            Song theSong = new Song(artistName, songTitle);
+                            Country theCountry = new Country(countryName, theSong);
+        
+                            setList.add(theCountry);
+                        }
+                    }
                     reader.close();
-
+        
                     // Extract year and save setList outside the loop
                     String year = extractYearFromFilePath(filePath.toString());
-                    try {
-                        saveSetList(year);
-                        clearSetList();
-                    } catch (Exception e) {
-                        System.out.println("Something went wrong: " + e);
+                    if (!year.equals("")) {
+                        try {
+                            saveSetList(year);
+                            clearSetList();
+                        } catch (Exception e) {
+                            System.out.println(e);
+                        }
                     }
                 }
                 System.out.println();
@@ -418,14 +433,14 @@ public class Eurovision implements Serializable {
     public String getAvailableYears() {
         ArrayList<String> output = new ArrayList<>();
         StringBuilder outputStringBuilder = new StringBuilder();
-    
+
         try (DirectoryStream<Path> stream = Files.newDirectoryStream(Paths.get("Set_Lists/CSV"), "*.csv")) {
             for (Path filePath : stream) {
                 String year = extractYearFromFilePath(filePath.toString());
                 output.add(year);
             }
             Collections.sort(output);
-    
+
             for (String item : output) {
                 outputStringBuilder.append(item).append("\n");
             }

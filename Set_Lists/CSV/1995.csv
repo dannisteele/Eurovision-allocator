@@ -1,23 +1,24 @@
-Austria,Stella Jones,"Die Welt dreht sich verkehrt"
-Belgium,Frédéric Etherlinck,"La voix est libre"
-Bosnia and Herzegovina,Davor Popović,"Dvadeset prvi vijek"
-Croatia,Magazin and Lidija,"Nostalgija"
-Cyprus,Alexandros Panayi,"Sti fotia (Στη φωτιά)"
-Denmark,Aud Wilken,"Fra Mols til Skagen"
-France,Nathalie Santamaria,"Il me donne rendez-vous"
-Germany,Stone and Stone,"Verliebt in Dich"
-Greece,Elina Konstantopoulou,"Pia prosefhi (Ποιά προσευχή)"
-Hungary,Csaba Szigeti,"Új név egy régi ház falán"
-Iceland,Bo Halldórsson,"Núna"
-Ireland,Eddie Friel,"Dreamin'"
-Israel,Liora,"Amen (אמן)"
-Malta,Mike Spiteri,"Keep Me in Mind"
-Norway,Secret Garden,"Nocturne"
-Poland,Justyna,"Sama"
-Portugal,Tó Cruz,"Baunilha e chocolate"
-Russia,Philipp Kirkorov,"Kolybelnaya dlya vulkana (Колыбельная для вулкана)"
-Slovenia,Darja Švajger,"Prisluhni mi"
-Spain,Anabel Conde,"Vuelve conmigo"
-Sweden,Jan Johansen,"Se på mej"
-Turkey,Arzu Ece,"Sev!"
-United Kingdom,Love City Groove,"Love City Groove"
+"ID","Country","Artist","Song","CountryID","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff"
+1,"Austria","Stella Jones","Die Welt dreht sich verkehrt",8,8,12,12,NULL,NULL,67,67,NULL,NULL
+2,"Belgium","Frédéric Etherlinck","La voix est libre",1,14,19,19,NULL,NULL,8,8,NULL,NULL
+3,"Bosnia and Herzegovina","Davor Popović","Dvadeset prvi vijek",26,4,18,18,NULL,NULL,14,14,NULL,NULL
+4,"Croatia","Magazin and Lidija","Nostalgija",27,11,6,6,NULL,NULL,91,91,NULL,NULL
+5,"Cyprus","Alexandros Panayi","Sti fotia (Στη φωτιά)",24,17,9,9,NULL,NULL,79,79,NULL,NULL
+6,"Denmark","Aud Wilken","Fra Mols til Skagen",9,19,5,5,NULL,NULL,92,92,NULL,NULL
+7,"France","Nathalie Santamaria","Il me donne rendez-vous",2,12,4,4,NULL,NULL,94,94,NULL,NULL
+8,"Germany","Stone and Stone","Verliebt in Dich",3,3,22,22,NULL,NULL,1,1,NULL,NULL
+9,"Greece","Elina Konstantopoulou","Pia prosefhi (Ποιά προσευχή)",21,23,11,11,NULL,NULL,68,68,NULL,NULL
+10,"Hungary","Csaba Szigeti","Új név egy régi ház falán",30,13,21,21,NULL,NULL,3,3,NULL,NULL
+11,"Iceland","Bo Halldórsson","Núna",25,7,14,14,NULL,NULL,31,31,NULL,NULL
+12,"Ireland","Eddie Friel","Dreamin'",18,2,13,13,NULL,NULL,44,44,NULL,NULL
+13,"Israel","Liora","Amen (אמן)",20,21,8,8,NULL,NULL,81,81,NULL,NULL
+14,"Malta","Mike Spiteri","Keep Me in Mind",19,22,10,10,NULL,NULL,76,76,NULL,NULL
+15,"Norway","Secret Garden","Nocturne",13,5,1,1,NULL,NULL,148,148,NULL,NULL
+16,"Poland","Justyna","Sama",32,1,17,17,NULL,NULL,15,15,NULL,NULL
+17,"Portugal","Tó Cruz","Baunilha e chocolate",17,16,20,20,NULL,NULL,5,5,NULL,NULL
+18,"Russia","Philipp Kirkorov","Kolybelnaya dlya vulkana (Колыбельная для вулкана)",34,6,16,16,NULL,NULL,17,17,NULL,NULL
+19,"Slovenia","Darja Švajger","Prisluhni mi",28,20,7,7,NULL,NULL,84,84,NULL,NULL
+20,"Spain","Anabel Conde","Vuelve conmigo",15,9,2,2,NULL,NULL,119,119,NULL,NULL
+21,"Sweden","Jan Johansen","Se på mej",11,18,3,3,NULL,NULL,100,100,NULL,NULL
+22,"Turkey","Arzu Ece","Sev!",22,10,15,15,NULL,NULL,21,21,NULL,NULL
+23,"United Kingdom","Love City Groove","Love City Groove",10,15,10,10,NULL,NULL,76,76,NULL,NULL

@@ -1,43 +1,44 @@
-Albania,Eugent Bushpepa,Mall
-Armenia,Sevak Khanagyan,Qami (Քամի)
-Australia,Jessica Mauboy,We Got Love
-Austria,Cesár Sampson,Nobody but You
-Azerbaijan,Aisel,X My Heart
-Belarus,Alekseev,Forever
-Belgium,Sennek,A Matter of Time
-Bulgaria,Equinox,Bones
-Croatia,Franka,Crazy
-Cyprus,Eleni Foureira,Fuego
-Czech Republic,Mikolas Josef,Lie to Me
-Denmark,Rasmussen,Higher Ground
-Estonia,Elina Nechayeva,La forza
-Finland,Saara Aalto,Monsters
-France,Madame Monsieur,Mercy
-Georgia,Ethno-Jazz Band Iriao,For You
-Germany,Michael Schulte,You Let Me Walk Alone
-Greece,Yianna Terzi,Oniro mou (Όνειρό μου)
-Hungary,AWS,Viszlát nyár
-Iceland,Ari Ólafsson,Our Choice
-Ireland,Ryan O'Shaughnessy,Together
-Israel,Netta,Toy
-Italy,Ermal Meta and Fabrizio Moro,Non mi avete fatto niente
-Latvia,Laura Rizzotto,Funny Girl
-Lithuania,Ieva Zasimauskaitė,When We're Old
-Macedonia,Eye Cue,Lost and Found
-Malta,Christabelle,Taboo
-Moldova,DoReDoS,My Lucky Day
-Montenegro,Vanja Radovanović,Inje (Иње)
-Netherlands,Waylon,Outlaw in 'Em
-Norway,Alexander Rybak,That's How You Write a Song
-Poland,Gromee feat. Lukas Meijer,Light Me Up
-Portugal,Cláudia Pascoal,O jardim
-Romania,The Humans,Goodbye
-Russia,Julia Samoylova,I Won't Break
-San Marino,Jessika feat. Jenifer Brening,Who We Are
-Serbia,Sanja Ilić and Balkanika,Nova deca (Нова деца)
-Slovenia,Lea Sirk,"Hvala, ne!"
-Spain,Amaia and Alfred,Tu canción
-Sweden,Benjamin Ingrosso,Dance You Off
-Switzerland,Zibbz,Stones
-Ukraine,Mélovin,Under the Ladder
-United Kingdom,SuRie,Storm
+"ID","Country","Artist","Song","CountryID","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff"
+1,"Albania","Eugent Bushpepa","Mall",39,12,11,7,18,11,184,126,58,68
+2,"Armenia","Sevak Khanagyan","Qami (Քամի)",45,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3,"Australia","Jessica Mauboy","We Got Love",52,16,12,11,10,1,181,90,91,1
+4,"Austria","Cesár Sampson","Nobody but You",8,5,3,1,13,12,342,271,71,200
+5,"Azerbaijan","Aisel","X My Heart",50,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+6,"Belarus","Alekseev","Forever",41,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7,"Belgium","Sennek","A Matter of Time",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+8,"Bulgaria","Equinox","Bones",43,18,14,9,14,5,166,100,66,34
+9,"Croatia","Franka","Crazy",27,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+10,"Cyprus","Eleni Foureira","Fuego",24,25,2,5,2,3,436,183,253,70
+11,"Czechia","Mikolas Josef","Lie to Me",46,14,6,14,4,10,281,66,215,149
+12,"Denmark","Rasmussen","Higher Ground",9,15,19,19,12,7,113,38,75,37
+13,"Estonia","Elina Nechayeva","La forza",29,6,8,6,9,3,245,143,102,41
+14,"Finland","Saara Aalto","Monsters",14,17,25,21,21,0,46,23,23,0
+15,"France","Madame Monsieur","Mercy",2,13,13,8,17,9,173,114,59,55
+16,"Georgia","Ethno-Jazz Band Iriao","For You",47,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+17,"Germany","Michael Schulte","You Let Me Walk Alone",3,11,4,4,6,2,340,204,136,68
+18,"Greece","Yianna Terzi","Oniro mou (Όνειρό μου)",21,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+19,"Hungary","AWS","Viszlát nyár",30,21,21,20,15,5,93,28,65,37
+20,"Iceland","Ari Ólafsson","Our Choice",25,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+21,"Ireland","Ryan O'Shaughnessy","Together",18,24,16,13,16,3,136,74,62,12
+22,"Israel","Netta","Toy",20,22,1,3,1,2,529,212,317,105
+23,"Italy","Ermal Meta and Fabrizio Moro","Non mi avete fatto niente",4,26,5,16,3,13,308,59,249,190
+24,"Latvia","Laura Rizzotto","Funny Girl",37,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+25,"Lithuania","Ieva Zasimauskaitė","When We're Old",31,4,20,11,24,13,99,90,9,81
+26,"Macedonia","Eye Cue","Lost and Found",36,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+27,"Malta","Christabelle","Taboo",19,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+28,"Moldova","DoReDoS","My Lucky Day",44,19,10,10,8,2,209,94,115,21
+29,"Montenegro","Vanja Radovanović","Inje (Иње)",48,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+30,"Netherlands","Waylon","Outlaw in 'Em",6,23,18,12,19,7,121,89,32,57
+31,"Norway","Alexander Rybak","That's How You Write a Song",13,7,15,15,11,4,144,60,84,24
+32,"Poland","Gromee feat. Lukas Meijer","Light Me Up",32,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+33,"Portugal","Cláudia Pascoal","O jardim",17,8,26,22,23,1,39,21,18,3
+34,"Romania","The Humans","Goodbye",33,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+35,"Russia","Julia Samoylova","I Won't Break",34,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+36,"San Marino","Jessika feat. Jenifer Brening","Who We Are",51,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+37,"Serbia","Sanja Ilić and Balkanika","Nova deca (Нова деца)",49,10,9,19,5,14,226,38,188,150
+38,"Slovenia","Lea Sirk","Hvala, ne!",28,3,22,18,21,3,64,41,23,18
+39,"Spain","Amaia and Alfred","Tu canción",15,2,23,17,23,6,61,43,18,25
+40,"Sweden","Benjamin Ingrosso","Dance You Off",11,20,7,2,22,20,274,253,21,232
+41,"Switzerland","Zibbz","Stones",7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+42,"Ukraine","Mélovin","Under the Ladder",38,1,17,23,7,16,130,11,119,108
+43,"United Kingdom","SuRie","Storm",10,9,24,21,20,1,48,23,25,2

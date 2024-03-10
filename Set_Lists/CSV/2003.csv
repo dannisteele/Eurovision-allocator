@@ -1,26 +1,27 @@
-Austria,Alf Poier,"Weil der Mensch zählt"
-Belgium,Urban Trad,"Sanomi"
-Bosnia and Herzegovina,Mija Martina,"Ne brini"
-Croatia,Claudia Beni,"Više nisam tvoja"
-Cyprus,Stelios Constantas,"Feeling Alive"
-Estonia,Ruffus,"Eighties Coming Back"
-France,Louisa Baïleche,"Monts et merveilles"
-Germany,Lou,"Let's Get Happy"
-Greece,Mando,"Never Let You Go"
-Iceland,Birgitta,"Open Your Heart"
-Ireland,Mickey Harte,"We've Got the World"
-Israel,Lior Narkis,"Words for Love"
-Latvia,F.L.Y.,"Hello from Mars"
-Malta,Lynn Chircop,"To Dream Again"
-Netherlands,Esther Hart,"One More Night"
-Norway,Jostein Hasselgård,"I'm Not Afraid to Move On"
-Poland,Ich Troje,"Keine Grenzen – Żadnych granic"
-Portugal,Rita Guerra,"Deixa-me sonhar"
-Romania,Nicola,"Don't Break My Heart"
-Russia,t.A.T.u.,"Ne ver', ne boysia"
-Slovenia,Karmen,"Nanana"
-Spain,Beth,"Dime"
-Sweden,Fame,"Give Me Your Love"
-Turkey,Sertab Erener,"Everyway That I Can"
-Ukraine,Olexandr,"Hasta la vista"
-United Kingdom,Jemini,"Cry Baby"
+"ID","Country","Artist","Song","CountryID","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff"
+1,"Austria","Alf Poier","Weil der Mensch zählt",8,2,6,11,6,5,101,5,96,91
+2,"Belgium","Urban Trad","Sanomi",1,22,2,1,3,2,165,23,142,119
+3,"Bosnia and Herzegovina","Mija Martina","Ne brini",26,6,14,16,14,2,27,0,27,27
+4,"Croatia","Claudia Beni","Više nisam tvoja",27,8,13,5,17,12,29,12,17,5
+5,"Cyprus","Stelios Constantas","Feeling Alive",24,9,18,16,18,2,15,0,15,15
+6,"Estonia","Ruffus","Eighties Coming Back",29,23,19,7,22,15,14,10,4,6
+7,"France","Louisa Baïleche","Monts et merveilles",2,19,16,8,20,12,19,8,11,3
+8,"Germany","Lou","Let's Get Happy",3,10,10,6,12,6,53,11,42,31
+9,"Greece","Mando","Never Let You Go",21,17,15,14,15,1,25,2,23,21
+10,"Iceland","Birgitta","Open Your Heart",25,1,8,9,9,0,81,7,74,67
+11,"Ireland","Mickey Harte","We've Got the World",18,3,10,16,11,5,53,0,53,53
+12,"Israel","Lior Narkis","Words for Love",20,13,17,11,19,8,17,5,12,7
+13,"Latvia","F.L.Y.","Hello from Mars",37,21,22,16,21,5,5,0,5,5
+14,"Malta","Lynn Chircop","To Dream Again",19,5,23,13,24,11,4,3,1,2
+15,"Netherlands","Esther Hart","One More Night",6,14,11,3,13,10,45,17,28,11
+16,"Norway","Jostein Hasselgård","I'm Not Afraid to Move On",13,18,4,4,4,0,123,16,107,91
+17,"Poland","Ich Troje","Keine Grenzen – Żadnych granic",32,20,7,16,7,9,90,0,90,90
+18,"Portugal","Rita Guerra","Deixa-me sonhar",17,7,20,14,20,6,13,2,11,9
+19,"Romania","Nicola","Don't Break My Heart",33,24,9,2,10,8,73,19,54,35
+20,"Russia","t.A.T.u.","Ne ver', ne boysia",34,11,3,13,1,12,164,3,161,158
+21,"Slovenia","Karmen","Nanana",28,26,21,12,23,11,7,4,3,1
+22,"Spain","Beth","Dime",15,12,8,10,8,2,81,6,75,69
+23,"Sweden","Fame","Give Me Your Love",11,25,5,15,5,10,107,1,106,105
+24,"Turkey","Sertab Erener","Everyway That I Can",22,4,1,5,2,3,167,12,155,143
+25,"Ukraine","Olexandr","Hasta la vista",38,16,12,8,16,8,30,8,22,14
+26,"United Kingdom","Jemini","Cry Baby",10,15,24,16,25,9,0,0,0,0
