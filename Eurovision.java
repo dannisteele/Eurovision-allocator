@@ -46,91 +46,12 @@ public class Eurovision implements Serializable {
 
     /**
      * The main method which utilises the rest of the methods.
+     * @throws InterruptedException 
+     * @throws IOException 
+     * @throws ClassNotFoundException 
      */
-    public static void main(String[] args) throws IOException, ClassNotFoundException, InterruptedException {
-        System.out.println("Welcome to the Eurovision allocator!");
-        Thread.sleep(3000);
-        Scanner scan = new Scanner(System.in);
-        int players = -1;
-        while (players <= 0) {
-            System.out.println();
-            System.out.println("How many players?");
-
-            try {
-                players = scan.nextInt();
-
-                if (players <= 0) {
-                    System.out.println();
-                    System.out.println("Number of players must be greater than 0. Try again.");
-                }
-            } catch (Exception e) {
-                System.out.println();
-                System.out.println("Number must be a whole integer. Try again.");
-                // Clear the buffer
-                scan.nextLine();
-                players = -1;
-            }
-        }
-        String[] playerNames = new String[players];
-        for (int i = 0; i < players; i++) {
-            System.out.println();
-            System.out.println("What is the name of PLAYER " + (i + 1));
-            playerNames[i] = scan.next();
-        }
-        Eurovision euro = new Eurovision(players);
-        euro.addCountriesFromCSV(false);
-        String ans = "";
-        System.out.println();
-        System.out.println("Available years:\n" + euro.getAvailableYears());
-        while (!ans.equals("Y") && !ans.equals("N")) {
-            System.out.println();
-            System.out.println("Is the set list one of the above? Y/N");
-            ans = scan.next().toUpperCase();
-        }
-        if (ans.equals("Y")) {
-            System.out.println();
-            System.out.println("What year is the set list?");
-            String year = scan.next().toUpperCase();
-
-            euro.loadSetList(year);
-        } else {
-            ans = "";
-            String fileName = "";
-            while (!ans.equals("Y") && !ans.equals("N")) {
-                System.out.println();
-                System.out.println("Load from CSV? Y/N");
-                ans = scan.next().toUpperCase();
-            }
-            if (ans.equals("Y")) {
-                fileName = euro.addCountriesFromCSV(true);
-            } else {
-                euro.addCountryConsole();
-            }
-            ans = "";
-            while (!ans.equals("Y") && !ans.equals("N")) {
-                System.out.println();
-                System.out.println("Save the current set list? Y/N");
-                ans = scan.next().toUpperCase();
-            }
-            if (ans.equals("Y")) {
-                if (!fileName.isEmpty()) {
-                    euro.saveSetList(fileName);
-                } else {
-                    System.out.println();
-                    System.out.println("What year is this set list for?");
-                    String year = scan.next().toUpperCase();
-                    euro.saveSetList(year);
-                }
-            }
-        }
-        System.out.println();
-        if (players > 0) {
-            System.out.println("Now allocating countries to each player...");
-            Thread.sleep(1000);
-            euro.allocateCountries(playerNames);
-            scan.close();
-        }
-        euro.cleanOutFiles("Set_Lists/");
+    public static void main(String[] args) throws ClassNotFoundException, IOException, InterruptedException {
+        runEurovision();
     }
 
     /**
@@ -315,9 +236,8 @@ public class Eurovision implements Serializable {
             setList = loadedList;
             ois.close();
         } catch (IOException e) {
-            System.out.println("Problem finding file. Starting again.");
+            System.out.println("Problem finding file. Please restart.");
             Thread.sleep(3000);
-            main(null);
         }
     }
 
@@ -465,5 +385,90 @@ public class Eurovision implements Serializable {
         } catch (IOException e) {
             System.err.println("Error reading directory: " + e.getMessage());
         }
+    }
+    public static void runEurovision() throws IOException, ClassNotFoundException, InterruptedException {
+        System.out.println("Welcome to the Eurovision allocator!");
+        Thread.sleep(3000);
+        Scanner scan = new Scanner(System.in);
+        int players = -1;
+        while (players <= 0) {
+            System.out.println();
+            System.out.println("How many players?");
+
+            try {
+                players = scan.nextInt();
+
+                if (players <= 0) {
+                    System.out.println();
+                    System.out.println("Number of players must be greater than 0. Try again.");
+                }
+            } catch (Exception e) {
+                System.out.println();
+                System.out.println("Number must be a whole integer. Try again.");
+                // Clear the buffer
+                scan.nextLine();
+                players = -1;
+            }
+        }
+        String[] playerNames = new String[players];
+        for (int i = 0; i < players; i++) {
+            System.out.println();
+            System.out.println("What is the name of PLAYER " + (i + 1));
+            playerNames[i] = scan.next();
+        }
+        Eurovision euro = new Eurovision(players);
+        euro.addCountriesFromCSV(false);
+        String ans = "";
+        System.out.println();
+        System.out.println("Available years:\n" + euro.getAvailableYears());
+        while (!ans.equals("Y") && !ans.equals("N")) {
+            System.out.println();
+            System.out.println("Is the set list one of the above? Y/N");
+            ans = scan.next().toUpperCase();
+        }
+        if (ans.equals("Y")) {
+            System.out.println();
+            System.out.println("What year is the set list?");
+            String year = scan.next().toUpperCase();
+
+            euro.loadSetList(year);
+        } else {
+            ans = "";
+            String fileName = "";
+            while (!ans.equals("Y") && !ans.equals("N")) {
+                System.out.println();
+                System.out.println("Load from CSV? Y/N");
+                ans = scan.next().toUpperCase();
+            }
+            if (ans.equals("Y")) {
+                fileName = euro.addCountriesFromCSV(true);
+            } else {
+                euro.addCountryConsole();
+            }
+            ans = "";
+            while (!ans.equals("Y") && !ans.equals("N")) {
+                System.out.println();
+                System.out.println("Save the current set list? Y/N");
+                ans = scan.next().toUpperCase();
+            }
+            if (ans.equals("Y")) {
+                if (!fileName.isEmpty()) {
+                    euro.saveSetList(fileName);
+                } else {
+                    System.out.println();
+                    System.out.println("What year is this set list for?");
+                    String year = scan.next().toUpperCase();
+                    euro.saveSetList(year);
+                }
+            }
+        }
+        System.out.println();
+        if (players > 0) {
+            System.out.println("Now allocating countries to each player...");
+            Thread.sleep(1000);
+            euro.allocateCountries(playerNames);
+            scan.close();
+        }
+        euro.cleanOutFiles("Set_Lists/");
     }
 }
