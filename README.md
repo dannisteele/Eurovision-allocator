@@ -1,4 +1,8 @@
 # Eurovision-allocator
+## NEWS!
+I've made a much more user friendly version which uses a web interface. It is available here: https://dannisteele.github.io. It still uses the data from here, but this area won't really be necessary any more since the web app. I'll still keep everything here though.
+
+### Before the news...
 Allocates out all Eurovision entries for a group of people to "support" while watching the show.
 
 Running the Eurovision.java through terminal should (hopefully!) be fairly straightforward. Scroll to the bottom for a guide to doing this if needed.
