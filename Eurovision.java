@@ -46,9 +46,12 @@ public class Eurovision implements Serializable {
 
     /**
      * The main method which utilises the rest of the methods.
+     * @throws InterruptedException 
+     * @throws IOException 
+     * @throws ClassNotFoundException 
      */
-    public static void main(String[] args) {
-        runEurovision()
+    public static void main(String[] args) throws ClassNotFoundException, IOException, InterruptedException {
+        runEurovision();
     }
 
     /**
@@ -383,7 +386,7 @@ public class Eurovision implements Serializable {
             System.err.println("Error reading directory: " + e.getMessage());
         }
     }
-    public void runEurovision() throws IOException, ClassNotFoundException, InterruptedException {
+    public static void runEurovision() throws IOException, ClassNotFoundException, InterruptedException {
         System.out.println("Welcome to the Eurovision allocator!");
         Thread.sleep(3000);
         Scanner scan = new Scanner(System.in);
