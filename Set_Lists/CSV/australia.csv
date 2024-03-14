@@ -1,0 +1,11 @@
+"SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
+"2015","Guy Sebastian","Tonight Again",12,5,4,6,2,356,224,132,92,NULL,NULL
+"2016","Dami Im","Sound of Silence",13,2,1,4,3,511,320,191,129,NULL,NULL
+"2017","Isaiah","Don't Come Easy",14,9,4,23,19,173,171,2,169,NULL,NULL
+"2018","Jessica Mauboy","We Got Love",16,12,11,10,1,181,90,91,1,NULL,NULL
+"2019","Kate Miller-Heidke","Zero Gravity",25,9,6,7,1,284,153,131,22,NULL,NULL
+"2020","Montaigne","Don't Break Me",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Montaigne","Technicolour",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2022","Sheldon Riley","Not the Same",21,15,8,23,15,125,123,2,121,NULL,NULL
+"2023","Voyager","Promise",15,9,6,20,14,151,130,21,109,NULL,NULL
+"2024","Electric Fields","One Milkali (One Blood)",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL

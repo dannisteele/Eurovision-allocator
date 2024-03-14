@@ -1,11 +1,11 @@
-"ID","Country","Artist","Song","CountryID","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff"
-1,"Austria","Bob Martin","Wohin, kleines Pony?",8,5,8,8,NULL,NULL,3,3,NULL,NULL
-2,"Belgium","Bobbejaan Schoepen","Straatdeuntje",1,1,7,7,NULL,NULL,5,5,NULL,NULL
-3,"Denmark","Birthe Wilke and Gustav Winckler","Skibet skal sejle i nat",9,9,3,3,NULL,NULL,10,10,NULL,NULL
-4,"France","Paule Desjardins","La Belle amour",2,8,2,2,NULL,NULL,17,17,NULL,NULL
-5,"Germany","Margot Hielscher","Telefon, Telefon",3,7,4,4,NULL,NULL,8,8,NULL,NULL
-6,"Italy","Nunzio Gallo","Corde della mia chitarra",4,4,5,5,NULL,NULL,7,7,NULL,NULL
-7,"Luxembourg","Danièle Dupré","Tant de peine",5,2,4,4,NULL,NULL,8,8,NULL,NULL
-8,"Netherlands","Corry Brokken","Net als toen",6,6,1,1,NULL,NULL,31,31,NULL,NULL
-9,"Switzerland","Lys Assia","L'Enfant que j'étais",7,10,7,7,NULL,NULL,5,5,NULL,NULL
-10,"United Kingdom","Patricia Bredin","All",10,3,6,6,NULL,NULL,6,6,NULL,NULL
+"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
+1,"Austria","Bob Martin","Wohin, kleines Pony?",8,5,8,8,NULL,NULL,3,3,NULL,NULL,NULL,NULL
+2,"Belgium","Bobbejaan Schoepen","Straatdeuntje",1,1,7,7,NULL,NULL,5,5,NULL,NULL,NULL,NULL
+3,"Denmark","Birthe Wilke and Gustav Winckler","Skibet skal sejle i nat",9,9,3,3,NULL,NULL,10,10,NULL,NULL,NULL,NULL
+4,"France","Paule Desjardins","La Belle amour",2,8,2,2,NULL,NULL,17,17,NULL,NULL,NULL,NULL
+5,"Germany","Margot Hielscher","Telefon, Telefon",3,7,4,4,NULL,NULL,8,8,NULL,NULL,NULL,NULL
+6,"Italy","Nunzio Gallo","Corde della mia chitarra",4,4,5,5,NULL,NULL,7,7,NULL,NULL,NULL,NULL
+7,"Luxembourg","Danièle Dupré","Tant de peine",5,2,4,4,NULL,NULL,8,8,NULL,NULL,NULL,NULL
+8,"Netherlands","Corry Brokken","Net als toen",6,6,1,1,NULL,NULL,31,31,NULL,NULL,NULL,NULL
+9,"Switzerland","Lys Assia","L'Enfant que j'étais",7,10,7,7,NULL,NULL,5,5,NULL,NULL,NULL,NULL
+10,"United Kingdom","Patricia Bredin","All",10,3,6,6,NULL,NULL,6,6,NULL,NULL,NULL,NULL

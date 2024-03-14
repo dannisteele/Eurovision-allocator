@@ -1,0 +1,54 @@
+"SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
+"1957","Birthe Wilke and Gustav Winckler","Skibet skal sejle i nat",9,3,3,NULL,NULL,10,10,NULL,NULL,NULL,NULL
+"1958","Raquel Rastenni","Jeg rev et blad ud af min dagbog",6,7,7,NULL,NULL,3,3,NULL,NULL,NULL,NULL
+"1959","Birthe Wilke","Uh, jeg ville ønske, jeg var dig",2,5,5,NULL,NULL,12,12,NULL,NULL,NULL,NULL
+"1960","Katy Bødtger","Det var en yndig tid",4,8,8,NULL,NULL,4,4,NULL,NULL,NULL,NULL
+"1961","Dario Campeotto","Angelique",13,5,5,NULL,NULL,12,12,NULL,NULL,NULL,NULL
+"1962","Ellen Winther","Vuggevise",5,8,8,NULL,NULL,2,2,NULL,NULL,NULL,NULL
+"1963","Grethe and Jørgen Ingmann","Dansevise",8,1,1,NULL,NULL,42,42,NULL,NULL,NULL,NULL
+"1964","Bjørn Tidmand","Sangen om dig",4,8,8,NULL,NULL,4,4,NULL,NULL,NULL,NULL
+"1965","Birgit Brüel","For din skyld",14,7,7,NULL,NULL,10,10,NULL,NULL,NULL,NULL
+"1966","Ulla Pia","Stop – mens legen er go'",2,10,10,NULL,NULL,4,4,NULL,NULL,NULL,NULL
+"1978","Mabel","Boom Boom",16,15,15,NULL,NULL,13,13,NULL,NULL,NULL,NULL
+"1979","Tommy Seebach","Disco Tango",3,6,6,NULL,NULL,76,76,NULL,NULL,NULL,NULL
+"1980","Bamses Venner","Tænker altid på dig",7,14,14,NULL,NULL,25,25,NULL,NULL,NULL,NULL
+"1981","Tommy Seebach and Debbie Cameron","Krøller eller ej",6,11,11,NULL,NULL,41,41,NULL,NULL,NULL,NULL
+"1982","Brixx","Video-Video",13,17,17,NULL,NULL,5,5,NULL,NULL,NULL,NULL
+"1983","Gry Johansen","Kloden drejer",15,15,15,NULL,NULL,16,16,NULL,NULL,NULL,NULL
+"1984","Hot Eyes","Det' lige det",10,4,4,NULL,NULL,101,101,NULL,NULL,NULL,NULL
+"1985","Hot Eyes","Sku' du spørg' fra no'en",4,11,11,NULL,NULL,41,41,NULL,NULL,NULL,NULL
+"1986","Lise Haavik","Du er fuld af løgn",18,6,6,NULL,NULL,77,77,NULL,NULL,NULL,NULL
+"1987","Bandjo with Anne-Cathrine Herdorf","En lille melodi",19,5,5,NULL,NULL,83,83,NULL,NULL,NULL,NULL
+"1988","Hot Eyes","Ka' du se hva' jeg sa'",13,3,3,NULL,NULL,92,92,NULL,NULL,NULL,NULL
+"1989","Birthe Kjær","Vi maler byen rød",12,3,3,NULL,NULL,111,111,NULL,NULL,NULL,NULL
+"1990","Lonnie Devantier","Hallo Hallo",11,7,7,NULL,NULL,64,64,NULL,NULL,NULL,NULL
+"1991","Anders Frandsen","Lige der hvor hjertet slår",13,17,17,NULL,NULL,8,8,NULL,NULL,NULL,NULL
+"1992","Lotte Nilsson and Kenny Lübcke","Alt det som ingen ser",18,12,12,NULL,NULL,47,47,NULL,NULL,NULL,NULL
+"1993","Seebach Band","Under stjernerne på himlen",5,22,22,NULL,NULL,9,9,NULL,NULL,NULL,NULL
+"1995","Aud Wilken","Fra Mols til Skagen",19,5,5,NULL,NULL,92,92,NULL,NULL,NULL,NULL
+"1997","Kølig Kaj[a]","Stemmen i mit liv",21,15,16,9,7,25,15,10,5,NULL,NULL
+"1999","Trine Jepsen and Michael Teschl","This Time I Mean It",9,8,9,9,0,71,7,64,57,NULL,NULL
+"2000","Olsen Brothers","Fly on the Wings of Love",14,1,1,1,0,195,36,159,123,NULL,NULL
+"2001","Rollo and King","Never Ever Let You Go",23,2,7,2,5,177,16,161,145,NULL,NULL
+"2002","Malene","Tell Me Who You Are",14,21,19,21,2,7,2,5,3,NULL,NULL
+"2004","Tomas Thordarson","Shame on You",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2005","Jakob Sveistrup","Talking to You",13,9,4,8,4,119,13,106,93,NULL,NULL
+"2006","Sidsel Ben Semmane","Twist of Love",9,15,12,15,3,26,0,26,26,NULL,NULL
+"2007","DQ","Drama Queen",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2008","Simon Mathew","All Night Long",16,14,9,13,4,60,2,58,56,NULL,NULL
+"2009","Brinck","Believe Again",16,12,6,19,13,160,120,40,80,NULL,NULL
+"2010","Chanée and N'evergreen","In a Moment like This",25,4,7,3,4,295,121,174,53,NULL,NULL
+"2011","A Friend in London","New Tomorrow",3,7,3,17,14,229,168,61,107,NULL,NULL
+"2012","Soluna Samay","Should've Known Better",15,22,18,22,4,69,51,18,33,NULL,NULL
+"2013","Emmelie de Forest","Only Teardrops",18,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2014","Basim","Cliche Love Song",23,14,10,13,3,128,85,43,42,NULL,NULL
+"2015","Anti Social Media","The Way You Are",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2016","Lighthouse X","Soldiers of Love",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2017","Anja","Where I Am",10,19,13,20,7,77,69,8,61,NULL,NULL
+"2018","Rasmussen","Higher Ground",15,19,19,12,7,113,38,75,37,NULL,NULL
+"2019","Leonora","Love Is Forever",6,12,12,15,3,120,69,51,18,NULL,NULL
+"2020","Ben and Tan","Yes",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Fyr og Flamme","Øve os på hinanden",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2022","Reddi","The Show",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2023","Reiley","Breaking My Heart",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2024","Saba","Sand",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL

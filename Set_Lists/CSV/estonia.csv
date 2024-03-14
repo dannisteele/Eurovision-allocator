@@ -1,0 +1,31 @@
+"SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
+"1994","Silvi Vrait","Nagu merelaine",10,23,23,NULL,NULL,2,2,NULL,NULL,NULL,NULL
+"1996","Maarja-Liis Ilus and Ivo Linna","Kaelakee hääl",11,5,5,NULL,NULL,94,94,NULL,NULL,NULL,NULL
+"1997","Maarja","Keelatud maa",13,8,9,4,5,82,58,24,34,NULL,NULL
+"1998","Koit Toome","Mere lapsed",23,12,11,11,0,36,4,32,28,NULL,NULL
+"1999","Evelin Samuel and Camille","Diamond of Night",23,6,7,7,0,90,12,78,66,NULL,NULL
+"2000","Ines","Once in a Lifetime",4,4,3,6,3,98,25,73,48,NULL,NULL
+"2001","Tanel Padar, Dave Benton and 2XL","Everybody",20,1,1,1,0,198,35,163,128,NULL,NULL
+"2002","Sahlene","Runaway",8,3,4,5,1,111,44,67,23,NULL,NULL
+"2003","Ruffus","Eighties Coming Back",23,19,7,22,15,14,10,4,6,NULL,NULL
+"2004","Neiokõsõ","Tii",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2005","Suntribe","Let's Get Loud",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2006","Sandra","Through My Window",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2007","Gerli Padar","Partners in Crime",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2008","Kreisiraadio","Leto svet",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2009","Urban Symphony","Rändajad",15,6,5,6,1,253,124,129,5,NULL,NULL
+"2010","Malcolm Lincoln","Siren",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2011","Getter Jaani","Rockefeller Street",8,23,17,22,5,106,74,32,42,NULL,NULL
+"2012","Ott Lepland","Kuula",11,6,5,11,6,230,152,78,74,NULL,NULL
+"2013","Birgit","Et uus saaks alguse",7,19,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2014","Tanja","Amazing",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2015","Elina Born and Stig Rästa","Goodbye to Yesterday",4,8,11,5,6,200,56,144,88,NULL,NULL
+"2016","Jüri Pootsmann","Play",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2017","Koit Toome and Laura","Verona",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2018","Elina Nechayeva","La forza",6,8,6,9,3,245,143,102,41,NULL,NULL
+"2019","Victor Crone","Storm",18,19,19,16,3,76,28,48,20,NULL,NULL
+"2020","Uku Suviste","What Love Is",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Uku Suviste","The Lucky One",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2022","Stefan","Hope",25,13,14,10,4,141,43,98,55,NULL,NULL
+"2023","Alika","Bridges",12,8,5,19,14,168,146,22,124,NULL,NULL
+"2024","5miinust and Puuluup","(Nendest) narkootikumidest ei tea me (küll) midagi",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL

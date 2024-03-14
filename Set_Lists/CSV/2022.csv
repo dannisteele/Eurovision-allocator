@@ -1,41 +1,41 @@
-"ID","Country","Artist","Song","CountryID","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff"
-1,"Albania","Ronela Hajati","Sekret",39,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-2,"Armenia","Rosa Linn","Snap",45,8,20,15,17,2,61,40,21,19
-3,"Australia","Sheldon Riley","Not the Same",52,21,15,8,23,15,125,123,2,121
-4,"Austria","Lumix feat. Pia Maria","Halo",8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-5,"Azerbaijan","Nadir Rustamli","Fade to Black",50,15,16,9,22,13,106,103,3,100
-6,"Belgium","Jérémie Makiese","Miss You",1,16,19,12,21,9,64,59,5,54
-7,"Bulgaria","Intelligent Music Project","Intention",43,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-8,"Croatia","Mia Dimšić","Guilty Pleasure",27,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-9,"Cyprus","Andromache","Ela (Έλα)",24,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-10,"Czechia","We Are Domi","Lights Off",46,1,21,18,21,3,38,33,5,28
-11,"Denmark","Reddi","The Show",9,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-12,"Estonia","Stefan","Hope",29,25,13,14,10,4,141,43,98,55
-13,"Finland","The Rasmus","Jezebel",14,4,18,20,13,7,65,12,53,41
-14,"France","Alvan and Ahez","Fulenn",2,6,23,22,19,3,17,9,8,1
-15,"Georgia","Circus Mircus","Lock Me In",47,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-16,"Germany","Malik Harris","Rockstars",3,13,24,23,20,3,6,0,6,6
-17,"Greece","Amanda Georgiadi Tenfjord","Die Together",21,17,8,6,12,6,215,158,57,101
-18,"Iceland","Systur","Með hækkandi sól",25,18,22,21,18,3,20,10,10,0
-19,"Ireland","Brooke","That's Rich",18,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-20,"Israel","Michael Ben David","I.M",20,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-21,"Italy","Mahmood and Blanco","Brividi",4,9,6,6,8,2,268,158,110,48
-22,"Latvia","Citi Zēni","Eat Your Salad",37,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-23,"Lithuania","Monika Liu","Sentimentai",31,14,14,17,11,6,128,35,93,58
-24,"Malta","Emma Muscat","I Am What I Am",19,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-25,"Moldova","Zdob și Zdub and Advahov Brothers","Trenulețul",44,19,7,19,2,17,253,14,239,225
-26,"Montenegro","Vladana","Breathe",48,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-27,"Netherlands","S10","De diepte",6,11,11,7,14,7,171,129,42,87
-28,"North Macedonia","Andrea","Circles",36,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-29,"Norway","Subwoolfer","Give That Wolf a Banana",13,7,10,16,7,9,182,36,146,110
-30,"Poland","Ochman","River",32,23,12,13,9,4,151,46,105,59
-31,"Portugal","Maro","Saudade, saudade",17,3,9,5,15,10,207,171,36,135
-32,"Romania","Wrs","Llámame",33,2,21,20,16,4,38,12,26,14
-33,"San Marino","Achille Lauro","Stripper",51,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-34,"Serbia","Konstrakta","In corpore sano",49,24,5,10,4,6,312,87,225,138
-35,"Slovenia","LPS","Disko",28,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-36,"Spain","Chanel","SloMo",15,10,3,3,3,0,459,231,228,3
-37,"Sweden","Cornelia Jakobs","Hold Me Closer",11,20,4,2,6,4,438,258,180,78
-38,"Switzerland","Marius Bear","Boys Do Cry",7,5,17,11,24,13,78,78,0,78
-39,"Ukraine","Kalush Orchestra","Stefania (Стефанія)",38,12,1,4,1,3,631,192,439,247
-40,"United Kingdom","Sam Ryder","Space Man",10,22,2,1,5,4,466,283,183,100
+"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
+1,"Albania","Ronela Hajati","Sekret",39,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2,"Armenia","Rosa Linn","Snap",45,8,20,15,17,2,61,40,21,19,NULL,NULL
+3,"Australia","Sheldon Riley","Not the Same",52,21,15,8,23,15,125,123,2,121,NULL,NULL
+4,"Austria","Lumix feat. Pia Maria","Halo",8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+5,"Azerbaijan","Nadir Rustamli","Fade to Black",50,15,16,9,22,13,106,103,3,100,NULL,NULL
+6,"Belgium","Jérémie Makiese","Miss You",1,16,19,12,21,9,64,59,5,54,NULL,NULL
+7,"Bulgaria","Intelligent Music Project","Intention",43,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+8,"Croatia","Mia Dimšić","Guilty Pleasure",27,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+9,"Cyprus","Andromache","Ela (Έλα)",24,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+10,"Czechia","We Are Domi","Lights Off",46,1,21,18,21,3,38,33,5,28,NULL,NULL
+11,"Denmark","Reddi","The Show",9,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+12,"Estonia","Stefan","Hope",29,25,13,14,10,4,141,43,98,55,NULL,NULL
+13,"Finland","The Rasmus","Jezebel",14,4,18,20,13,7,65,12,53,41,NULL,NULL
+14,"France","Alvan and Ahez","Fulenn",2,6,23,22,19,3,17,9,8,1,NULL,NULL
+15,"Georgia","Circus Mircus","Lock Me In",47,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+16,"Germany","Malik Harris","Rockstars",3,13,24,23,20,3,6,0,6,6,NULL,NULL
+17,"Greece","Amanda Georgiadi Tenfjord","Die Together",21,17,8,6,12,6,215,158,57,101,NULL,NULL
+18,"Iceland","Systur","Með hækkandi sól",25,18,22,21,18,3,20,10,10,0,NULL,NULL
+19,"Ireland","Brooke","That's Rich",18,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+20,"Israel","Michael Ben David","I.M",20,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+21,"Italy","Mahmood and Blanco","Brividi",4,9,6,6,8,2,268,158,110,48,NULL,NULL
+22,"Latvia","Citi Zēni","Eat Your Salad",37,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+23,"Lithuania","Monika Liu","Sentimentai",31,14,14,17,11,6,128,35,93,58,NULL,NULL
+24,"Malta","Emma Muscat","I Am What I Am",19,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+25,"Moldova","Zdob și Zdub and Advahov Brothers","Trenulețul",44,19,7,19,2,17,253,14,239,225,NULL,NULL
+26,"Montenegro","Vladana","Breathe",48,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+27,"Netherlands","S10","De diepte",6,11,11,7,14,7,171,129,42,87,NULL,NULL
+28,"North Macedonia","Andrea","Circles",36,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+29,"Norway","Subwoolfer","Give That Wolf a Banana",13,7,10,16,7,9,182,36,146,110,NULL,NULL
+30,"Poland","Ochman","River",32,23,12,13,9,4,151,46,105,59,NULL,NULL
+31,"Portugal","Maro","Saudade, saudade",17,3,9,5,15,10,207,171,36,135,NULL,NULL
+32,"Romania","Wrs","Llámame",33,2,21,20,16,4,38,12,26,14,NULL,NULL
+33,"San Marino","Achille Lauro","Stripper",51,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+34,"Serbia","Konstrakta","In corpore sano",49,24,5,10,4,6,312,87,225,138,NULL,NULL
+35,"Slovenia","LPS","Disko",28,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+36,"Spain","Chanel","SloMo",15,10,3,3,3,0,459,231,228,3,NULL,NULL
+37,"Sweden","Cornelia Jakobs","Hold Me Closer",11,20,4,2,6,4,438,258,180,78,NULL,NULL
+38,"Switzerland","Marius Bear","Boys Do Cry",7,5,17,11,24,13,78,78,0,78,NULL,NULL
+39,"Ukraine","Kalush Orchestra","Stefania (Стефанія)",38,12,1,4,1,3,631,192,439,247,NULL,NULL
+40,"United Kingdom","Sam Ryder","Space Man",10,22,2,1,5,4,466,283,183,100,NULL,NULL

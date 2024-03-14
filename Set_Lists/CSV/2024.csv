@@ -1,38 +1,38 @@
-"ID","Country","Artist","Song","CountryID","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff"
-1,"Albania","Besa","Zemrën n'dorë",39,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-2,"Armenia","Ladaniva","Jako",45,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-3,"Australia","Electric Fields","One Milkali (One Blood)",52,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-4,"Austria","Kaleen","We Will Rave",8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-5,"Azerbaijan","Fahree & Ilkin Dovletov","TBC",50,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-6,"Belgium","Mustii","Before the Party's Over",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-7,"Croatia","Baby Lasagna","Rim Tim Tagi Dim",27,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-8,"Cyprus","Silia Kapsis","Liar",24,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-9,"Czechia","Aiko","Pedestal",46,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-10,"Denmark","Saba","Sand",9,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-11,"Estonia","5miinust and Puuluup","(Nendest) narkootikumidest ei tea me (küll) midagi",29,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-12,"Finland","Windows95man","No Rules!",14,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-13,"France","Slimane","Mon amour",2,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-14,"Georgia","Nutsa Buzaladze","Firefighter",47,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-15,"Germany","Isaak","Always on the Run",3,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-16,"Greece","Marina Satti","Zari (Ζάρι)",21,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-17,"Iceland","Hera Björk","Scared Of Heights",25,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-18,"Ireland","Bambie Thug","Doomsday Blue",18,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-19,"Israel","Eden Golan","Hurricane",20,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-20,"Italy","Angelina Mango","La noia",4,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-21,"Latvia","Dons","Hollow",37,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-22,"Lithuania","Silvester Belt","Luktelk",31,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-23,"Luxembourg","Tali","Fighter",5,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-24,"Malta","Sarah Bonnici","Loop",19,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-25,"Moldova","Natalia Barbu","In the Middle",44,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-26,"Netherlands","Joost Klein","Europapa",6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-27,"Norway","Gåte","Ulveham",13,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-28,"Poland","Luna","The Tower",32,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-29,"Portugal","Iolanda","Grito",17,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-30,"San Marino","Megara","11:11",51,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-31,"Serbia","Teya Dora","Ramonda (Рамонда)",49,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-32,"Slovenia","Raiven","Veronika",28,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-33,"Spain","Nebulossa","Zorra",15,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-34,"Sweden","Marcus & Martinus","Unforgettable",11,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-35,"Switzerland","Nemo","The Code",7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-36,"Ukraine","Alyona Alyona and Jerry Heil","Teresa & Maria",38,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-37,"United Kingdom","Olly Alexander","Dizzy",10,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
+1,"Albania","Besa","Zemrën n'dorë",39,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2,"Armenia","Ladaniva","TBC",45,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3,"Australia","Electric Fields","One Milkali (One Blood)",52,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+4,"Austria","Kaleen","We Will Rave",8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+5,"Azerbaijan","Fahree","TBC",50,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+6,"Belgium","Mustii","Before the Party's Over",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7,"Croatia","Baby Lasagna","Rim Tim Tagi Dim",27,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+8,"Cyprus","Silia Kapsis","Liar",24,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+9,"Czechia","Aiko","Pedestal",46,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+10,"Denmark","Saba","Sand",9,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+11,"Estonia","5miinust and Puuluup","(Nendest) narkootikumidest ei tea me (küll) midagi",29,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+12,"Finland","Windows95man","No Rules!",14,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+13,"France","Slimane","Mon amour",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+14,"Georgia","Nutsa Buzaladze","Firefighter",47,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+15,"Germany","Isaak","Always on the Run",3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+16,"Greece","Marina Satti","Zari (Ζάρι)",21,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+17,"Iceland","TBC","TBC",25,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+18,"Ireland","Bambie Thug","Doomsday Blue",18,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+19,"Israel","Eden Golan","Hurricane",20,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+20,"Italy","Angelina Mango","La noia",4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+21,"Latvia","Dons","Hollow",37,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+22,"Lithuania","Silvester Belt","Luktelk",31,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+23,"Luxembourg","Tali","Fighter",5,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+24,"Malta","Sarah Bonnici","Loop",19,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+25,"Moldova","Natalia Barbu","In the Middle",44,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+26,"Netherlands","Joost Klein","Europapa",6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+27,"Norway","Gåte","Ulveham",13,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+28,"Poland","Luna","The Tower",32,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+29,"Portugal","Iolanda","Grito",17,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+30,"San Marino","Megara","11:11",51,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+31,"Serbia","Teya Dora","Ramonda (Рамонда)",49,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+32,"Slovenia","Raiven","Veronika",28,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+33,"Spain","Nebulossa","Zorra",15,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+34,"Sweden","Marcus & Martinus","Unforgettable",11,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+35,"Switzerland","Nemo","The Code",7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+36,"Ukraine","Alyona Alyona and Jerry Heil","Teresa & Maria",38,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+37,"United Kingdom","Olly Alexander","Dizzy",10,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL

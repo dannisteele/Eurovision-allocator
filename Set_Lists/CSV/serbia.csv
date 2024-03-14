@@ -1,0 +1,18 @@
+"SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
+"2007","Marija Šerifović","Molitva",17,1,11,1,10,268,1,267,266,NULL,NULL
+"2008","Jelena Tomašević feat. Bora Dugić","Oro",23,6,11,6,5,160,0,160,160,NULL,NULL
+"2009","Marko Kon and Milaan","Cipela",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2010","Milan Stanković","Ovo je Balkan",8,15,19,10,9,147,37,110,73,NULL,NULL
+"2011","Nina","Čaroban",24,11,8,12,4,200,111,89,22,NULL,NULL
+"2012","Željko Joksimović","Nije ljubav stvar",24,2,2,3,1,484,173,311,138,NULL,NULL
+"2013","Moje 3","Ljubav je svuda",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2015","Bojana Stamenov","Beauty Never Lies",8,10,14,10,4,120,34,86,52,NULL,NULL
+"2016","Sanja Vučić Zaa","Goodbye (Shelter)",15,17,22,11,11,115,35,80,45,NULL,NULL
+"2017","Tijana Bogićević","In Too Deep",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2018","Sanja Ilić and Balkanika","Nova deca (Нова деца)",10,9,19,5,14,226,38,188,150,NULL,NULL
+"2019","Nevena Božović","Kruna (Круна)",23,17,18,13,5,89,35,54,19,NULL,NULL
+"2020","Hurricane","Hasta la vista",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Hurricane","Loco loco",8,14,21,8,13,102,20,82,62,NULL,NULL
+"2022","Konstrakta","In corpore sano",24,5,10,4,6,312,87,225,138,NULL,NULL
+"2023","Luke Black","Samo mi se spava (Само ми се спава)",5,24,22,21,1,30,14,16,2,NULL,NULL
+"2024","Teya Dora","Ramonda (Рамонда)",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL

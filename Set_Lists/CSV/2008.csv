@@ -1,44 +1,44 @@
-"ID","Country","Artist","Song","CountryID","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff"
-1,"Albania","Olta Boka","Zemrën e lamë peng",39,3,15,8,15,7,55,3,52,49
-2,"Andorra","Gisela","Casanova",40,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-3,"Armenia","Sirusho","Qélé, Qélé",45,5,4,3,4,1,199,8,191,183
-4,"Azerbaijan","Elnur and Samir","Day After Day",50,20,8,11,8,3,132,0,132,132
-5,"Belarus","Ruslan Alehno","Hasta la vista",41,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-6,"Belgium","Ishtar","O Julissi",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-7,"Bosnia and Herzegovina","Laka","Pokušaj",26,6,10,11,10,1,110,0,110,110
-8,"Bulgaria","Deep Zone and Balthazar","DJ, Take Me Away",43,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-9,"Croatia","Kraljevi ulice and 75 Cents","Romanca",27,9,18,11,17,6,44,0,44,44
-10,"Cyprus","Evdokia Kadi","Femme Fatale",24,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-11,"Czech Republic","Tereza Kerndlová","Have Some Fun",46,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-12,"Denmark","Simon Mathew","All Night Long",9,16,14,9,13,4,60,2,58,56
-13,"Estonia","Kreisiraadio","Leto svet",29,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-14,"Finland","Teräsbetoni","Missä miehet ratsastaa",14,8,19,11,18,7,35,0,35,35
-15,"France","Sébastien Tellier","Divine",2,19,16,11,16,5,47,0,47,47
-16,"Georgia","Diana Gurtskaya","Peace Will Come",47,17,11,11,11,0,83,0,83,83
-17,"Germany","No Angels","Disappear",3,4,20,11,19,8,14,0,14,14
-18,"Greece","Kalomira","Secret Combination",21,21,3,1,3,2,218,12,206,194
-19,"Hungary","Csézy","Candlelight",30,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-20,"Iceland","Euroband","This Is My Life",25,11,13,11,12,1,64,0,64,64
-21,"Ireland","Dustin the Turkey","Irelande Douze Pointe",18,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-22,"Israel","Boaz","The Fire in Your Eyes",20,7,9,2,9,7,124,10,114,104
-23,"Latvia","Pirates of the Sea","Wolves of the Sea",37,14,11,11,11,0,83,0,83,83
-24,"Lithuania","Jeronimas Milius","Nomads in the Night",31,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-25,"Macedonia","Tamara, Vrčak and Adrijan","Let Me Love You",36,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-26,"Malta","Morena","Vodka",19,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-27,"Moldova","Geta Burlacu","A Century of Love",44,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-28,"Montenegro","Stefan Filipović","Zauvijek volim te",48,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-29,"Netherlands","Hind","Your Heart Belongs to Me",6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-30,"Norway","Maria","Hold On Be Strong",13,25,5,4,5,1,182,7,175,168
-31,"Poland","Isis Gee","For Life",32,10,20,11,19,8,14,0,14,14
-32,"Portugal","Vânia Fernandes","Senhora do mar (Negras águas)",17,13,12,6,12,6,69,5,64,59
-33,"Romania","Nico and Vlad","Pe-o margine de lume",33,1,17,10,17,7,45,1,44,43
-34,"Russia","Dima Bilan","Believe",34,24,1,11,1,10,272,0,272,272
-35,"San Marino","Miodio","Complice",51,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-36,"Serbia","Jelena Tomašević feat. Bora Dugić","Oro",49,23,6,11,6,5,160,0,160,160
-37,"Slovenia","Rebeka Dremelj","Vrag naj vzame",28,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-38,"Spain","Rodolfo Chikilicuatre","Baila el Chiki Chiki",15,22,15,11,14,3,55,0,55,55
-39,"Sweden","Charlotte Perrelli","Hero",11,15,16,11,16,5,47,0,47,47
-40,"Switzerland","Paolo Meneguzzi","Era stupendo",7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-41,"Turkey","Mor ve Ötesi","Deli",22,12,7,7,7,0,138,4,134,130
-42,"Ukraine","Ani Lorak","Shady Lady",38,18,2,11,2,9,230,0,230,230
-43,"United Kingdom","Andy Abraham","Even If",10,2,20,5,20,15,14,6,8,2
+"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
+1,"Albania","Olta Boka","Zemrën e lamë peng",39,3,15,8,15,7,55,3,52,49,NULL,NULL
+2,"Andorra","Gisela","Casanova",40,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3,"Armenia","Sirusho","Qélé, Qélé",45,5,4,3,4,1,199,8,191,183,NULL,NULL
+4,"Azerbaijan","Elnur and Samir","Day After Day",50,20,8,11,8,3,132,0,132,132,NULL,NULL
+5,"Belarus","Ruslan Alehno","Hasta la vista",41,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+6,"Belgium","Ishtar","O Julissi",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7,"Bosnia and Herzegovina","Laka","Pokušaj",26,6,10,11,10,1,110,0,110,110,NULL,NULL
+8,"Bulgaria","Deep Zone and Balthazar","DJ, Take Me Away",43,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+9,"Croatia","Kraljevi ulice and 75 Cents","Romanca",27,9,18,11,17,6,44,0,44,44,NULL,NULL
+10,"Cyprus","Evdokia Kadi","Femme Fatale",24,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+11,"Czech Republic","Tereza Kerndlová","Have Some Fun",46,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+12,"Denmark","Simon Mathew","All Night Long",9,16,14,9,13,4,60,2,58,56,NULL,NULL
+13,"Estonia","Kreisiraadio","Leto svet",29,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+14,"Finland","Teräsbetoni","Missä miehet ratsastaa",14,8,19,11,18,7,35,0,35,35,NULL,NULL
+15,"France","Sébastien Tellier","Divine",2,19,16,11,16,5,47,0,47,47,NULL,NULL
+16,"Georgia","Diana Gurtskaya","Peace Will Come",47,17,11,11,11,0,83,0,83,83,NULL,NULL
+17,"Germany","No Angels","Disappear",3,4,20,11,19,8,14,0,14,14,NULL,NULL
+18,"Greece","Kalomira","Secret Combination",21,21,3,1,3,2,218,12,206,194,NULL,NULL
+19,"Hungary","Csézy","Candlelight",30,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+20,"Iceland","Euroband","This Is My Life",25,11,13,11,12,1,64,0,64,64,NULL,NULL
+21,"Ireland","Dustin the Turkey","Irelande Douze Pointe",18,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+22,"Israel","Boaz","The Fire in Your Eyes",20,7,9,2,9,7,124,10,114,104,NULL,NULL
+23,"Latvia","Pirates of the Sea","Wolves of the Sea",37,14,11,11,11,0,83,0,83,83,NULL,NULL
+24,"Lithuania","Jeronimas Milius","Nomads in the Night",31,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+25,"Macedonia","Tamara, Vrčak and Adrijan","Let Me Love You",36,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+26,"Malta","Morena","Vodka",19,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+27,"Moldova","Geta Burlacu","A Century of Love",44,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+28,"Montenegro","Stefan Filipović","Zauvijek volim te",48,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+29,"Netherlands","Hind","Your Heart Belongs to Me",6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+30,"Norway","Maria","Hold On Be Strong",13,25,5,4,5,1,182,7,175,168,NULL,NULL
+31,"Poland","Isis Gee","For Life",32,10,20,11,19,8,14,0,14,14,NULL,NULL
+32,"Portugal","Vânia Fernandes","Senhora do mar (Negras águas)",17,13,12,6,12,6,69,5,64,59,NULL,NULL
+33,"Romania","Nico and Vlad","Pe-o margine de lume",33,1,17,10,17,7,45,1,44,43,NULL,NULL
+34,"Russia","Dima Bilan","Believe",34,24,1,11,1,10,272,0,272,272,NULL,NULL
+35,"San Marino","Miodio","Complice",51,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+36,"Serbia","Jelena Tomašević feat. Bora Dugić","Oro",49,23,6,11,6,5,160,0,160,160,NULL,NULL
+37,"Slovenia","Rebeka Dremelj","Vrag naj vzame",28,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+38,"Spain","Rodolfo Chikilicuatre","Baila el Chiki Chiki",15,22,15,11,14,3,55,0,55,55,NULL,NULL
+39,"Sweden","Charlotte Perrelli","Hero",11,15,16,11,16,5,47,0,47,47,NULL,NULL
+40,"Switzerland","Paolo Meneguzzi","Era stupendo",7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+41,"Turkey","Mor ve Ötesi","Deli",22,12,7,7,7,0,138,4,134,130,NULL,NULL
+42,"Ukraine","Ani Lorak","Shady Lady",38,18,2,11,2,9,230,0,230,230,NULL,NULL
+43,"United Kingdom","Andy Abraham","Even If",10,2,20,5,20,15,14,6,8,2,NULL,NULL

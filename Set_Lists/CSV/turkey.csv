@@ -1,0 +1,35 @@
+"SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
+"1975","Semiha Yankı","Seninle Bir Dakika",13,18,18,NULL,NULL,3,3,NULL,NULL,NULL,NULL
+"1978","Nilüfer and Nazar","Sevince",12,17,17,NULL,NULL,2,2,NULL,NULL,NULL,NULL
+"1980","Ajda Pekkan","Pet'r Oil",2,15,15,NULL,NULL,23,23,NULL,NULL,NULL,NULL
+"1981","Modern Folk Trio and Ayşegül","Dönme Dolap",2,16,16,NULL,NULL,9,9,NULL,NULL,NULL,NULL
+"1982","Neco","Hani?",5,15,15,NULL,NULL,20,20,NULL,NULL,NULL,NULL
+"1983","Çetin Alp and the Short Wave","Opera",6,17,17,NULL,NULL,0,0,NULL,NULL,NULL,NULL
+"1984","Beş Yıl Önce, On Yıl Sonra","Halay",15,11,11,NULL,NULL,37,37,NULL,NULL,NULL,NULL
+"1985","MFÖ","Didai didai dai",7,14,14,NULL,NULL,36,36,NULL,NULL,NULL,NULL
+"1986","Klips ve Onlar","Halley",8,9,9,NULL,NULL,53,53,NULL,NULL,NULL,NULL
+"1987","Seyyal Taner and Grup Lokomotif","Şarkım Sevgi Üstüne",10,21,21,NULL,NULL,0,0,NULL,NULL,NULL,NULL
+"1988","MFÖ","Sufi (Hey Ya Hey)",5,14,14,NULL,NULL,37,37,NULL,NULL,NULL,NULL
+"1989","Pan","Bana Bana",5,20,20,NULL,NULL,5,5,NULL,NULL,NULL,NULL
+"1990","Kayahan","Gözlerinin Hapsindeyim",4,16,16,NULL,NULL,21,21,NULL,NULL,NULL,NULL
+"1991","Can Uğurluer, İzel Çeliköz, Reyhan Karaca","İki Dakika",10,10,10,NULL,NULL,44,44,NULL,NULL,NULL,NULL
+"1992","Aylin Vatankoş","Yaz Bitti",4,19,19,NULL,NULL,17,17,NULL,NULL,NULL,NULL
+"1993","Burak Aydos, Öztürk Baybora and Serter","Esmer Yarim",2,21,21,NULL,NULL,10,10,NULL,NULL,NULL,NULL
+"1995","Arzu Ece","Sev!",10,15,15,NULL,NULL,21,21,NULL,NULL,NULL,NULL
+"1996","Şebnem Paker","Beşinci Mevsim",1,11,11,NULL,NULL,57,57,NULL,NULL,NULL,NULL
+"1997","Şebnem Paker and Grup Ethnic","Dinle",2,3,5,3,2,121,86,35,51,NULL,NULL
+"1998","Tüzmen","Unutamazsın",24,13,13,13,0,25,2,23,21,NULL,NULL
+"1999","Tuba Önal and Grup Mistik","Dön Artık",7,14,13,15,2,21,0,21,21,NULL,NULL
+"2000","Pınar and the SOS","Yorgunum Anla",22,10,7,8,1,59,17,42,25,NULL,NULL
+"2001","Sedat Yüce","Sevgiliye Son",15,11,11,11,0,41,11,30,19,NULL,NULL
+"2002","Buket Bengisu and Group Safir","Leylaklar Soldu Kalbinde",19,13,11,18,7,29,19,10,9,NULL,NULL
+"2003","Sertab Erener","Everyway That I Can",4,1,5,2,3,167,12,155,143,NULL,NULL
+"2004","Athena","For Real",22,4,NULL,4,NULL,195,NULL,195,NULL,NULL,NULL
+"2005","Gülseren","Rimi Rimi Ley",6,12,14,10,4,92,0,92,92,NULL,NULL
+"2006","Sibel Tüzün","Süper Star",23,11,5,9,4,91,7,84,77,NULL,NULL
+"2007","Kenan Doğulu","Shake It Up Şekerim",22,4,3,5,2,163,10,153,143,NULL,NULL
+"2008","Mor ve Ötesi","Deli",12,7,7,7,0,138,4,134,130,NULL,NULL
+"2009","Hadise","Düm Tek Tek",18,5,7,3,4,317,114,203,89,NULL,NULL
+"2010","Manga","We Could Be the Same",14,3,8,2,6,296,119,177,58,NULL,NULL
+"2011","Yüksek Sadakat","Live It Up",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2012","Can Bonomo","Love Me Back",18,7,19,4,15,226,50,176,126,NULL,NULL
