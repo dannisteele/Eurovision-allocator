@@ -1,0 +1,18 @@
+"SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
+"2008","Elnur and Samir","Day After Day",20,8,11,8,3,132,0,132,132,NULL,NULL
+"2009","Aysel and Arash","Always",11,3,8,2,6,365,112,253,141,NULL,NULL
+"2010","Safura","Drip Drop",1,6,9,4,5,282,116,166,50,NULL,NULL
+"2011","Ell and Nikki","Running Scared",19,1,2,1,1,405,182,223,41,NULL,NULL
+"2012","Sabina Babayeva","When the Music Dies",13,4,7,5,2,269,118,151,33,NULL,NULL
+"2013","Farid Mammadov","Hold Me",20,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2014","Dilara Kazimova","Start a Fire",3,13,8,20,12,134,108,26,82,NULL,NULL
+"2015","Elnur Hüseynov","Hour of the Wolf",24,17,12,19,7,75,48,27,21,NULL,NULL
+"2016","Samra","Miracle",4,16,18,12,6,117,44,73,29,NULL,NULL
+"2017","Dihaj","Skeletons",12,14,12,11,1,120,78,42,36,NULL,NULL
+"2018","Aisel","X My Heart",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2019","Chingiz","Truth",20,8,5,8,3,302,202,100,102,NULL,NULL
+"2020","Efendi","Cleopatra",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Efendi","Mata Hari",21,19,19,16,3,65,32,33,1,NULL,NULL
+"2022","Nadir Rustamli","Fade to Black",15,16,9,22,13,106,103,3,100,NULL,NULL
+"2023","TuralTuranX","Tell Me More",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2024","Fahree","TBC",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL

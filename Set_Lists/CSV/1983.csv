@@ -1,21 +1,21 @@
-"ID","Country","Artist","Song","CountryID","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff"
-1,"Austria","Westend","Hurricane",8,18,9,9,NULL,NULL,53,53,NULL,NULL
-2,"Belgium","Pas de Deux","Rendez-vous",1,19,16,16,NULL,NULL,13,13,NULL,NULL
-3,"Cyprus","Stavros and Constantina","I agapi akoma zi",24,13,14,14,NULL,NULL,26,26,NULL,NULL
-4,"Denmark","Gry Johansen","Kloden drejer",9,15,15,15,NULL,NULL,16,16,NULL,NULL
-5,"Finland","Ami Aspelund","Fantasiaa",14,9,10,10,NULL,NULL,41,41,NULL,NULL
-6,"France","Guy Bonnet","Vivre",2,1,8,8,NULL,NULL,56,56,NULL,NULL
-7,"Germany","Hoffmann and Hoffmann","Rücksicht",3,14,5,5,NULL,NULL,94,94,NULL,NULL
-8,"Greece","Christie","Mou les",21,10,12,12,NULL,NULL,32,32,NULL,NULL
-9,"Israel","Ofra Haza","Hi",20,16,2,2,NULL,NULL,136,136,NULL,NULL
-10,"Italy","Riccardo Fogli","Per Lucia",4,5,10,10,NULL,NULL,41,41,NULL,NULL
-11,"Luxembourg","Corinne Hermès","Si la vie est cadeau",5,20,1,1,NULL,NULL,142,142,NULL,NULL
-12,"Netherlands","Bernadette","Sing Me a Song",6,11,7,7,NULL,NULL,66,66,NULL,NULL
-13,"Norway","Jahn Teigen","Do Re Mi",13,2,9,9,NULL,NULL,53,53,NULL,NULL
-14,"Portugal","Armando Gama","Esta balada que te dou",17,17,11,11,NULL,NULL,33,33,NULL,NULL
-15,"Spain","Remedios Amaya","Quién maneja mi barca",15,7,17,17,NULL,NULL,0,0,NULL,NULL
-16,"Sweden","Carola Häggkvist","Främling",11,4,3,3,NULL,NULL,126,126,NULL,NULL
-17,"Switzerland","Mariella Farré","Io così non ci sto",7,8,13,13,NULL,NULL,28,28,NULL,NULL
-18,"Turkey","Çetin Alp and the Short Wave","Opera",22,6,17,17,NULL,NULL,0,0,NULL,NULL
-19,"United Kingdom","Sweet Dreams","I'm Never Giving Up",10,3,6,6,NULL,NULL,79,79,NULL,NULL
-20,"Yugoslavia","Daniel","Džuli",16,12,4,4,NULL,NULL,125,125,NULL,NULL
+"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
+1,"Austria","Westend","Hurricane",8,18,9,9,NULL,NULL,53,53,NULL,NULL,NULL,NULL
+2,"Belgium","Pas de Deux","Rendez-vous",1,19,16,16,NULL,NULL,13,13,NULL,NULL,NULL,NULL
+3,"Cyprus","Stavros and Constantina","I agapi akoma zi",24,13,14,14,NULL,NULL,26,26,NULL,NULL,NULL,NULL
+4,"Denmark","Gry Johansen","Kloden drejer",9,15,15,15,NULL,NULL,16,16,NULL,NULL,NULL,NULL
+5,"Finland","Ami Aspelund","Fantasiaa",14,9,10,10,NULL,NULL,41,41,NULL,NULL,NULL,NULL
+6,"France","Guy Bonnet","Vivre",2,1,8,8,NULL,NULL,56,56,NULL,NULL,NULL,NULL
+7,"Germany","Hoffmann and Hoffmann","Rücksicht",3,14,5,5,NULL,NULL,94,94,NULL,NULL,NULL,NULL
+8,"Greece","Christie","Mou les",21,10,12,12,NULL,NULL,32,32,NULL,NULL,NULL,NULL
+9,"Israel","Ofra Haza","Hi",20,16,2,2,NULL,NULL,136,136,NULL,NULL,NULL,NULL
+10,"Italy","Riccardo Fogli","Per Lucia",4,5,10,10,NULL,NULL,41,41,NULL,NULL,NULL,NULL
+11,"Luxembourg","Corinne Hermès","Si la vie est cadeau",5,20,1,1,NULL,NULL,142,142,NULL,NULL,NULL,NULL
+12,"Netherlands","Bernadette","Sing Me a Song",6,11,7,7,NULL,NULL,66,66,NULL,NULL,NULL,NULL
+13,"Norway","Jahn Teigen","Do Re Mi",13,2,9,9,NULL,NULL,53,53,NULL,NULL,NULL,NULL
+14,"Portugal","Armando Gama","Esta balada que te dou",17,17,11,11,NULL,NULL,33,33,NULL,NULL,NULL,NULL
+15,"Spain","Remedios Amaya","Quién maneja mi barca",15,7,17,17,NULL,NULL,0,0,NULL,NULL,NULL,NULL
+16,"Sweden","Carola Häggkvist","Främling",11,4,3,3,NULL,NULL,126,126,NULL,NULL,NULL,NULL
+17,"Switzerland","Mariella Farré","Io così non ci sto",7,8,13,13,NULL,NULL,28,28,NULL,NULL,NULL,NULL
+18,"Turkey","Çetin Alp and the Short Wave","Opera",22,6,17,17,NULL,NULL,0,0,NULL,NULL,NULL,NULL
+19,"United Kingdom","Sweet Dreams","I'm Never Giving Up",10,3,6,6,NULL,NULL,79,79,NULL,NULL,NULL,NULL
+20,"Yugoslavia","Daniel","Džuli",16,12,4,4,NULL,NULL,125,125,NULL,NULL,NULL,NULL

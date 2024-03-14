@@ -1,0 +1,70 @@
+"SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
+"1956","Freddy Quinn","So geht das jede Nacht",11,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://www.youtube.com/watch?v=eZIdJT1POUA","https://music.apple.com/gb/album/so-geht-das-jede-nacht/619820489?i=619820492"
+"1956","Walter Andreas Schwarz","Im Wartesaal zum großen Glück",4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://www.youtube.com/watch?v=EfZ6_7iNBqs","https://music.apple.com/gb/album/im-wartesaal-zum-gro%C3%9Fen-gl%C3%BCck/253394176?i=253394181"
+"1957","Margot Hielscher","Telefon, Telefon",7,4,4,NULL,NULL,8,8,NULL,NULL,NULL,NULL
+"1958","Margot Hielscher","Für zwei Groschen Musik",8,6,6,NULL,NULL,5,5,NULL,NULL,NULL,NULL
+"1959","Alice and Ellen Kessler","Heut' woll'n wir tanzen geh'n",6,7,7,NULL,NULL,5,5,NULL,NULL,NULL,NULL
+"1960","Wyn Hoop","Bonne nuit ma chérie",11,4,4,NULL,NULL,11,11,NULL,NULL,NULL,NULL
+"1961","Lale Andersen","Einmal sehen wir uns wieder",8,10,10,NULL,NULL,3,3,NULL,NULL,NULL,NULL
+"1962","Conny Froboess","Zwei kleine Italiener",7,5,5,NULL,NULL,9,9,NULL,NULL,NULL,NULL
+"1963","Heidi Brühl","Marcel",3,8,8,NULL,NULL,5,5,NULL,NULL,NULL,NULL
+"1964","Nora Nova","Man gewöhnt sich so schnell an das Schöne",9,11,11,NULL,NULL,0,0,NULL,NULL,NULL,NULL
+"1965","Ulla Wiesner","Paradies, wo bist du?",5,14,14,NULL,NULL,0,0,NULL,NULL,NULL,NULL
+"1966","Margot Eskens","Die Zeiger der Uhr",1,8,8,NULL,NULL,7,7,NULL,NULL,NULL,NULL
+"1967","Inge Brück","Anouschka",9,8,8,NULL,NULL,7,7,NULL,NULL,NULL,NULL
+"1968","Wencke Myhre","Ein Hoch der Liebe",16,6,6,NULL,NULL,11,11,NULL,NULL,NULL,NULL
+"1969","Siw Malmkvist","Primaballerina",13,5,5,NULL,NULL,8,8,NULL,NULL,NULL,NULL
+"1970","Katja Ebstein","Wunder gibt es immer wieder",11,3,3,NULL,NULL,12,12,NULL,NULL,NULL,NULL
+"1971","Katja Ebstein","Diese Welt",5,3,3,NULL,NULL,100,100,NULL,NULL,NULL,NULL
+"1972","Mary Roos","Nur die Liebe läßt uns leben",1,3,3,NULL,NULL,107,107,NULL,NULL,NULL,NULL
+"1973","Gitte","Junger Tag",4,8,8,NULL,NULL,85,85,NULL,NULL,NULL,NULL
+"1974","Cindy and Bert","Die Sommermelodie",14,10,10,NULL,NULL,3,3,NULL,NULL,NULL,NULL
+"1975","Joy Fleming","Ein Lied kann eine Brücke sein",4,16,16,NULL,NULL,15,15,NULL,NULL,NULL,NULL
+"1976","Les Humphries Singers","Sing, Sang, Song",3,15,15,NULL,NULL,12,12,NULL,NULL,NULL,NULL
+"1977","Silver Convention","Telegram",6,8,8,NULL,NULL,55,55,NULL,NULL,NULL,NULL
+"1978","Ireen Sheer","Feuer",13,6,6,NULL,NULL,84,84,NULL,NULL,NULL,NULL
+"1979","Dschinghis Khan","Dschinghis Khan",9,4,4,NULL,NULL,86,86,NULL,NULL,NULL,NULL
+"1980","Katja Ebstein","Theater",12,2,2,NULL,NULL,128,128,NULL,NULL,NULL,NULL
+"1981","Lena Valaitis","Johnny Blue",3,2,2,NULL,NULL,132,132,NULL,NULL,NULL,NULL
+"1982","Nicole","Ein bißchen Frieden",18,1,1,NULL,NULL,161,161,NULL,NULL,NULL,NULL
+"1983","Hoffmann and Hoffmann","Rücksicht",14,5,5,NULL,NULL,94,94,NULL,NULL,NULL,NULL
+"1984","Mary Roos","Aufrecht geh'n",14,12,12,NULL,NULL,34,34,NULL,NULL,NULL,NULL
+"1985","Wind","Für alle",10,2,2,NULL,NULL,105,105,NULL,NULL,NULL,NULL
+"1986","Ingrid Peters","Über die Brücke geh'n",14,8,8,NULL,NULL,62,62,NULL,NULL,NULL,NULL
+"1987","Wind","Laß die Sonne in dein Herz",16,2,2,NULL,NULL,141,141,NULL,NULL,NULL,NULL
+"1988","Maxi and Chris Garden","Lied für einen Freund",11,13,13,NULL,NULL,48,48,NULL,NULL,NULL,NULL
+"1989","Nino de Angelo","Flieger",21,13,13,NULL,NULL,46,46,NULL,NULL,NULL,NULL
+"1990","Chris Kempers and Daniel Kovac","Frei zu leben",13,8,8,NULL,NULL,60,60,NULL,NULL,NULL,NULL
+"1991","Atlantis 2000","Dieser Traum darf niemals sterben",17,16,16,NULL,NULL,10,10,NULL,NULL,NULL,NULL
+"1992","Wind","Träume sind für alle da",22,16,16,NULL,NULL,27,27,NULL,NULL,NULL,NULL
+"1993","Münchener Freiheit","Viel zu weit",3,18,18,NULL,NULL,18,18,NULL,NULL,NULL,NULL
+"1994","Mekado","Wir geben 'ne Party",14,3,3,NULL,NULL,128,128,NULL,NULL,NULL,NULL
+"1995","Stone and Stone","Verliebt in Dich",3,22,22,NULL,NULL,1,1,NULL,NULL,NULL,NULL
+"1997","Bianca Shomburg","Zeit",11,17,17,10,7,22,14,8,6,NULL,NULL
+"1998","Guildo Horn","Guildo hat euch lieb",9,7,6,7,1,86,11,75,64,NULL,NULL
+"1999","Sürpriz","Journey to Jerusalem – Kudüs'e Seyahat",21,3,4,3,1,140,22,118,96,NULL,NULL
+"2000","Stefan Raab","Wadde hadde dudde da?",15,5,4,5,1,96,20,76,56,NULL,NULL
+"2001","Michelle","Wer Liebe lebt",19,8,8,8,0,66,15,51,36,NULL,NULL
+"2002","Corinna May","I Can't Live Without Music",18,18,15,19,4,17,9,8,1,NULL,NULL
+"2003","Lou","Let's Get Happy",10,10,6,12,6,53,11,42,31,NULL,NULL
+"2004","Max","Can't Wait Until Tonight",8,7,NULL,7,NULL,93,NULL,93,NULL,NULL,NULL
+"2005","Gracia","Run & Hide",17,22,12,21,9,4,4,0,4,NULL,NULL
+"2006","Texas Lightning","No No Never",8,13,7,14,7,36,5,31,26,NULL,NULL
+"2007","Roger Cicero","Frauen regier'n die Welt",16,19,2,19,17,49,11,38,27,NULL,NULL
+"2008","No Angels","Disappear",4,20,11,19,8,14,0,14,14,NULL,NULL
+"2009","Alex Swings Oscar Sings!","Miss Kiss Kiss Bang",17,21,13,22,9,91,73,18,55,NULL,NULL
+"2010","Lena","Satellite",22,1,1,1,0,430,187,243,56,NULL,NULL
+"2011","Lena","Taken by a Stranger",16,10,10,8,2,217,104,113,9,NULL,NULL
+"2012","Roman Lob","Standing Still",20,8,9,6,3,223,98,125,27,NULL,NULL
+"2013","Cascada","Glorious",11,20,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2014","Elaiza","Is It Right",12,18,14,18,4,92,61,31,30,NULL,NULL
+"2015","Ann Sophie","Black Smoke",17,25,18,26,8,28,24,4,20,NULL,NULL
+"2016","Jamie-Lee","Ghost",10,25,25,23,2,11,1,10,9,NULL,NULL
+"2017","Levina","Perfect Life",21,24,23,22,1,6,3,3,0,NULL,NULL
+"2018","Michael Schulte","You Let Me Walk Alone",11,4,4,6,2,340,204,136,68,NULL,NULL
+"2019","Sisters","Sister",4,24,20,26,6,24,24,0,24,NULL,NULL
+"2020","Ben Dolic","Violent Thing",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Jendrik","I Don't Feel Hate",15,24,25,22,3,3,3,0,3,NULL,NULL
+"2022","Malik Harris","Rockstars",13,24,23,20,3,6,0,6,6,NULL,NULL
+"2023","Lord of the Lost","Blood & Glitter",21,26,25,22,3,18,3,15,12,NULL,NULL
+"2024","Isaak","Always on the Run",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL

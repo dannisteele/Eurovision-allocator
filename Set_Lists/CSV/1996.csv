@@ -1,24 +1,24 @@
-"ID","Country","Artist","Song","CountryID","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff"
-1,"Austria","George Nussbaumer","Weil's dr guat got",8,8,10,10,NULL,NULL,68,68,NULL,NULL
-2,"Belgium","Lisa del Bo","Liefde is een kaartspel",1,16,15,15,NULL,NULL,22,22,NULL,NULL
-3,"Bosnia and Herzegovina","Amila Glamočak","Za našu ljubav",26,21,20,20,NULL,NULL,13,13,NULL,NULL
-4,"Croatia","Maja Blagdan","Sveta ljubav",27,7,4,4,NULL,NULL,98,98,NULL,NULL
-5,"Cyprus","Constantinos","Mono gia mas (Μόνο για μας)",24,5,9,9,NULL,NULL,72,72,NULL,NULL
-6,"Estonia","Maarja-Liis Ilus and Ivo Linna","Kaelakee hääl",29,11,5,5,NULL,NULL,94,94,NULL,NULL
-7,"Finland","Jasmine","Niin kaunis on taivas",14,18,21,21,NULL,NULL,9,9,NULL,NULL
-8,"France","Dan Ar Braz and l'Héritage des Celtes","Diwanit bugale",2,13,17,17,NULL,NULL,18,18,NULL,NULL
-9,"Greece","Marianna Efstratiou","Emis forame to himona anixiatika",21,10,13,13,NULL,NULL,36,36,NULL,NULL
-10,"Iceland","Anna Mjöll","Sjúbídú",25,19,12,12,NULL,NULL,51,51,NULL,NULL
-11,"Ireland","Eimear Quinn","The Voice",18,17,1,1,NULL,NULL,162,162,NULL,NULL
-12,"Malta","Miriam Christine","In a Woman's Heart",19,6,10,10,NULL,NULL,68,68,NULL,NULL
-13,"Netherlands","Maxine and Franklin Brown","De eerste keer",6,15,7,7,NULL,NULL,78,78,NULL,NULL
-14,"Norway","Elisabeth Andreassen","I evighet",13,12,2,2,NULL,NULL,114,114,NULL,NULL
-15,"Poland","Kasia Kowalska","Chcę znać swój grzech",32,20,14,14,NULL,NULL,31,31,NULL,NULL
-16,"Portugal","Lúcia Moniz","O meu coração não tem cor",17,4,6,6,NULL,NULL,92,92,NULL,NULL
-17,"Slovakia","Marcel Palonder","Kým nás máš",35,22,16,16,NULL,NULL,19,19,NULL,NULL
-18,"Slovenia","Regina","Dan najlepših sanj",28,14,19,19,NULL,NULL,16,16,NULL,NULL
-19,"Spain","Antonio Carbonell","Ay, qué deseo",15,3,18,18,NULL,NULL,17,17,NULL,NULL
-20,"Sweden","One More Time","Den vilda",11,23,3,3,NULL,NULL,100,100,NULL,NULL
-21,"Switzerland","Kathy Leander","Mon cœur l'aime",7,9,15,15,NULL,NULL,22,22,NULL,NULL
-22,"Turkey","Şebnem Paker","Beşinci Mevsim",22,1,11,11,NULL,NULL,57,57,NULL,NULL
-23,"United Kingdom","Gina G","Ooh Aah... Just a Little Bit",10,2,8,8,NULL,NULL,77,77,NULL,NULL
+"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
+1,"Austria","George Nussbaumer","Weil's dr guat got",8,8,10,10,NULL,NULL,68,68,NULL,NULL,NULL,NULL
+2,"Belgium","Lisa del Bo","Liefde is een kaartspel",1,16,15,15,NULL,NULL,22,22,NULL,NULL,NULL,NULL
+3,"Bosnia and Herzegovina","Amila Glamočak","Za našu ljubav",26,21,20,20,NULL,NULL,13,13,NULL,NULL,NULL,NULL
+4,"Croatia","Maja Blagdan","Sveta ljubav",27,7,4,4,NULL,NULL,98,98,NULL,NULL,NULL,NULL
+5,"Cyprus","Constantinos","Mono gia mas (Μόνο για μας)",24,5,9,9,NULL,NULL,72,72,NULL,NULL,NULL,NULL
+6,"Estonia","Maarja-Liis Ilus and Ivo Linna","Kaelakee hääl",29,11,5,5,NULL,NULL,94,94,NULL,NULL,NULL,NULL
+7,"Finland","Jasmine","Niin kaunis on taivas",14,18,21,21,NULL,NULL,9,9,NULL,NULL,NULL,NULL
+8,"France","Dan Ar Braz and l'Héritage des Celtes","Diwanit bugale",2,13,17,17,NULL,NULL,18,18,NULL,NULL,NULL,NULL
+9,"Greece","Marianna Efstratiou","Emis forame to himona anixiatika",21,10,13,13,NULL,NULL,36,36,NULL,NULL,NULL,NULL
+10,"Iceland","Anna Mjöll","Sjúbídú",25,19,12,12,NULL,NULL,51,51,NULL,NULL,NULL,NULL
+11,"Ireland","Eimear Quinn","The Voice",18,17,1,1,NULL,NULL,162,162,NULL,NULL,NULL,NULL
+12,"Malta","Miriam Christine","In a Woman's Heart",19,6,10,10,NULL,NULL,68,68,NULL,NULL,NULL,NULL
+13,"Netherlands","Maxine and Franklin Brown","De eerste keer",6,15,7,7,NULL,NULL,78,78,NULL,NULL,NULL,NULL
+14,"Norway","Elisabeth Andreassen","I evighet",13,12,2,2,NULL,NULL,114,114,NULL,NULL,NULL,NULL
+15,"Poland","Kasia Kowalska","Chcę znać swój grzech",32,20,14,14,NULL,NULL,31,31,NULL,NULL,NULL,NULL
+16,"Portugal","Lúcia Moniz","O meu coração não tem cor",17,4,6,6,NULL,NULL,92,92,NULL,NULL,NULL,NULL
+17,"Slovakia","Marcel Palonder","Kým nás máš",35,22,16,16,NULL,NULL,19,19,NULL,NULL,NULL,NULL
+18,"Slovenia","Regina","Dan najlepših sanj",28,14,19,19,NULL,NULL,16,16,NULL,NULL,NULL,NULL
+19,"Spain","Antonio Carbonell","Ay, qué deseo",15,3,18,18,NULL,NULL,17,17,NULL,NULL,NULL,NULL
+20,"Sweden","One More Time","Den vilda",11,23,3,3,NULL,NULL,100,100,NULL,NULL,NULL,NULL
+21,"Switzerland","Kathy Leander","Mon cœur l'aime",7,9,15,15,NULL,NULL,22,22,NULL,NULL,NULL,NULL
+22,"Turkey","Şebnem Paker","Beşinci Mevsim",22,1,11,11,NULL,NULL,57,57,NULL,NULL,NULL,NULL
+23,"United Kingdom","Gina G","Ooh Aah... Just a Little Bit",10,2,8,8,NULL,NULL,77,77,NULL,NULL,NULL,NULL

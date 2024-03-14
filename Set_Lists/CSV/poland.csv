@@ -1,0 +1,28 @@
+"SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
+"1994","Edyta Górniak","To nie ja!",24,2,2,NULL,NULL,166,166,NULL,NULL,NULL,NULL
+"1995","Justyna","Sama",1,17,17,NULL,NULL,15,15,NULL,NULL,NULL,NULL
+"1996","Kasia Kowalska","Chcę znać swój grzech",20,14,14,NULL,NULL,31,31,NULL,NULL,NULL,NULL
+"1997","Anna Maria Jopek","Ale jestem",12,11,10,7,3,54,40,14,26,NULL,NULL
+"1998","Sixteen","To takie proste",7,16,5,20,15,19,12,7,5,NULL,NULL
+"1999","Mietek Szcześniak","Przytul mnie mocno",12,16,6,20,14,17,13,4,9,NULL,NULL
+"2001","Piasek","2 Long",18,19,15,17,2,11,0,11,11,NULL,NULL
+"2003","Ich Troje","Keine Grenzen – Żadnych granic",20,7,16,7,9,90,0,90,90,NULL,NULL
+"2004","Blue Café","Love Song",19,15,NULL,15,NULL,27,NULL,27,NULL,NULL,NULL
+"2005","Ivan and Delfin","Czarna dziewczyna",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2006","Ich Troje","Follow My Heart",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2007","The Jet Set","Time to Party",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2008","Isis Gee","For Life",10,20,11,19,8,14,0,14,14,NULL,NULL
+"2009","Lidia Kopania","I Don't Wanna Leave",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2010","Marcin Mroziński","Legenda",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2011","Magdalena Tul","Jestem",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2014","Donatan and Cleo","My Słowianie – We Are Slavic",9,8,23,5,18,185,23,162,139,NULL,NULL
+"2015","Monika Kuszyńska","In the Name of Love",18,21,23,15,8,49,2,47,45,NULL,NULL
+"2016","Michał Szpak","Color of Your Life",12,8,24,3,21,229,7,222,215,NULL,NULL
+"2017","Kasia Moś","Flashlight",2,21,21,12,9,64,23,41,18,NULL,NULL
+"2018","Gromee feat. Lukas Meijer","Light Me Up",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2019","Tulia","Fire of Love (Pali się)",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2020","Alicja","Empires",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Rafał","The Ride",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2022","Ochman","River",23,12,13,9,4,151,46,105,59,NULL,NULL
+"2023","Blanka","Solo",4,19,23,8,15,93,12,81,69,NULL,NULL
+"2024","Luna","The Tower",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL

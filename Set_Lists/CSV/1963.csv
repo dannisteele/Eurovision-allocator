@@ -1,17 +1,17 @@
-"ID","Country","Artist","Song","CountryID","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff"
-1,"Austria","Carmela Corren","Vielleicht geschieht ein Wunder",8,4,6,6,NULL,NULL,16,16,NULL,NULL
-2,"Belgium","Jacques Raymond","Waarom?",1,14,9,9,NULL,NULL,4,4,NULL,NULL
-3,"Denmark","Grethe and Jørgen Ingmann","Dansevise",9,8,1,1,NULL,NULL,42,42,NULL,NULL
-4,"Finland","Laila Halme","Muistojeni laulu",14,7,12,12,NULL,NULL,0,0,NULL,NULL
-5,"France","Alain Barrière","Elle était si jolie",2,11,5,5,NULL,NULL,25,25,NULL,NULL
-6,"Germany","Heidi Brühl","Marcel",3,3,8,8,NULL,NULL,5,5,NULL,NULL
-7,"Italy","Emilio Pericoli","Uno per tutte",4,6,3,3,NULL,NULL,37,37,NULL,NULL
-8,"Luxembourg","Nana Mouskouri","À force de prier",5,16,7,7,NULL,NULL,13,13,NULL,NULL
-9,"Monaco","Françoise Hardy","L'amour s'en va",12,15,5,5,NULL,NULL,25,25,NULL,NULL
-10,"Netherlands","Annie Palmen","Een speeldoos",6,2,12,12,NULL,NULL,0,0,NULL,NULL
-11,"Norway","Anita Thallaug","Solhverv",13,5,12,12,NULL,NULL,0,0,NULL,NULL
-12,"Spain","José Guardiola","Algo prodigioso",15,12,11,11,NULL,NULL,2,2,NULL,NULL
-13,"Sweden","Monica Zetterlund","En gång i Stockholm",11,13,12,12,NULL,NULL,0,0,NULL,NULL
-14,"Switzerland","Esther Ofarim","T'en va pas",7,10,2,2,NULL,NULL,40,40,NULL,NULL
-15,"United Kingdom","Ronnie Carroll","Say Wonderful Things",10,1,4,4,NULL,NULL,28,28,NULL,NULL
-16,"Yugoslavia","Vice Vukov","Brodovi",16,9,10,10,NULL,NULL,3,3,NULL,NULL
+"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
+1,"Austria","Carmela Corren","Vielleicht geschieht ein Wunder",8,4,6,6,NULL,NULL,16,16,NULL,NULL,NULL,NULL
+2,"Belgium","Jacques Raymond","Waarom?",1,14,9,9,NULL,NULL,4,4,NULL,NULL,NULL,NULL
+3,"Denmark","Grethe and Jørgen Ingmann","Dansevise",9,8,1,1,NULL,NULL,42,42,NULL,NULL,NULL,NULL
+4,"Finland","Laila Halme","Muistojeni laulu",14,7,12,12,NULL,NULL,0,0,NULL,NULL,NULL,NULL
+5,"France","Alain Barrière","Elle était si jolie",2,11,5,5,NULL,NULL,25,25,NULL,NULL,NULL,NULL
+6,"Germany","Heidi Brühl","Marcel",3,3,8,8,NULL,NULL,5,5,NULL,NULL,NULL,NULL
+7,"Italy","Emilio Pericoli","Uno per tutte",4,6,3,3,NULL,NULL,37,37,NULL,NULL,NULL,NULL
+8,"Luxembourg","Nana Mouskouri","À force de prier",5,16,7,7,NULL,NULL,13,13,NULL,NULL,NULL,NULL
+9,"Monaco","Françoise Hardy","L'amour s'en va",12,15,5,5,NULL,NULL,25,25,NULL,NULL,NULL,NULL
+10,"Netherlands","Annie Palmen","Een speeldoos",6,2,12,12,NULL,NULL,0,0,NULL,NULL,NULL,NULL
+11,"Norway","Anita Thallaug","Solhverv",13,5,12,12,NULL,NULL,0,0,NULL,NULL,NULL,NULL
+12,"Spain","José Guardiola","Algo prodigioso",15,12,11,11,NULL,NULL,2,2,NULL,NULL,NULL,NULL
+13,"Sweden","Monica Zetterlund","En gång i Stockholm",11,13,12,12,NULL,NULL,0,0,NULL,NULL,NULL,NULL
+14,"Switzerland","Esther Ofarim","T'en va pas",7,10,2,2,NULL,NULL,40,40,NULL,NULL,NULL,NULL
+15,"United Kingdom","Ronnie Carroll","Say Wonderful Things",10,1,4,4,NULL,NULL,28,28,NULL,NULL,NULL,NULL
+16,"Yugoslavia","Vice Vukov","Brodovi",16,9,10,10,NULL,NULL,3,3,NULL,NULL,NULL,NULL

@@ -1,19 +1,19 @@
-"ID","Country","Artist","Song","CountryID","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff"
-1,"Austria","Udo Jürgens","Sag ihr, ich lass sie grüßen",8,6,4,4,NULL,NULL,16,16,NULL,NULL
-2,"Belgium","Lize Marke","Als het weer lente is",1,8,14,14,NULL,NULL,0,0,NULL,NULL
-3,"Denmark","Birgit Brüel","For din skyld",9,14,7,7,NULL,NULL,10,10,NULL,NULL
-4,"Finland","Viktor Klimenko","Aurinko laskee länteen",14,16,14,14,NULL,NULL,0,0,NULL,NULL
-5,"France","Guy Mardel","N'avoue jamais",2,11,3,3,NULL,NULL,22,22,NULL,NULL
-6,"Germany","Ulla Wiesner","Paradies, wo bist du?",3,5,14,14,NULL,NULL,0,0,NULL,NULL
-7,"Ireland","Butch Moore","I'm Walking the Streets in the Rain",18,4,6,6,NULL,NULL,11,11,NULL,NULL
-8,"Italy","Bobby Solo","Se piangi, se ridi",4,13,5,5,NULL,NULL,15,15,NULL,NULL
-9,"Luxembourg","France Gall","Poupée de cire, poupée de son",5,15,1,1,NULL,NULL,32,32,NULL,NULL
-10,"Monaco","Marjorie Noël","Va dire à l'amour",12,9,9,9,NULL,NULL,7,7,NULL,NULL
-11,"Netherlands","Conny Vandenbos","Het is genoeg",6,1,11,11,NULL,NULL,5,5,NULL,NULL
-12,"Norway","Kirsti Sparboe","Karusell",13,7,13,13,NULL,NULL,1,1,NULL,NULL
-13,"Portugal","Simone de Oliveira","Sol de inverno",17,12,13,13,NULL,NULL,1,1,NULL,NULL
-14,"Spain","Conchita Bautista","Qué bueno, qué bueno",15,3,14,14,NULL,NULL,0,0,NULL,NULL
-15,"Sweden","Ingvar Wixell","Absent Friend",11,10,10,10,NULL,NULL,6,6,NULL,NULL
-16,"Switzerland","Yovanna","Non, à jamais sans toi",7,18,8,8,NULL,NULL,8,8,NULL,NULL
-17,"United Kingdom","Kathy Kirby","I Belong",10,2,2,2,NULL,NULL,26,26,NULL,NULL
-18,"Yugoslavia","Vice Vukov","Čežnja",16,17,12,12,NULL,NULL,2,2,NULL,NULL
+"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
+1,"Austria","Udo Jürgens","Sag ihr, ich lass sie grüßen",8,6,4,4,NULL,NULL,16,16,NULL,NULL,NULL,NULL
+2,"Belgium","Lize Marke","Als het weer lente is",1,8,14,14,NULL,NULL,0,0,NULL,NULL,NULL,NULL
+3,"Denmark","Birgit Brüel","For din skyld",9,14,7,7,NULL,NULL,10,10,NULL,NULL,NULL,NULL
+4,"Finland","Viktor Klimenko","Aurinko laskee länteen",14,16,14,14,NULL,NULL,0,0,NULL,NULL,NULL,NULL
+5,"France","Guy Mardel","N'avoue jamais",2,11,3,3,NULL,NULL,22,22,NULL,NULL,NULL,NULL
+6,"Germany","Ulla Wiesner","Paradies, wo bist du?",3,5,14,14,NULL,NULL,0,0,NULL,NULL,NULL,NULL
+7,"Ireland","Butch Moore","I'm Walking the Streets in the Rain",18,4,6,6,NULL,NULL,11,11,NULL,NULL,NULL,NULL
+8,"Italy","Bobby Solo","Se piangi, se ridi",4,13,5,5,NULL,NULL,15,15,NULL,NULL,NULL,NULL
+9,"Luxembourg","France Gall","Poupée de cire, poupée de son",5,15,1,1,NULL,NULL,32,32,NULL,NULL,NULL,NULL
+10,"Monaco","Marjorie Noël","Va dire à l'amour",12,9,9,9,NULL,NULL,7,7,NULL,NULL,NULL,NULL
+11,"Netherlands","Conny Vandenbos","Het is genoeg",6,1,11,11,NULL,NULL,5,5,NULL,NULL,NULL,NULL
+12,"Norway","Kirsti Sparboe","Karusell",13,7,13,13,NULL,NULL,1,1,NULL,NULL,NULL,NULL
+13,"Portugal","Simone de Oliveira","Sol de inverno",17,12,13,13,NULL,NULL,1,1,NULL,NULL,NULL,NULL
+14,"Spain","Conchita Bautista","Qué bueno, qué bueno",15,3,14,14,NULL,NULL,0,0,NULL,NULL,NULL,NULL
+15,"Sweden","Ingvar Wixell","Absent Friend",11,10,10,10,NULL,NULL,6,6,NULL,NULL,NULL,NULL
+16,"Switzerland","Yovanna","Non, à jamais sans toi",7,18,8,8,NULL,NULL,8,8,NULL,NULL,NULL,NULL
+17,"United Kingdom","Kathy Kirby","I Belong",10,2,2,2,NULL,NULL,26,26,NULL,NULL,NULL,NULL
+18,"Yugoslavia","Vice Vukov","Čežnja",16,17,12,12,NULL,NULL,2,2,NULL,NULL,NULL,NULL

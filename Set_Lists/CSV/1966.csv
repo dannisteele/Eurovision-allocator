@@ -1,19 +1,19 @@
-"ID","Country","Artist","Song","CountryID","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff"
-1,"Austria","Udo Jürgens","Merci, Chérie",8,9,1,1,NULL,NULL,31,31,NULL,NULL
-2,"Belgium","Tonia","Un peu de poivre, un peu de sel",1,3,4,4,NULL,NULL,14,14,NULL,NULL
-3,"Denmark","Ulla Pia","Stop – mens legen er go'",9,2,10,10,NULL,NULL,4,4,NULL,NULL
-4,"Finland","Ann-Christine","Playboy",14,7,8,8,NULL,NULL,7,7,NULL,NULL
-5,"France","Dominique Walter","Chez nous",2,15,12,12,NULL,NULL,1,1,NULL,NULL
-6,"Germany","Margot Eskens","Die Zeiger der Uhr",3,1,8,8,NULL,NULL,7,7,NULL,NULL
-7,"Ireland","Dickie Rock","Come Back to Stay",18,17,4,4,NULL,NULL,14,14,NULL,NULL
-8,"Italy","Domenico Modugno","Dio, come ti amo",4,14,13,13,NULL,NULL,0,0,NULL,NULL
-9,"Luxembourg","Michèle Torr","Ce soir je t'attendais",5,4,8,8,NULL,NULL,7,7,NULL,NULL
-10,"Monaco","Téréza","Bien plus fort",12,13,13,13,NULL,NULL,0,0,NULL,NULL
-11,"Netherlands","Milly Scott","Fernando en Philippo",6,16,11,11,NULL,NULL,2,2,NULL,NULL
-12,"Norway","Åse Kleveland","Intet er nytt under solen",13,6,3,3,NULL,NULL,15,15,NULL,NULL
-13,"Portugal","Madalena Iglésias","Ele e ela",17,8,9,9,NULL,NULL,6,6,NULL,NULL
-14,"Spain","Raphael","Yo soy aquél",15,11,6,6,NULL,NULL,9,9,NULL,NULL
-15,"Sweden","Lill Lindfors and Svante Thuresson","Nygammal vals",11,10,2,2,NULL,NULL,16,16,NULL,NULL
-16,"Switzerland","Madeleine Pascal","Ne vois-tu pas ?",7,12,5,5,NULL,NULL,12,12,NULL,NULL
-17,"United Kingdom","Kenneth McKellar","A Man Without Love",10,18,7,7,NULL,NULL,8,8,NULL,NULL
-18,"Yugoslavia","Berta Ambrož","Brez besed",16,5,6,6,NULL,NULL,9,9,NULL,NULL
+"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
+1,"Austria","Udo Jürgens","Merci, Chérie",8,9,1,1,NULL,NULL,31,31,NULL,NULL,NULL,NULL
+2,"Belgium","Tonia","Un peu de poivre, un peu de sel",1,3,4,4,NULL,NULL,14,14,NULL,NULL,NULL,NULL
+3,"Denmark","Ulla Pia","Stop – mens legen er go'",9,2,10,10,NULL,NULL,4,4,NULL,NULL,NULL,NULL
+4,"Finland","Ann-Christine","Playboy",14,7,8,8,NULL,NULL,7,7,NULL,NULL,NULL,NULL
+5,"France","Dominique Walter","Chez nous",2,15,12,12,NULL,NULL,1,1,NULL,NULL,NULL,NULL
+6,"Germany","Margot Eskens","Die Zeiger der Uhr",3,1,8,8,NULL,NULL,7,7,NULL,NULL,NULL,NULL
+7,"Ireland","Dickie Rock","Come Back to Stay",18,17,4,4,NULL,NULL,14,14,NULL,NULL,NULL,NULL
+8,"Italy","Domenico Modugno","Dio, come ti amo",4,14,13,13,NULL,NULL,0,0,NULL,NULL,NULL,NULL
+9,"Luxembourg","Michèle Torr","Ce soir je t'attendais",5,4,8,8,NULL,NULL,7,7,NULL,NULL,NULL,NULL
+10,"Monaco","Téréza","Bien plus fort",12,13,13,13,NULL,NULL,0,0,NULL,NULL,NULL,NULL
+11,"Netherlands","Milly Scott","Fernando en Philippo",6,16,11,11,NULL,NULL,2,2,NULL,NULL,NULL,NULL
+12,"Norway","Åse Kleveland","Intet er nytt under solen",13,6,3,3,NULL,NULL,15,15,NULL,NULL,NULL,NULL
+13,"Portugal","Madalena Iglésias","Ele e ela",17,8,9,9,NULL,NULL,6,6,NULL,NULL,NULL,NULL
+14,"Spain","Raphael","Yo soy aquél",15,11,6,6,NULL,NULL,9,9,NULL,NULL,NULL,NULL
+15,"Sweden","Lill Lindfors and Svante Thuresson","Nygammal vals",11,10,2,2,NULL,NULL,16,16,NULL,NULL,NULL,NULL
+16,"Switzerland","Madeleine Pascal","Ne vois-tu pas ?",7,12,5,5,NULL,NULL,12,12,NULL,NULL,NULL,NULL
+17,"United Kingdom","Kenneth McKellar","A Man Without Love",10,18,7,7,NULL,NULL,8,8,NULL,NULL,NULL,NULL
+18,"Yugoslavia","Berta Ambrož","Brez besed",16,5,6,6,NULL,NULL,9,9,NULL,NULL,NULL,NULL

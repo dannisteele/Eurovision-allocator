@@ -1,0 +1,58 @@
+"SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
+"1957","Bob Martin","Wohin, kleines Pony?",5,8,8,NULL,NULL,3,3,NULL,NULL,NULL,NULL
+"1958","Liane Augustin","Die ganze Welt braucht Liebe",9,5,5,NULL,NULL,8,8,NULL,NULL,NULL,NULL
+"1959","Ferry Graf","Der K. und K. Kalypso aus Wien",9,8,8,NULL,NULL,4,4,NULL,NULL,NULL,NULL
+"1960","Harry Winter","Du hast mich so fasziniert",7,6,6,NULL,NULL,6,6,NULL,NULL,NULL,NULL
+"1961","Jimmy Makulis","Sehnsucht",3,12,12,NULL,NULL,1,1,NULL,NULL,NULL,NULL
+"1962","Eleonore Schwarz","Nur in der Wiener Luft",4,9,9,NULL,NULL,0,0,NULL,NULL,NULL,NULL
+"1963","Carmela Corren","Vielleicht geschieht ein Wunder",4,6,6,NULL,NULL,16,16,NULL,NULL,NULL,NULL
+"1964","Udo Jürgens","Warum nur, warum?",6,5,5,NULL,NULL,11,11,NULL,NULL,NULL,NULL
+"1965","Udo Jürgens","Sag ihr, ich lass sie grüßen",6,4,4,NULL,NULL,16,16,NULL,NULL,NULL,NULL
+"1966","Udo Jürgens","Merci, Chérie",9,1,1,NULL,NULL,31,31,NULL,NULL,NULL,NULL
+"1967","Peter Horton","Warum es hunderttausend Sterne gibt",3,11,11,NULL,NULL,2,2,NULL,NULL,NULL,NULL
+"1968","Karel Gott","Tausend Fenster",4,10,10,NULL,NULL,2,2,NULL,NULL,NULL,NULL
+"1971","Marianne Mendt","Musik",1,14,14,NULL,NULL,66,66,NULL,NULL,NULL,NULL
+"1972","The Milestones","Falter im Wind",11,5,5,NULL,NULL,100,100,NULL,NULL,NULL,NULL
+"1976","Waterloo and Robinson","My Little World",14,5,5,NULL,NULL,80,80,NULL,NULL,NULL,NULL
+"1977","Schmetterlinge","Boom Boom Boomerang",4,16,16,NULL,NULL,11,11,NULL,NULL,NULL,NULL
+"1978","Springtime","Mrs. Caroline Robinson",19,14,14,NULL,NULL,14,14,NULL,NULL,NULL,NULL
+"1979","Christina Simon","Heute in Jerusalem",18,18,18,NULL,NULL,5,5,NULL,NULL,NULL,NULL
+"1980","Blue Danube","Du bist Musik",1,8,8,NULL,NULL,64,64,NULL,NULL,NULL,NULL
+"1981","Marty Brem","Wenn du da bist",1,15,15,NULL,NULL,20,20,NULL,NULL,NULL,NULL
+"1982","Mess","Sonntag",10,9,9,NULL,NULL,57,57,NULL,NULL,NULL,NULL
+"1983","Westend","Hurricane",18,9,9,NULL,NULL,53,53,NULL,NULL,NULL,NULL
+"1984","Anita","Einfach weg",13,17,17,NULL,NULL,5,5,NULL,NULL,NULL,NULL
+"1985","Gary Lux","Kinder dieser Welt",17,8,8,NULL,NULL,60,60,NULL,NULL,NULL,NULL
+"1986","Timna Brauer","Die Zeit ist einsam",16,18,18,NULL,NULL,12,12,NULL,NULL,NULL,NULL
+"1987","Gary Lux","Nur noch Gefühl",3,19,19,NULL,NULL,8,8,NULL,NULL,NULL,NULL
+"1988","Wilfried","Lisa Mona Lisa",12,19,19,NULL,NULL,0,0,NULL,NULL,NULL,NULL
+"1989","Thomas Forstner","Nur ein Lied",13,5,5,NULL,NULL,97,97,NULL,NULL,NULL,NULL
+"1990","Simone","Keine Mauern mehr",20,9,9,NULL,NULL,58,58,NULL,NULL,NULL,NULL
+"1991","Thomas Forstner","Venedig im Regen",6,20,20,NULL,NULL,0,0,NULL,NULL,NULL,NULL
+"1992","Tony Wegas","Zusammen geh'n",15,10,10,NULL,NULL,63,63,NULL,NULL,NULL,NULL
+"1993","Tony Wegas","Maria Magdalena",10,14,14,NULL,NULL,32,32,NULL,NULL,NULL,NULL
+"1994","Petra Frey","Für den Frieden der Welt",20,17,17,NULL,NULL,19,19,NULL,NULL,NULL,NULL
+"1995","Stella Jones","Die Welt dreht sich verkehrt",8,12,12,NULL,NULL,67,67,NULL,NULL,NULL,NULL
+"1996","George Nussbaumer","Weil's dr guat got",8,10,10,NULL,NULL,68,68,NULL,NULL,NULL,NULL
+"1997","Bettina Soriat","One Step",4,19,18,13,5,12,12,0,12,NULL,NULL
+"1999","Bobbie Singer","Reflection",18,9,13,8,5,65,0,65,65,NULL,NULL
+"2000","The Rounder Girls","All to You",24,14,11,14,3,34,9,25,16,NULL,NULL
+"2002","Manuel Ortega","Say a Word",3,15,13,16,3,26,14,12,2,NULL,NULL
+"2003","Alf Poier","Weil der Mensch zählt",2,6,11,6,5,101,5,96,91,NULL,NULL
+"2004","Tie Break","Du bist",2,19,NULL,19,NULL,9,NULL,9,NULL,NULL,NULL
+"2005","Global.Kryner","Y así",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2007","Eric Papilaya","Get a Life – Get Alive",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2011","Nadine Beiler","The Secret is Love",18,14,5,23,18,170,145,25,120,NULL,NULL
+"2012","Trackshittaz","Woki mit deim Popo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2013","Natália Kelly","Shine",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2014","Conchita Wurst","Rise Like a Phoenix",11,1,1,1,0,535,224,311,87,NULL,NULL
+"2015","The Makemakes","I Am Yours",14,22,13,27,14,40,40,0,40,NULL,NULL
+"2016","Zoë","Loin d'ici",24,12,23,8,15,151,31,120,89,NULL,NULL
+"2017","Nathan Trent","Running on Air",4,16,11,24,13,93,93,0,93,NULL,NULL
+"2018","Cesár Sampson","Nobody but You",5,3,1,13,12,342,271,71,200,NULL,NULL
+"2019","Paenda","Limits",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2020","Vincent Bueno","Alive",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Vincent Bueno","Amen",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2022","Lumix feat. Pia Maria","Halo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2023","Teya and Salena","Who the Hell Is Edgar?",1,15,8,21,13,120,104,16,88,NULL,NULL
+"2024","Kaleen","We Will Rave",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
