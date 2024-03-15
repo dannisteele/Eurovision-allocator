@@ -1,7 +1,7 @@
 "SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
 "1956","Franca Raimondi","Aprite le finestre",7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://www.youtube.com/watch?v=OuVmJmW-8wo","https://music.apple.com/gb/album/aprite-le-finestre/905902582?i=905903069"
 "1956","Tonina Torrielli","Amami se vuoi",14,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://www.youtube.com/watch?v=NXcu6HnrYI4","https://music.apple.com/gb/album/amami-se-vuoi/781403447?i=781403513"
-"1957","Nunzio Gallo","Corde della mia chitarra",4,5,5,NULL,NULL,7,7,NULL,NULL,NULL,NULL
+"1957","Nunzio Gallo","Corde della mia chitarra",4,5,5,NULL,NULL,7,7,NULL,NULL,"https://www.youtube.com/watch?v=3Ofli5AZpq4","https://music.apple.com/gb/album/corde-della-mia-chitarra/1489664221?i=1489664222"
 "1958","Domenico Modugno","Nel blu, dipinto di blu",1,3,3,NULL,NULL,13,13,NULL,NULL,NULL,NULL
 "1959","Domenico Modugno","Piove",3,6,6,NULL,NULL,9,9,NULL,NULL,NULL,NULL
 "1960","Renato Rascel","Romantica",12,7,7,NULL,NULL,5,5,NULL,NULL,NULL,NULL
@@ -49,4 +49,4 @@
 "2021","Måneskin","Zitti e buoni",24,1,4,1,3,524,206,318,112,NULL,NULL
 "2022","Mahmood and Blanco","Brividi",9,6,6,8,2,268,158,110,48,NULL,NULL
 "2023","Marco Mengoni","Due vite",11,4,3,6,3,350,176,174,2,NULL,NULL
-"2024","Angelina Mango","La noia",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2024","Angelina Mango","La noia",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/TO85laH-ATY?si=qM18XBbqMZynbkN1","https://music.apple.com/gb/album/zari/1734215972?i=1734216111"

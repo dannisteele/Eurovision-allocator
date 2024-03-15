@@ -1,7 +1,7 @@
 "SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
 "1956","Corry Brokken","Voorgoed voorbij",8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://www.youtube.com/watch?v=jD7bOZBj3Wo","https://music.apple.com/gb/album/voorgoed-voorbij/1178864133?i=1178864692"
 "1956","Jetty Paerl","De vogels van Holland",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://www.youtube.com/watch?v=u45UQVGRVPA",NULL
-"1957","Corry Brokken","Net als toen",6,1,1,NULL,NULL,31,31,NULL,NULL,NULL,NULL
+"1957","Corry Brokken","Net als toen",6,1,1,NULL,NULL,31,31,NULL,NULL,"https://www.youtube.com/watch?v=gTQtjqotFAg","https://music.apple.com/gb/album/net-als-toen/1124428655?i=1124428783"
 "1958","Corry Brokken","Heel de wereld",2,8,8,NULL,NULL,1,1,NULL,NULL,NULL,NULL
 "1959","Teddy Scholten","Een beetje",5,1,1,NULL,NULL,21,21,NULL,NULL,NULL,NULL
 "1960","Rudi Carrell","Wat een geluk",10,9,9,NULL,NULL,2,2,NULL,NULL,NULL,NULL
@@ -64,4 +64,4 @@
 "2021","Jeangu Macrooy","Birth of a New Age",23,22,23,22,1,11,11,0,11,NULL,NULL
 "2022","S10","De diepte",11,11,7,14,7,171,129,42,87,NULL,NULL
 "2023","Mia Nicolai and Dion Cooper","Burning Daylight",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Joost Klein","Europapa",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2024","Joost Klein","Europapa",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/gT2wY0DjYGo?si=7hXEUaUzvsuYxDr3","https://music.apple.com/gb/album/zari/1734215972?i=1734216111"

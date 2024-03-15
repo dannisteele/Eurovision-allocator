@@ -1,5 +1,5 @@
 "SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-"1957","Bob Martin","Wohin, kleines Pony?",5,8,8,NULL,NULL,3,3,NULL,NULL,NULL,NULL
+"1957","Bob Martin","Wohin, kleines Pony?",5,8,8,NULL,NULL,3,3,NULL,NULL,"https://www.youtube.com/watch?v=tegONpmFvGY",NULL
 "1958","Liane Augustin","Die ganze Welt braucht Liebe",9,5,5,NULL,NULL,8,8,NULL,NULL,NULL,NULL
 "1959","Ferry Graf","Der K. und K. Kalypso aus Wien",9,8,8,NULL,NULL,4,4,NULL,NULL,NULL,NULL
 "1960","Harry Winter","Du hast mich so fasziniert",7,6,6,NULL,NULL,6,6,NULL,NULL,NULL,NULL
@@ -55,4 +55,4 @@
 "2021","Vincent Bueno","Amen",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "2022","Lumix feat. Pia Maria","Halo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "2023","Teya and Salena","Who the Hell Is Edgar?",1,15,8,21,13,120,104,16,88,NULL,NULL
-"2024","Kaleen","We Will Rave",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2024","Kaleen","We Will Rave",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/Kqda15G4T-4?si=FMBXwVjmY8ptCVWf","https://music.apple.com/gb/album/we-will-rave/1732554445?i=1732554463"

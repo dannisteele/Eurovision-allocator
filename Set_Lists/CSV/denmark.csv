@@ -1,5 +1,5 @@
 "SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-"1957","Birthe Wilke and Gustav Winckler","Skibet skal sejle i nat",9,3,3,NULL,NULL,10,10,NULL,NULL,NULL,NULL
+"1957","Birthe Wilke and Gustav Winckler","Skibet skal sejle i nat",9,3,3,NULL,NULL,10,10,NULL,NULL,"https://www.youtube.com/watch?v=vX3WRMF5TuY","https://music.apple.com/gb/album/skibet-skal-sejle-i-nat-m-birthe-wilke/687085598?i=687085603"
 "1958","Raquel Rastenni","Jeg rev et blad ud af min dagbog",6,7,7,NULL,NULL,3,3,NULL,NULL,NULL,NULL
 "1959","Birthe Wilke","Uh, jeg ville ønske, jeg var dig",2,5,5,NULL,NULL,12,12,NULL,NULL,NULL,NULL
 "1960","Katy Bødtger","Det var en yndig tid",4,8,8,NULL,NULL,4,4,NULL,NULL,NULL,NULL
@@ -51,4 +51,4 @@
 "2021","Fyr og Flamme","Øve os på hinanden",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "2022","Reddi","The Show",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "2023","Reiley","Breaking My Heart",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Saba","Sand",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2024","Saba","Sand",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/3pCtdFnv9eQ?si=QpphvvhjT4J3DK3q","https://music.apple.com/gb/album/sand/1724984339?i=1724984353"
