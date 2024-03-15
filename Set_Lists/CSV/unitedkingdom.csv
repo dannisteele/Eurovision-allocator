@@ -1,5 +1,5 @@
 "SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-"1957","Patricia Bredin","All",3,6,6,NULL,NULL,6,6,NULL,NULL,NULL,NULL
+"1957","Patricia Bredin","All",3,6,6,NULL,NULL,6,6,NULL,NULL,"https://www.youtube.com/watch?v=LGHNEpTNcXU",NULL
 "1959","Pearl Carr and Teddy Johnson","Sing Little Birdie",10,2,2,NULL,NULL,16,16,NULL,NULL,NULL,NULL
 "1960","Bryan Johnson","Looking High, High, High",1,2,2,NULL,NULL,25,25,NULL,NULL,NULL,NULL
 "1961","The Allisons","Are You Sure?",15,2,2,NULL,NULL,24,24,NULL,NULL,NULL,NULL
@@ -65,4 +65,4 @@
 "2021","James Newman","Embers",9,25,26,22,4,0,0,0,0,NULL,NULL
 "2022","Sam Ryder","Space Man",22,2,1,5,4,466,283,183,100,NULL,NULL
 "2023","Mae Muller","I Wrote a Song",26,25,21,23,2,24,15,9,6,NULL,NULL
-"2024","Olly Alexander","Dizzy",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2024","Olly Alexander","Dizzy",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/mvs92WfR8lM?si=5zkk-lR4EXcF0jvb","https://music.apple.com/gb/album/zari/1734215972?i=1734216111"

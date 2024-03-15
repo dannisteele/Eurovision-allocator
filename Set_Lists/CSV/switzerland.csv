@@ -1,7 +1,7 @@
 "SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
 "1956","Lys Assia","Das alte Karussell",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://www.youtube.com/watch?v=lVpf8uzHnX0","https://music.apple.com/gb/album/das-alte-karussell/479762769?i=479762771"
 "1956","Lys Assia","Refrain",9,1,1,NULL,NULL,NULL,NULL,NULL,NULL,"https://www.youtube.com/watch?v=11gRqqnYenA","https://music.apple.com/gb/album/refrain/924070561?i=924075016"
-"1957","Lys Assia","L'Enfant que j'étais",10,7,7,NULL,NULL,5,5,NULL,NULL,NULL,NULL
+"1957","Lys Assia","L'Enfant que j'étais",10,7,7,NULL,NULL,5,5,NULL,NULL,"https://www.youtube.com/watch?v=SiSnxD1tbVk","https://music.apple.com/gb/album/lenfant-que-j%C3%A9tais/888477204?i=888477320"
 "1958","Lys Assia","Giorgio",10,2,2,NULL,NULL,24,24,NULL,NULL,NULL,NULL
 "1959","Christa Williams","Irgendwoher",8,4,4,NULL,NULL,14,14,NULL,NULL,NULL,NULL
 "1960","Anita Traversi","Cielo e terra",9,7,7,NULL,NULL,5,5,NULL,NULL,NULL,NULL
@@ -64,4 +64,4 @@
 "2021","Gjon's Tears","Tout l'univers",11,3,1,6,5,432,267,165,102,NULL,NULL
 "2022","Marius Bear","Boys Do Cry",5,17,11,24,13,78,78,0,78,NULL,NULL
 "2023","Remo Forrer","Watergun",3,20,14,18,4,92,61,31,30,NULL,NULL
-"2024","Nemo","The Code",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2024","Nemo","The Code",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/kiGDvM14Kwg?si=U6Ugrp-3HukYHirj","https://music.apple.com/gb/album/zari/1734215972?i=1734216111"

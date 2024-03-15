@@ -1,7 +1,7 @@
 "SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
 "1956","Fud Leclerc","Messieurs les noyés de la Seine",3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://www.youtube.com/watch?v=qFgBJwyKSGg",NULL
 "1956","Mony Marc","Le Plus Beau Jour de ma vie",10,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://www.youtube.com/watch?v=9ICOEka_Jqg",NULL
-"1957","Bobbejaan Schoepen","Straatdeuntje",1,7,7,NULL,NULL,5,5,NULL,NULL,NULL,NULL
+"1957","Bobbejaan Schoepen","Straatdeuntje",1,7,7,NULL,NULL,5,5,NULL,NULL,"https://www.youtube.com/watch?v=mu8ueVHTb9k","https://music.apple.com/gb/album/straatdeuntje-1957/411915354?i=411915722"
 "1958","Fud Leclerc","Ma petite chatte",7,5,5,NULL,NULL,8,8,NULL,NULL,NULL,NULL
 "1959","Bob Benny","Hou toch van mij",11,6,6,NULL,NULL,9,9,NULL,NULL,NULL,NULL
 "1960","Fud Leclerc","Mon amour pour toi",5,5,5,NULL,NULL,9,9,NULL,NULL,NULL,NULL
@@ -65,4 +65,4 @@
 "2021","Hooverphonic","The Wrong Place",4,18,13,21,8,74,71,3,68,NULL,NULL
 "2022","Jérémie Makiese","Miss You",16,19,12,21,9,64,59,5,54,NULL,NULL
 "2023","Gustaph","Because of You",16,7,7,12,5,182,127,55,72,NULL,NULL
-"2024","Mustii","Before the Party's Over",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2024","Mustii","Before the Party's Over",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/WCe9zrWEFNc?si=Ne9vqWlfoFZ0O9Ad","https://music.apple.com/gb/album/before-the-partys-over/1728884110?i=1728884484"

@@ -1,7 +1,7 @@
 "SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
 "1956","Mathé Altéry","Le Temps perdu",5,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://www.youtube.com/watch?v=x1e8gPquGVY",NULL
 "1956","Dany Dauberson","Il est là",12,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://www.youtube.com/watch?v=9PG4gAPxs18",NULL
-"1957","Paule Desjardins","La Belle amour",8,2,2,NULL,NULL,17,17,NULL,NULL,NULL,NULL
+"1957","Paule Desjardins","La Belle amour",8,2,2,NULL,NULL,17,17,NULL,NULL,"https://www.youtube.com/watch?v=g2-XDnBHEbc","https://music.apple.com/gb/album/la-belle-amour-feat-paul-durand-et-son-orchestre/912970999?i=912971046"
 "1958","André Claveau","Dors mon amour",3,1,1,NULL,NULL,27,27,NULL,NULL,NULL,NULL
 "1959","Jean Philippe","Oui oui oui oui",1,3,3,NULL,NULL,15,15,NULL,NULL,NULL,NULL
 "1960","Jacqueline Boyer","Tom Pillibi",13,1,1,NULL,NULL,32,32,NULL,NULL,NULL,NULL
@@ -66,4 +66,4 @@
 "2021","Barbara Pravi","Voilà",20,2,2,3,1,499,248,251,3,NULL,NULL
 "2022","Alvan and Ahez","Fulenn",6,23,22,19,3,17,9,8,1,NULL,NULL
 "2023","La Zarra","Évidemment",6,16,15,14,1,104,54,50,4,NULL,NULL
-"2024","Slimane","Mon amour",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2024","Slimane","Mon amour",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/tfoOop2HXxQ?si=mCXbOL-6zrqOv1JR","https://music.apple.com/gb/album/mon-amour/1715267552?i=1715267555"

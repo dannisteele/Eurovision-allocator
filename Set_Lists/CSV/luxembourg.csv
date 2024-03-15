@@ -1,7 +1,7 @@
 "SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
 "1956","Michèle Arnaud","Les Amants de minuit",13,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://www.youtube.com/watch?v=n8esgCRxMzs","https://music.apple.com/gb/album/les-amants-de-minuit/921750628?i=921750767"
 "1956","Michèle Arnaud","Ne Crois Pas",6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://www.youtube.com/watch?v=S62mHHz2ajc","https://music.apple.com/gb/album/ne-crois-pas/697182162?i=697182892"
-"1957","Danièle Dupré","Tant de peine",2,4,4,NULL,NULL,8,8,NULL,NULL,NULL,NULL
+"1957","Danièle Dupré","Tant de peine",2,4,4,NULL,NULL,8,8,NULL,NULL,"https://www.youtube.com/watch?v=-0nMxZ8L1cI",NULL
 "1958","Solange Berry","Un grand amour",4,8,8,NULL,NULL,1,1,NULL,NULL,NULL,NULL
 "1960","Camillo Felgen","So laang we's du do bast",3,10,10,NULL,NULL,1,1,NULL,NULL,NULL,NULL
 "1961","Jean-Claude Pascal","Nous les amoureux",14,1,1,NULL,NULL,31,31,NULL,NULL,NULL,NULL
@@ -37,4 +37,4 @@
 "1991","Sarah Bray","Un baiser volé",7,12,12,NULL,NULL,29,29,NULL,NULL,NULL,NULL
 "1992","Marion Welter and Kontinent","Sou fräi",14,21,21,NULL,NULL,10,10,NULL,NULL,NULL,NULL
 "1993","Modern Times","Donne-moi une chance",15,20,20,NULL,NULL,11,11,NULL,NULL,NULL,NULL
-"2024","Tali","Fighter",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2024","Tali","Fighter",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/HV3sORfrREE?si=zRYYSHJb_4hpnnMa","https://music.apple.com/gb/album/zari/1734215972?i=1734216111"

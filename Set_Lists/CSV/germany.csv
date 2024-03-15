@@ -1,7 +1,7 @@
 "SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
 "1956","Freddy Quinn","So geht das jede Nacht",11,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://www.youtube.com/watch?v=eZIdJT1POUA","https://music.apple.com/gb/album/so-geht-das-jede-nacht/619820489?i=619820492"
 "1956","Walter Andreas Schwarz","Im Wartesaal zum großen Glück",4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://www.youtube.com/watch?v=EfZ6_7iNBqs","https://music.apple.com/gb/album/im-wartesaal-zum-gro%C3%9Fen-gl%C3%BCck/253394176?i=253394181"
-"1957","Margot Hielscher","Telefon, Telefon",7,4,4,NULL,NULL,8,8,NULL,NULL,NULL,NULL
+"1957","Margot Hielscher","Telefon, Telefon",7,4,4,NULL,NULL,8,8,NULL,NULL,"https://www.youtube.com/watch?v=10lsFbkF7t8",NULL
 "1958","Margot Hielscher","Für zwei Groschen Musik",8,6,6,NULL,NULL,5,5,NULL,NULL,NULL,NULL
 "1959","Alice and Ellen Kessler","Heut' woll'n wir tanzen geh'n",6,7,7,NULL,NULL,5,5,NULL,NULL,NULL,NULL
 "1960","Wyn Hoop","Bonne nuit ma chérie",11,4,4,NULL,NULL,11,11,NULL,NULL,NULL,NULL
@@ -67,4 +67,4 @@
 "2021","Jendrik","I Don't Feel Hate",15,24,25,22,3,3,3,0,3,NULL,NULL
 "2022","Malik Harris","Rockstars",13,24,23,20,3,6,0,6,6,NULL,NULL
 "2023","Lord of the Lost","Blood & Glitter",21,26,25,22,3,18,3,15,12,NULL,NULL
-"2024","Isaak","Always on the Run",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2024","Isaak","Always on the Run",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/8b5gcgXcWgk?si=120y6JVlCXVQk0dL","https://music.apple.com/gb/album/always-on-the-run/1724173767?i=1724173769"
