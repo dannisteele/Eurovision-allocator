@@ -1651,7 +1651,7 @@
 "2022","Jérémie Makiese","Miss You",16,19,12,21,9,64,59,5,54
 "2022","Intelligent Music Project","Intention",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "2022","Mia Dimšić","Guilty Pleasure",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2022","Andromache","Ela (Έλα)",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2022","Andromache","Ela",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "2022","We Are Domi","Lights Off",1,21,18,21,3,38,33,5,28
 "2022","Reddi","The Show",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "2022","Stefan","Hope",25,13,14,10,4,141,43,98,55
@@ -1681,7 +1681,7 @@
 "2022","Chanel","SloMo",10,3,3,3,0,459,231,228,3
 "2022","Cornelia Jakobs","Hold Me Closer",20,4,2,6,4,438,258,180,78
 "2022","Marius Bear","Boys Do Cry",5,17,11,24,13,78,78,0,78
-"2022","Kalush Orchestra","Stefania (Стефанія)",12,1,4,1,3,631,192,439,247
+"2022","Kalush Orchestra","Stefania",12,1,4,1,3,631,192,439,247
 "2022","Sam Ryder","Space Man",22,2,1,5,4,466,283,183,100
 "2023","Albina and Familja Kelmendi","Duje",10,22,20,10,10,76,17,59,42
 "2023","Brunette","Future Lover",17,14,12,13,1,122,69,53,16
@@ -1753,7 +1753,7 @@
 "2024","Teya Dora","Ramonda",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "2024","Raiven","Veronika",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "2024","Nebulossa","Zorra",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Marcus & Martinus","Unforgettable",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Nemo","The Code",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2024","Marcus & Martinus","Unforgettable",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2024","Nemo","The Code",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "2024","Alyona Alyona and Jerry Heil","Teresa & Maria",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "2024","Olly Alexander","Dizzy",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL

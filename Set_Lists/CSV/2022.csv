@@ -1,41 +1,41 @@
 "id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-1,"Albania","Ronela Hajati","Sekret",39,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-2,"Armenia","Rosa Linn","Snap",45,8,20,15,17,2,61,40,21,19,NULL,NULL
-3,"Australia","Sheldon Riley","Not the Same",52,21,15,8,23,15,125,123,2,121,NULL,NULL
-4,"Austria","Lumix feat. Pia Maria","Halo",8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-5,"Azerbaijan","Nadir Rustamli","Fade to Black",50,15,16,9,22,13,106,103,3,100,NULL,NULL
-6,"Belgium","Jérémie Makiese","Miss You",1,16,19,12,21,9,64,59,5,54,NULL,NULL
-7,"Bulgaria","Intelligent Music Project","Intention",43,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-8,"Croatia","Mia Dimšić","Guilty Pleasure",27,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-9,"Cyprus","Andromache","Ela (Έλα)",24,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-10,"Czechia","We Are Domi","Lights Off",46,1,21,18,21,3,38,33,5,28,NULL,NULL
-11,"Denmark","Reddi","The Show",9,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-12,"Estonia","Stefan","Hope",29,25,13,14,10,4,141,43,98,55,NULL,NULL
-13,"Finland","The Rasmus","Jezebel",14,4,18,20,13,7,65,12,53,41,NULL,NULL
-14,"France","Alvan and Ahez","Fulenn",2,6,23,22,19,3,17,9,8,1,NULL,NULL
-15,"Georgia","Circus Mircus","Lock Me In",47,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-16,"Germany","Malik Harris","Rockstars",3,13,24,23,20,3,6,0,6,6,NULL,NULL
-17,"Greece","Amanda Georgiadi Tenfjord","Die Together",21,17,8,6,12,6,215,158,57,101,NULL,NULL
-18,"Iceland","Systur","Með hækkandi sól",25,18,22,21,18,3,20,10,10,0,NULL,NULL
-19,"Ireland","Brooke","That's Rich",18,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-20,"Israel","Michael Ben David","I.M",20,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-21,"Italy","Mahmood and Blanco","Brividi",4,9,6,6,8,2,268,158,110,48,NULL,NULL
-22,"Latvia","Citi Zēni","Eat Your Salad",37,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-23,"Lithuania","Monika Liu","Sentimentai",31,14,14,17,11,6,128,35,93,58,NULL,NULL
-24,"Malta","Emma Muscat","I Am What I Am",19,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-25,"Moldova","Zdob și Zdub and Advahov Brothers","Trenulețul",44,19,7,19,2,17,253,14,239,225,NULL,NULL
-26,"Montenegro","Vladana","Breathe",48,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-27,"Netherlands","S10","De diepte",6,11,11,7,14,7,171,129,42,87,NULL,NULL
-28,"North Macedonia","Andrea","Circles",36,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-29,"Norway","Subwoolfer","Give That Wolf a Banana",13,7,10,16,7,9,182,36,146,110,NULL,NULL
-30,"Poland","Ochman","River",32,23,12,13,9,4,151,46,105,59,NULL,NULL
-31,"Portugal","Maro","Saudade, saudade",17,3,9,5,15,10,207,171,36,135,NULL,NULL
-32,"Romania","Wrs","Llámame",33,2,21,20,16,4,38,12,26,14,NULL,NULL
-33,"San Marino","Achille Lauro","Stripper",51,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-34,"Serbia","Konstrakta","In corpore sano",49,24,5,10,4,6,312,87,225,138,NULL,NULL
-35,"Slovenia","LPS","Disko",28,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-36,"Spain","Chanel","SloMo",15,10,3,3,3,0,459,231,228,3,NULL,NULL
-37,"Sweden","Cornelia Jakobs","Hold Me Closer",11,20,4,2,6,4,438,258,180,78,NULL,NULL
-38,"Switzerland","Marius Bear","Boys Do Cry",7,5,17,11,24,13,78,78,0,78,NULL,NULL
-39,"Ukraine","Kalush Orchestra","Stefania (Стефанія)",38,12,1,4,1,3,631,192,439,247,NULL,NULL
-40,"United Kingdom","Sam Ryder","Space Man",10,22,2,1,5,4,466,283,183,100,NULL,NULL
+1,"Albania","Ronela Hajati","Sekret",39,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/_jWXmo0-ZjI?si=Of5GyMUO4uK7O1Js","https://music.apple.com/gb/album/sekret/1612965826?i=1612965827"
+2,"Armenia","Rosa Linn","Snap",45,8,20,15,17,2,61,40,21,19,"https://youtu.be/DAJ6vfmD_ic?si=naYkOEo0_Ua6uS_F","https://music.apple.com/gb/album/snap/1646526226?i=1646526227"
+3,"Australia","Sheldon Riley","Not the Same",52,21,15,8,23,15,125,123,2,121,"https://youtu.be/wosfFz2FJPU?si=Ycjmvqujk1qHN7nX","https://music.apple.com/gb/album/not-the-same/1605516825?i=1605516826"
+4,"Austria","Lumix feat. Pia Maria","Halo",8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/dMgjHYwXSuo?si=iJu2GToq28me0z2M","https://music.apple.com/gb/album/halo-feat-pia-maria/1611339341?i=1611339364"
+5,"Azerbaijan","Nadir Rustamli","Fade to Black",50,15,16,9,22,13,106,103,3,100,"https://youtu.be/tegPzHEL4ms?si=w2_eXfu-ueYOI8vf","https://music.apple.com/gb/album/fade-to-black/1617292305?i=1617292306"
+6,"Belgium","Jérémie Makiese","Miss You",1,16,19,12,21,9,64,59,5,54,"https://youtu.be/sB09advfF6E?si=dDYyIDTETgtTA475","https://music.apple.com/gb/album/miss-you/1612803809?i=1612804062"
+7,"Bulgaria","Intelligent Music Project","Intention",43,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/EwZTI5AoTg4?si=6NvH2R7p787NAh2K","https://music.apple.com/gb/album/intention/1598430910?i=1598430933"
+8,"Croatia","Mia Dimšić","Guilty Pleasure",27,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/9vBQdtW3mJE?si=Jm2Fn2-ELnKtyIQr","https://music.apple.com/gb/album/guilty-pleasure-eurovision-edit/1621524341?i=1621524342"
+9,"Cyprus","Andromache","Ela",24,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/W2IUdTl-gAI?si=khOdvSJOW_efhZ1j","https://music.apple.com/gb/album/ela/1668840685?i=1668840698"
+10,"Czechia","We Are Domi","Lights Off",46,1,21,18,21,3,38,33,5,28,"https://youtu.be/EGRzSefqOm0?si=AZ56bKIQ_AObFW5d","https://music.apple.com/gb/album/lights-off/1611024764?i=1611024770"
+11,"Denmark","Reddi","The Show",9,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/cVg6MpVR2Pw?si=gNECw9qqfQOtvm-n","https://music.apple.com/gb/album/the-show/1608000761?i=1608000763"
+12,"Estonia","Stefan","Hope",29,25,13,14,10,4,141,43,98,55,"https://youtu.be/GdTpQmMem8U?si=UviCwToO4LKxdn16","https://music.apple.com/gb/album/hope/1597681247?i=1597681248"
+13,"Finland","The Rasmus","Jezebel",14,4,18,20,13,7,65,12,53,41,"https://youtu.be/LSi9nfr65FE?si=R-nkma9VWXLpj-L-","https://music.apple.com/gb/album/jezebel/1597112018?i=1597112022"
+14,"France","Alvan and Ahez","Fulenn",2,6,23,22,19,3,17,9,8,1,"https://youtu.be/H1lcGXwOqJI?si=R6ZL0ceOo5lJbXP_","https://music.apple.com/gb/album/fulenn/1618994375?i=1618994647"
+15,"Georgia","Circus Mircus","Lock Me In",47,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/zXiZAbqETvk?si=RnOl_s5xmkCgXCdI","https://music.apple.com/gb/album/lock-me-in/1614865625?i=1614865844"
+16,"Germany","Malik Harris","Rockstars",3,13,24,23,20,3,6,0,6,6,"https://youtu.be/2BYIou-oWXA?si=_IFv4qKq26GQEVzI","https://music.apple.com/gb/album/rockstars/1606378006?i=1606378019"
+17,"Greece","Amanda Georgiadi Tenfjord","Die Together",21,17,8,6,12,6,215,158,57,101,"https://youtu.be/BWeT0nJpB3Y?si=0uGG1yQOaoKEskg9","https://music.apple.com/gb/album/die-together/1611018558?i=1611018559"
+18,"Iceland","Systur","Með hækkandi sól",25,18,22,21,18,3,20,10,10,0,"https://youtu.be/vk9D10EyxHA?si=hh_IYc9XlTRIjqH1","https://music.apple.com/gb/album/me%C3%B0-h%C3%A6kkandi-s%C3%B3l/1621533876?i=1621533880"
+19,"Ireland","Brooke","That's Rich",18,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/Kq2AJrWm04s?si=wN9iY8n7wpd-Nzn0","https://music.apple.com/gb/album/thats-rich/1613375632?i=1613375635"
+20,"Israel","Michael Ben David","I.M",20,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/XgXjPUsjx4Y?si=NQNZgthsdXhzp5bt","https://music.apple.com/gb/album/i-m/1614234899?i=1614234901"
+21,"Italy","Mahmood and Blanco","Brividi",4,9,6,6,8,2,268,158,110,48,"https://youtu.be/blEy4xHuMbY?si=5NFzpKOk3d5shdwh","https://music.apple.com/gb/album/brividi/1606778397?i=1606778405"
+22,"Latvia","Citi Zēni","Eat Your Salad",37,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/TM0_0WfuxSk?si=tnUT4AWahtvPw-wM","https://music.apple.com/gb/album/eat-your-salad/1625279555?i=1625279866"
+23,"Lithuania","Monika Liu","Sentimentai",31,14,14,17,11,6,128,35,93,58,"https://youtu.be/BVqSTVJhD44?si=Y_3qTEN444wClXEZ","https://music.apple.com/gb/album/sentimentai/1675847698?i=1675847702"
+24,"Malta","Emma Muscat","I Am What I Am",19,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/DFCFM5qtvms?si=ud94OKaVDLcJV-W-","https://music.apple.com/gb/album/i-am-what-i-am/1613374827?i=1613374828"
+25,"Moldova","Zdob și Zdub and Advahov Brothers","Trenulețul",44,19,7,19,2,17,253,14,239,225,"https://youtu.be/DUqf_zO2QaI?si=a0CCI9PN4U5dj0HQ","https://music.apple.com/gb/album/trenule%C8%9Bul/1601298284?i=1601298302"
+26,"Montenegro","Vladana","Breathe",48,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/L-ViRVRiGl0?si=iIIu08CkZVC9sBPG","https://music.apple.com/gb/album/breathe/1611391664?i=1611391685"
+27,"Netherlands","S10","De diepte",6,11,11,7,14,7,171,129,42,87,"https://youtu.be/sgOnu7ux2-k?si=-U6bHNGvG3r7O8o7","https://music.apple.com/gb/album/de-diepte/1612026238?i=1612026523"
+28,"North Macedonia","Andrea","Circles",36,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/zvOihqB4eKk?si=WYeOP4dT4dFUbnUc","https://music.apple.com/gb/album/circles/1614865982?i=1614865983"
+29,"Norway","Subwoolfer","Give That Wolf a Banana",13,7,10,16,7,9,182,36,146,110,"https://youtu.be/adCU2rQyDeY?si=dz3PN08cy5ojHEGC","https://music.apple.com/gb/album/give-that-wolf-a-banana/1601480323?i=1601480613"
+30,"Poland","Ochman","River",32,23,12,13,9,4,151,46,105,59,"https://youtu.be/jRVDZ6446eM?si=EuHvXJDk1Km6avvN","https://music.apple.com/gb/album/river/1607357568?i=1607357579"
+31,"Portugal","Maro","Saudade, saudade",17,3,9,5,15,10,207,171,36,135,"https://youtu.be/mZtbD47u6yI?si=Ahx7LoW1BEMl9Qb8","https://music.apple.com/gb/album/saudade-saudade/1606013782?i=1606014430"
+32,"Romania","Wrs","Llámame",33,2,21,20,16,4,38,12,26,14,"https://youtu.be/nPpuwy79sHs?si=3C5HpLx8Y3aEjsV2","https://music.apple.com/gb/album/ll%C3%A1mame/1605999432?i=1605999442"
+33,"San Marino","Achille Lauro","Stripper",51,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/vCmX64N_sXM?si=lE5GWyCDs75Bo_wO","https://music.apple.com/gb/album/stripper/1612139734?i=1612139981"
+34,"Serbia","Konstrakta","In corpore sano",49,24,5,10,4,6,312,87,225,138,"https://youtu.be/nBtQj1MfNYA?si=QtnKOGvuDR_FyBLP","https://music.apple.com/gb/album/in-corpore-sano/1610103738?i=1610103739"
+35,"Slovenia","LPS","Disko",28,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/S1tFqoflsT8?si=6nxYNyKwQ8PT76EG","https://music.apple.com/gb/album/disko/1616142461?i=1616142462"
+36,"Spain","Chanel","SloMo",15,10,3,3,3,0,459,231,228,3,"https://youtu.be/jSQYTt4xg3I?si=X6nZO_WEg4awqzev","https://music.apple.com/gb/album/slomo/1601265804?i=1601265805"
+37,"Sweden","Cornelia Jakobs","Hold Me Closer",11,20,4,2,6,4,438,258,180,78,"https://youtu.be/i777psA2gP4?si=xK1dgdrs-E61ED3x","https://music.apple.com/gb/album/hold-me-closer/1607274606?i=1607274608"
+38,"Switzerland","Marius Bear","Boys Do Cry",7,5,17,11,24,13,78,78,0,78,"https://youtu.be/hq2HCmHv5p4?si=qWRVxV-ScwyqxndC","https://music.apple.com/gb/album/boys-do-cry/1608590050?i=1608590070"
+39,"Ukraine","Kalush Orchestra","Stefania",38,12,1,4,1,3,631,192,439,247,"https://youtu.be/F1fl60ypdLs?si=GtQ7bm_sH1RFhR2V","https://music.apple.com/gb/album/stefania/1614859010?i=1614859013"
+40,"United Kingdom","Sam Ryder","Space Man",10,22,2,1,5,4,466,283,183,100,"https://youtu.be/RZ0hqX_92zI?si=pYtD3lcEWPzsYe3g","https://music.apple.com/gb/album/space-man/1608409326?i=1608409342"
