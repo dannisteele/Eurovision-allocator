@@ -1,40 +1,40 @@
-"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-1,"Albania","Juliana Pasha","It's All About You",39,15,16,11,16,5,132,97,35,62,NULL,NULL
-2,"Armenia","Eva Rivas","Apricot Stone",45,21,7,9,5,4,277,116,161,45,NULL,NULL
-3,"Azerbaijan","Safura","Drip Drop",50,1,6,9,4,5,282,116,166,50,NULL,NULL
-4,"Belarus","3+2 feat. Robert Wells","Butterflies",41,9,24,22,20,2,40,22,18,4,NULL,NULL
-5,"Belgium","Tom Dice","Me and My Guitar",1,7,9,2,14,12,261,185,76,109,NULL,NULL
-6,"Bosnia and Herzegovina","Vukašin Brajić","Thunder and Lightning",26,6,17,13,16,3,100,65,35,30,NULL,NULL
-7,"Bulgaria","Miro","Angel si ti",43,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-8,"Croatia","Feminnem","Lako je sve",27,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-9,"Cyprus","Jon Lilygreen and the Islanders","Life Looks Better in Spring",24,5,22,17,21,4,73,57,16,41,NULL,NULL
-10,"Denmark","Chanée and N'evergreen","In a Moment like This",9,25,4,7,3,4,295,121,174,53,NULL,NULL
-11,"Estonia","Malcolm Lincoln","Siren",29,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-12,"Finland","Kuunkuiskaajat","Työlki ellää",14,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-13,"France","Jessy Matador","Allez Ola Olé",2,18,11,20,8,12,185,34,151,117,NULL,NULL
-14,"Georgia","Sofia Nizharadze","Shine",47,13,5,4,9,5,287,160,127,33,NULL,NULL
-15,"Germany","Lena","Satellite",3,22,1,1,1,0,430,187,243,56,NULL,NULL
-16,"Greece","Giorgos Alkaios and Friends","Opa",21,11,8,10,7,3,262,110,152,42,NULL,NULL
-17,"Iceland","Hera Björk","Je ne sais quoi",25,16,18,17,15,2,97,57,40,17,NULL,NULL
-18,"Ireland","Niamh Kavanagh","It's for You",18,10,21,15,22,7,77,62,15,47,NULL,NULL
-19,"Israel","Harel Skaat","Milim",20,24,13,5,18,13,161,134,27,107,NULL,NULL
-20,"Latvia","Aisha","What For?",37,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-21,"Lithuania","InCulto","Eastern European Funk",31,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-22,"Macedonia","Gjoko Taneski[b]","Jas ja imam silata",36,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-23,"Malta","Thea Garrett","My Dream",19,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-24,"Moldova","SunStroke Project and Olia Tira","Run Away",44,4,23,21,17,4,61,33,28,5,NULL,NULL
-25,"Netherlands","Sieneke","Ik ben verliefd (Sha-la-lie)",6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-26,"Norway","Didrik Solli-Tangen","My Heart Is Yours",13,3,20,16,20,4,79,61,18,43,NULL,NULL
-27,"Poland","Marcin Mroziński","Legenda",32,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-28,"Portugal","Filipa Azevedo","Há dias assim",17,23,19,12,19,7,93,69,24,45,NULL,NULL
-29,"Romania","Paula Seling and Ovi","Playing with Fire",33,19,2,3,6,3,322,167,155,12,NULL,NULL
-30,"Russia","Peter Nalitch and Friends","Lost and Forgotten",34,20,12,14,11,3,170,63,107,44,NULL,NULL
-31,"Serbia","Milan Stanković","Ovo je Balkan",49,8,15,19,10,9,147,37,110,73,NULL,NULL
-32,"Slovakia","Kristína","Horehronie",35,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-33,"Slovenia","Ansambel Žlindra and Kalamari","Narodnozabavni rock",28,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-34,"Spain","Daniel Diges","Algo pequeñito",15,2,14,18,12,6,149,43,106,63,NULL,NULL
-35,"Sweden","Anna Bergendahl","This Is My Life",11,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-36,"Switzerland","Michael von der Heide","Il pleut de l'or",7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-37,"Turkey","Manga","We Could Be the Same",22,14,3,8,2,6,296,119,177,58,NULL,NULL
-38,"Ukraine","Alyosha","Sweet People",38,17,10,6,13,7,223,129,94,35,NULL,NULL
-39,"United Kingdom","Josh Dubovie","That Sounds Good to Me",10,12,25,23,23,0,25,18,7,11,NULL,NULL
+"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+1,"Albania","Juliana Pasha","It's All About You",39,15,16,11,16,5,132,97,35,62,NULL,NULL,NULL
+2,"Armenia","Eva Rivas","Apricot Stone",45,21,7,9,5,4,277,116,161,45,NULL,NULL,NULL
+3,"Azerbaijan","Safura","Drip Drop",50,1,6,9,4,5,282,116,166,50,NULL,NULL,NULL
+4,"Belarus","3+2 feat. Robert Wells","Butterflies",41,9,24,22,20,2,40,22,18,4,NULL,NULL,NULL
+5,"Belgium","Tom Dice","Me and My Guitar",1,7,9,2,14,12,261,185,76,109,NULL,NULL,NULL
+6,"Bosnia and Herzegovina","Vukašin Brajić","Thunder and Lightning",26,6,17,13,16,3,100,65,35,30,NULL,NULL,NULL
+7,"Bulgaria","Miro","Angel si ti",43,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+8,"Croatia","Feminnem","Lako je sve",27,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+9,"Cyprus","Jon Lilygreen and the Islanders","Life Looks Better in Spring",24,5,22,17,21,4,73,57,16,41,NULL,NULL,NULL
+10,"Denmark","Chanée and N'evergreen","In a Moment like This",9,25,4,7,3,4,295,121,174,53,NULL,NULL,NULL
+11,"Estonia","Malcolm Lincoln","Siren",29,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+12,"Finland","Kuunkuiskaajat","Työlki ellää",14,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+13,"France","Jessy Matador","Allez Ola Olé",2,18,11,20,8,12,185,34,151,117,NULL,NULL,NULL
+14,"Georgia","Sofia Nizharadze","Shine",47,13,5,4,9,5,287,160,127,33,NULL,NULL,NULL
+15,"Germany","Lena","Satellite",3,22,1,1,1,0,430,187,243,56,NULL,NULL,NULL
+16,"Greece","Giorgos Alkaios and Friends","Opa",21,11,8,10,7,3,262,110,152,42,NULL,NULL,NULL
+17,"Iceland","Hera Björk","Je ne sais quoi",25,16,18,17,15,2,97,57,40,17,NULL,NULL,NULL
+18,"Ireland","Niamh Kavanagh","It's for You",18,10,21,15,22,7,77,62,15,47,NULL,NULL,NULL
+19,"Israel","Harel Skaat","Milim",20,24,13,5,18,13,161,134,27,107,NULL,NULL,NULL
+20,"Latvia","Aisha","What For?",37,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+21,"Lithuania","InCulto","Eastern European Funk",31,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+22,"Macedonia","Gjoko Taneski[b]","Jas ja imam silata",36,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+23,"Malta","Thea Garrett","My Dream",19,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+24,"Moldova","SunStroke Project and Olia Tira","Run Away",44,4,23,21,17,4,61,33,28,5,NULL,NULL,NULL
+25,"Netherlands","Sieneke","Ik ben verliefd (Sha-la-lie)",6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+26,"Norway","Didrik Solli-Tangen","My Heart Is Yours",13,3,20,16,20,4,79,61,18,43,NULL,NULL,NULL
+27,"Poland","Marcin Mroziński","Legenda",32,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+28,"Portugal","Filipa Azevedo","Há dias assim",17,23,19,12,19,7,93,69,24,45,NULL,NULL,NULL
+29,"Romania","Paula Seling and Ovi","Playing with Fire",33,19,2,3,6,3,322,167,155,12,NULL,NULL,NULL
+30,"Russia","Peter Nalitch and Friends","Lost and Forgotten",34,20,12,14,11,3,170,63,107,44,NULL,NULL,NULL
+31,"Serbia","Milan Stanković","Ovo je Balkan",49,8,15,19,10,9,147,37,110,73,NULL,NULL,NULL
+32,"Slovakia","Kristína","Horehronie",35,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+33,"Slovenia","Ansambel Žlindra and Kalamari","Narodnozabavni rock",28,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+34,"Spain","Daniel Diges","Algo pequeñito",15,2,14,18,12,6,149,43,106,63,NULL,NULL,NULL
+35,"Sweden","Anna Bergendahl","This Is My Life",11,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+36,"Switzerland","Michael von der Heide","Il pleut de l'or",7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+37,"Turkey","Manga","We Could Be the Same",22,14,3,8,2,6,296,119,177,58,NULL,NULL,NULL
+38,"Ukraine","Alyosha","Sweet People",38,17,10,6,13,7,223,129,94,35,NULL,NULL,NULL
+39,"United Kingdom","Josh Dubovie","That Sounds Good to Me",10,12,25,23,23,0,25,18,7,11,NULL,NULL,NULL

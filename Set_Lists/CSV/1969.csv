@@ -1,17 +1,17 @@
-"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-1,"Belgium","Louis Neefs","Jennifer Jennings",1,10,4,4,NULL,NULL,10,10,NULL,NULL,NULL,NULL
-2,"Finland","Jarkko and Laura","Kuin silloin ennen",14,16,7,7,NULL,NULL,6,6,NULL,NULL,NULL,NULL
-3,"France","Frida Boccara","Un jour, un enfant",2,14,1,1,NULL,NULL,18,18,NULL,NULL,NULL,NULL
-4,"Germany","Siw Malmkvist","Primaballerina",3,13,5,5,NULL,NULL,8,8,NULL,NULL,NULL,NULL
-5,"Ireland","Muriel Day","The Wages of Love",18,5,4,4,NULL,NULL,10,10,NULL,NULL,NULL,NULL
-6,"Italy","Iva Zanicchi","Due grosse lacrime bianche",4,6,8,8,NULL,NULL,5,5,NULL,NULL,NULL,NULL
-7,"Luxembourg","Romuald","Catherine",5,2,6,6,NULL,NULL,7,7,NULL,NULL,NULL,NULL
-8,"Monaco","Jean Jacques","Maman, Maman",12,4,3,3,NULL,NULL,11,11,NULL,NULL,NULL,NULL
-9,"Netherlands","Lenny Kuhr","De troubadour",6,8,1,1,NULL,NULL,18,18,NULL,NULL,NULL,NULL
-10,"Norway","Kirsti Sparboe","Oj, oj, oj, så glad jeg skal bli",13,12,10,10,NULL,NULL,1,1,NULL,NULL,NULL,NULL
-11,"Portugal","Simone de Oliveira","Desfolhada portuguesa",17,15,9,9,NULL,NULL,4,4,NULL,NULL,NULL,NULL
-12,"Spain","Salomé","Vivo cantando",15,3,1,1,NULL,NULL,18,18,NULL,NULL,NULL,NULL
-13,"Sweden","Tommy Körberg","Judy, min vän",11,9,5,5,NULL,NULL,8,8,NULL,NULL,NULL,NULL
-14,"Switzerland","Paola","Bonjour, Bonjour",7,11,2,2,NULL,NULL,13,13,NULL,NULL,NULL,NULL
-15,"United Kingdom","Lulu","Boom Bang-a-Bang",10,7,1,1,NULL,NULL,18,18,NULL,NULL,NULL,NULL
-16,"Yugoslavia","Ivan","Pozdrav svijetu",16,1,8,8,NULL,NULL,5,5,NULL,NULL,NULL,NULL
+"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+1,"Belgium","Louis Neefs","Jennifer Jennings",1,10,4,4,NULL,NULL,10,10,NULL,NULL,NULL,NULL,NULL
+2,"Finland","Jarkko and Laura","Kuin silloin ennen",14,16,7,7,NULL,NULL,6,6,NULL,NULL,NULL,NULL,NULL
+3,"France","Frida Boccara","Un jour, un enfant",2,14,1,1,NULL,NULL,18,18,NULL,NULL,NULL,NULL,NULL
+4,"Germany","Siw Malmkvist","Primaballerina",3,13,5,5,NULL,NULL,8,8,NULL,NULL,NULL,NULL,NULL
+5,"Ireland","Muriel Day","The Wages of Love",18,5,4,4,NULL,NULL,10,10,NULL,NULL,NULL,NULL,NULL
+6,"Italy","Iva Zanicchi","Due grosse lacrime bianche",4,6,8,8,NULL,NULL,5,5,NULL,NULL,NULL,NULL,NULL
+7,"Luxembourg","Romuald","Catherine",5,2,6,6,NULL,NULL,7,7,NULL,NULL,NULL,NULL,NULL
+8,"Monaco","Jean Jacques","Maman, Maman",12,4,3,3,NULL,NULL,11,11,NULL,NULL,NULL,NULL,NULL
+9,"Netherlands","Lenny Kuhr","De troubadour",6,8,1,1,NULL,NULL,18,18,NULL,NULL,NULL,NULL,NULL
+10,"Norway","Kirsti Sparboe","Oj, oj, oj, så glad jeg skal bli",13,12,10,10,NULL,NULL,1,1,NULL,NULL,NULL,NULL,NULL
+11,"Portugal","Simone de Oliveira","Desfolhada portuguesa",17,15,9,9,NULL,NULL,4,4,NULL,NULL,NULL,NULL,NULL
+12,"Spain","Salomé","Vivo cantando",15,3,1,1,NULL,NULL,18,18,NULL,NULL,NULL,NULL,NULL
+13,"Sweden","Tommy Körberg","Judy, min vän",11,9,5,5,NULL,NULL,8,8,NULL,NULL,NULL,NULL,NULL
+14,"Switzerland","Paola","Bonjour, Bonjour",7,11,2,2,NULL,NULL,13,13,NULL,NULL,NULL,NULL,NULL
+15,"United Kingdom","Lulu","Boom Bang-a-Bang",10,7,1,1,NULL,NULL,18,18,NULL,NULL,NULL,NULL,NULL
+16,"Yugoslavia","Ivan","Pozdrav svijetu",16,1,8,8,NULL,NULL,5,5,NULL,NULL,NULL,NULL,NULL

@@ -1,57 +1,57 @@
-"SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-"1964","António Calvário","Oração",11,11,11,NULL,NULL,0,0,NULL,NULL,NULL,NULL
-"1965","Simone de Oliveira","Sol de inverno",12,13,13,NULL,NULL,1,1,NULL,NULL,NULL,NULL
-"1966","Madalena Iglésias","Ele e ela",8,9,9,NULL,NULL,6,6,NULL,NULL,NULL,NULL
-"1967","Eduardo Nascimento","O vento mudou",5,10,10,NULL,NULL,3,3,NULL,NULL,NULL,NULL
-"1968","Carlos Mendes","Verão",1,9,9,NULL,NULL,5,5,NULL,NULL,NULL,NULL
-"1969","Simone de Oliveira","Desfolhada portuguesa",15,9,9,NULL,NULL,4,4,NULL,NULL,NULL,NULL
-"1971","Tonicha","Menina do alto da serra",15,8,8,NULL,NULL,83,83,NULL,NULL,NULL,NULL
-"1972","Carlos Mendes","A festa da vida",7,7,7,NULL,NULL,90,90,NULL,NULL,NULL,NULL
-"1973","Fernando Tordo","Tourada",3,9,9,NULL,NULL,80,80,NULL,NULL,NULL,NULL
-"1974","Paulo de Carvalho","E depois do adeus",16,10,10,NULL,NULL,3,3,NULL,NULL,NULL,NULL
-"1975","Duarte Mendes","Madrugada",16,15,15,NULL,NULL,16,16,NULL,NULL,NULL,NULL
-"1976","Carlos do Carmo","Uma flor de verde pinho",15,12,12,NULL,NULL,24,24,NULL,NULL,NULL,NULL
-"1977","Os Amigos","Portugal no coração",8,14,14,NULL,NULL,18,18,NULL,NULL,NULL,NULL
-"1978","Gemini","Dai li dou",5,16,16,NULL,NULL,5,5,NULL,NULL,NULL,NULL
-"1979","Manuela Bravo","Sobe, sobe, balão sobe",1,9,9,NULL,NULL,64,64,NULL,NULL,NULL,NULL
-"1980","José Cid","Um grande, grande amor",14,7,7,NULL,NULL,71,71,NULL,NULL,NULL,NULL
-"1981","Carlos Paião","Playback",15,16,16,NULL,NULL,9,9,NULL,NULL,NULL,NULL
-"1982","Doce","Bem bom",1,13,13,NULL,NULL,32,32,NULL,NULL,NULL,NULL
-"1983","Armando Gama","Esta balada que te dou",17,11,11,NULL,NULL,33,33,NULL,NULL,NULL,NULL
-"1984","Maria Guinot","Silêncio e tanta gente",19,10,10,NULL,NULL,38,38,NULL,NULL,NULL,NULL
-"1985","Adelaide","Penso em ti, eu sei",9,16,16,NULL,NULL,9,9,NULL,NULL,NULL,NULL
-"1986","Dora","Não sejas mau p'ra mim",20,14,14,NULL,NULL,28,28,NULL,NULL,NULL,NULL
-"1987","Nevada","Neste barco à vela",8,17,17,NULL,NULL,15,15,NULL,NULL,NULL,NULL
-"1988","Dora","Voltarei",20,17,17,NULL,NULL,5,5,NULL,NULL,NULL,NULL
-"1989","Da Vinci","Conquistador",9,15,15,NULL,NULL,39,39,NULL,NULL,NULL,NULL
-"1990","Nucha","Há sempre alguém",16,19,19,NULL,NULL,9,9,NULL,NULL,NULL,NULL
-"1991","Dulce","Lusitana paixão",12,7,7,NULL,NULL,62,62,NULL,NULL,NULL,NULL
-"1992","Dina","Amor d'água fresca",8,17,17,NULL,NULL,26,26,NULL,NULL,NULL,NULL
-"1993","Anabela","A cidade até ser dia",11,10,10,NULL,NULL,60,60,NULL,NULL,NULL,NULL
-"1994","Sara","Chamar a música",8,8,8,NULL,NULL,73,73,NULL,NULL,NULL,NULL
-"1995","Tó Cruz","Baunilha e chocolate",16,20,20,NULL,NULL,5,5,NULL,NULL,NULL,NULL
-"1996","Lúcia Moniz","O meu coração não tem cor",4,6,6,NULL,NULL,92,92,NULL,NULL,NULL,NULL
-"1997","Célia Lawson","Antes do adeus",15,21,22,13,9,0,0,0,0,NULL,NULL
-"1998","Alma Lusa","Se eu te pudesse abraçar",14,12,9,12,3,36,6,30,24,NULL,NULL
-"1999","Rui Bandeira","Como tudo começou",16,19,13,17,4,12,0,12,12,NULL,NULL
-"2001","MTM","Só sei ser feliz assim",11,17,15,14,1,18,0,18,18,NULL,NULL
-"2003","Rita Guerra","Deixa-me sonhar",7,20,14,20,6,13,2,11,9,NULL,NULL
-"2004","Sofia Vitória","Foi magia",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2005","2B","Amar",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2006","Nonstop","Coisas de nada",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2007","Sabrina","Dança comigo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2008","Vânia Fernandes","Senhora do mar (Negras águas)",13,12,6,12,6,69,5,64,59,NULL,NULL
-"2009","Flor-de-Lis","Todas as ruas do amor",6,17,17,18,1,109,64,45,19,NULL,NULL
-"2010","Filipa Azevedo","Há dias assim",23,19,12,19,7,93,69,24,45,NULL,NULL
-"2011","Homens da Luta","A luta é alegria",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2012","Filipa Sousa","Vida minha",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2014","Suzy","Quero ser tua",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2015","Leonor Andrade","Há um mar que nos separa",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2017","Salvador Sobral","Amar pelos dois",11,1,1,1,0,758,382,376,6,NULL,NULL
-"2018","Cláudia Pascoal","O jardim",8,26,22,23,1,39,21,18,3,NULL,NULL
-"2019","Conan Osíris","Telemóveis",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Elisa","Medo de sentir",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2021","The Black Mamba","Love Is on My Side",7,11,7,18,11,153,126,27,99,"https://youtu.be/qq9SceXaukA?si=HgaW87zsa1nC5hlV","https://music.apple.com/gb/album/love-is-on-my-side/1556921127?i=1556921128"
-"2022","Maro","Saudade, saudade",3,9,5,15,10,207,171,36,135,"https://youtu.be/mZtbD47u6yI?si=Ahx7LoW1BEMl9Qb8","https://music.apple.com/gb/album/saudade-saudade/1606013782?i=1606014430"
-"2023","Mimicat","Ai coração",2,23,17,21,4,59,43,16,27,"https://youtu.be/HYfkxX4PFyw?si=3lUf7l4Ks99w_yAX","https://music.apple.com/gb/album/ai-cora%C3%A7%C3%A3o/1667650267?i=1667650571"
-"2024","Iolanda","Grito",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/K5wDGhcDSpQ?si=BPQqpug0DAqsIKeO","https://music.apple.com/gb/album/zari/1734215972?i=1734216111"
+"sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+"1964","António Calvário","Oração",11,11,11,NULL,NULL,0,0,NULL,NULL,NULL,NULL,NULL
+"1965","Simone de Oliveira","Sol de inverno",12,13,13,NULL,NULL,1,1,NULL,NULL,NULL,NULL,NULL
+"1966","Madalena Iglésias","Ele e ela",8,9,9,NULL,NULL,6,6,NULL,NULL,NULL,NULL,NULL
+"1967","Eduardo Nascimento","O vento mudou",5,10,10,NULL,NULL,3,3,NULL,NULL,NULL,NULL,NULL
+"1968","Carlos Mendes","Verão",1,9,9,NULL,NULL,5,5,NULL,NULL,NULL,NULL,NULL
+"1969","Simone de Oliveira","Desfolhada portuguesa",15,9,9,NULL,NULL,4,4,NULL,NULL,NULL,NULL,NULL
+"1971","Tonicha","Menina do alto da serra",15,8,8,NULL,NULL,83,83,NULL,NULL,NULL,NULL,NULL
+"1972","Carlos Mendes","A festa da vida",7,7,7,NULL,NULL,90,90,NULL,NULL,NULL,NULL,NULL
+"1973","Fernando Tordo","Tourada",3,9,9,NULL,NULL,80,80,NULL,NULL,NULL,NULL,NULL
+"1974","Paulo de Carvalho","E depois do adeus",16,10,10,NULL,NULL,3,3,NULL,NULL,NULL,NULL,NULL
+"1975","Duarte Mendes","Madrugada",16,15,15,NULL,NULL,16,16,NULL,NULL,NULL,NULL,NULL
+"1976","Carlos do Carmo","Uma flor de verde pinho",15,12,12,NULL,NULL,24,24,NULL,NULL,NULL,NULL,NULL
+"1977","Os Amigos","Portugal no coração",8,14,14,NULL,NULL,18,18,NULL,NULL,NULL,NULL,NULL
+"1978","Gemini","Dai li dou",5,16,16,NULL,NULL,5,5,NULL,NULL,NULL,NULL,NULL
+"1979","Manuela Bravo","Sobe, sobe, balão sobe",1,9,9,NULL,NULL,64,64,NULL,NULL,NULL,NULL,NULL
+"1980","José Cid","Um grande, grande amor",14,7,7,NULL,NULL,71,71,NULL,NULL,NULL,NULL,NULL
+"1981","Carlos Paião","Playback",15,16,16,NULL,NULL,9,9,NULL,NULL,NULL,NULL,NULL
+"1982","Doce","Bem bom",1,13,13,NULL,NULL,32,32,NULL,NULL,NULL,NULL,NULL
+"1983","Armando Gama","Esta balada que te dou",17,11,11,NULL,NULL,33,33,NULL,NULL,NULL,NULL,NULL
+"1984","Maria Guinot","Silêncio e tanta gente",19,10,10,NULL,NULL,38,38,NULL,NULL,NULL,NULL,NULL
+"1985","Adelaide","Penso em ti, eu sei",9,16,16,NULL,NULL,9,9,NULL,NULL,NULL,NULL,NULL
+"1986","Dora","Não sejas mau p'ra mim",20,14,14,NULL,NULL,28,28,NULL,NULL,NULL,NULL,NULL
+"1987","Nevada","Neste barco à vela",8,17,17,NULL,NULL,15,15,NULL,NULL,NULL,NULL,NULL
+"1988","Dora","Voltarei",20,17,17,NULL,NULL,5,5,NULL,NULL,NULL,NULL,NULL
+"1989","Da Vinci","Conquistador",9,15,15,NULL,NULL,39,39,NULL,NULL,NULL,NULL,NULL
+"1990","Nucha","Há sempre alguém",16,19,19,NULL,NULL,9,9,NULL,NULL,NULL,NULL,NULL
+"1991","Dulce","Lusitana paixão",12,7,7,NULL,NULL,62,62,NULL,NULL,NULL,NULL,NULL
+"1992","Dina","Amor d'água fresca",8,17,17,NULL,NULL,26,26,NULL,NULL,NULL,NULL,NULL
+"1993","Anabela","A cidade até ser dia",11,10,10,NULL,NULL,60,60,NULL,NULL,NULL,NULL,NULL
+"1994","Sara","Chamar a música",8,8,8,NULL,NULL,73,73,NULL,NULL,NULL,NULL,NULL
+"1995","Tó Cruz","Baunilha e chocolate",16,20,20,NULL,NULL,5,5,NULL,NULL,NULL,NULL,NULL
+"1996","Lúcia Moniz","O meu coração não tem cor",4,6,6,NULL,NULL,92,92,NULL,NULL,NULL,NULL,NULL
+"1997","Célia Lawson","Antes do adeus",15,21,22,13,9,0,0,0,0,NULL,NULL,NULL
+"1998","Alma Lusa","Se eu te pudesse abraçar",14,12,9,12,3,36,6,30,24,NULL,NULL,NULL
+"1999","Rui Bandeira","Como tudo começou",16,19,13,17,4,12,0,12,12,NULL,NULL,NULL
+"2001","MTM","Só sei ser feliz assim",11,17,15,14,1,18,0,18,18,NULL,NULL,NULL
+"2003","Rita Guerra","Deixa-me sonhar",7,20,14,20,6,13,2,11,9,NULL,NULL,NULL
+"2004","Sofia Vitória","Foi magia",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2005","2B","Amar",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2006","Nonstop","Coisas de nada",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2007","Sabrina","Dança comigo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2008","Vânia Fernandes","Senhora do mar (Negras águas)",13,12,6,12,6,69,5,64,59,NULL,NULL,NULL
+"2009","Flor-de-Lis","Todas as ruas do amor",6,17,17,18,1,109,64,45,19,NULL,NULL,NULL
+"2010","Filipa Azevedo","Há dias assim",23,19,12,19,7,93,69,24,45,NULL,NULL,NULL
+"2011","Homens da Luta","A luta é alegria",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2012","Filipa Sousa","Vida minha",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2014","Suzy","Quero ser tua",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2015","Leonor Andrade","Há um mar que nos separa",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2017","Salvador Sobral","Amar pelos dois",11,1,1,1,0,758,382,376,6,NULL,NULL,NULL
+"2018","Cláudia Pascoal","O jardim",8,26,22,23,1,39,21,18,3,NULL,NULL,NULL
+"2019","Conan Osíris","Telemóveis",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2020","Elisa","Medo de sentir",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","The Black Mamba","Love Is on My Side",7,11,7,18,11,153,126,27,99,"https://youtu.be/qq9SceXaukA?si=HgaW87zsa1nC5hlV","https://music.apple.com/gb/album/love-is-on-my-side/1556921127?i=1556921128",NULL
+"2022","Maro","Saudade, saudade",3,9,5,15,10,207,171,36,135,"https://youtu.be/mZtbD47u6yI?si=Ahx7LoW1BEMl9Qb8","https://music.apple.com/gb/album/saudade-saudade/1606013782?i=1606014430",NULL
+"2023","Mimicat","Ai coração",2,23,17,21,4,59,43,16,27,"https://youtu.be/HYfkxX4PFyw?si=3lUf7l4Ks99w_yAX","https://music.apple.com/gb/album/ai-cora%C3%A7%C3%A3o/1667650267?i=1667650571",NULL
+"2024","Iolanda","Grito",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/K5wDGhcDSpQ?si=BPQqpug0DAqsIKeO","https://music.apple.com/gb/album/zari/1734215972?i=1734216111",NULL

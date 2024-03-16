@@ -1,18 +1,18 @@
-"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-1,"Belgium","Nicole and Hugo","Baby Baby",1,2,14,14,NULL,NULL,58,58,NULL,NULL,NULL,NULL
-2,"Finland","Marion Rung","Tom Tom Tom",14,1,6,6,NULL,NULL,93,93,NULL,NULL,NULL,NULL
-3,"France","Martine Clémenceau","Sans toi",2,16,13,13,NULL,NULL,65,65,NULL,NULL,NULL,NULL
-4,"Germany","Gitte","Junger Tag",3,4,8,8,NULL,NULL,85,85,NULL,NULL,NULL,NULL
-5,"Ireland","Maxi","Do I Dream",18,14,9,9,NULL,NULL,80,80,NULL,NULL,NULL,NULL
-6,"Israel","Ilanit","Ey Sham",20,17,4,4,NULL,NULL,97,97,NULL,NULL,NULL,NULL
-7,"Italy","Massimo Ranieri","Chi sarà con te",4,10,11,11,NULL,NULL,74,74,NULL,NULL,NULL,NULL
-8,"Luxembourg","Anne-Marie David","Tu te reconnaîtras",5,11,1,1,NULL,NULL,129,129,NULL,NULL,NULL,NULL
-9,"Monaco","Marie","Un train qui part",12,6,8,8,NULL,NULL,85,85,NULL,NULL,NULL,NULL
-10,"Netherlands","Ben Cramer","De oude muzikant",6,13,12,12,NULL,NULL,69,69,NULL,NULL,NULL,NULL
-11,"Norway","Bendik Singers","It's Just a Game",13,5,7,7,NULL,NULL,89,89,NULL,NULL,NULL,NULL
-12,"Portugal","Fernando Tordo","Tourada",17,3,9,9,NULL,NULL,80,80,NULL,NULL,NULL,NULL
-13,"Spain","Mocedades","Eres tú",15,7,2,2,NULL,NULL,125,125,NULL,NULL,NULL,NULL
-14,"Sweden","The Nova","You're Summer",11,12,5,5,NULL,NULL,94,94,NULL,NULL,NULL,NULL
-15,"Switzerland","Patrick Juvet","Je vais me marier, Marie",7,8,10,10,NULL,NULL,79,79,NULL,NULL,NULL,NULL
-16,"United Kingdom","Cliff Richard","Power to All Our Friends",10,15,3,3,NULL,NULL,123,123,NULL,NULL,NULL,NULL
-17,"Yugoslavia","Zdravko Čolić","Gori vatra",16,9,13,13,NULL,NULL,65,65,NULL,NULL,NULL,NULL
+"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+1,"Belgium","Nicole and Hugo","Baby Baby",1,2,14,14,NULL,NULL,58,58,NULL,NULL,NULL,NULL,NULL
+2,"Finland","Marion Rung","Tom Tom Tom",14,1,6,6,NULL,NULL,93,93,NULL,NULL,NULL,NULL,NULL
+3,"France","Martine Clémenceau","Sans toi",2,16,13,13,NULL,NULL,65,65,NULL,NULL,NULL,NULL,NULL
+4,"Germany","Gitte","Junger Tag",3,4,8,8,NULL,NULL,85,85,NULL,NULL,NULL,NULL,NULL
+5,"Ireland","Maxi","Do I Dream",18,14,9,9,NULL,NULL,80,80,NULL,NULL,NULL,NULL,NULL
+6,"Israel","Ilanit","Ey Sham",20,17,4,4,NULL,NULL,97,97,NULL,NULL,NULL,NULL,NULL
+7,"Italy","Massimo Ranieri","Chi sarà con te",4,10,11,11,NULL,NULL,74,74,NULL,NULL,NULL,NULL,NULL
+8,"Luxembourg","Anne-Marie David","Tu te reconnaîtras",5,11,1,1,NULL,NULL,129,129,NULL,NULL,NULL,NULL,NULL
+9,"Monaco","Marie","Un train qui part",12,6,8,8,NULL,NULL,85,85,NULL,NULL,NULL,NULL,NULL
+10,"Netherlands","Ben Cramer","De oude muzikant",6,13,12,12,NULL,NULL,69,69,NULL,NULL,NULL,NULL,NULL
+11,"Norway","Bendik Singers","It's Just a Game",13,5,7,7,NULL,NULL,89,89,NULL,NULL,NULL,NULL,NULL
+12,"Portugal","Fernando Tordo","Tourada",17,3,9,9,NULL,NULL,80,80,NULL,NULL,NULL,NULL,NULL
+13,"Spain","Mocedades","Eres tú",15,7,2,2,NULL,NULL,125,125,NULL,NULL,NULL,NULL,NULL
+14,"Sweden","The Nova","You're Summer",11,12,5,5,NULL,NULL,94,94,NULL,NULL,NULL,NULL,NULL
+15,"Switzerland","Patrick Juvet","Je vais me marier, Marie",7,8,10,10,NULL,NULL,79,79,NULL,NULL,NULL,NULL,NULL
+16,"United Kingdom","Cliff Richard","Power to All Our Friends",10,15,3,3,NULL,NULL,123,123,NULL,NULL,NULL,NULL,NULL
+17,"Yugoslavia","Zdravko Čolić","Gori vatra",16,9,13,13,NULL,NULL,65,65,NULL,NULL,NULL,NULL,NULL

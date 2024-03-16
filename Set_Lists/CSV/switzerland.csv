@@ -1,67 +1,67 @@
-"SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-"1956","Lys Assia","Das alte Karussell",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://www.youtube.com/watch?v=lVpf8uzHnX0","https://music.apple.com/gb/album/das-alte-karussell/479762769?i=479762771"
-"1956","Lys Assia","Refrain",9,1,1,NULL,NULL,NULL,NULL,NULL,NULL,"https://www.youtube.com/watch?v=11gRqqnYenA","https://music.apple.com/gb/album/refrain/924070561?i=924075016"
-"1957","Lys Assia","L'Enfant que j'étais",10,7,7,NULL,NULL,5,5,NULL,NULL,"https://www.youtube.com/watch?v=SiSnxD1tbVk","https://music.apple.com/gb/album/lenfant-que-j%C3%A9tais/888477204?i=888477320"
-"1958","Lys Assia","Giorgio",10,2,2,NULL,NULL,24,24,NULL,NULL,NULL,NULL
-"1959","Christa Williams","Irgendwoher",8,4,4,NULL,NULL,14,14,NULL,NULL,NULL,NULL
-"1960","Anita Traversi","Cielo e terra",9,7,7,NULL,NULL,5,5,NULL,NULL,NULL,NULL
-"1961","Franca di Rienzo","Nous aurons demain",10,3,3,NULL,NULL,16,16,NULL,NULL,NULL,NULL
-"1962","Jean Philippe","Le Retour",11,8,8,NULL,NULL,2,2,NULL,NULL,NULL,NULL
-"1963","Esther Ofarim","T'en va pas",10,2,2,NULL,NULL,40,40,NULL,NULL,NULL,NULL
-"1964","Anita Traversi","I miei pensieri",14,11,11,NULL,NULL,0,0,NULL,NULL,NULL,NULL
-"1965","Yovanna","Non, à jamais sans toi",18,8,8,NULL,NULL,8,8,NULL,NULL,NULL,NULL
-"1966","Madeleine Pascal","Ne vois-tu pas ?",12,5,5,NULL,NULL,12,12,NULL,NULL,NULL,NULL
-"1967","Géraldine","Quel cœur vas-tu briser ?",6,12,12,NULL,NULL,0,0,NULL,NULL,NULL,NULL
-"1968","Gianni Mascolo","Guardando il sole",6,10,10,NULL,NULL,2,2,NULL,NULL,NULL,NULL
-"1969","Paola","Bonjour, Bonjour",11,2,2,NULL,NULL,13,13,NULL,NULL,NULL,NULL
-"1970","Henri Dès","Retour",2,4,4,NULL,NULL,8,8,NULL,NULL,NULL,NULL
-"1971","Peter, Sue and Marc","Les Illusions de nos vingt ans",4,11,11,NULL,NULL,78,78,NULL,NULL,NULL,NULL
-"1972","Véronique Müller","C'est la chanson de mon amour",8,8,8,NULL,NULL,88,88,NULL,NULL,NULL,NULL
-"1973","Patrick Juvet","Je vais me marier, Marie",8,10,10,NULL,NULL,79,79,NULL,NULL,NULL,NULL
-"1974","Piera Martell","Mein Ruf nach dir",15,10,10,NULL,NULL,3,3,NULL,NULL,NULL,NULL
-"1975","Simone Drexel","Mikado",7,6,6,NULL,NULL,77,77,NULL,NULL,NULL,NULL
-"1976","Peter, Sue and Marc","Djambo Djambo",2,4,4,NULL,NULL,91,91,NULL,NULL,NULL,NULL
-"1977","Pepe Lienhard Band","Swiss Lady",12,6,6,NULL,NULL,71,71,NULL,NULL,NULL,NULL
-"1978","Carole Vinci","Vivre",9,9,9,NULL,NULL,65,65,NULL,NULL,NULL,NULL
-"1979","Peter, Sue and Marc, Pfuri, Gorps and Kniri","Trödler und Co.",8,10,10,NULL,NULL,60,60,NULL,NULL,NULL,NULL
-"1980","Paola","Cinéma",9,4,4,NULL,NULL,104,104,NULL,NULL,NULL,NULL
-"1981","Peter, Sue and Marc","Io senza te",19,4,4,NULL,NULL,121,121,NULL,NULL,NULL,NULL
-"1982","Arlette Zola","Amour on t'aime",7,3,3,NULL,NULL,97,97,NULL,NULL,NULL,NULL
-"1983","Mariella Farré","Io così non ci sto",8,13,13,NULL,NULL,28,28,NULL,NULL,NULL,NULL
-"1984","Rainy Day","Welche Farbe hat der Sonnenschein",17,14,14,NULL,NULL,30,30,NULL,NULL,NULL,NULL
-"1985","Mariella Farré and Pino Gasparini","Piano, piano",15,12,12,NULL,NULL,39,39,NULL,NULL,NULL,NULL
-"1986","Daniela Simons","Pas pour moi",10,2,2,NULL,NULL,140,140,NULL,NULL,NULL,NULL
-"1987","Carol Rich","Moitié moitié",22,16,16,NULL,NULL,26,26,NULL,NULL,NULL,NULL
-"1988","Céline Dion","Ne partez pas sans moi",9,1,1,NULL,NULL,137,137,NULL,NULL,NULL,NULL
-"1989","Furbaz","Viver senza tei",18,12,12,NULL,NULL,47,47,NULL,NULL,NULL,NULL
-"1990","Egon Egemann","Musik klingt in die Welt hinaus",12,10,10,NULL,NULL,51,51,NULL,NULL,NULL,NULL
-"1991","Sandra Simó","Canzone per te",5,9,9,NULL,NULL,118,118,NULL,NULL,NULL,NULL
-"1992","Daisy Auvray","Mister Music Man",13,15,15,NULL,NULL,32,32,NULL,NULL,NULL,NULL
-"1993","Annie Cotton","Moi, tout simplement",4,3,3,NULL,NULL,148,148,NULL,NULL,NULL,NULL
-"1994","Duilio","Sto pregando",9,19,19,NULL,NULL,15,15,NULL,NULL,NULL,NULL
-"1996","Kathy Leander","Mon cœur l'aime",9,15,15,NULL,NULL,22,22,NULL,NULL,NULL,NULL
-"1997","Barbara Berta","Dentro di me",7,20,20,13,7,5,5,0,5,NULL,NULL
-"1998","Gunvor","Lass ihn",5,24,15,23,8,0,0,0,0,NULL,NULL
-"2000","Jane Bogaert","La vita cos'è?",16,19,9,22,13,14,13,1,12,NULL,NULL
-"2002","Francine Jordi","Dans le jardin de mon âme",11,19,18,17,1,15,4,11,7,NULL,NULL
-"2004","Piero and the MusicStars","Celebrate",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2005","Vanilla Ninja","Cool Vibes",22,8,7,7,0,125,9,116,107,NULL,NULL
-"2006","six4one","If We All Give a Little",1,14,6,17,11,30,6,24,18,NULL,NULL
-"2007","DJ BoBo","Vampires Are Alive",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2008","Paolo Meneguzzi","Era stupendo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2009","Lovebugs","The Highest Heights",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2010","Michael von der Heide","Il pleut de l'or",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2011","Anna Rossinelli","In Love for a While",13,24,22,24,2,55,53,2,51,NULL,NULL
-"2012","Sinplus","Unbreakable",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Takasa","You and Me",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2014","Sebalter","Hunter of Stars",20,11,22,7,15,141,27,114,87,NULL,NULL
-"2015","Mélanie René","Time to Shine",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2016","Rykka","The Last of Our Kind",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2017","Timebelle","Apollo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2018","Zibbz","Stones",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2019","Luca Hänni","She Got Me",24,4,7,5,2,364,152,212,60,NULL,NULL
-"2020","Gjon's Tears","Répondez-moi",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2021","Gjon's Tears","Tout l'univers",11,3,1,6,5,432,267,165,102,"https://youtu.be/jznH_fltcYA?si=ZB9KQaGP6Too8-V_","https://music.apple.com/gb/album/tout-lunivers/1691957630?i=1691958236"
-"2022","Marius Bear","Boys Do Cry",5,17,11,24,13,78,78,0,78,"https://youtu.be/hq2HCmHv5p4?si=qWRVxV-ScwyqxndC","https://music.apple.com/gb/album/boys-do-cry/1608590050?i=1608590070"
-"2023","Remo Forrer","Watergun",3,20,14,18,4,92,61,31,30,"https://youtu.be/l4NDErv49mk?si=cXpZFWjubOmjHiOF","https://music.apple.com/gb/album/watergun/1674200451?i=1674200460"
-"2024","Nemo","The Code",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/kiGDvM14Kwg?si=U6Ugrp-3HukYHirj","https://music.apple.com/gb/album/zari/1734215972?i=1734216111"
+"sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+"1956","Lys Assia","Das alte Karussell",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://www.youtube.com/watch?v=lVpf8uzHnX0","https://music.apple.com/gb/album/das-alte-karussell/479762769?i=479762771",NULL
+"1956","Lys Assia","Refrain",9,1,1,NULL,NULL,NULL,NULL,NULL,NULL,"https://www.youtube.com/watch?v=11gRqqnYenA","https://music.apple.com/gb/album/refrain/924070561?i=924075016",NULL
+"1957","Lys Assia","L'Enfant que j'étais",10,7,7,NULL,NULL,5,5,NULL,NULL,"https://www.youtube.com/watch?v=SiSnxD1tbVk","https://music.apple.com/gb/album/lenfant-que-j%C3%A9tais/888477204?i=888477320",NULL
+"1958","Lys Assia","Giorgio",10,2,2,NULL,NULL,24,24,NULL,NULL,NULL,NULL,NULL
+"1959","Christa Williams","Irgendwoher",8,4,4,NULL,NULL,14,14,NULL,NULL,NULL,NULL,NULL
+"1960","Anita Traversi","Cielo e terra",9,7,7,NULL,NULL,5,5,NULL,NULL,NULL,NULL,NULL
+"1961","Franca di Rienzo","Nous aurons demain",10,3,3,NULL,NULL,16,16,NULL,NULL,NULL,NULL,NULL
+"1962","Jean Philippe","Le Retour",11,8,8,NULL,NULL,2,2,NULL,NULL,NULL,NULL,NULL
+"1963","Esther Ofarim","T'en va pas",10,2,2,NULL,NULL,40,40,NULL,NULL,NULL,NULL,NULL
+"1964","Anita Traversi","I miei pensieri",14,11,11,NULL,NULL,0,0,NULL,NULL,NULL,NULL,NULL
+"1965","Yovanna","Non, à jamais sans toi",18,8,8,NULL,NULL,8,8,NULL,NULL,NULL,NULL,NULL
+"1966","Madeleine Pascal","Ne vois-tu pas ?",12,5,5,NULL,NULL,12,12,NULL,NULL,NULL,NULL,NULL
+"1967","Géraldine","Quel cœur vas-tu briser ?",6,12,12,NULL,NULL,0,0,NULL,NULL,NULL,NULL,NULL
+"1968","Gianni Mascolo","Guardando il sole",6,10,10,NULL,NULL,2,2,NULL,NULL,NULL,NULL,NULL
+"1969","Paola","Bonjour, Bonjour",11,2,2,NULL,NULL,13,13,NULL,NULL,NULL,NULL,NULL
+"1970","Henri Dès","Retour",2,4,4,NULL,NULL,8,8,NULL,NULL,NULL,NULL,NULL
+"1971","Peter, Sue and Marc","Les Illusions de nos vingt ans",4,11,11,NULL,NULL,78,78,NULL,NULL,NULL,NULL,NULL
+"1972","Véronique Müller","C'est la chanson de mon amour",8,8,8,NULL,NULL,88,88,NULL,NULL,NULL,NULL,NULL
+"1973","Patrick Juvet","Je vais me marier, Marie",8,10,10,NULL,NULL,79,79,NULL,NULL,NULL,NULL,NULL
+"1974","Piera Martell","Mein Ruf nach dir",15,10,10,NULL,NULL,3,3,NULL,NULL,NULL,NULL,NULL
+"1975","Simone Drexel","Mikado",7,6,6,NULL,NULL,77,77,NULL,NULL,NULL,NULL,NULL
+"1976","Peter, Sue and Marc","Djambo Djambo",2,4,4,NULL,NULL,91,91,NULL,NULL,NULL,NULL,NULL
+"1977","Pepe Lienhard Band","Swiss Lady",12,6,6,NULL,NULL,71,71,NULL,NULL,NULL,NULL,NULL
+"1978","Carole Vinci","Vivre",9,9,9,NULL,NULL,65,65,NULL,NULL,NULL,NULL,NULL
+"1979","Peter, Sue and Marc, Pfuri, Gorps and Kniri","Trödler und Co.",8,10,10,NULL,NULL,60,60,NULL,NULL,NULL,NULL,NULL
+"1980","Paola","Cinéma",9,4,4,NULL,NULL,104,104,NULL,NULL,NULL,NULL,NULL
+"1981","Peter, Sue and Marc","Io senza te",19,4,4,NULL,NULL,121,121,NULL,NULL,NULL,NULL,NULL
+"1982","Arlette Zola","Amour on t'aime",7,3,3,NULL,NULL,97,97,NULL,NULL,NULL,NULL,NULL
+"1983","Mariella Farré","Io così non ci sto",8,13,13,NULL,NULL,28,28,NULL,NULL,NULL,NULL,NULL
+"1984","Rainy Day","Welche Farbe hat der Sonnenschein",17,14,14,NULL,NULL,30,30,NULL,NULL,NULL,NULL,NULL
+"1985","Mariella Farré and Pino Gasparini","Piano, piano",15,12,12,NULL,NULL,39,39,NULL,NULL,NULL,NULL,NULL
+"1986","Daniela Simons","Pas pour moi",10,2,2,NULL,NULL,140,140,NULL,NULL,NULL,NULL,NULL
+"1987","Carol Rich","Moitié moitié",22,16,16,NULL,NULL,26,26,NULL,NULL,NULL,NULL,NULL
+"1988","Céline Dion","Ne partez pas sans moi",9,1,1,NULL,NULL,137,137,NULL,NULL,NULL,NULL,NULL
+"1989","Furbaz","Viver senza tei",18,12,12,NULL,NULL,47,47,NULL,NULL,NULL,NULL,NULL
+"1990","Egon Egemann","Musik klingt in die Welt hinaus",12,10,10,NULL,NULL,51,51,NULL,NULL,NULL,NULL,NULL
+"1991","Sandra Simó","Canzone per te",5,9,9,NULL,NULL,118,118,NULL,NULL,NULL,NULL,NULL
+"1992","Daisy Auvray","Mister Music Man",13,15,15,NULL,NULL,32,32,NULL,NULL,NULL,NULL,NULL
+"1993","Annie Cotton","Moi, tout simplement",4,3,3,NULL,NULL,148,148,NULL,NULL,NULL,NULL,NULL
+"1994","Duilio","Sto pregando",9,19,19,NULL,NULL,15,15,NULL,NULL,NULL,NULL,NULL
+"1996","Kathy Leander","Mon cœur l'aime",9,15,15,NULL,NULL,22,22,NULL,NULL,NULL,NULL,NULL
+"1997","Barbara Berta","Dentro di me",7,20,20,13,7,5,5,0,5,NULL,NULL,NULL
+"1998","Gunvor","Lass ihn",5,24,15,23,8,0,0,0,0,NULL,NULL,NULL
+"2000","Jane Bogaert","La vita cos'è?",16,19,9,22,13,14,13,1,12,NULL,NULL,NULL
+"2002","Francine Jordi","Dans le jardin de mon âme",11,19,18,17,1,15,4,11,7,NULL,NULL,NULL
+"2004","Piero and the MusicStars","Celebrate",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2005","Vanilla Ninja","Cool Vibes",22,8,7,7,0,125,9,116,107,NULL,NULL,NULL
+"2006","six4one","If We All Give a Little",1,14,6,17,11,30,6,24,18,NULL,NULL,NULL
+"2007","DJ BoBo","Vampires Are Alive",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2008","Paolo Meneguzzi","Era stupendo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2009","Lovebugs","The Highest Heights",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2010","Michael von der Heide","Il pleut de l'or",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2011","Anna Rossinelli","In Love for a While",13,24,22,24,2,55,53,2,51,NULL,NULL,NULL
+"2012","Sinplus","Unbreakable",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2013","Takasa","You and Me",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2014","Sebalter","Hunter of Stars",20,11,22,7,15,141,27,114,87,NULL,NULL,NULL
+"2015","Mélanie René","Time to Shine",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2016","Rykka","The Last of Our Kind",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2017","Timebelle","Apollo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2018","Zibbz","Stones",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2019","Luca Hänni","She Got Me",24,4,7,5,2,364,152,212,60,NULL,NULL,NULL
+"2020","Gjon's Tears","Répondez-moi",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Gjon's Tears","Tout l'univers",11,3,1,6,5,432,267,165,102,"https://youtu.be/jznH_fltcYA?si=ZB9KQaGP6Too8-V_","https://music.apple.com/gb/album/tout-lunivers/1691957630?i=1691958236",NULL
+"2022","Marius Bear","Boys Do Cry",5,17,11,24,13,78,78,0,78,"https://youtu.be/hq2HCmHv5p4?si=qWRVxV-ScwyqxndC","https://music.apple.com/gb/album/boys-do-cry/1608590050?i=1608590070",NULL
+"2023","Remo Forrer","Watergun",3,20,14,18,4,92,61,31,30,"https://youtu.be/l4NDErv49mk?si=cXpZFWjubOmjHiOF","https://music.apple.com/gb/album/watergun/1674200451?i=1674200460",NULL
+"2024","Nemo","The Code",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/kiGDvM14Kwg?si=U6Ugrp-3HukYHirj","https://music.apple.com/gb/album/zari/1734215972?i=1734216111",NULL

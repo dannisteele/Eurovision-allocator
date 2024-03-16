@@ -1,26 +1,26 @@
-"SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-"2000","Brainstorm","My Star",21,3,12,3,9,136,8,128,120,NULL,NULL
-"2001","Arnis Mednis","Too Much",9,18,15,15,0,16,0,16,16,NULL,NULL
-"2002","Marie N","I Wanna",23,1,1,1,0,176,57,119,62,NULL,NULL
-"2003","F.L.Y.","Hello from Mars",21,22,16,21,5,5,0,5,5,NULL,NULL
-"2004","Fomins and Kleins","Dziesma par laimi",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2005","Walters and Kazha","The War Is Not Over",23,3,2,4,2,152,22,130,108,NULL,NULL
-"2006","Vocal Group Cosmos","I Hear Your Heart",4,14,4,18,14,30,8,22,14,NULL,NULL
-"2007","Bonaparti.lv","Questa notte",14,16,12,16,4,54,0,54,54,NULL,NULL
-"2008","Pirates of the Sea","Wolves of the Sea",14,11,11,11,0,83,0,83,83,NULL,NULL
-"2009","Intars Busulis","Probka",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2010","Aisha","What For?",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2011","Musiqq","Angel in Disguise",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2012","Anmary","Beautiful Song",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","PeR","Here We Go",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2014","Aarzemnieki","Cake to Bake",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2015","Aminata","Love Injected",19,6,2,8,6,349,249,100,149,NULL,NULL
-"2016","Justs","Heartbeat",20,14,14,13,1,132,69,63,6,NULL,NULL
-"2017","Triana Park","Line",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2018","Laura Rizzotto","Funny Girl",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2019","Carousel","That Night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Samanta Tīna","Still Breathing",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2021","Samanta Tīna","The Moon Is Rising",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/btA_Tyiyfhc?si=e9m6XLiYsWY9OeRG","https://music.apple.com/gb/album/the-moon-is-rising-original/1558314751?i=1558314753"
-"2022","Citi Zēni","Eat Your Salad",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/TM0_0WfuxSk?si=tnUT4AWahtvPw-wM","https://music.apple.com/gb/album/eat-your-salad/1625279555?i=1625279866"
-"2023","Sudden Lights","Aijā",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/SEykwl9X9SY?si=9Rj2YJd1anMLtQi6","https://music.apple.com/gb/album/aij%C4%81/1667084660?i=1667084674"
-"2024","Dons","Hollow",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/p8FNO0DtBng?si=FQXFcgwgMyTT23_a","https://music.apple.com/gb/album/zari/1734215972?i=1734216111"
+"sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+"2000","Brainstorm","My Star",21,3,12,3,9,136,8,128,120,NULL,NULL,NULL
+"2001","Arnis Mednis","Too Much",9,18,15,15,0,16,0,16,16,NULL,NULL,NULL
+"2002","Marie N","I Wanna",23,1,1,1,0,176,57,119,62,NULL,NULL,NULL
+"2003","F.L.Y.","Hello from Mars",21,22,16,21,5,5,0,5,5,NULL,NULL,NULL
+"2004","Fomins and Kleins","Dziesma par laimi",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2005","Walters and Kazha","The War Is Not Over",23,3,2,4,2,152,22,130,108,NULL,NULL,NULL
+"2006","Vocal Group Cosmos","I Hear Your Heart",4,14,4,18,14,30,8,22,14,NULL,NULL,NULL
+"2007","Bonaparti.lv","Questa notte",14,16,12,16,4,54,0,54,54,NULL,NULL,NULL
+"2008","Pirates of the Sea","Wolves of the Sea",14,11,11,11,0,83,0,83,83,NULL,NULL,NULL
+"2009","Intars Busulis","Probka",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2010","Aisha","What For?",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2011","Musiqq","Angel in Disguise",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2012","Anmary","Beautiful Song",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2013","PeR","Here We Go",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2014","Aarzemnieki","Cake to Bake",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2015","Aminata","Love Injected",19,6,2,8,6,349,249,100,149,NULL,NULL,NULL
+"2016","Justs","Heartbeat",20,14,14,13,1,132,69,63,6,NULL,NULL,NULL
+"2017","Triana Park","Line",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2018","Laura Rizzotto","Funny Girl",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2019","Carousel","That Night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2020","Samanta Tīna","Still Breathing",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Samanta Tīna","The Moon Is Rising",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/btA_Tyiyfhc?si=e9m6XLiYsWY9OeRG","https://music.apple.com/gb/album/the-moon-is-rising-original/1558314751?i=1558314753",NULL
+"2022","Citi Zēni","Eat Your Salad",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/TM0_0WfuxSk?si=tnUT4AWahtvPw-wM","https://music.apple.com/gb/album/eat-your-salad/1625279555?i=1625279866",NULL
+"2023","Sudden Lights","Aijā",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/SEykwl9X9SY?si=9Rj2YJd1anMLtQi6","https://music.apple.com/gb/album/aij%C4%81/1667084660?i=1667084674",NULL
+"2024","Dons","Hollow",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/p8FNO0DtBng?si=FQXFcgwgMyTT23_a","https://music.apple.com/gb/album/zari/1734215972?i=1734216111",NULL

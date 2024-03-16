@@ -1,13 +1,13 @@
-"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-1,"Belgium","Jean Vallée","Viens l'oublier",1,5,6,6,NULL,NULL,5,5,NULL,NULL,NULL,NULL
-2,"France","Guy Bonnet","Marie-Blanche",2,6,4,4,NULL,NULL,8,8,NULL,NULL,NULL,NULL
-3,"Germany","Katja Ebstein","Wunder gibt es immer wieder",3,11,3,3,NULL,NULL,12,12,NULL,NULL,NULL,NULL
-4,"Ireland","Dana","All Kinds of Everything",18,12,1,1,NULL,NULL,32,32,NULL,NULL,NULL,NULL
-5,"Italy","Gianni Morandi","Occhi di ragazza",4,3,6,6,NULL,NULL,5,5,NULL,NULL,NULL,NULL
-6,"Luxembourg","David Alexandre Winter","Je suis tombé du ciel",5,8,8,8,NULL,NULL,0,0,NULL,NULL,NULL,NULL
-7,"Monaco","Dominique Dussault","Marlène",12,10,6,6,NULL,NULL,5,5,NULL,NULL,NULL,NULL
-8,"Netherlands","Patricia and Hearts of Soul","Waterman",6,1,5,5,NULL,NULL,7,7,NULL,NULL,NULL,NULL
-9,"Spain","Julio Iglesias","Gwendolyne",15,9,4,4,NULL,NULL,8,8,NULL,NULL,NULL,NULL
-10,"Switzerland","Henri Dès","Retour",7,2,4,4,NULL,NULL,8,8,NULL,NULL,NULL,NULL
-11,"United Kingdom","Mary Hopkin","Knock, Knock (Who's There?)",10,7,2,2,NULL,NULL,26,26,NULL,NULL,NULL,NULL
-12,"Yugoslavia","Eva Sršen","Pridi, dala ti bom cvet",16,4,7,7,NULL,NULL,4,4,NULL,NULL,NULL,NULL
+"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+1,"Belgium","Jean Vallée","Viens l'oublier",1,5,6,6,NULL,NULL,5,5,NULL,NULL,NULL,NULL,NULL
+2,"France","Guy Bonnet","Marie-Blanche",2,6,4,4,NULL,NULL,8,8,NULL,NULL,NULL,NULL,NULL
+3,"Germany","Katja Ebstein","Wunder gibt es immer wieder",3,11,3,3,NULL,NULL,12,12,NULL,NULL,NULL,NULL,NULL
+4,"Ireland","Dana","All Kinds of Everything",18,12,1,1,NULL,NULL,32,32,NULL,NULL,NULL,NULL,NULL
+5,"Italy","Gianni Morandi","Occhi di ragazza",4,3,6,6,NULL,NULL,5,5,NULL,NULL,NULL,NULL,NULL
+6,"Luxembourg","David Alexandre Winter","Je suis tombé du ciel",5,8,8,8,NULL,NULL,0,0,NULL,NULL,NULL,NULL,NULL
+7,"Monaco","Dominique Dussault","Marlène",12,10,6,6,NULL,NULL,5,5,NULL,NULL,NULL,NULL,NULL
+8,"Netherlands","Patricia and Hearts of Soul","Waterman",6,1,5,5,NULL,NULL,7,7,NULL,NULL,NULL,NULL,NULL
+9,"Spain","Julio Iglesias","Gwendolyne",15,9,4,4,NULL,NULL,8,8,NULL,NULL,NULL,NULL,NULL
+10,"Switzerland","Henri Dès","Retour",7,2,4,4,NULL,NULL,8,8,NULL,NULL,NULL,NULL,NULL
+11,"United Kingdom","Mary Hopkin","Knock, Knock (Who's There?)",10,7,2,2,NULL,NULL,26,26,NULL,NULL,NULL,NULL,NULL
+12,"Yugoslavia","Eva Sršen","Pridi, dala ti bom cvet",16,4,7,7,NULL,NULL,4,4,NULL,NULL,NULL,NULL,NULL

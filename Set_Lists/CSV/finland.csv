@@ -1,59 +1,59 @@
-"SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-"1961","Laila Kinnunen","Valoa ikkunassa",4,9,9,NULL,NULL,6,6,NULL,NULL,NULL,NULL
-"1962","Marion Rung","Tipi-tii",1,6,6,NULL,NULL,4,4,NULL,NULL,NULL,NULL
-"1963","Laila Halme","Muistojeni laulu",7,12,12,NULL,NULL,0,0,NULL,NULL,NULL,NULL
-"1964","Lasse Mårtenson","Laiskotellen",5,6,6,NULL,NULL,9,9,NULL,NULL,NULL,NULL
-"1965","Viktor Klimenko","Aurinko laskee länteen",16,14,14,NULL,NULL,0,0,NULL,NULL,NULL,NULL
-"1966","Ann-Christine","Playboy",7,8,8,NULL,NULL,7,7,NULL,NULL,NULL,NULL
-"1967","Fredi","Varjoon – suojaan",8,10,10,NULL,NULL,3,3,NULL,NULL,NULL,NULL
-"1968","Kristina Hautala","Kun kello käy",9,11,11,NULL,NULL,1,1,NULL,NULL,NULL,NULL
-"1969","Jarkko and Laura","Kuin silloin ennen",16,7,7,NULL,NULL,6,6,NULL,NULL,NULL,NULL
-"1971","Markku Aro and Koivisto Sisters","Tie uuteen päivään",17,7,7,NULL,NULL,84,84,NULL,NULL,NULL,NULL
-"1972","Päivi Paunu and Kim Floor","Muistathan",10,12,12,NULL,NULL,78,78,NULL,NULL,NULL,NULL
-"1973","Marion Rung","Tom Tom Tom",1,6,6,NULL,NULL,93,93,NULL,NULL,NULL,NULL
-"1974","Carita","Keep Me Warm",1,9,9,NULL,NULL,4,4,NULL,NULL,NULL,NULL
-"1975","Pihasoittajat","Old Man Fiddle",15,7,7,NULL,NULL,74,74,NULL,NULL,NULL,NULL
-"1976","Fredi and the Friends","Pump-Pump",11,11,11,NULL,NULL,44,44,NULL,NULL,NULL,NULL
-"1977","Monica Aspelund","Lapponia",16,10,10,NULL,NULL,50,50,NULL,NULL,NULL,NULL
-"1978","Seija Simola","Anna rakkaudelle tilaisuus",4,17,17,NULL,NULL,2,2,NULL,NULL,NULL,NULL
-"1979","Katri Helena","Katson sineen taivaan",5,14,14,NULL,NULL,38,38,NULL,NULL,NULL,NULL
-"1980","Vesa-Matti Loiri","Huilumies",10,19,19,NULL,NULL,6,6,NULL,NULL,NULL,NULL
-"1981","Riki Sorsa","Reggae O.K.",8,14,14,NULL,NULL,27,27,NULL,NULL,NULL,NULL
-"1982","Kojo","Nuku pommiin",6,18,18,NULL,NULL,0,0,NULL,NULL,NULL,NULL
-"1983","Ami Aspelund","Fantasiaa",9,10,10,NULL,NULL,41,41,NULL,NULL,NULL,NULL
-"1984","Kirka","Hengaillaan",16,8,8,NULL,NULL,46,46,NULL,NULL,NULL,NULL
-"1985","Sonja Lumme","Eläköön elämä",2,9,9,NULL,NULL,58,58,NULL,NULL,NULL,NULL
-"1986","Kari","Never the End",19,15,15,NULL,NULL,22,22,NULL,NULL,NULL,NULL
-"1987","Vicky Rosti","Sata salamaa",18,14,14,NULL,NULL,32,32,NULL,NULL,NULL,NULL
-"1988","Boulevard","Nauravat silmät muistetaan",3,18,18,NULL,NULL,3,3,NULL,NULL,NULL,NULL
-"1989","Anneli Saaristo","La dolce vita",14,7,7,NULL,NULL,76,76,NULL,NULL,NULL,NULL
-"1990","Beat","Fri?",22,20,20,NULL,NULL,8,8,NULL,NULL,NULL,NULL
-"1991","Kaija","Hullu yö",16,18,18,NULL,NULL,6,6,NULL,NULL,NULL,NULL
-"1992","Pave","Yamma Yamma",12,23,23,NULL,NULL,4,4,NULL,NULL,NULL,NULL
-"1993","Katri Helena","Tule luo",17,17,17,NULL,NULL,20,20,NULL,NULL,NULL,NULL
-"1994","CatCat","Bye Bye Baby",2,21,21,NULL,NULL,11,11,NULL,NULL,NULL,NULL
-"1996","Jasmine","Niin kaunis on taivas",18,21,21,NULL,NULL,9,9,NULL,NULL,NULL,NULL
-"1998","Edea","Aava",21,14,15,14,1,22,0,22,22,NULL,NULL
-"2000","Nina Åström","A Little Bit",20,18,11,18,7,18,9,9,0,NULL,NULL
-"2002","Laura","Addicted to You",13,17,17,14,3,24,5,19,14,NULL,NULL
-"2004","Jari Sillanpää","Takes 2 to Tango",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2005","Geir Rönning","Why",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2006","Lordi","Hard Rock Hallelujah",17,1,12,1,11,292,0,292,292,NULL,NULL
-"2007","Hanna Pakarinen","Leave Me Alone",5,17,5,18,13,53,7,46,39,NULL,NULL
-"2008","Teräsbetoni","Missä miehet ratsastaa",8,19,11,18,7,35,0,35,35,NULL,NULL
-"2009","Waldo's People","Lose Control",24,25,22,21,1,42,12,30,18,NULL,NULL
-"2010","Kuunkuiskaajat","Työlki ellää",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2011","Paradise Oskar","Da Da Dam",1,20,16,20,4,122,75,47,28,NULL,NULL
-"2012","Pernilla","När jag blundar",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Krista Siegfrids","Marry Me",4,23,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2014","Softengine","Something Better",18,10,7,15,8,153,114,39,75,NULL,NULL
-"2015","Pertti Kurikan Nimipäivät","Aina mun pitää",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2016","Sandhja","Sing It Away",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2017","Norma John","Blackbird",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2018","Saara Aalto","Monsters",17,25,21,21,0,46,23,23,0,NULL,NULL
-"2019","Darude feat. Sebastian Rejman","Look Away",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Aksel","Looking Back",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2021","Blind Channel","Dark Side",16,6,11,4,7,301,83,218,135,"https://youtu.be/fOPGxQ4fgVw?si=rKrgP7_20srF7NDC","https://music.apple.com/gb/album/dark-side/1604873130?i=1604873544"
-"2022","The Rasmus","Jezebel",4,18,20,13,7,65,12,53,41,"https://youtu.be/LSi9nfr65FE?si=R-nkma9VWXLpj-L-","https://music.apple.com/gb/album/jezebel/1597112018?i=1597112022"
-"2023","Käärijä","Cha Cha Cha",13,2,4,1,3,526,150,376,226,"https://youtu.be/l6rS8Dv5g-8?si=eEiH_-kQ8rFKgbtc","https://music.apple.com/gb/album/cha-cha-cha/1661067480?i=1661067481"
-"2024","Windows95man","No Rules!",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/aaIxsEPoS28?si=LG9gcAggSDVVXGwB","https://music.apple.com/gb/album/no-rules/1722048006?i=1722048011"
+"sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+"1961","Laila Kinnunen","Valoa ikkunassa",4,9,9,NULL,NULL,6,6,NULL,NULL,NULL,NULL,NULL
+"1962","Marion Rung","Tipi-tii",1,6,6,NULL,NULL,4,4,NULL,NULL,NULL,NULL,NULL
+"1963","Laila Halme","Muistojeni laulu",7,12,12,NULL,NULL,0,0,NULL,NULL,NULL,NULL,NULL
+"1964","Lasse Mårtenson","Laiskotellen",5,6,6,NULL,NULL,9,9,NULL,NULL,NULL,NULL,NULL
+"1965","Viktor Klimenko","Aurinko laskee länteen",16,14,14,NULL,NULL,0,0,NULL,NULL,NULL,NULL,NULL
+"1966","Ann-Christine","Playboy",7,8,8,NULL,NULL,7,7,NULL,NULL,NULL,NULL,NULL
+"1967","Fredi","Varjoon – suojaan",8,10,10,NULL,NULL,3,3,NULL,NULL,NULL,NULL,NULL
+"1968","Kristina Hautala","Kun kello käy",9,11,11,NULL,NULL,1,1,NULL,NULL,NULL,NULL,NULL
+"1969","Jarkko and Laura","Kuin silloin ennen",16,7,7,NULL,NULL,6,6,NULL,NULL,NULL,NULL,NULL
+"1971","Markku Aro and Koivisto Sisters","Tie uuteen päivään",17,7,7,NULL,NULL,84,84,NULL,NULL,NULL,NULL,NULL
+"1972","Päivi Paunu and Kim Floor","Muistathan",10,12,12,NULL,NULL,78,78,NULL,NULL,NULL,NULL,NULL
+"1973","Marion Rung","Tom Tom Tom",1,6,6,NULL,NULL,93,93,NULL,NULL,NULL,NULL,NULL
+"1974","Carita","Keep Me Warm",1,9,9,NULL,NULL,4,4,NULL,NULL,NULL,NULL,NULL
+"1975","Pihasoittajat","Old Man Fiddle",15,7,7,NULL,NULL,74,74,NULL,NULL,NULL,NULL,NULL
+"1976","Fredi and the Friends","Pump-Pump",11,11,11,NULL,NULL,44,44,NULL,NULL,NULL,NULL,NULL
+"1977","Monica Aspelund","Lapponia",16,10,10,NULL,NULL,50,50,NULL,NULL,NULL,NULL,NULL
+"1978","Seija Simola","Anna rakkaudelle tilaisuus",4,17,17,NULL,NULL,2,2,NULL,NULL,NULL,NULL,NULL
+"1979","Katri Helena","Katson sineen taivaan",5,14,14,NULL,NULL,38,38,NULL,NULL,NULL,NULL,NULL
+"1980","Vesa-Matti Loiri","Huilumies",10,19,19,NULL,NULL,6,6,NULL,NULL,NULL,NULL,NULL
+"1981","Riki Sorsa","Reggae O.K.",8,14,14,NULL,NULL,27,27,NULL,NULL,NULL,NULL,NULL
+"1982","Kojo","Nuku pommiin",6,18,18,NULL,NULL,0,0,NULL,NULL,NULL,NULL,NULL
+"1983","Ami Aspelund","Fantasiaa",9,10,10,NULL,NULL,41,41,NULL,NULL,NULL,NULL,NULL
+"1984","Kirka","Hengaillaan",16,8,8,NULL,NULL,46,46,NULL,NULL,NULL,NULL,NULL
+"1985","Sonja Lumme","Eläköön elämä",2,9,9,NULL,NULL,58,58,NULL,NULL,NULL,NULL,NULL
+"1986","Kari","Never the End",19,15,15,NULL,NULL,22,22,NULL,NULL,NULL,NULL,NULL
+"1987","Vicky Rosti","Sata salamaa",18,14,14,NULL,NULL,32,32,NULL,NULL,NULL,NULL,NULL
+"1988","Boulevard","Nauravat silmät muistetaan",3,18,18,NULL,NULL,3,3,NULL,NULL,NULL,NULL,NULL
+"1989","Anneli Saaristo","La dolce vita",14,7,7,NULL,NULL,76,76,NULL,NULL,NULL,NULL,NULL
+"1990","Beat","Fri?",22,20,20,NULL,NULL,8,8,NULL,NULL,NULL,NULL,NULL
+"1991","Kaija","Hullu yö",16,18,18,NULL,NULL,6,6,NULL,NULL,NULL,NULL,NULL
+"1992","Pave","Yamma Yamma",12,23,23,NULL,NULL,4,4,NULL,NULL,NULL,NULL,NULL
+"1993","Katri Helena","Tule luo",17,17,17,NULL,NULL,20,20,NULL,NULL,NULL,NULL,NULL
+"1994","CatCat","Bye Bye Baby",2,21,21,NULL,NULL,11,11,NULL,NULL,NULL,NULL,NULL
+"1996","Jasmine","Niin kaunis on taivas",18,21,21,NULL,NULL,9,9,NULL,NULL,NULL,NULL,NULL
+"1998","Edea","Aava",21,14,15,14,1,22,0,22,22,NULL,NULL,NULL
+"2000","Nina Åström","A Little Bit",20,18,11,18,7,18,9,9,0,NULL,NULL,NULL
+"2002","Laura","Addicted to You",13,17,17,14,3,24,5,19,14,NULL,NULL,NULL
+"2004","Jari Sillanpää","Takes 2 to Tango",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2005","Geir Rönning","Why",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2006","Lordi","Hard Rock Hallelujah",17,1,12,1,11,292,0,292,292,NULL,NULL,NULL
+"2007","Hanna Pakarinen","Leave Me Alone",5,17,5,18,13,53,7,46,39,NULL,NULL,NULL
+"2008","Teräsbetoni","Missä miehet ratsastaa",8,19,11,18,7,35,0,35,35,NULL,NULL,NULL
+"2009","Waldo's People","Lose Control",24,25,22,21,1,42,12,30,18,NULL,NULL,NULL
+"2010","Kuunkuiskaajat","Työlki ellää",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2011","Paradise Oskar","Da Da Dam",1,20,16,20,4,122,75,47,28,NULL,NULL,NULL
+"2012","Pernilla","När jag blundar",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2013","Krista Siegfrids","Marry Me",4,23,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2014","Softengine","Something Better",18,10,7,15,8,153,114,39,75,NULL,NULL,NULL
+"2015","Pertti Kurikan Nimipäivät","Aina mun pitää",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2016","Sandhja","Sing It Away",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2017","Norma John","Blackbird",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2018","Saara Aalto","Monsters",17,25,21,21,0,46,23,23,0,NULL,NULL,NULL
+"2019","Darude feat. Sebastian Rejman","Look Away",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2020","Aksel","Looking Back",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Blind Channel","Dark Side",16,6,11,4,7,301,83,218,135,"https://youtu.be/fOPGxQ4fgVw?si=rKrgP7_20srF7NDC","https://music.apple.com/gb/album/dark-side/1604873130?i=1604873544",NULL
+"2022","The Rasmus","Jezebel",4,18,20,13,7,65,12,53,41,"https://youtu.be/LSi9nfr65FE?si=R-nkma9VWXLpj-L-","https://music.apple.com/gb/album/jezebel/1597112018?i=1597112022",NULL
+"2023","Käärijä","Cha Cha Cha",13,2,4,1,3,526,150,376,226,"https://youtu.be/l6rS8Dv5g-8?si=eEiH_-kQ8rFKgbtc","https://music.apple.com/gb/album/cha-cha-cha/1661067480?i=1661067481",NULL
+"2024","Windows95man","No Rules!",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/aaIxsEPoS28?si=LG9gcAggSDVVXGwB","https://music.apple.com/gb/album/no-rules/1722048006?i=1722048011",NULL

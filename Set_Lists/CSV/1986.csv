@@ -1,21 +1,21 @@
-"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-1,"Austria","Timna Brauer","Die Zeit ist einsam",8,16,18,18,NULL,NULL,12,12,NULL,NULL,NULL,NULL
-2,"Belgium","Sandra Kim","J'aime la vie",1,13,1,1,NULL,NULL,176,176,NULL,NULL,NULL,NULL
-3,"Cyprus","Elpida","Tora zo",24,15,20,20,NULL,NULL,4,4,NULL,NULL,NULL,NULL
-4,"Denmark","Lise Haavik","Du er fuld af løgn",9,18,6,6,NULL,NULL,77,77,NULL,NULL,NULL,NULL
-5,"Finland","Kari","Never the End",14,19,15,15,NULL,NULL,22,22,NULL,NULL,NULL,NULL
-6,"France","Cocktail Chic","Européennes",2,3,17,17,NULL,NULL,13,13,NULL,NULL,NULL,NULL
-7,"Germany","Ingrid Peters","Über die Brücke geh'n",3,14,8,8,NULL,NULL,62,62,NULL,NULL,NULL,NULL
-8,"Iceland","ICY","Gleðibankinn",25,6,16,16,NULL,NULL,19,19,NULL,NULL,NULL,NULL
-9,"Ireland","Luv Bug","You Can Count On Me",18,12,4,4,NULL,NULL,96,96,NULL,NULL,NULL,NULL
-10,"Israel","Moti Giladi and Sarai Tzuriel","Yavo Yom",20,11,19,19,NULL,NULL,7,7,NULL,NULL,NULL,NULL
-11,"Luxembourg","Sherisse Laurence","L'Amour de ma vie",5,1,3,3,NULL,NULL,117,117,NULL,NULL,NULL,NULL
-12,"Netherlands","Frizzle Sizzle","Alles heeft ritme",6,7,13,13,NULL,NULL,40,40,NULL,NULL,NULL,NULL
-13,"Norway","Ketil Stokkan","Romeo",13,4,12,12,NULL,NULL,44,44,NULL,NULL,NULL,NULL
-14,"Portugal","Dora","Não sejas mau p'ra mim",17,20,14,14,NULL,NULL,28,28,NULL,NULL,NULL,NULL
-15,"Spain","Cadillac","Valentino",15,9,10,10,NULL,NULL,51,51,NULL,NULL,NULL,NULL
-16,"Sweden","Lasse Holm and Monica Törnell","E' de' det här du kallar kärlek",11,17,5,5,NULL,NULL,78,78,NULL,NULL,NULL,NULL
-17,"Switzerland","Daniela Simons","Pas pour moi",7,10,2,2,NULL,NULL,140,140,NULL,NULL,NULL,NULL
-18,"Turkey","Klips ve Onlar","Halley",22,8,9,9,NULL,NULL,53,53,NULL,NULL,NULL,NULL
-19,"United Kingdom","Ryder","Runner in the Night",10,5,7,7,NULL,NULL,72,72,NULL,NULL,NULL,NULL
-20,"Yugoslavia","Doris Dragović","Željo moja",16,2,11,11,NULL,NULL,49,49,NULL,NULL,NULL,NULL
+"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+1,"Austria","Timna Brauer","Die Zeit ist einsam",8,16,18,18,NULL,NULL,12,12,NULL,NULL,NULL,NULL,NULL
+2,"Belgium","Sandra Kim","J'aime la vie",1,13,1,1,NULL,NULL,176,176,NULL,NULL,NULL,NULL,NULL
+3,"Cyprus","Elpida","Tora zo",24,15,20,20,NULL,NULL,4,4,NULL,NULL,NULL,NULL,NULL
+4,"Denmark","Lise Haavik","Du er fuld af løgn",9,18,6,6,NULL,NULL,77,77,NULL,NULL,NULL,NULL,NULL
+5,"Finland","Kari","Never the End",14,19,15,15,NULL,NULL,22,22,NULL,NULL,NULL,NULL,NULL
+6,"France","Cocktail Chic","Européennes",2,3,17,17,NULL,NULL,13,13,NULL,NULL,NULL,NULL,NULL
+7,"Germany","Ingrid Peters","Über die Brücke geh'n",3,14,8,8,NULL,NULL,62,62,NULL,NULL,NULL,NULL,NULL
+8,"Iceland","ICY","Gleðibankinn",25,6,16,16,NULL,NULL,19,19,NULL,NULL,NULL,NULL,NULL
+9,"Ireland","Luv Bug","You Can Count On Me",18,12,4,4,NULL,NULL,96,96,NULL,NULL,NULL,NULL,NULL
+10,"Israel","Moti Giladi and Sarai Tzuriel","Yavo Yom",20,11,19,19,NULL,NULL,7,7,NULL,NULL,NULL,NULL,NULL
+11,"Luxembourg","Sherisse Laurence","L'Amour de ma vie",5,1,3,3,NULL,NULL,117,117,NULL,NULL,NULL,NULL,NULL
+12,"Netherlands","Frizzle Sizzle","Alles heeft ritme",6,7,13,13,NULL,NULL,40,40,NULL,NULL,NULL,NULL,NULL
+13,"Norway","Ketil Stokkan","Romeo",13,4,12,12,NULL,NULL,44,44,NULL,NULL,NULL,NULL,NULL
+14,"Portugal","Dora","Não sejas mau p'ra mim",17,20,14,14,NULL,NULL,28,28,NULL,NULL,NULL,NULL,NULL
+15,"Spain","Cadillac","Valentino",15,9,10,10,NULL,NULL,51,51,NULL,NULL,NULL,NULL,NULL
+16,"Sweden","Lasse Holm and Monica Törnell","E' de' det här du kallar kärlek",11,17,5,5,NULL,NULL,78,78,NULL,NULL,NULL,NULL,NULL
+17,"Switzerland","Daniela Simons","Pas pour moi",7,10,2,2,NULL,NULL,140,140,NULL,NULL,NULL,NULL,NULL
+18,"Turkey","Klips ve Onlar","Halley",22,8,9,9,NULL,NULL,53,53,NULL,NULL,NULL,NULL,NULL
+19,"United Kingdom","Ryder","Runner in the Night",10,5,7,7,NULL,NULL,72,72,NULL,NULL,NULL,NULL,NULL
+20,"Yugoslavia","Doris Dragović","Željo moja",16,2,11,11,NULL,NULL,49,49,NULL,NULL,NULL,NULL,NULL

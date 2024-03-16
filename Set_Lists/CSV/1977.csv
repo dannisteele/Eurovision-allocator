@@ -1,19 +1,19 @@
-"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-1,"Austria","Schmetterlinge","Boom Boom Boomerang",8,4,16,16,NULL,NULL,11,11,NULL,NULL,NULL,NULL
-2,"Belgium","Dream Express","A Million in One, Two, Three",1,17,7,7,NULL,NULL,69,69,NULL,NULL,NULL,NULL
-3,"Finland","Monica Aspelund","Lapponia",14,16,10,10,NULL,NULL,50,50,NULL,NULL,NULL,NULL
-4,"France","Marie Myriam","L'Oiseau et l'Enfant",2,18,1,1,NULL,NULL,136,136,NULL,NULL,NULL,NULL
-5,"Germany","Silver Convention","Telegram",3,6,8,8,NULL,NULL,55,55,NULL,NULL,NULL,NULL
-6,"Greece","Pascalis, Marianna, Robert and Bessy","Mathema solfege (Μάθημα σολφέζ)",21,10,5,5,NULL,NULL,92,92,NULL,NULL,NULL,NULL
-7,"Ireland","The Swarbriggs Plus Two","It's Nice to Be in Love Again",18,1,3,3,NULL,NULL,119,119,NULL,NULL,NULL,NULL
-8,"Israel","Ilanit","Ahava Hi Shir Lishnayim (אהבה היא שיר לשניים)",20,11,11,11,NULL,NULL,49,49,NULL,NULL,NULL,NULL
-9,"Italy","Mia Martini","Libera",4,15,13,13,NULL,NULL,33,33,NULL,NULL,NULL,NULL
-10,"Luxembourg","Anne-Marie B","Frère Jacques",5,7,15,15,NULL,NULL,17,17,NULL,NULL,NULL,NULL
-11,"Monaco","Michèle Torr","Une petite française",12,2,4,4,NULL,NULL,96,96,NULL,NULL,NULL,NULL
-12,"Netherlands","Heddy Lester","De mallemolen",6,3,12,12,NULL,NULL,35,35,NULL,NULL,NULL,NULL
-13,"Norway","Anita Skorgan","Casanova",13,5,14,14,NULL,NULL,18,18,NULL,NULL,NULL,NULL
-14,"Portugal","Os Amigos","Portugal no coração",17,8,14,14,NULL,NULL,18,18,NULL,NULL,NULL,NULL
-15,"Spain","Micky","Enséñame a cantar",15,14,9,9,NULL,NULL,52,52,NULL,NULL,NULL,NULL
-16,"Sweden","Forbes","Beatles",11,13,17,17,NULL,NULL,2,2,NULL,NULL,NULL,NULL
-17,"Switzerland","Pepe Lienhard Band","Swiss Lady",7,12,6,6,NULL,NULL,71,71,NULL,NULL,NULL,NULL
-18,"United Kingdom","Lynsey de Paul and Mike Moran","Rock Bottom",10,9,2,2,NULL,NULL,121,121,NULL,NULL,NULL,NULL
+"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+1,"Austria","Schmetterlinge","Boom Boom Boomerang",8,4,16,16,NULL,NULL,11,11,NULL,NULL,NULL,NULL,NULL
+2,"Belgium","Dream Express","A Million in One, Two, Three",1,17,7,7,NULL,NULL,69,69,NULL,NULL,NULL,NULL,NULL
+3,"Finland","Monica Aspelund","Lapponia",14,16,10,10,NULL,NULL,50,50,NULL,NULL,NULL,NULL,NULL
+4,"France","Marie Myriam","L'Oiseau et l'Enfant",2,18,1,1,NULL,NULL,136,136,NULL,NULL,NULL,NULL,NULL
+5,"Germany","Silver Convention","Telegram",3,6,8,8,NULL,NULL,55,55,NULL,NULL,NULL,NULL,NULL
+6,"Greece","Pascalis, Marianna, Robert and Bessy","Mathema solfege (Μάθημα σολφέζ)",21,10,5,5,NULL,NULL,92,92,NULL,NULL,NULL,NULL,NULL
+7,"Ireland","The Swarbriggs Plus Two","It's Nice to Be in Love Again",18,1,3,3,NULL,NULL,119,119,NULL,NULL,NULL,NULL,NULL
+8,"Israel","Ilanit","Ahava Hi Shir Lishnayim (אהבה היא שיר לשניים)",20,11,11,11,NULL,NULL,49,49,NULL,NULL,NULL,NULL,NULL
+9,"Italy","Mia Martini","Libera",4,15,13,13,NULL,NULL,33,33,NULL,NULL,NULL,NULL,NULL
+10,"Luxembourg","Anne-Marie B","Frère Jacques",5,7,15,15,NULL,NULL,17,17,NULL,NULL,NULL,NULL,NULL
+11,"Monaco","Michèle Torr","Une petite française",12,2,4,4,NULL,NULL,96,96,NULL,NULL,NULL,NULL,NULL
+12,"Netherlands","Heddy Lester","De mallemolen",6,3,12,12,NULL,NULL,35,35,NULL,NULL,NULL,NULL,NULL
+13,"Norway","Anita Skorgan","Casanova",13,5,14,14,NULL,NULL,18,18,NULL,NULL,NULL,NULL,NULL
+14,"Portugal","Os Amigos","Portugal no coração",17,8,14,14,NULL,NULL,18,18,NULL,NULL,NULL,NULL,NULL
+15,"Spain","Micky","Enséñame a cantar",15,14,9,9,NULL,NULL,52,52,NULL,NULL,NULL,NULL,NULL
+16,"Sweden","Forbes","Beatles",11,13,17,17,NULL,NULL,2,2,NULL,NULL,NULL,NULL,NULL
+17,"Switzerland","Pepe Lienhard Band","Swiss Lady",7,12,6,6,NULL,NULL,71,71,NULL,NULL,NULL,NULL,NULL
+18,"United Kingdom","Lynsey de Paul and Mike Moran","Rock Bottom",10,9,2,2,NULL,NULL,121,121,NULL,NULL,NULL,NULL,NULL

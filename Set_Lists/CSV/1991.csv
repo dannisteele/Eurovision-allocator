@@ -1,23 +1,23 @@
-"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-1,"Austria","Thomas Forstner","Venedig im Regen",8,6,20,20,NULL,NULL,0,0,NULL,NULL,NULL,NULL
-2,"Belgium","Clouseau","Geef het op",1,18,14,14,NULL,NULL,23,23,NULL,NULL,NULL,NULL
-3,"Cyprus","Elena Patroklou","S.O.S.",24,21,8,8,NULL,NULL,60,60,NULL,NULL,NULL,NULL
-4,"Denmark","Anders Frandsen","Lige der hvor hjertet slår",9,13,17,17,NULL,NULL,8,8,NULL,NULL,NULL,NULL
-5,"Finland","Kaija","Hullu yö",14,16,18,18,NULL,NULL,6,6,NULL,NULL,NULL,NULL
-6,"France","Amina","C'est le dernier qui a parlé qui a raison",2,9,2,2,NULL,NULL,146,146,NULL,NULL,NULL,NULL
-7,"Germany","Atlantis 2000","Dieser Traum darf niemals sterben",3,17,16,16,NULL,NULL,10,10,NULL,NULL,NULL,NULL
-8,"Greece","Sophia Vossou","Anixi (Άνοιξη)",21,4,11,11,NULL,NULL,36,36,NULL,NULL,NULL,NULL
-9,"Iceland","Stefán and Eyfi","Nína",25,2,13,13,NULL,NULL,26,26,NULL,NULL,NULL,NULL
-10,"Ireland","Kim Jackson","Could It Be That I'm in Love",18,11,9,9,NULL,NULL,47,47,NULL,NULL,NULL,NULL
-11,"Israel","Duo Datz","Kan (כאן)",20,15,3,3,NULL,NULL,139,139,NULL,NULL,NULL,NULL
-12,"Italy","Peppino di Capri","Comme è ddoce 'o mare",4,22,6,6,NULL,NULL,89,89,NULL,NULL,NULL,NULL
-13,"Luxembourg","Sarah Bray","Un baiser volé",5,7,12,12,NULL,NULL,29,29,NULL,NULL,NULL,NULL
-14,"Malta","Paul Giordimaina and Georgina","Could It Be",19,3,5,5,NULL,NULL,106,106,NULL,NULL,NULL,NULL
-15,"Norway","Just 4 Fun","Mrs. Thompson",13,14,15,15,NULL,NULL,14,14,NULL,NULL,NULL,NULL
-16,"Portugal","Dulce","Lusitana paixão",17,12,7,7,NULL,NULL,62,62,NULL,NULL,NULL,NULL
-17,"Spain","Sergio Dalma","Bailar pegados",15,19,4,4,NULL,NULL,119,119,NULL,NULL,NULL,NULL
-18,"Sweden","Carola","Fångad av en stormvind",11,8,1,1,NULL,NULL,146,146,NULL,NULL,NULL,NULL
-19,"Switzerland","Sandra Simó","Canzone per te",7,5,9,9,NULL,NULL,118,118,NULL,NULL,NULL,NULL
-20,"Turkey","Can Uğurluer, İzel Çeliköz, Reyhan Karaca","İki Dakika",22,10,10,10,NULL,NULL,44,44,NULL,NULL,NULL,NULL
-21,"United Kingdom","Samantha Janus","A Message to Your Heart",10,20,19,19,NULL,NULL,47,47,NULL,NULL,NULL,NULL
-22,"Yugoslavia","Baby Doll","Brazil (Бразил)",16,1,21,21,NULL,NULL,1,1,NULL,NULL,NULL,NULL
+"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+1,"Austria","Thomas Forstner","Venedig im Regen",8,6,20,20,NULL,NULL,0,0,NULL,NULL,NULL,NULL,NULL
+2,"Belgium","Clouseau","Geef het op",1,18,14,14,NULL,NULL,23,23,NULL,NULL,NULL,NULL,NULL
+3,"Cyprus","Elena Patroklou","S.O.S.",24,21,8,8,NULL,NULL,60,60,NULL,NULL,NULL,NULL,NULL
+4,"Denmark","Anders Frandsen","Lige der hvor hjertet slår",9,13,17,17,NULL,NULL,8,8,NULL,NULL,NULL,NULL,NULL
+5,"Finland","Kaija","Hullu yö",14,16,18,18,NULL,NULL,6,6,NULL,NULL,NULL,NULL,NULL
+6,"France","Amina","C'est le dernier qui a parlé qui a raison",2,9,2,2,NULL,NULL,146,146,NULL,NULL,NULL,NULL,NULL
+7,"Germany","Atlantis 2000","Dieser Traum darf niemals sterben",3,17,16,16,NULL,NULL,10,10,NULL,NULL,NULL,NULL,NULL
+8,"Greece","Sophia Vossou","Anixi (Άνοιξη)",21,4,11,11,NULL,NULL,36,36,NULL,NULL,NULL,NULL,NULL
+9,"Iceland","Stefán and Eyfi","Nína",25,2,13,13,NULL,NULL,26,26,NULL,NULL,NULL,NULL,NULL
+10,"Ireland","Kim Jackson","Could It Be That I'm in Love",18,11,9,9,NULL,NULL,47,47,NULL,NULL,NULL,NULL,NULL
+11,"Israel","Duo Datz","Kan (כאן)",20,15,3,3,NULL,NULL,139,139,NULL,NULL,NULL,NULL,NULL
+12,"Italy","Peppino di Capri","Comme è ddoce 'o mare",4,22,6,6,NULL,NULL,89,89,NULL,NULL,NULL,NULL,NULL
+13,"Luxembourg","Sarah Bray","Un baiser volé",5,7,12,12,NULL,NULL,29,29,NULL,NULL,NULL,NULL,NULL
+14,"Malta","Paul Giordimaina and Georgina","Could It Be",19,3,5,5,NULL,NULL,106,106,NULL,NULL,NULL,NULL,NULL
+15,"Norway","Just 4 Fun","Mrs. Thompson",13,14,15,15,NULL,NULL,14,14,NULL,NULL,NULL,NULL,NULL
+16,"Portugal","Dulce","Lusitana paixão",17,12,7,7,NULL,NULL,62,62,NULL,NULL,NULL,NULL,NULL
+17,"Spain","Sergio Dalma","Bailar pegados",15,19,4,4,NULL,NULL,119,119,NULL,NULL,NULL,NULL,NULL
+18,"Sweden","Carola","Fångad av en stormvind",11,8,1,1,NULL,NULL,146,146,NULL,NULL,NULL,NULL,NULL
+19,"Switzerland","Sandra Simó","Canzone per te",7,5,9,9,NULL,NULL,118,118,NULL,NULL,NULL,NULL,NULL
+20,"Turkey","Can Uğurluer, İzel Çeliköz, Reyhan Karaca","İki Dakika",22,10,10,10,NULL,NULL,44,44,NULL,NULL,NULL,NULL,NULL
+21,"United Kingdom","Samantha Janus","A Message to Your Heart",10,20,19,19,NULL,NULL,47,47,NULL,NULL,NULL,NULL,NULL
+22,"Yugoslavia","Baby Doll","Brazil (Бразил)",16,1,21,21,NULL,NULL,1,1,NULL,NULL,NULL,NULL,NULL

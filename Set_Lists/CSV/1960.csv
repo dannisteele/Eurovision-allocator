@@ -1,14 +1,14 @@
-"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-1,"Austria","Harry Winter","Du hast mich so fasziniert",8,7,6,6,NULL,NULL,6,6,NULL,NULL,NULL,NULL
-2,"Belgium","Fud Leclerc","Mon amour pour toi",1,5,5,5,NULL,NULL,9,9,NULL,NULL,NULL,NULL
-3,"Denmark","Katy Bødtger","Det var en yndig tid",9,4,8,8,NULL,NULL,4,4,NULL,NULL,NULL,NULL
-4,"France","Jacqueline Boyer","Tom Pillibi",2,13,1,1,NULL,NULL,32,32,NULL,NULL,NULL,NULL
-5,"Germany","Wyn Hoop","Bonne nuit ma chérie",3,11,4,4,NULL,NULL,11,11,NULL,NULL,NULL,NULL
-6,"Italy","Renato Rascel","Romantica",4,12,7,7,NULL,NULL,5,5,NULL,NULL,NULL,NULL
-7,"Luxembourg","Camillo Felgen","So laang we's du do bast",5,3,10,10,NULL,NULL,1,1,NULL,NULL,NULL,NULL
-8,"Monaco","François Deguelt","Ce soir-là",12,8,3,3,NULL,NULL,15,15,NULL,NULL,NULL,NULL
-9,"Netherlands","Rudi Carrell","Wat een geluk",6,10,9,9,NULL,NULL,2,2,NULL,NULL,NULL,NULL
-10,"Norway","Nora Brockstedt","Voi-voi",13,6,4,4,NULL,NULL,11,11,NULL,NULL,NULL,NULL
-11,"Sweden","Siw Malmkvist","Alla andra får varann",11,2,8,8,NULL,NULL,4,4,NULL,NULL,NULL,NULL
-12,"Switzerland","Anita Traversi","Cielo e terra",7,9,7,7,NULL,NULL,5,5,NULL,NULL,NULL,NULL
-13,"United Kingdom","Bryan Johnson","Looking High, High, High",10,1,2,2,NULL,NULL,25,25,NULL,NULL,NULL,NULL
+"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+1,"Austria","Harry Winter","Du hast mich so fasziniert",8,7,6,6,NULL,NULL,6,6,NULL,NULL,NULL,NULL,NULL
+2,"Belgium","Fud Leclerc","Mon amour pour toi",1,5,5,5,NULL,NULL,9,9,NULL,NULL,NULL,NULL,NULL
+3,"Denmark","Katy Bødtger","Det var en yndig tid",9,4,8,8,NULL,NULL,4,4,NULL,NULL,NULL,NULL,NULL
+4,"France","Jacqueline Boyer","Tom Pillibi",2,13,1,1,NULL,NULL,32,32,NULL,NULL,NULL,NULL,NULL
+5,"Germany","Wyn Hoop","Bonne nuit ma chérie",3,11,4,4,NULL,NULL,11,11,NULL,NULL,NULL,NULL,NULL
+6,"Italy","Renato Rascel","Romantica",4,12,7,7,NULL,NULL,5,5,NULL,NULL,NULL,NULL,NULL
+7,"Luxembourg","Camillo Felgen","So laang we's du do bast",5,3,10,10,NULL,NULL,1,1,NULL,NULL,NULL,NULL,NULL
+8,"Monaco","François Deguelt","Ce soir-là",12,8,3,3,NULL,NULL,15,15,NULL,NULL,NULL,NULL,NULL
+9,"Netherlands","Rudi Carrell","Wat een geluk",6,10,9,9,NULL,NULL,2,2,NULL,NULL,NULL,NULL,NULL
+10,"Norway","Nora Brockstedt","Voi-voi",13,6,4,4,NULL,NULL,11,11,NULL,NULL,NULL,NULL,NULL
+11,"Sweden","Siw Malmkvist","Alla andra får varann",11,2,8,8,NULL,NULL,4,4,NULL,NULL,NULL,NULL,NULL
+12,"Switzerland","Anita Traversi","Cielo e terra",7,9,7,7,NULL,NULL,5,5,NULL,NULL,NULL,NULL,NULL
+13,"United Kingdom","Bryan Johnson","Looking High, High, High",10,1,2,2,NULL,NULL,25,25,NULL,NULL,NULL,NULL,NULL

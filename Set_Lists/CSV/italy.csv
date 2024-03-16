@@ -1,52 +1,52 @@
-"SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-"1956","Franca Raimondi","Aprite le finestre",7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://www.youtube.com/watch?v=OuVmJmW-8wo","https://music.apple.com/gb/album/aprite-le-finestre/905902582?i=905903069"
-"1956","Tonina Torrielli","Amami se vuoi",14,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://www.youtube.com/watch?v=NXcu6HnrYI4","https://music.apple.com/gb/album/amami-se-vuoi/781403447?i=781403513"
-"1957","Nunzio Gallo","Corde della mia chitarra",4,5,5,NULL,NULL,7,7,NULL,NULL,"https://www.youtube.com/watch?v=3Ofli5AZpq4","https://music.apple.com/gb/album/corde-della-mia-chitarra/1489664221?i=1489664222"
-"1958","Domenico Modugno","Nel blu, dipinto di blu",1,3,3,NULL,NULL,13,13,NULL,NULL,NULL,NULL
-"1959","Domenico Modugno","Piove",3,6,6,NULL,NULL,9,9,NULL,NULL,NULL,NULL
-"1960","Renato Rascel","Romantica",12,7,7,NULL,NULL,5,5,NULL,NULL,NULL,NULL
-"1961","Betty Curtis","Al di là",16,5,5,NULL,NULL,12,12,NULL,NULL,NULL,NULL
-"1962","Claudio Villa","Addio, addio",15,7,7,NULL,NULL,3,3,NULL,NULL,NULL,NULL
-"1963","Emilio Pericoli","Uno per tutte",6,3,3,NULL,NULL,37,37,NULL,NULL,NULL,NULL
-"1964","Gigliola Cinquetti","Non ho l'età",12,1,1,NULL,NULL,49,49,NULL,NULL,NULL,NULL
-"1965","Bobby Solo","Se piangi, se ridi",13,5,5,NULL,NULL,15,15,NULL,NULL,NULL,NULL
-"1966","Domenico Modugno","Dio, come ti amo",14,13,13,NULL,NULL,0,0,NULL,NULL,NULL,NULL
-"1967","Claudio Villa","Non andare più lontano",16,9,9,NULL,NULL,4,4,NULL,NULL,NULL,NULL
-"1968","Sergio Endrigo","Marianne",11,8,8,NULL,NULL,7,7,NULL,NULL,NULL,NULL
-"1969","Iva Zanicchi","Due grosse lacrime bianche",6,8,8,NULL,NULL,5,5,NULL,NULL,NULL,NULL
-"1970","Gianni Morandi","Occhi di ragazza",3,6,6,NULL,NULL,5,5,NULL,NULL,NULL,NULL
-"1971","Massimo Ranieri","L'amore è un attimo",11,5,5,NULL,NULL,91,91,NULL,NULL,NULL,NULL
-"1972","Nicola Di Bari","I giorni dell'arcobaleno",12,6,6,NULL,NULL,92,92,NULL,NULL,NULL,NULL
-"1973","Massimo Ranieri","Chi sarà con te",10,11,11,NULL,NULL,74,74,NULL,NULL,NULL,NULL
-"1974","Gigliola Cinquetti","Sì",17,2,2,NULL,NULL,18,18,NULL,NULL,NULL,NULL
-"1975","Wess and Dori Ghezzi","Era",19,3,3,NULL,NULL,115,115,NULL,NULL,NULL,NULL
-"1976","Romina and Al Bano","We'll Live It All Again",13,7,7,NULL,NULL,69,69,NULL,NULL,NULL,NULL
-"1977","Mia Martini","Libera",15,13,13,NULL,NULL,33,33,NULL,NULL,NULL,NULL
-"1978","Ricchi e Poveri","Questo amore",3,11,11,NULL,NULL,53,53,NULL,NULL,NULL,NULL
-"1979","Matia Bazar","Raggio di luna",2,15,15,NULL,NULL,27,27,NULL,NULL,NULL,NULL
-"1980","Alan Sorrenti","Non so che darei",6,6,6,NULL,NULL,87,87,NULL,NULL,NULL,NULL
-"1983","Riccardo Fogli","Per Lucia",5,10,10,NULL,NULL,41,41,NULL,NULL,NULL,NULL
-"1984","Alice and Franco Battiato","I treni di Tozeur",18,5,5,NULL,NULL,70,70,NULL,NULL,NULL,NULL
-"1985","Al Bano and Romina Power","Magic, Oh Magic",12,7,7,NULL,NULL,79,79,NULL,NULL,NULL,NULL
-"1987","Umberto Tozzi and Raf","Gente di mare",7,3,3,NULL,NULL,103,103,NULL,NULL,NULL,NULL
-"1988","Luca Barbarossa","Ti scrivo",18,12,12,NULL,NULL,52,52,NULL,NULL,NULL,NULL
-"1989","Anna Oxa and Fausto Leali","Avrei voluto",1,9,9,NULL,NULL,56,56,NULL,NULL,NULL,NULL
-"1990","Toto Cutugno","Insieme: 1992",19,1,1,NULL,NULL,149,149,NULL,NULL,NULL,NULL
-"1991","Peppino di Capri","Comme è ddoce 'o mare",22,6,6,NULL,NULL,89,89,NULL,NULL,NULL,NULL
-"1992","Mia Martini","Rapsodia",19,4,4,NULL,NULL,111,111,NULL,NULL,NULL,NULL
-"1993","Enrico Ruggeri","Sole d'Europa",1,12,12,NULL,NULL,45,45,NULL,NULL,NULL,NULL
-"1997","Jalisse","Fiumi di parole",9,4,3,5,2,114,93,21,72,NULL,NULL
-"2011","Raphael Gualazzi","Madness of Love",12,2,1,10,9,350,251,99,152,NULL,NULL
-"2012","Nina Zilli","L'amore è femmina (Out of Love)",10,9,3,16,13,213,157,56,101,NULL,NULL
-"2013","Marco Mengoni","L'essenziale",23,7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2014","Emma","La mia città",16,20,21,17,4,69,37,32,5,NULL,NULL
-"2015","Il Volo","Grande Amore",27,2,6,1,5,550,184,366,182,NULL,NULL
-"2016","Francesca Michielin","No Degree of Separation",6,15,12,18,6,124,90,34,56,NULL,NULL
-"2017","Francesco Gabbani","Occidentali's Karma",9,6,7,6,1,334,126,208,82,NULL,NULL
-"2018","Ermal Meta and Fabrizio Moro","Non mi avete fatto niente",26,5,16,3,13,308,59,249,190,NULL,NULL
-"2019","Mahmood","Soldi",22,2,4,3,1,472,219,253,34,NULL,NULL
-"2020","Diodato","Fai rumore",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2021","Måneskin","Zitti e buoni",24,1,4,1,3,524,206,318,112,"https://youtu.be/RVH5dn1cxAQ?si=aRVpoanXoSK2U_p_","https://music.apple.com/gb/album/zitti-e-buoni-eurovision-version/1558504054?i=1558504599"
-"2022","Mahmood and Blanco","Brividi",9,6,6,8,2,268,158,110,48,"https://youtu.be/blEy4xHuMbY?si=5NFzpKOk3d5shdwh","https://music.apple.com/gb/album/brividi/1606778397?i=1606778405"
-"2023","Marco Mengoni","Due vite",11,4,3,6,3,350,176,174,2,"https://youtu.be/d6IiOSut_4M?si=DqmsP8KQ58oEygtG","https://music.apple.com/gb/album/due-vite-eurovision-version/1679310838?i=1679310840"
-"2024","Angelina Mango","La noia",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/TO85laH-ATY?si=qM18XBbqMZynbkN1","https://music.apple.com/gb/album/zari/1734215972?i=1734216111"
+"sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+"1956","Franca Raimondi","Aprite le finestre",7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://www.youtube.com/watch?v=OuVmJmW-8wo","https://music.apple.com/gb/album/aprite-le-finestre/905902582?i=905903069",NULL
+"1956","Tonina Torrielli","Amami se vuoi",14,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://www.youtube.com/watch?v=NXcu6HnrYI4","https://music.apple.com/gb/album/amami-se-vuoi/781403447?i=781403513",NULL
+"1957","Nunzio Gallo","Corde della mia chitarra",4,5,5,NULL,NULL,7,7,NULL,NULL,"https://www.youtube.com/watch?v=3Ofli5AZpq4","https://music.apple.com/gb/album/corde-della-mia-chitarra/1489664221?i=1489664222",NULL
+"1958","Domenico Modugno","Nel blu, dipinto di blu",1,3,3,NULL,NULL,13,13,NULL,NULL,NULL,NULL,NULL
+"1959","Domenico Modugno","Piove",3,6,6,NULL,NULL,9,9,NULL,NULL,NULL,NULL,NULL
+"1960","Renato Rascel","Romantica",12,7,7,NULL,NULL,5,5,NULL,NULL,NULL,NULL,NULL
+"1961","Betty Curtis","Al di là",16,5,5,NULL,NULL,12,12,NULL,NULL,NULL,NULL,NULL
+"1962","Claudio Villa","Addio, addio",15,7,7,NULL,NULL,3,3,NULL,NULL,NULL,NULL,NULL
+"1963","Emilio Pericoli","Uno per tutte",6,3,3,NULL,NULL,37,37,NULL,NULL,NULL,NULL,NULL
+"1964","Gigliola Cinquetti","Non ho l'età",12,1,1,NULL,NULL,49,49,NULL,NULL,NULL,NULL,NULL
+"1965","Bobby Solo","Se piangi, se ridi",13,5,5,NULL,NULL,15,15,NULL,NULL,NULL,NULL,NULL
+"1966","Domenico Modugno","Dio, come ti amo",14,13,13,NULL,NULL,0,0,NULL,NULL,NULL,NULL,NULL
+"1967","Claudio Villa","Non andare più lontano",16,9,9,NULL,NULL,4,4,NULL,NULL,NULL,NULL,NULL
+"1968","Sergio Endrigo","Marianne",11,8,8,NULL,NULL,7,7,NULL,NULL,NULL,NULL,NULL
+"1969","Iva Zanicchi","Due grosse lacrime bianche",6,8,8,NULL,NULL,5,5,NULL,NULL,NULL,NULL,NULL
+"1970","Gianni Morandi","Occhi di ragazza",3,6,6,NULL,NULL,5,5,NULL,NULL,NULL,NULL,NULL
+"1971","Massimo Ranieri","L'amore è un attimo",11,5,5,NULL,NULL,91,91,NULL,NULL,NULL,NULL,NULL
+"1972","Nicola Di Bari","I giorni dell'arcobaleno",12,6,6,NULL,NULL,92,92,NULL,NULL,NULL,NULL,NULL
+"1973","Massimo Ranieri","Chi sarà con te",10,11,11,NULL,NULL,74,74,NULL,NULL,NULL,NULL,NULL
+"1974","Gigliola Cinquetti","Sì",17,2,2,NULL,NULL,18,18,NULL,NULL,NULL,NULL,NULL
+"1975","Wess and Dori Ghezzi","Era",19,3,3,NULL,NULL,115,115,NULL,NULL,NULL,NULL,NULL
+"1976","Romina and Al Bano","We'll Live It All Again",13,7,7,NULL,NULL,69,69,NULL,NULL,NULL,NULL,NULL
+"1977","Mia Martini","Libera",15,13,13,NULL,NULL,33,33,NULL,NULL,NULL,NULL,NULL
+"1978","Ricchi e Poveri","Questo amore",3,11,11,NULL,NULL,53,53,NULL,NULL,NULL,NULL,NULL
+"1979","Matia Bazar","Raggio di luna",2,15,15,NULL,NULL,27,27,NULL,NULL,NULL,NULL,NULL
+"1980","Alan Sorrenti","Non so che darei",6,6,6,NULL,NULL,87,87,NULL,NULL,NULL,NULL,NULL
+"1983","Riccardo Fogli","Per Lucia",5,10,10,NULL,NULL,41,41,NULL,NULL,NULL,NULL,NULL
+"1984","Alice and Franco Battiato","I treni di Tozeur",18,5,5,NULL,NULL,70,70,NULL,NULL,NULL,NULL,NULL
+"1985","Al Bano and Romina Power","Magic, Oh Magic",12,7,7,NULL,NULL,79,79,NULL,NULL,NULL,NULL,NULL
+"1987","Umberto Tozzi and Raf","Gente di mare",7,3,3,NULL,NULL,103,103,NULL,NULL,NULL,NULL,NULL
+"1988","Luca Barbarossa","Ti scrivo",18,12,12,NULL,NULL,52,52,NULL,NULL,NULL,NULL,NULL
+"1989","Anna Oxa and Fausto Leali","Avrei voluto",1,9,9,NULL,NULL,56,56,NULL,NULL,NULL,NULL,NULL
+"1990","Toto Cutugno","Insieme: 1992",19,1,1,NULL,NULL,149,149,NULL,NULL,NULL,NULL,NULL
+"1991","Peppino di Capri","Comme è ddoce 'o mare",22,6,6,NULL,NULL,89,89,NULL,NULL,NULL,NULL,NULL
+"1992","Mia Martini","Rapsodia",19,4,4,NULL,NULL,111,111,NULL,NULL,NULL,NULL,NULL
+"1993","Enrico Ruggeri","Sole d'Europa",1,12,12,NULL,NULL,45,45,NULL,NULL,NULL,NULL,NULL
+"1997","Jalisse","Fiumi di parole",9,4,3,5,2,114,93,21,72,NULL,NULL,NULL
+"2011","Raphael Gualazzi","Madness of Love",12,2,1,10,9,350,251,99,152,NULL,NULL,NULL
+"2012","Nina Zilli","L'amore è femmina (Out of Love)",10,9,3,16,13,213,157,56,101,NULL,NULL,NULL
+"2013","Marco Mengoni","L'essenziale",23,7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2014","Emma","La mia città",16,20,21,17,4,69,37,32,5,NULL,NULL,NULL
+"2015","Il Volo","Grande Amore",27,2,6,1,5,550,184,366,182,NULL,NULL,NULL
+"2016","Francesca Michielin","No Degree of Separation",6,15,12,18,6,124,90,34,56,NULL,NULL,NULL
+"2017","Francesco Gabbani","Occidentali's Karma",9,6,7,6,1,334,126,208,82,NULL,NULL,NULL
+"2018","Ermal Meta and Fabrizio Moro","Non mi avete fatto niente",26,5,16,3,13,308,59,249,190,NULL,NULL,NULL
+"2019","Mahmood","Soldi",22,2,4,3,1,472,219,253,34,NULL,NULL,NULL
+"2020","Diodato","Fai rumore",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Måneskin","Zitti e buoni",24,1,4,1,3,524,206,318,112,"https://youtu.be/RVH5dn1cxAQ?si=aRVpoanXoSK2U_p_","https://music.apple.com/gb/album/zitti-e-buoni-eurovision-version/1558504054?i=1558504599",NULL
+"2022","Mahmood and Blanco","Brividi",9,6,6,8,2,268,158,110,48,"https://youtu.be/blEy4xHuMbY?si=5NFzpKOk3d5shdwh","https://music.apple.com/gb/album/brividi/1606778397?i=1606778405",NULL
+"2023","Marco Mengoni","Due vite",11,4,3,6,3,350,176,174,2,"https://youtu.be/d6IiOSut_4M?si=DqmsP8KQ58oEygtG","https://music.apple.com/gb/album/due-vite-eurovision-version/1679310838?i=1679310840",NULL
+"2024","Angelina Mango","La noia",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/TO85laH-ATY?si=qM18XBbqMZynbkN1","https://music.apple.com/gb/album/zari/1734215972?i=1734216111",NULL
