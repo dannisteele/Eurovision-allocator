@@ -1,14 +1,14 @@
-"SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-"2007","Kabát","Malá dáma",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2008","Tereza Kerndlová","Have Some Fun",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2009","Gipsy.cz","Aven Romale",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2015","Marta Jandová and Václav Noid Bárta","Hope Never Dies",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2016","Gabriela Gunčíková","I Stand",2,24,20,25,5,41,41,0,41,NULL,NULL
-"2017","Martina Bárta","My Turn",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2018","Mikolas Josef","Lie to Me",14,6,14,4,10,281,66,215,149,NULL,NULL
-"2019","Lake Malawi","Friend of a Friend",3,11,8,24,16,157,150,7,143,NULL,NULL
-"2020","Benny Cristo","Kemama",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2021","Benny Cristo","Omaga",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/cgGRCTUPsqY?si=iy7fgbrrfozbjr1a",NULL
-"2022","We Are Domi","Lights Off",1,21,18,21,3,38,33,5,28,"https://youtu.be/EGRzSefqOm0?si=AZ56bKIQ_AObFW5d","https://music.apple.com/gb/album/lights-off/1611024764?i=1611024770"
-"2023","Vesna","My Sister's Crown",14,10,10,17,7,129,94,35,59,"https://youtu.be/ag8qxpvTTy0?si=dOTvqEecv2v4F7I2","https://music.apple.com/gb/album/my-sisters-crown/1667294154?i=1667294156"
-"2024","Aiko","Pedestal",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/5DbRldMKFUU?si=Uaqo9YOJQ5LPAwL_","https://music.apple.com/gb/album/pedestal/1703052088?i=1703052098"
+"sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+"2007","Kabát","Malá dáma",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2008","Tereza Kerndlová","Have Some Fun",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2009","Gipsy.cz","Aven Romale",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2015","Marta Jandová and Václav Noid Bárta","Hope Never Dies",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2016","Gabriela Gunčíková","I Stand",2,24,20,25,5,41,41,0,41,NULL,NULL,NULL
+"2017","Martina Bárta","My Turn",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2018","Mikolas Josef","Lie to Me",14,6,14,4,10,281,66,215,149,NULL,NULL,NULL
+"2019","Lake Malawi","Friend of a Friend",3,11,8,24,16,157,150,7,143,NULL,NULL,NULL
+"2020","Benny Cristo","Kemama",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Benny Cristo","Omaga",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/cgGRCTUPsqY?si=iy7fgbrrfozbjr1a",NULL,NULL
+"2022","We Are Domi","Lights Off",1,21,18,21,3,38,33,5,28,"https://youtu.be/EGRzSefqOm0?si=AZ56bKIQ_AObFW5d","https://music.apple.com/gb/album/lights-off/1611024764?i=1611024770",NULL
+"2023","Vesna","My Sister's Crown",14,10,10,17,7,129,94,35,59,"https://youtu.be/ag8qxpvTTy0?si=dOTvqEecv2v4F7I2","https://music.apple.com/gb/album/my-sisters-crown/1667294154?i=1667294156",NULL
+"2024","Aiko","Pedestal",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/5DbRldMKFUU?si=Uaqo9YOJQ5LPAwL_","https://music.apple.com/gb/album/pedestal/1703052088?i=1703052098",NULL

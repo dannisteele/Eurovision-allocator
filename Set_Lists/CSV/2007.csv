@@ -1,43 +1,43 @@
-"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-1,"Albania","Frederik Ndoci","Hear My Plea",39,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-2,"Andorra","Anonymous","Salvem el món",40,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-3,"Armenia","Hayko","Anytime You Need",45,23,8,12,7,5,138,0,138,138,NULL,NULL
-4,"Austria","Eric Papilaya","Get a Life – Get Alive",8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-5,"Belarus","Koldun","Work Your Magic",41,3,6,10,6,4,145,2,143,141,NULL,NULL
-6,"Belgium","The KMG's","LovePower",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-7,"Bosnia and Herzegovina","Marija Šestić","Rijeka bez imena",26,1,11,4,11,7,106,8,98,90,NULL,NULL
-8,"Bulgaria","Elitsa Todorova and Stoyan Yankoulov","Water",43,21,5,12,4,8,157,0,157,157,NULL,NULL
-9,"Croatia","Dragonfly feat. Dado Topić","Vjerujem u ljubav",27,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-10,"Cyprus","Evridiki","Comme ci, comme ça",24,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-11,"Czech Republic","Kabát","Malá dáma",46,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-12,"Denmark","DQ","Drama Queen",9,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-13,"Estonia","Gerli Padar","Partners in Crime",29,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-14,"Finland","Hanna Pakarinen","Leave Me Alone",14,5,17,5,18,13,53,7,46,39,NULL,NULL
-15,"France","Les Fatals Picards","L'Amour à la française",2,13,22,1,23,22,19,12,7,5,NULL,NULL
-16,"Georgia","Sopho","Visionary Dream",47,11,12,12,12,0,97,0,97,97,NULL,NULL
-17,"Germany","Roger Cicero","Frauen regier'n die Welt",3,16,19,2,19,17,49,11,38,27,NULL,NULL
-18,"Greece","Sarbel","Yassou Maria",21,10,7,5,8,3,139,7,132,125,NULL,NULL
-19,"Hungary","Magdi Rúzsa","Unsubstantial Blues",30,8,9,6,9,3,128,6,122,116,NULL,NULL
-20,"Iceland","Eiríkur Hauksson","Valentine Lost",25,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-21,"Ireland","Dervish","They Can't Stop the Spring",18,4,23,7,24,17,5,5,0,5,NULL,NULL
-22,"Israel","Teapacks","Push the Button",20,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-23,"Latvia","Bonaparti.lv","Questa notte",37,14,16,12,16,4,54,0,54,54,NULL,NULL
-24,"Lithuania","4Fun","Love or Leave",31,9,21,11,21,10,28,1,27,26,NULL,NULL
-25,"North Macedonia","Karolina","Mojot svet",36,6,14,9,14,5,73,3,70,67,NULL,NULL
-26,"Malta","Olivia Lewis","Vertigo",19,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-27,"Moldova","Natalia Barbu","Fight",44,24,10,8,10,2,109,4,105,101,NULL,NULL
-28,"Montenegro","Stevan Faddy","'Ajde, kroči",48,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-29,"Netherlands","Edsilia Rombley","On Top of the World",6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-30,"Norway","Guri Schanke","Ven a bailar conmigo",13,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-31,"Poland","The Jet Set","Time to Party",32,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-32,"Portugal","Sabrina","Dança comigo",17,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-33,"Romania","Todomondo","Liubi, Liubi, I Love You",33,20,13,3,13,10,84,10,74,64,NULL,NULL
-34,"Russia","Serebro","Song #1",34,15,3,9,3,6,207,3,204,201,NULL,NULL
-35,"Serbia","Marija Šerifović","Molitva",49,17,1,11,1,10,268,1,267,266,NULL,NULL
-36,"Slovenia","Alenka Gotar","Cvet z juga",28,7,15,12,15,3,66,0,66,66,NULL,NULL
-37,"Spain","D'Nash","I Love You Mi Vida",15,2,20,1,20,19,43,12,31,19,NULL,NULL
-38,"Sweden","The Ark","The Worrying Kind",11,12,18,10,17,7,51,2,49,47,NULL,NULL
-39,"Switzerland","DJ BoBo","Vampires Are Alive",7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-40,"Turkey","Kenan Doğulu","Shake It Up Şekerim",22,22,4,3,5,2,163,10,153,143,NULL,NULL
-41,"Ukraine","Verka Serduchka","Dancing Lasha Tumbai",38,18,2,1,2,1,235,12,223,211,NULL,NULL
-42,"United Kingdom","Scooch","Flying the Flag (For You)",10,19,22,12,22,10,19,0,19,19,NULL,NULL
+"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+1,"Albania","Frederik Ndoci","Hear My Plea",39,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2,"Andorra","Anonymous","Salvem el món",40,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3,"Armenia","Hayko","Anytime You Need",45,23,8,12,7,5,138,0,138,138,NULL,NULL,NULL
+4,"Austria","Eric Papilaya","Get a Life – Get Alive",8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+5,"Belarus","Koldun","Work Your Magic",41,3,6,10,6,4,145,2,143,141,NULL,NULL,NULL
+6,"Belgium","The KMG's","LovePower",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7,"Bosnia and Herzegovina","Marija Šestić","Rijeka bez imena",26,1,11,4,11,7,106,8,98,90,NULL,NULL,NULL
+8,"Bulgaria","Elitsa Todorova and Stoyan Yankoulov","Water",43,21,5,12,4,8,157,0,157,157,NULL,NULL,NULL
+9,"Croatia","Dragonfly feat. Dado Topić","Vjerujem u ljubav",27,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+10,"Cyprus","Evridiki","Comme ci, comme ça",24,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+11,"Czech Republic","Kabát","Malá dáma",46,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+12,"Denmark","DQ","Drama Queen",9,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+13,"Estonia","Gerli Padar","Partners in Crime",29,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+14,"Finland","Hanna Pakarinen","Leave Me Alone",14,5,17,5,18,13,53,7,46,39,NULL,NULL,NULL
+15,"France","Les Fatals Picards","L'Amour à la française",2,13,22,1,23,22,19,12,7,5,NULL,NULL,NULL
+16,"Georgia","Sopho","Visionary Dream",47,11,12,12,12,0,97,0,97,97,NULL,NULL,NULL
+17,"Germany","Roger Cicero","Frauen regier'n die Welt",3,16,19,2,19,17,49,11,38,27,NULL,NULL,NULL
+18,"Greece","Sarbel","Yassou Maria",21,10,7,5,8,3,139,7,132,125,NULL,NULL,NULL
+19,"Hungary","Magdi Rúzsa","Unsubstantial Blues",30,8,9,6,9,3,128,6,122,116,NULL,NULL,NULL
+20,"Iceland","Eiríkur Hauksson","Valentine Lost",25,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+21,"Ireland","Dervish","They Can't Stop the Spring",18,4,23,7,24,17,5,5,0,5,NULL,NULL,NULL
+22,"Israel","Teapacks","Push the Button",20,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+23,"Latvia","Bonaparti.lv","Questa notte",37,14,16,12,16,4,54,0,54,54,NULL,NULL,NULL
+24,"Lithuania","4Fun","Love or Leave",31,9,21,11,21,10,28,1,27,26,NULL,NULL,NULL
+25,"North Macedonia","Karolina","Mojot svet",36,6,14,9,14,5,73,3,70,67,NULL,NULL,NULL
+26,"Malta","Olivia Lewis","Vertigo",19,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+27,"Moldova","Natalia Barbu","Fight",44,24,10,8,10,2,109,4,105,101,NULL,NULL,NULL
+28,"Montenegro","Stevan Faddy","'Ajde, kroči",48,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+29,"Netherlands","Edsilia Rombley","On Top of the World",6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+30,"Norway","Guri Schanke","Ven a bailar conmigo",13,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+31,"Poland","The Jet Set","Time to Party",32,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+32,"Portugal","Sabrina","Dança comigo",17,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+33,"Romania","Todomondo","Liubi, Liubi, I Love You",33,20,13,3,13,10,84,10,74,64,NULL,NULL,NULL
+34,"Russia","Serebro","Song #1",34,15,3,9,3,6,207,3,204,201,NULL,NULL,NULL
+35,"Serbia","Marija Šerifović","Molitva",49,17,1,11,1,10,268,1,267,266,NULL,NULL,NULL
+36,"Slovenia","Alenka Gotar","Cvet z juga",28,7,15,12,15,3,66,0,66,66,NULL,NULL,NULL
+37,"Spain","D'Nash","I Love You Mi Vida",15,2,20,1,20,19,43,12,31,19,NULL,NULL,NULL
+38,"Sweden","The Ark","The Worrying Kind",11,12,18,10,17,7,51,2,49,47,NULL,NULL,NULL
+39,"Switzerland","DJ BoBo","Vampires Are Alive",7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+40,"Turkey","Kenan Doğulu","Shake It Up Şekerim",22,22,4,3,5,2,163,10,153,143,NULL,NULL,NULL
+41,"Ukraine","Verka Serduchka","Dancing Lasha Tumbai",38,18,2,1,2,1,235,12,223,211,NULL,NULL,NULL
+42,"United Kingdom","Scooch","Flying the Flag (For You)",10,19,22,12,22,10,19,0,19,19,NULL,NULL,NULL

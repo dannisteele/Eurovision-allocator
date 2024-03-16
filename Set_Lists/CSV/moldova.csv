@@ -1,21 +1,21 @@
-"SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-"2005","Zdob și Zdub","Boonika bate doba",7,6,14,3,11,144,0,144,144,NULL,NULL
-"2006","Arsenium feat. Natalia Gordienko and Connect-R","Loca",2,17,12,18,6,22,0,22,22,NULL,NULL
-"2007","Natalia Barbu","Fight",24,10,8,10,2,109,4,105,101,NULL,NULL
-"2008","Geta Burlacu","A Century of Love",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2009","Nelly Ciobanu","Hora din Moldova",13,7,10,5,5,244,93,151,58,NULL,NULL
-"2010","SunStroke Project and Olia Tira","Run Away",4,23,21,17,4,61,33,28,5,NULL,NULL
-"2011","Zdob şi Zdub","So Lucky",15,13,14,11,3,180,82,98,16,NULL,NULL
-"2012","Pasha Parfeny","Lăutar",26,11,8,12,4,179,104,75,29,NULL,NULL
-"2013","Aliona Moon","O mie",3,11,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2014","Cristina Scarlat","Wild Soul",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2015","Eduard Romanyuta","I Want Your Love",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2016","Lidia Isac","Falling Stars",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2017","SunStroke Project","Hey Mamma",7,3,8,3,5,374,110,264,154,NULL,NULL
-"2018","DoReDoS","My Lucky Day",19,10,10,8,2,209,94,115,21,NULL,NULL
-"2019","Anna Odobescu","Stay",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Natalia Gordienko","Prison",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2021","Natalia Gordienko","Sugar",14,12,15,11,4,115,53,62,9,"https://youtu.be/5I_1GTehgkI?si=7MoLx0oqFWjqIiSw","https://music.apple.com/gb/album/sugar/1554572387?i=1554572395"
-"2022","Zdob și Zdub and Advahov Brothers","Trenulețul",19,7,19,2,17,253,14,239,225,"https://youtu.be/DUqf_zO2QaI?si=a0CCI9PN4U5dj0HQ","https://music.apple.com/gb/album/trenule%C8%9Bul/1601298284?i=1601298302"
-"2023","Pasha Parfeni","Soarele și luna",18,18,19,9,10,96,20,76,56,"https://youtu.be/SABOfYgGk8M?si=XfWNRwV2_VxcvXl6","https://music.apple.com/gb/album/soarele-si-luna/1666866097?i=1666866098"
-"2024","Natalia Barbu","In the Middle",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/Jom9sNL5whs?si=SG4myZdxHCU-8vLz","https://music.apple.com/gb/album/zari/1734215972?i=1734216111"
+"sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+"2005","Zdob și Zdub","Boonika bate doba",7,6,14,3,11,144,0,144,144,NULL,NULL,NULL
+"2006","Arsenium feat. Natalia Gordienko and Connect-R","Loca",2,17,12,18,6,22,0,22,22,NULL,NULL,NULL
+"2007","Natalia Barbu","Fight",24,10,8,10,2,109,4,105,101,NULL,NULL,NULL
+"2008","Geta Burlacu","A Century of Love",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2009","Nelly Ciobanu","Hora din Moldova",13,7,10,5,5,244,93,151,58,NULL,NULL,NULL
+"2010","SunStroke Project and Olia Tira","Run Away",4,23,21,17,4,61,33,28,5,NULL,NULL,NULL
+"2011","Zdob şi Zdub","So Lucky",15,13,14,11,3,180,82,98,16,NULL,NULL,NULL
+"2012","Pasha Parfeny","Lăutar",26,11,8,12,4,179,104,75,29,NULL,NULL,NULL
+"2013","Aliona Moon","O mie",3,11,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2014","Cristina Scarlat","Wild Soul",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2015","Eduard Romanyuta","I Want Your Love",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2016","Lidia Isac","Falling Stars",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2017","SunStroke Project","Hey Mamma",7,3,8,3,5,374,110,264,154,NULL,NULL,NULL
+"2018","DoReDoS","My Lucky Day",19,10,10,8,2,209,94,115,21,NULL,NULL,NULL
+"2019","Anna Odobescu","Stay",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2020","Natalia Gordienko","Prison",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Natalia Gordienko","Sugar",14,12,15,11,4,115,53,62,9,"https://youtu.be/5I_1GTehgkI?si=7MoLx0oqFWjqIiSw","https://music.apple.com/gb/album/sugar/1554572387?i=1554572395",NULL
+"2022","Zdob și Zdub and Advahov Brothers","Trenulețul",19,7,19,2,17,253,14,239,225,"https://youtu.be/DUqf_zO2QaI?si=a0CCI9PN4U5dj0HQ","https://music.apple.com/gb/album/trenule%C8%9Bul/1601298284?i=1601298302",NULL
+"2023","Pasha Parfeni","Soarele și luna",18,18,19,9,10,96,20,76,56,"https://youtu.be/SABOfYgGk8M?si=XfWNRwV2_VxcvXl6","https://music.apple.com/gb/album/soarele-si-luna/1666866097?i=1666866098",NULL
+"2024","Natalia Barbu","In the Middle",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/Jom9sNL5whs?si=SG4myZdxHCU-8vLz","https://music.apple.com/gb/album/zari/1734215972?i=1734216111",NULL

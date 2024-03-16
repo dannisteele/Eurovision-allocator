@@ -1,17 +1,17 @@
-"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-1,"Austria","Eleonore Schwarz","Nur in der Wiener Luft",8,4,9,9,NULL,NULL,0,0,NULL,NULL,NULL,NULL
-2,"Belgium","Fud Leclerc","Ton nom",1,2,9,9,NULL,NULL,0,0,NULL,NULL,NULL,NULL
-3,"Denmark","Ellen Winther","Vuggevise",9,5,8,8,NULL,NULL,2,2,NULL,NULL,NULL,NULL
-4,"Finland","Marion Rung","Tipi-tii",14,1,6,6,NULL,NULL,4,4,NULL,NULL,NULL,NULL
-5,"France","Isabelle Aubret","Un premier amour",2,9,1,1,NULL,NULL,26,26,NULL,NULL,NULL,NULL
-6,"Germany","Conny Froboess","Zwei kleine Italiener",3,7,5,5,NULL,NULL,9,9,NULL,NULL,NULL,NULL
-7,"Italy","Claudio Villa","Addio, addio",4,15,7,7,NULL,NULL,3,3,NULL,NULL,NULL,NULL
-8,"Luxembourg","Camillo Felgen","Petit bonhomme",5,14,3,3,NULL,NULL,11,11,NULL,NULL,NULL,NULL
-9,"Monaco","François Deguelt","Dis rien",12,16,2,2,NULL,NULL,13,13,NULL,NULL,NULL,NULL
-10,"Netherlands","De Spelbrekers","Katinka",6,8,9,9,NULL,NULL,0,0,NULL,NULL,NULL,NULL
-11,"Norway","Inger Jacobsen","Kom sol, kom regn",13,10,8,8,NULL,NULL,2,2,NULL,NULL,NULL,NULL
-12,"Spain","Víctor Balaguer","Llámame",15,3,9,9,NULL,NULL,0,0,NULL,NULL,NULL,NULL
-13,"Sweden","Inger Berggren","Sol och vår",11,6,6,6,NULL,NULL,4,4,NULL,NULL,NULL,NULL
-14,"Switzerland","Jean Philippe","Le Retour",7,11,8,8,NULL,NULL,2,2,NULL,NULL,NULL,NULL
-15,"United Kingdom","Ronnie Carroll","Ring-A-Ding Girl",10,13,4,4,NULL,NULL,10,10,NULL,NULL,NULL,NULL
-16,"Yugoslavia","Lola Novaković","Ne pali svetla u sumrak",16,12,4,4,NULL,NULL,10,10,NULL,NULL,NULL,NULL
+"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+1,"Austria","Eleonore Schwarz","Nur in der Wiener Luft",8,4,9,9,NULL,NULL,0,0,NULL,NULL,NULL,NULL,NULL
+2,"Belgium","Fud Leclerc","Ton nom",1,2,9,9,NULL,NULL,0,0,NULL,NULL,NULL,NULL,NULL
+3,"Denmark","Ellen Winther","Vuggevise",9,5,8,8,NULL,NULL,2,2,NULL,NULL,NULL,NULL,NULL
+4,"Finland","Marion Rung","Tipi-tii",14,1,6,6,NULL,NULL,4,4,NULL,NULL,NULL,NULL,NULL
+5,"France","Isabelle Aubret","Un premier amour",2,9,1,1,NULL,NULL,26,26,NULL,NULL,NULL,NULL,NULL
+6,"Germany","Conny Froboess","Zwei kleine Italiener",3,7,5,5,NULL,NULL,9,9,NULL,NULL,NULL,NULL,NULL
+7,"Italy","Claudio Villa","Addio, addio",4,15,7,7,NULL,NULL,3,3,NULL,NULL,NULL,NULL,NULL
+8,"Luxembourg","Camillo Felgen","Petit bonhomme",5,14,3,3,NULL,NULL,11,11,NULL,NULL,NULL,NULL,NULL
+9,"Monaco","François Deguelt","Dis rien",12,16,2,2,NULL,NULL,13,13,NULL,NULL,NULL,NULL,NULL
+10,"Netherlands","De Spelbrekers","Katinka",6,8,9,9,NULL,NULL,0,0,NULL,NULL,NULL,NULL,NULL
+11,"Norway","Inger Jacobsen","Kom sol, kom regn",13,10,8,8,NULL,NULL,2,2,NULL,NULL,NULL,NULL,NULL
+12,"Spain","Víctor Balaguer","Llámame",15,3,9,9,NULL,NULL,0,0,NULL,NULL,NULL,NULL,NULL
+13,"Sweden","Inger Berggren","Sol och vår",11,6,6,6,NULL,NULL,4,4,NULL,NULL,NULL,NULL,NULL
+14,"Switzerland","Jean Philippe","Le Retour",7,11,8,8,NULL,NULL,2,2,NULL,NULL,NULL,NULL,NULL
+15,"United Kingdom","Ronnie Carroll","Ring-A-Ding Girl",10,13,4,4,NULL,NULL,10,10,NULL,NULL,NULL,NULL,NULL
+16,"Yugoslavia","Lola Novaković","Ne pali svetla u sumrak",16,12,4,4,NULL,NULL,10,10,NULL,NULL,NULL,NULL,NULL

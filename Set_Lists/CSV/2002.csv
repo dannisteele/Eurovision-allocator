@@ -1,25 +1,25 @@
-"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-1,"Austria","Manuel Ortega","Say a Word",8,3,15,13,16,3,26,14,12,2,NULL,NULL
-2,"Belgium","Sergio and the Ladies","Sister",1,16,12,11,15,4,33,19,14,5,NULL,NULL
-3,"Bosnia and Herzegovina","Maja","Na jastuku za dvoje",26,15,12,14,13,1,33,11,22,11,NULL,NULL
-4,"Croatia","Vesna Pisarović","Everything I Want",27,6,10,11,12,1,44,19,25,6,NULL,NULL
-5,"Cyprus","One","Gimme",24,1,5,5,7,2,85,40,45,5,NULL,NULL
-6,"Denmark","Malene","Tell Me Who You Are",9,14,21,19,21,2,7,2,5,3,NULL,NULL
-7,"Estonia","Sahlene","Runaway",29,8,3,4,5,1,111,44,67,23,NULL,NULL
-8,"Finland","Laura","Addicted to You",14,13,17,17,14,3,24,5,19,14,NULL,NULL
-9,"France","Sandrine François","Il faut du temps",2,17,4,8,4,4,104,28,76,48,NULL,NULL
-10,"Germany","Corinna May","I Can't Live Without Music",3,18,18,15,19,4,17,9,8,1,NULL,NULL
-11,"Greece","Michalis Rakintzis","S.A.G.A.P.O.",21,4,14,10,20,10,27,21,6,15,NULL,NULL
-12,"Israel","Sarit Hadad","Light a Candle",20,10,11,16,10,6,37,8,29,21,NULL,NULL
-13,"Latvia","Marie N","I Wanna",37,23,1,1,1,0,176,57,119,62,NULL,NULL
-14,"Lithuania","Aivaras","Happy You",31,24,20,18,19,1,12,4,8,4,NULL,NULL
-15,"Macedonia","Karolina","Od nas zavisi",36,20,2,2,2,0,164,51,113,62,NULL,NULL
-16,"Malta","Ira Losco","7th Wonder",19,9,16,11,20,9,25,19,6,13,NULL,NULL
-17,"Romania","Monica Anghel and Marcel Pavel","Tell Me Why",33,21,8,3,11,8,71,45,26,19,NULL,NULL
-18,"Russia","Prime Minister","Northern Girl",34,7,9,9,9,0,55,22,33,11,NULL,NULL
-19,"Slovenia","Sestre","Samo ljubezen",28,22,12,14,13,1,33,11,22,11,NULL,NULL
-20,"Spain","Rosa","Europe's Living a Celebration",15,5,6,12,6,6,81,15,66,51,NULL,NULL
-21,"Sweden","Afro-dite","Never Let It Go",11,12,7,7,8,1,72,29,43,14,NULL,NULL
-22,"Switzerland","Francine Jordi","Dans le jardin de mon âme",7,11,19,18,17,1,15,4,11,7,NULL,NULL
-23,"Turkey","Buket Bengisu and Group Safir","Leylaklar Soldu Kalbinde",22,19,13,11,18,7,29,19,10,9,NULL,NULL
-24,"United Kingdom","Jessica Garlick","Come Back",10,2,3,6,3,3,111,34,77,43,NULL,NULL
+"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+1,"Austria","Manuel Ortega","Say a Word",8,3,15,13,16,3,26,14,12,2,NULL,NULL,NULL
+2,"Belgium","Sergio and the Ladies","Sister",1,16,12,11,15,4,33,19,14,5,NULL,NULL,NULL
+3,"Bosnia and Herzegovina","Maja","Na jastuku za dvoje",26,15,12,14,13,1,33,11,22,11,NULL,NULL,NULL
+4,"Croatia","Vesna Pisarović","Everything I Want",27,6,10,11,12,1,44,19,25,6,NULL,NULL,NULL
+5,"Cyprus","One","Gimme",24,1,5,5,7,2,85,40,45,5,NULL,NULL,NULL
+6,"Denmark","Malene","Tell Me Who You Are",9,14,21,19,21,2,7,2,5,3,NULL,NULL,NULL
+7,"Estonia","Sahlene","Runaway",29,8,3,4,5,1,111,44,67,23,NULL,NULL,NULL
+8,"Finland","Laura","Addicted to You",14,13,17,17,14,3,24,5,19,14,NULL,NULL,NULL
+9,"France","Sandrine François","Il faut du temps",2,17,4,8,4,4,104,28,76,48,NULL,NULL,NULL
+10,"Germany","Corinna May","I Can't Live Without Music",3,18,18,15,19,4,17,9,8,1,NULL,NULL,NULL
+11,"Greece","Michalis Rakintzis","S.A.G.A.P.O.",21,4,14,10,20,10,27,21,6,15,NULL,NULL,NULL
+12,"Israel","Sarit Hadad","Light a Candle",20,10,11,16,10,6,37,8,29,21,NULL,NULL,NULL
+13,"Latvia","Marie N","I Wanna",37,23,1,1,1,0,176,57,119,62,NULL,NULL,NULL
+14,"Lithuania","Aivaras","Happy You",31,24,20,18,19,1,12,4,8,4,NULL,NULL,NULL
+15,"Macedonia","Karolina","Od nas zavisi",36,20,2,2,2,0,164,51,113,62,NULL,NULL,NULL
+16,"Malta","Ira Losco","7th Wonder",19,9,16,11,20,9,25,19,6,13,NULL,NULL,NULL
+17,"Romania","Monica Anghel and Marcel Pavel","Tell Me Why",33,21,8,3,11,8,71,45,26,19,NULL,NULL,NULL
+18,"Russia","Prime Minister","Northern Girl",34,7,9,9,9,0,55,22,33,11,NULL,NULL,NULL
+19,"Slovenia","Sestre","Samo ljubezen",28,22,12,14,13,1,33,11,22,11,NULL,NULL,NULL
+20,"Spain","Rosa","Europe's Living a Celebration",15,5,6,12,6,6,81,15,66,51,NULL,NULL,NULL
+21,"Sweden","Afro-dite","Never Let It Go",11,12,7,7,8,1,72,29,43,14,NULL,NULL,NULL
+22,"Switzerland","Francine Jordi","Dans le jardin de mon âme",7,11,19,18,17,1,15,4,11,7,NULL,NULL,NULL
+23,"Turkey","Buket Bengisu and Group Safir","Leylaklar Soldu Kalbinde",22,19,13,11,18,7,29,19,10,9,NULL,NULL,NULL
+24,"United Kingdom","Jessica Garlick","Come Back",10,2,3,6,3,3,111,34,77,43,NULL,NULL,NULL

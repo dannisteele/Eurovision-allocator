@@ -1,11 +1,11 @@
-"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-1,"Austria","Liane Augustin","Die ganze Welt braucht Liebe",8,9,5,5,NULL,NULL,8,8,NULL,NULL,NULL,NULL
-2,"Belgium","Fud Leclerc","Ma petite chatte",1,7,5,5,NULL,NULL,8,8,NULL,NULL,NULL,NULL
-3,"Denmark","Raquel Rastenni","Jeg rev et blad ud af min dagbog",9,6,7,7,NULL,NULL,3,3,NULL,NULL,NULL,NULL
-4,"France","André Claveau","Dors mon amour",2,3,1,1,NULL,NULL,27,27,NULL,NULL,NULL,NULL
-5,"Germany","Margot Hielscher","Für zwei Groschen Musik",3,8,6,6,NULL,NULL,5,5,NULL,NULL,NULL,NULL
-6,"Italy","Domenico Modugno","Nel blu, dipinto di blu",4,1,3,3,NULL,NULL,13,13,NULL,NULL,NULL,NULL
-7,"Luxembourg","Solange Berry","Un grand amour",5,4,8,8,NULL,NULL,1,1,NULL,NULL,NULL,NULL
-8,"Netherlands","Corry Brokken","Heel de wereld",6,2,8,8,NULL,NULL,1,1,NULL,NULL,NULL,NULL
-9,"Sweden","Alice Babs","Lilla stjärna",11,5,4,4,NULL,NULL,10,10,NULL,NULL,NULL,NULL
-10,"Switzerland","Lys Assia","Giorgio",7,10,2,2,NULL,NULL,24,24,NULL,NULL,NULL,NULL
+"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+1,"Austria","Liane Augustin","Die ganze Welt braucht Liebe",8,9,5,5,NULL,NULL,8,8,NULL,NULL,NULL,NULL,NULL
+2,"Belgium","Fud Leclerc","Ma petite chatte",1,7,5,5,NULL,NULL,8,8,NULL,NULL,NULL,NULL,NULL
+3,"Denmark","Raquel Rastenni","Jeg rev et blad ud af min dagbog",9,6,7,7,NULL,NULL,3,3,NULL,NULL,NULL,NULL,NULL
+4,"France","André Claveau","Dors mon amour",2,3,1,1,NULL,NULL,27,27,NULL,NULL,NULL,NULL,NULL
+5,"Germany","Margot Hielscher","Für zwei Groschen Musik",3,8,6,6,NULL,NULL,5,5,NULL,NULL,NULL,NULL,NULL
+6,"Italy","Domenico Modugno","Nel blu, dipinto di blu",4,1,3,3,NULL,NULL,13,13,NULL,NULL,NULL,NULL,NULL
+7,"Luxembourg","Solange Berry","Un grand amour",5,4,8,8,NULL,NULL,1,1,NULL,NULL,NULL,NULL,NULL
+8,"Netherlands","Corry Brokken","Heel de wereld",6,2,8,8,NULL,NULL,1,1,NULL,NULL,NULL,NULL,NULL
+9,"Sweden","Alice Babs","Lilla stjärna",11,5,4,4,NULL,NULL,10,10,NULL,NULL,NULL,NULL,NULL
+10,"Switzerland","Lys Assia","Giorgio",7,10,2,2,NULL,NULL,24,24,NULL,NULL,NULL,NULL,NULL

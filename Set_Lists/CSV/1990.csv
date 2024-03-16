@@ -1,23 +1,23 @@
-"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-1,"Austria","Simone","Keine Mauern mehr",8,20,9,9,NULL,NULL,58,58,NULL,NULL,NULL,NULL
-2,"Belgium","Philippe Lafontaine","Macédomienne",1,3,11,11,NULL,NULL,46,46,NULL,NULL,NULL,NULL
-3,"Cyprus","Anastasiou","Milas poli (Μιλάς πολύ)",24,21,13,13,NULL,NULL,36,36,NULL,NULL,NULL,NULL
-4,"Denmark","Lonnie Devantier","Hallo Hallo",9,11,7,7,NULL,NULL,64,64,NULL,NULL,NULL,NULL
-5,"Finland","Beat","Fri?",14,22,20,20,NULL,NULL,8,8,NULL,NULL,NULL,NULL
-6,"France","Joëlle Ursull","White and Black Blues",2,14,2,2,NULL,NULL,132,132,NULL,NULL,NULL,NULL
-7,"Germany","Chris Kempers and Daniel Kovac","Frei zu leben",3,13,8,8,NULL,NULL,60,60,NULL,NULL,NULL,NULL
-8,"Greece","Christos Callow","Horis skopo (Χωρίς σκοπό)",21,2,18,18,NULL,NULL,11,11,NULL,NULL,NULL,NULL
-9,"Iceland","Stjórnin","Eitt lag enn",25,8,3,3,NULL,NULL,124,124,NULL,NULL,NULL,NULL
-10,"Ireland","Liam Reilly","Somewhere in Europe",18,17,2,2,NULL,NULL,132,132,NULL,NULL,NULL,NULL
-11,"Israel","Rita","Shara Barkhovot (שרה ברחובות)",20,10,17,17,NULL,NULL,16,16,NULL,NULL,NULL,NULL
-12,"Italy","Toto Cutugno","Insieme: 1992",4,19,1,1,NULL,NULL,149,149,NULL,NULL,NULL,NULL
-13,"Luxembourg","Céline Carzo","Quand je te rêve",5,6,12,12,NULL,NULL,38,38,NULL,NULL,NULL,NULL
-14,"Netherlands","Maywood","Ik wil alles met je delen",6,5,14,14,NULL,NULL,25,25,NULL,NULL,NULL,NULL
-15,"Norway","Ketil Stokkan","Brandenburger Tor",13,9,20,20,NULL,NULL,8,8,NULL,NULL,NULL,NULL
-16,"Portugal","Nucha","Há sempre alguém",17,16,19,19,NULL,NULL,9,9,NULL,NULL,NULL,NULL
-17,"Spain","Azúcar Moreno","Bandido",15,1,4,4,NULL,NULL,96,96,NULL,NULL,NULL,NULL
-18,"Sweden","Edin-Ådahl","Som en vind",11,18,15,15,NULL,NULL,24,24,NULL,NULL,NULL,NULL
-19,"Switzerland","Egon Egemann","Musik klingt in die Welt hinaus",7,12,10,10,NULL,NULL,51,51,NULL,NULL,NULL,NULL
-20,"Turkey","Kayahan","Gözlerinin Hapsindeyim",22,4,16,16,NULL,NULL,21,21,NULL,NULL,NULL,NULL
-21,"United Kingdom","Emma","Give a Little Love Back to the World",10,7,5,5,NULL,NULL,87,87,NULL,NULL,NULL,NULL
-22,"Yugoslavia","Tajči","Hajde da ludujemo (Хајде да лудујемо)",16,15,6,6,NULL,NULL,81,81,NULL,NULL,NULL,NULL
+"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+1,"Austria","Simone","Keine Mauern mehr",8,20,9,9,NULL,NULL,58,58,NULL,NULL,NULL,NULL,NULL
+2,"Belgium","Philippe Lafontaine","Macédomienne",1,3,11,11,NULL,NULL,46,46,NULL,NULL,NULL,NULL,NULL
+3,"Cyprus","Anastasiou","Milas poli (Μιλάς πολύ)",24,21,13,13,NULL,NULL,36,36,NULL,NULL,NULL,NULL,NULL
+4,"Denmark","Lonnie Devantier","Hallo Hallo",9,11,7,7,NULL,NULL,64,64,NULL,NULL,NULL,NULL,NULL
+5,"Finland","Beat","Fri?",14,22,20,20,NULL,NULL,8,8,NULL,NULL,NULL,NULL,NULL
+6,"France","Joëlle Ursull","White and Black Blues",2,14,2,2,NULL,NULL,132,132,NULL,NULL,NULL,NULL,NULL
+7,"Germany","Chris Kempers and Daniel Kovac","Frei zu leben",3,13,8,8,NULL,NULL,60,60,NULL,NULL,NULL,NULL,NULL
+8,"Greece","Christos Callow","Horis skopo (Χωρίς σκοπό)",21,2,18,18,NULL,NULL,11,11,NULL,NULL,NULL,NULL,NULL
+9,"Iceland","Stjórnin","Eitt lag enn",25,8,3,3,NULL,NULL,124,124,NULL,NULL,NULL,NULL,NULL
+10,"Ireland","Liam Reilly","Somewhere in Europe",18,17,2,2,NULL,NULL,132,132,NULL,NULL,NULL,NULL,NULL
+11,"Israel","Rita","Shara Barkhovot (שרה ברחובות)",20,10,17,17,NULL,NULL,16,16,NULL,NULL,NULL,NULL,NULL
+12,"Italy","Toto Cutugno","Insieme: 1992",4,19,1,1,NULL,NULL,149,149,NULL,NULL,NULL,NULL,NULL
+13,"Luxembourg","Céline Carzo","Quand je te rêve",5,6,12,12,NULL,NULL,38,38,NULL,NULL,NULL,NULL,NULL
+14,"Netherlands","Maywood","Ik wil alles met je delen",6,5,14,14,NULL,NULL,25,25,NULL,NULL,NULL,NULL,NULL
+15,"Norway","Ketil Stokkan","Brandenburger Tor",13,9,20,20,NULL,NULL,8,8,NULL,NULL,NULL,NULL,NULL
+16,"Portugal","Nucha","Há sempre alguém",17,16,19,19,NULL,NULL,9,9,NULL,NULL,NULL,NULL,NULL
+17,"Spain","Azúcar Moreno","Bandido",15,1,4,4,NULL,NULL,96,96,NULL,NULL,NULL,NULL,NULL
+18,"Sweden","Edin-Ådahl","Som en vind",11,18,15,15,NULL,NULL,24,24,NULL,NULL,NULL,NULL,NULL
+19,"Switzerland","Egon Egemann","Musik klingt in die Welt hinaus",7,12,10,10,NULL,NULL,51,51,NULL,NULL,NULL,NULL,NULL
+20,"Turkey","Kayahan","Gözlerinin Hapsindeyim",22,4,16,16,NULL,NULL,21,21,NULL,NULL,NULL,NULL,NULL
+21,"United Kingdom","Emma","Give a Little Love Back to the World",10,7,5,5,NULL,NULL,87,87,NULL,NULL,NULL,NULL,NULL
+22,"Yugoslavia","Tajči","Hajde da ludujemo (Хајде да лудујемо)",16,15,6,6,NULL,NULL,81,81,NULL,NULL,NULL,NULL,NULL

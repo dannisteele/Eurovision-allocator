@@ -1,28 +1,28 @@
-"SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-"1961","Ljiljana Petrović","Neke davne zvezde",5,7,7,NULL,NULL,9,9,NULL,NULL,NULL,NULL
-"1962","Lola Novaković","Ne pali svetla u sumrak",12,4,4,NULL,NULL,10,10,NULL,NULL,NULL,NULL
-"1963","Vice Vukov","Brodovi",9,10,10,NULL,NULL,3,3,NULL,NULL,NULL,NULL
-"1964","Sabahudin Kurt","Život je sklopio krug",13,11,11,NULL,NULL,0,0,NULL,NULL,NULL,NULL
-"1965","Vice Vukov","Čežnja",17,12,12,NULL,NULL,2,2,NULL,NULL,NULL,NULL
-"1966","Berta Ambrož","Brez besed",5,6,6,NULL,NULL,9,9,NULL,NULL,NULL,NULL
-"1967","Lado Leskovar","Vse rože sveta",15,8,8,NULL,NULL,7,7,NULL,NULL,NULL,NULL
-"1968","Lući Kapurso and Hamo Hajdarhodžić","Jedan dan",17,7,7,NULL,NULL,8,8,NULL,NULL,NULL,NULL
-"1969","Ivan","Pozdrav svijetu",1,8,8,NULL,NULL,5,5,NULL,NULL,NULL,NULL
-"1970","Eva Sršen","Pridi, dala ti bom cvet",4,7,7,NULL,NULL,4,4,NULL,NULL,NULL,NULL
-"1971","Krunoslav Slabinac","Tvoj dječak je tužan",16,13,13,NULL,NULL,68,68,NULL,NULL,NULL,NULL
-"1972","Tereza","Muzika i ti",13,9,9,NULL,NULL,87,87,NULL,NULL,NULL,NULL
-"1973","Zdravko Čolić","Gori vatra",9,13,13,NULL,NULL,65,65,NULL,NULL,NULL,NULL
-"1974","Korni Grupa","Generacija '42",7,8,8,NULL,NULL,6,6,NULL,NULL,NULL,NULL
-"1975","Pepel in kri","Dan ljubezni",8,13,13,NULL,NULL,22,22,NULL,NULL,NULL,NULL
-"1976","Ambasadori","Ne mogu skriti svoju bol",18,17,17,NULL,NULL,10,10,NULL,NULL,NULL,NULL
-"1981","Seid Memić Vajta","Lejla",7,13,13,NULL,NULL,35,35,NULL,NULL,NULL,NULL
-"1982","Aska","Halo, halo",14,14,14,NULL,NULL,21,21,NULL,NULL,NULL,NULL
-"1983","Daniel","Džuli",12,4,4,NULL,NULL,125,125,NULL,NULL,NULL,NULL
-"1984","Ida and Vlado","Ciao, amore",12,16,16,NULL,NULL,26,26,NULL,NULL,NULL,NULL
-"1986","Doris Dragović","Željo moja",2,11,11,NULL,NULL,49,49,NULL,NULL,NULL,NULL
-"1987","Novi fosili","Ja sam za ples",21,4,4,NULL,NULL,92,92,NULL,NULL,NULL,NULL
-"1988","Srebrna krila","Mangup",21,6,6,NULL,NULL,87,87,NULL,NULL,NULL,NULL
-"1989","Riva","Rock Me",22,1,1,NULL,NULL,137,137,NULL,NULL,NULL,NULL
-"1990","Tajči","Hajde da ludujemo (Хајде да лудујемо)",15,6,6,NULL,NULL,81,81,NULL,NULL,NULL,NULL
-"1991","Baby Doll","Brazil (Бразил)",1,21,21,NULL,NULL,1,1,NULL,NULL,NULL,NULL
-"1992","Extra Nena","Ljubim te pesmama (Љубим те песмама)",20,13,13,NULL,NULL,44,44,NULL,NULL,NULL,NULL
+"sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+"1961","Ljiljana Petrović","Neke davne zvezde",5,7,7,NULL,NULL,9,9,NULL,NULL,NULL,NULL,NULL
+"1962","Lola Novaković","Ne pali svetla u sumrak",12,4,4,NULL,NULL,10,10,NULL,NULL,NULL,NULL,NULL
+"1963","Vice Vukov","Brodovi",9,10,10,NULL,NULL,3,3,NULL,NULL,NULL,NULL,NULL
+"1964","Sabahudin Kurt","Život je sklopio krug",13,11,11,NULL,NULL,0,0,NULL,NULL,NULL,NULL,NULL
+"1965","Vice Vukov","Čežnja",17,12,12,NULL,NULL,2,2,NULL,NULL,NULL,NULL,NULL
+"1966","Berta Ambrož","Brez besed",5,6,6,NULL,NULL,9,9,NULL,NULL,NULL,NULL,NULL
+"1967","Lado Leskovar","Vse rože sveta",15,8,8,NULL,NULL,7,7,NULL,NULL,NULL,NULL,NULL
+"1968","Lući Kapurso and Hamo Hajdarhodžić","Jedan dan",17,7,7,NULL,NULL,8,8,NULL,NULL,NULL,NULL,NULL
+"1969","Ivan","Pozdrav svijetu",1,8,8,NULL,NULL,5,5,NULL,NULL,NULL,NULL,NULL
+"1970","Eva Sršen","Pridi, dala ti bom cvet",4,7,7,NULL,NULL,4,4,NULL,NULL,NULL,NULL,NULL
+"1971","Krunoslav Slabinac","Tvoj dječak je tužan",16,13,13,NULL,NULL,68,68,NULL,NULL,NULL,NULL,NULL
+"1972","Tereza","Muzika i ti",13,9,9,NULL,NULL,87,87,NULL,NULL,NULL,NULL,NULL
+"1973","Zdravko Čolić","Gori vatra",9,13,13,NULL,NULL,65,65,NULL,NULL,NULL,NULL,NULL
+"1974","Korni Grupa","Generacija '42",7,8,8,NULL,NULL,6,6,NULL,NULL,NULL,NULL,NULL
+"1975","Pepel in kri","Dan ljubezni",8,13,13,NULL,NULL,22,22,NULL,NULL,NULL,NULL,NULL
+"1976","Ambasadori","Ne mogu skriti svoju bol",18,17,17,NULL,NULL,10,10,NULL,NULL,NULL,NULL,NULL
+"1981","Seid Memić Vajta","Lejla",7,13,13,NULL,NULL,35,35,NULL,NULL,NULL,NULL,NULL
+"1982","Aska","Halo, halo",14,14,14,NULL,NULL,21,21,NULL,NULL,NULL,NULL,NULL
+"1983","Daniel","Džuli",12,4,4,NULL,NULL,125,125,NULL,NULL,NULL,NULL,NULL
+"1984","Ida and Vlado","Ciao, amore",12,16,16,NULL,NULL,26,26,NULL,NULL,NULL,NULL,NULL
+"1986","Doris Dragović","Željo moja",2,11,11,NULL,NULL,49,49,NULL,NULL,NULL,NULL,NULL
+"1987","Novi fosili","Ja sam za ples",21,4,4,NULL,NULL,92,92,NULL,NULL,NULL,NULL,NULL
+"1988","Srebrna krila","Mangup",21,6,6,NULL,NULL,87,87,NULL,NULL,NULL,NULL,NULL
+"1989","Riva","Rock Me",22,1,1,NULL,NULL,137,137,NULL,NULL,NULL,NULL,NULL
+"1990","Tajči","Hajde da ludujemo (Хајде да лудујемо)",15,6,6,NULL,NULL,81,81,NULL,NULL,NULL,NULL,NULL
+"1991","Baby Doll","Brazil (Бразил)",1,21,21,NULL,NULL,1,1,NULL,NULL,NULL,NULL,NULL
+"1992","Extra Nena","Ljubim te pesmama (Љубим те песмама)",20,13,13,NULL,NULL,44,44,NULL,NULL,NULL,NULL,NULL

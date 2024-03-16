@@ -1,16 +1,16 @@
-"SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-"2005","Kaffe","Lorraine",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2006","Mariana Popova","Let Me Cry",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2007","Elitsa Todorova and Stoyan Yankoulov","Water",21,5,12,4,8,157,0,157,157,NULL,NULL
-"2008","Deep Zone and Balthazar","DJ, Take Me Away",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2009","Krassimir Avramov","Illusion",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2010","Miro","Angel si ti",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2011","Poli Genova","Na inat",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2012","Sofi Marinova","Love Unlimited",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Elitsa Todorova and Stoyan Yankoulov","Samo shampioni",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2016","Poli Genova","If Love Was a Crime",8,4,6,5,1,307,127,180,53,NULL,NULL
-"2017","Kristian Kostov","Beautiful Mess",25,2,2,2,0,615,278,337,59,NULL,NULL
-"2018","Equinox","Bones",18,14,9,14,5,166,100,66,34,NULL,NULL
-"2020","Victoria","Tears Getting Sober",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2021","Victoria","Growing Up Is Getting Old",17,10,6,17,11,170,140,30,110,"https://youtu.be/B1ZiPrMwMYA?si=Pig3uuWh8G2t3Wg2","https://music.apple.com/gb/album/growing-up-is-getting-old-eurovision-version/1571483769?i=1571483772"
-"2022","Intelligent Music Project","Intention",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/EwZTI5AoTg4?si=6NvH2R7p787NAh2K","https://music.apple.com/gb/album/intention/1598430910?i=1598430933"
+"sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+"2005","Kaffe","Lorraine",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2006","Mariana Popova","Let Me Cry",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2007","Elitsa Todorova and Stoyan Yankoulov","Water",21,5,12,4,8,157,0,157,157,NULL,NULL,NULL
+"2008","Deep Zone and Balthazar","DJ, Take Me Away",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2009","Krassimir Avramov","Illusion",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2010","Miro","Angel si ti",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2011","Poli Genova","Na inat",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2012","Sofi Marinova","Love Unlimited",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2013","Elitsa Todorova and Stoyan Yankoulov","Samo shampioni",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2016","Poli Genova","If Love Was a Crime",8,4,6,5,1,307,127,180,53,NULL,NULL,NULL
+"2017","Kristian Kostov","Beautiful Mess",25,2,2,2,0,615,278,337,59,NULL,NULL,NULL
+"2018","Equinox","Bones",18,14,9,14,5,166,100,66,34,NULL,NULL,NULL
+"2020","Victoria","Tears Getting Sober",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Victoria","Growing Up Is Getting Old",17,10,6,17,11,170,140,30,110,"https://youtu.be/B1ZiPrMwMYA?si=Pig3uuWh8G2t3Wg2","https://music.apple.com/gb/album/growing-up-is-getting-old-eurovision-version/1571483769?i=1571483772",NULL
+"2022","Intelligent Music Project","Intention",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/EwZTI5AoTg4?si=6NvH2R7p787NAh2K","https://music.apple.com/gb/album/intention/1598430910?i=1598430933",NULL

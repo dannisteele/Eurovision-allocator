@@ -1,19 +1,19 @@
-"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-1,"Austria","Marianne Mendt","Musik",8,1,14,14,NULL,NULL,66,66,NULL,NULL,NULL,NULL
-2,"Belgium","Jacques Raymond and Lily Castel","Goeie morgen, morgen",1,10,13,13,NULL,NULL,68,68,NULL,NULL,NULL,NULL
-3,"Finland","Markku Aro and Koivisto Sisters","Tie uuteen päivään",14,17,7,7,NULL,NULL,84,84,NULL,NULL,NULL,NULL
-4,"France","Serge Lama","Un jardin sur la terre",2,7,9,9,NULL,NULL,82,82,NULL,NULL,NULL,NULL
-5,"Germany","Katja Ebstein","Diese Welt",3,5,3,3,NULL,NULL,100,100,NULL,NULL,NULL,NULL
-6,"Ireland","Angela Farrell","One Day Love",18,13,10,10,NULL,NULL,79,79,NULL,NULL,NULL,NULL
-7,"Italy","Massimo Ranieri","L'amore è un attimo",4,11,5,5,NULL,NULL,91,91,NULL,NULL,NULL,NULL
-8,"Luxembourg","Monique Melsen","Pomme, pomme, pomme",5,8,12,12,NULL,NULL,70,70,NULL,NULL,NULL,NULL
-9,"Malta","Joe Grech","Marija l-Maltija",19,2,16,16,NULL,NULL,52,52,NULL,NULL,NULL,NULL
-10,"Monaco","Séverine","Un banc, un arbre, une rue",12,3,1,1,NULL,NULL,128,128,NULL,NULL,NULL,NULL
-11,"Netherlands","Saskia and Serge","Tijd",6,14,6,6,NULL,NULL,85,85,NULL,NULL,NULL,NULL
-12,"Norway","Hanne Krogh","Lykken er...",13,18,15,15,NULL,NULL,65,65,NULL,NULL,NULL,NULL
-13,"Portugal","Tonicha","Menina do alto da serra",17,15,8,8,NULL,NULL,83,83,NULL,NULL,NULL,NULL
-14,"Spain","Karina","En un mundo nuevo",15,6,2,2,NULL,NULL,116,116,NULL,NULL,NULL,NULL
-15,"Sweden","The Family Four","Vita vidder",11,12,6,6,NULL,NULL,85,85,NULL,NULL,NULL,NULL
-16,"Switzerland","Peter, Sue and Marc","Les Illusions de nos vingt ans",7,4,11,11,NULL,NULL,78,78,NULL,NULL,NULL,NULL
-17,"United Kingdom","Clodagh Rodgers","Jack in the Box",10,9,4,4,NULL,NULL,98,98,NULL,NULL,NULL,NULL
-18,"Yugoslavia","Krunoslav Slabinac","Tvoj dječak je tužan",16,16,13,13,NULL,NULL,68,68,NULL,NULL,NULL,NULL
+"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+1,"Austria","Marianne Mendt","Musik",8,1,14,14,NULL,NULL,66,66,NULL,NULL,NULL,NULL,NULL
+2,"Belgium","Jacques Raymond and Lily Castel","Goeie morgen, morgen",1,10,13,13,NULL,NULL,68,68,NULL,NULL,NULL,NULL,NULL
+3,"Finland","Markku Aro and Koivisto Sisters","Tie uuteen päivään",14,17,7,7,NULL,NULL,84,84,NULL,NULL,NULL,NULL,NULL
+4,"France","Serge Lama","Un jardin sur la terre",2,7,9,9,NULL,NULL,82,82,NULL,NULL,NULL,NULL,NULL
+5,"Germany","Katja Ebstein","Diese Welt",3,5,3,3,NULL,NULL,100,100,NULL,NULL,NULL,NULL,NULL
+6,"Ireland","Angela Farrell","One Day Love",18,13,10,10,NULL,NULL,79,79,NULL,NULL,NULL,NULL,NULL
+7,"Italy","Massimo Ranieri","L'amore è un attimo",4,11,5,5,NULL,NULL,91,91,NULL,NULL,NULL,NULL,NULL
+8,"Luxembourg","Monique Melsen","Pomme, pomme, pomme",5,8,12,12,NULL,NULL,70,70,NULL,NULL,NULL,NULL,NULL
+9,"Malta","Joe Grech","Marija l-Maltija",19,2,16,16,NULL,NULL,52,52,NULL,NULL,NULL,NULL,NULL
+10,"Monaco","Séverine","Un banc, un arbre, une rue",12,3,1,1,NULL,NULL,128,128,NULL,NULL,NULL,NULL,NULL
+11,"Netherlands","Saskia and Serge","Tijd",6,14,6,6,NULL,NULL,85,85,NULL,NULL,NULL,NULL,NULL
+12,"Norway","Hanne Krogh","Lykken er...",13,18,15,15,NULL,NULL,65,65,NULL,NULL,NULL,NULL,NULL
+13,"Portugal","Tonicha","Menina do alto da serra",17,15,8,8,NULL,NULL,83,83,NULL,NULL,NULL,NULL,NULL
+14,"Spain","Karina","En un mundo nuevo",15,6,2,2,NULL,NULL,116,116,NULL,NULL,NULL,NULL,NULL
+15,"Sweden","The Family Four","Vita vidder",11,12,6,6,NULL,NULL,85,85,NULL,NULL,NULL,NULL,NULL
+16,"Switzerland","Peter, Sue and Marc","Les Illusions de nos vingt ans",7,4,11,11,NULL,NULL,78,78,NULL,NULL,NULL,NULL,NULL
+17,"United Kingdom","Clodagh Rodgers","Jack in the Box",10,9,4,4,NULL,NULL,98,98,NULL,NULL,NULL,NULL,NULL
+18,"Yugoslavia","Krunoslav Slabinac","Tvoj dječak je tužan",16,16,13,13,NULL,NULL,68,68,NULL,NULL,NULL,NULL,NULL

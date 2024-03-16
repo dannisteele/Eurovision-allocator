@@ -1,23 +1,23 @@
-"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-1,"Austria","Gary Lux","Nur noch Gefühl",8,3,19,19,NULL,NULL,8,8,NULL,NULL,NULL,NULL
-2,"Belgium","Liliane Saint-Pierre","Soldiers of Love",1,5,10,10,NULL,NULL,56,56,NULL,NULL,NULL,NULL
-3,"Cyprus","Alexia","Aspro mavro",24,17,6,6,NULL,NULL,80,80,NULL,NULL,NULL,NULL
-4,"Denmark","Bandjo with Anne-Cathrine Herdorf","En lille melodi",9,19,5,5,NULL,NULL,83,83,NULL,NULL,NULL,NULL
-5,"Finland","Vicky Rosti","Sata salamaa",14,18,14,14,NULL,NULL,32,32,NULL,NULL,NULL,NULL
-6,"France","Christine Minier","Les mots d'amour n'ont pas de dimanche",2,15,13,13,NULL,NULL,44,44,NULL,NULL,NULL,NULL
-7,"Germany","Wind","Laß die Sonne in dein Herz",3,16,2,2,NULL,NULL,141,141,NULL,NULL,NULL,NULL
-8,"Greece","Bang","Stop",21,11,9,9,NULL,NULL,64,64,NULL,NULL,NULL,NULL
-9,"Iceland","Halla Margrét","Hægt og hljótt",25,4,15,15,NULL,NULL,28,28,NULL,NULL,NULL,NULL
-10,"Ireland","Johnny Logan","Hold Me Now",18,20,1,1,NULL,NULL,172,172,NULL,NULL,NULL,NULL
-11,"Israel","Datner and Kushnir","Shir Habatlanim",20,2,7,7,NULL,NULL,73,73,NULL,NULL,NULL,NULL
-12,"Italy","Umberto Tozzi and Raf","Gente di mare",4,7,3,3,NULL,NULL,103,103,NULL,NULL,NULL,NULL
-13,"Luxembourg","Plastic Bertrand","Amour amour",5,13,20,20,NULL,NULL,4,4,NULL,NULL,NULL,NULL
-14,"Netherlands","Marcha","Rechtop in de wind",6,12,5,5,NULL,NULL,83,83,NULL,NULL,NULL,NULL
-15,"Norway","Kate Gulbrandsen","Mitt liv",13,1,8,8,NULL,NULL,65,65,NULL,NULL,NULL,NULL
-16,"Portugal","Nevada","Neste barco à vela",17,8,17,17,NULL,NULL,15,15,NULL,NULL,NULL,NULL
-17,"Spain","Patricia Kraus","No estás solo",15,9,18,18,NULL,NULL,10,10,NULL,NULL,NULL,NULL
-18,"Sweden","Lotta Engberg","Boogaloo",11,6,11,11,NULL,NULL,50,50,NULL,NULL,NULL,NULL
-19,"Switzerland","Carol Rich","Moitié moitié",7,22,16,16,NULL,NULL,26,26,NULL,NULL,NULL,NULL
-20,"Turkey","Seyyal Taner and Grup Lokomotif","Şarkım Sevgi Üstüne",22,10,21,21,NULL,NULL,0,0,NULL,NULL,NULL,NULL
-21,"United Kingdom","Rikki","Only the Light",10,14,12,12,NULL,NULL,47,47,NULL,NULL,NULL,NULL
-22,"Yugoslavia","Novi fosili","Ja sam za ples",16,21,4,4,NULL,NULL,92,92,NULL,NULL,NULL,NULL
+"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+1,"Austria","Gary Lux","Nur noch Gefühl",8,3,19,19,NULL,NULL,8,8,NULL,NULL,NULL,NULL,NULL
+2,"Belgium","Liliane Saint-Pierre","Soldiers of Love",1,5,10,10,NULL,NULL,56,56,NULL,NULL,NULL,NULL,NULL
+3,"Cyprus","Alexia","Aspro mavro",24,17,6,6,NULL,NULL,80,80,NULL,NULL,NULL,NULL,NULL
+4,"Denmark","Bandjo with Anne-Cathrine Herdorf","En lille melodi",9,19,5,5,NULL,NULL,83,83,NULL,NULL,NULL,NULL,NULL
+5,"Finland","Vicky Rosti","Sata salamaa",14,18,14,14,NULL,NULL,32,32,NULL,NULL,NULL,NULL,NULL
+6,"France","Christine Minier","Les mots d'amour n'ont pas de dimanche",2,15,13,13,NULL,NULL,44,44,NULL,NULL,NULL,NULL,NULL
+7,"Germany","Wind","Laß die Sonne in dein Herz",3,16,2,2,NULL,NULL,141,141,NULL,NULL,NULL,NULL,NULL
+8,"Greece","Bang","Stop",21,11,9,9,NULL,NULL,64,64,NULL,NULL,NULL,NULL,NULL
+9,"Iceland","Halla Margrét","Hægt og hljótt",25,4,15,15,NULL,NULL,28,28,NULL,NULL,NULL,NULL,NULL
+10,"Ireland","Johnny Logan","Hold Me Now",18,20,1,1,NULL,NULL,172,172,NULL,NULL,NULL,NULL,NULL
+11,"Israel","Datner and Kushnir","Shir Habatlanim",20,2,7,7,NULL,NULL,73,73,NULL,NULL,NULL,NULL,NULL
+12,"Italy","Umberto Tozzi and Raf","Gente di mare",4,7,3,3,NULL,NULL,103,103,NULL,NULL,NULL,NULL,NULL
+13,"Luxembourg","Plastic Bertrand","Amour amour",5,13,20,20,NULL,NULL,4,4,NULL,NULL,NULL,NULL,NULL
+14,"Netherlands","Marcha","Rechtop in de wind",6,12,5,5,NULL,NULL,83,83,NULL,NULL,NULL,NULL,NULL
+15,"Norway","Kate Gulbrandsen","Mitt liv",13,1,8,8,NULL,NULL,65,65,NULL,NULL,NULL,NULL,NULL
+16,"Portugal","Nevada","Neste barco à vela",17,8,17,17,NULL,NULL,15,15,NULL,NULL,NULL,NULL,NULL
+17,"Spain","Patricia Kraus","No estás solo",15,9,18,18,NULL,NULL,10,10,NULL,NULL,NULL,NULL,NULL
+18,"Sweden","Lotta Engberg","Boogaloo",11,6,11,11,NULL,NULL,50,50,NULL,NULL,NULL,NULL,NULL
+19,"Switzerland","Carol Rich","Moitié moitié",7,22,16,16,NULL,NULL,26,26,NULL,NULL,NULL,NULL,NULL
+20,"Turkey","Seyyal Taner and Grup Lokomotif","Şarkım Sevgi Üstüne",22,10,21,21,NULL,NULL,0,0,NULL,NULL,NULL,NULL,NULL
+21,"United Kingdom","Rikki","Only the Light",10,14,12,12,NULL,NULL,47,47,NULL,NULL,NULL,NULL,NULL
+22,"Yugoslavia","Novi fosili","Ja sam za ples",16,21,4,4,NULL,NULL,92,92,NULL,NULL,NULL,NULL,NULL

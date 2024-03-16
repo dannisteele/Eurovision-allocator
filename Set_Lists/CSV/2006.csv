@@ -1,38 +1,38 @@
-"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-1,"Albania","Luiz Ejlli","Zjarr e ftohtë",39,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-2,"Andorra","Jenny","Sense tu",40,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-3,"Armenia","André","Without Your Love",45,24,8,12,7,5,129,0,129,129,NULL,NULL
-4,"Belarus","Polina Smolova","Mum",41,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-5,"Belgium","Kate Ryan","Je t'adore",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-6,"Bosnia and Herzegovina","Hari Mata Hari","Lejla",26,13,3,1,3,2,229,24,205,181,NULL,NULL
-7,"Bulgaria","Mariana Popova","Let Me Cry",43,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-8,"Croatia","Severina","Moja štikla",27,20,12,8,12,4,56,4,52,48,NULL,NULL
-9,"Cyprus","Annet Artani","Why Angels Cry",24,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-10,"Denmark","Sidsel Ben Semmane","Twist of Love",9,9,15,12,15,3,26,0,26,26,NULL,NULL
-11,"Estonia","Sandra","Through My Window",29,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-12,"Finland","Lordi","Hard Rock Hallelujah",14,17,1,12,1,11,292,0,292,292,NULL,NULL
-13,"France","Virginie Pouchain","Il était temps",2,19,19,9,21,12,5,3,2,1,NULL,NULL
-14,"Germany","Texas Lightning","No No Never",3,8,13,7,14,7,36,5,31,26,NULL,NULL
-15,"Greece","Anna Vissi","Everything",21,16,9,4,8,4,128,8,120,112,NULL,NULL
-16,"Iceland","Silvía Night","Congratulations",25,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-17,"Ireland","Brian Kennedy","Every Song Is a Cry for Love",18,21,10,3,10,7,93,10,83,73,NULL,NULL
-18,"Israel","Eddie Butler","Together We Are One",20,3,20,12,20,8,4,0,4,4,NULL,NULL
-19,"Latvia","Vocal Group Cosmos","I Hear Your Heart",37,4,14,4,18,14,30,8,22,14,NULL,NULL
-20,"Lithuania","LT United","We Are the Winners",31,14,6,5,5,0,162,7,155,148,NULL,NULL
-21,"North Macedonia","Elena Risteska","Ninanajna",36,11,12,9,11,2,56,3,53,50,NULL,NULL
-22,"Malta","Fabrizio Faniello","I Do",19,7,21,11,22,11,1,1,0,1,NULL,NULL
-23,"Monaco","Séverine Ferrer","La Coco-Dance",12,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-24,"Moldova","Arsenium feat. Natalia Gordienko and Connect-R","Loca",44,2,17,12,18,6,22,0,22,22,NULL,NULL
-25,"Netherlands","Treble","Amambanda",6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-26,"Norway","Christine Guldbrandsen","Alvedansen",13,5,13,11,13,2,36,1,35,34,NULL,NULL
-27,"Poland","Ich Troje","Follow My Heart",32,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-28,"Portugal","Nonstop","Coisas de nada",17,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-29,"Romania","Mihai Trăistariu","Tornerò",33,12,4,10,4,6,172,2,170,168,NULL,NULL
-30,"Russia","Dima Bilan","Never Let You Go",34,10,2,8,2,6,248,4,244,240,NULL,NULL
-31,"Slovenia","Anžej Dežan","Mr. Nobody",28,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-32,"Spain","Las Ketchup","Bloody Mary",15,6,18,6,19,13,18,6,12,6,NULL,NULL
-33,"Sweden","Carola","Invincible",11,22,5,2,5,3,170,15,155,140,NULL,NULL
-34,"Switzerland","six4one","If We All Give a Little",7,1,14,6,17,11,30,6,24,18,NULL,NULL
-35,"Turkey","Sibel Tüzün","Süper Star",22,23,11,5,9,4,91,7,84,77,NULL,NULL
-36,"Ukraine","Tina Karol","Show Me Your Love",38,18,7,10,6,4,145,2,143,141,NULL,NULL
-37,"United Kingdom","Daz Sampson","Teenage Life",10,15,16,12,16,4,25,0,25,25,NULL,NULL
+"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+1,"Albania","Luiz Ejlli","Zjarr e ftohtë",39,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+2,"Andorra","Jenny","Sense tu",40,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+3,"Armenia","André","Without Your Love",45,24,8,12,7,5,129,0,129,129,NULL,NULL,NULL
+4,"Belarus","Polina Smolova","Mum",41,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+5,"Belgium","Kate Ryan","Je t'adore",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+6,"Bosnia and Herzegovina","Hari Mata Hari","Lejla",26,13,3,1,3,2,229,24,205,181,NULL,NULL,NULL
+7,"Bulgaria","Mariana Popova","Let Me Cry",43,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+8,"Croatia","Severina","Moja štikla",27,20,12,8,12,4,56,4,52,48,NULL,NULL,NULL
+9,"Cyprus","Annet Artani","Why Angels Cry",24,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+10,"Denmark","Sidsel Ben Semmane","Twist of Love",9,9,15,12,15,3,26,0,26,26,NULL,NULL,NULL
+11,"Estonia","Sandra","Through My Window",29,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+12,"Finland","Lordi","Hard Rock Hallelujah",14,17,1,12,1,11,292,0,292,292,NULL,NULL,NULL
+13,"France","Virginie Pouchain","Il était temps",2,19,19,9,21,12,5,3,2,1,NULL,NULL,NULL
+14,"Germany","Texas Lightning","No No Never",3,8,13,7,14,7,36,5,31,26,NULL,NULL,NULL
+15,"Greece","Anna Vissi","Everything",21,16,9,4,8,4,128,8,120,112,NULL,NULL,NULL
+16,"Iceland","Silvía Night","Congratulations",25,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+17,"Ireland","Brian Kennedy","Every Song Is a Cry for Love",18,21,10,3,10,7,93,10,83,73,NULL,NULL,NULL
+18,"Israel","Eddie Butler","Together We Are One",20,3,20,12,20,8,4,0,4,4,NULL,NULL,NULL
+19,"Latvia","Vocal Group Cosmos","I Hear Your Heart",37,4,14,4,18,14,30,8,22,14,NULL,NULL,NULL
+20,"Lithuania","LT United","We Are the Winners",31,14,6,5,5,0,162,7,155,148,NULL,NULL,NULL
+21,"North Macedonia","Elena Risteska","Ninanajna",36,11,12,9,11,2,56,3,53,50,NULL,NULL,NULL
+22,"Malta","Fabrizio Faniello","I Do",19,7,21,11,22,11,1,1,0,1,NULL,NULL,NULL
+23,"Monaco","Séverine Ferrer","La Coco-Dance",12,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+24,"Moldova","Arsenium feat. Natalia Gordienko and Connect-R","Loca",44,2,17,12,18,6,22,0,22,22,NULL,NULL,NULL
+25,"Netherlands","Treble","Amambanda",6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+26,"Norway","Christine Guldbrandsen","Alvedansen",13,5,13,11,13,2,36,1,35,34,NULL,NULL,NULL
+27,"Poland","Ich Troje","Follow My Heart",32,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+28,"Portugal","Nonstop","Coisas de nada",17,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+29,"Romania","Mihai Trăistariu","Tornerò",33,12,4,10,4,6,172,2,170,168,NULL,NULL,NULL
+30,"Russia","Dima Bilan","Never Let You Go",34,10,2,8,2,6,248,4,244,240,NULL,NULL,NULL
+31,"Slovenia","Anžej Dežan","Mr. Nobody",28,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+32,"Spain","Las Ketchup","Bloody Mary",15,6,18,6,19,13,18,6,12,6,NULL,NULL,NULL
+33,"Sweden","Carola","Invincible",11,22,5,2,5,3,170,15,155,140,NULL,NULL,NULL
+34,"Switzerland","six4one","If We All Give a Little",7,1,14,6,17,11,30,6,24,18,NULL,NULL,NULL
+35,"Turkey","Sibel Tüzün","Süper Star",22,23,11,5,9,4,91,7,84,77,NULL,NULL,NULL
+36,"Ukraine","Tina Karol","Show Me Your Love",38,18,7,10,6,4,145,2,143,141,NULL,NULL,NULL
+37,"United Kingdom","Daz Sampson","Teenage Life",10,15,16,12,16,4,25,0,25,25,NULL,NULL,NULL

@@ -1,12 +1,12 @@
-"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-1,"Austria","Ferry Graf","Der K. und K. Kalypso aus Wien",8,9,8,8,NULL,NULL,4,4,NULL,NULL,NULL,NULL
-2,"Belgium","Bob Benny","Hou toch van mij",1,11,6,6,NULL,NULL,9,9,NULL,NULL,NULL,NULL
-3,"Denmark","Birthe Wilke","Uh, jeg ville ønske, jeg var dig",9,2,5,5,NULL,NULL,12,12,NULL,NULL,NULL,NULL
-4,"France","Jean Philippe","Oui oui oui oui",2,1,3,3,NULL,NULL,15,15,NULL,NULL,NULL,NULL
-5,"Germany","Alice and Ellen Kessler","Heut' woll'n wir tanzen geh'n",3,6,7,7,NULL,NULL,5,5,NULL,NULL,NULL,NULL
-6,"Italy","Domenico Modugno","Piove",4,3,6,6,NULL,NULL,9,9,NULL,NULL,NULL,NULL
-7,"Monaco","Jacques Pills","Mon ami Pierrot",12,4,9,9,NULL,NULL,1,1,NULL,NULL,NULL,NULL
-8,"Netherlands","Teddy Scholten","Een beetje",6,5,1,1,NULL,NULL,21,21,NULL,NULL,NULL,NULL
-9,"Sweden","Brita Borg","Augustin",11,7,8,8,NULL,NULL,4,4,NULL,NULL,NULL,NULL
-10,"Switzerland","Christa Williams","Irgendwoher",7,8,4,4,NULL,NULL,14,14,NULL,NULL,NULL,NULL
-11,"United Kingdom","Pearl Carr and Teddy Johnson","Sing Little Birdie",10,10,2,2,NULL,NULL,16,16,NULL,NULL,NULL,NULL
+"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+1,"Austria","Ferry Graf","Der K. und K. Kalypso aus Wien",8,9,8,8,NULL,NULL,4,4,NULL,NULL,NULL,NULL,NULL
+2,"Belgium","Bob Benny","Hou toch van mij",1,11,6,6,NULL,NULL,9,9,NULL,NULL,NULL,NULL,NULL
+3,"Denmark","Birthe Wilke","Uh, jeg ville ønske, jeg var dig",9,2,5,5,NULL,NULL,12,12,NULL,NULL,NULL,NULL,NULL
+4,"France","Jean Philippe","Oui oui oui oui",2,1,3,3,NULL,NULL,15,15,NULL,NULL,NULL,NULL,NULL
+5,"Germany","Alice and Ellen Kessler","Heut' woll'n wir tanzen geh'n",3,6,7,7,NULL,NULL,5,5,NULL,NULL,NULL,NULL,NULL
+6,"Italy","Domenico Modugno","Piove",4,3,6,6,NULL,NULL,9,9,NULL,NULL,NULL,NULL,NULL
+7,"Monaco","Jacques Pills","Mon ami Pierrot",12,4,9,9,NULL,NULL,1,1,NULL,NULL,NULL,NULL,NULL
+8,"Netherlands","Teddy Scholten","Een beetje",6,5,1,1,NULL,NULL,21,21,NULL,NULL,NULL,NULL,NULL
+9,"Sweden","Brita Borg","Augustin",11,7,8,8,NULL,NULL,4,4,NULL,NULL,NULL,NULL,NULL
+10,"Switzerland","Christa Williams","Irgendwoher",7,8,4,4,NULL,NULL,14,14,NULL,NULL,NULL,NULL,NULL
+11,"United Kingdom","Pearl Carr and Teddy Johnson","Sing Little Birdie",10,10,2,2,NULL,NULL,16,16,NULL,NULL,NULL,NULL,NULL

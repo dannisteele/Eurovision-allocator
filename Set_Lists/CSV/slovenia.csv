@@ -1,31 +1,31 @@
-"SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-"1993","1X Band","Tih deževen dan",16,22,22,NULL,NULL,9,9,NULL,NULL,NULL,NULL
-"1995","Darja Švajger","Prisluhni mi",20,7,7,NULL,NULL,84,84,NULL,NULL,NULL,NULL
-"1996","Regina","Dan najlepših sanj",14,19,19,NULL,NULL,16,16,NULL,NULL,NULL,NULL
-"1997","Tanja Ribič","Zbudi se",6,10,8,13,5,60,60,0,60,NULL,NULL
-"1998","Vili Resnik","Naj bogovi slišijo",12,17,8,18,10,17,8,9,1,NULL,NULL
-"1999","Darja Švajger","For a Thousand Years",6,10,2,14,12,50,27,23,4,NULL,NULL
-"2001","Nuša Derenda","Energy",17,7,6,7,1,70,18,52,34,NULL,NULL
-"2002","Sestre","Samo ljubezen",22,12,14,13,1,33,11,22,11,NULL,NULL
-"2003","Karmen","Nanana",26,21,12,23,11,7,4,3,1,NULL,NULL
-"2004","Platin","Stay Forever",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2005","Omar Naber","Stop",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2006","Anžej Dežan","Mr. Nobody",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2007","Alenka Gotar","Cvet z juga",7,15,12,15,3,66,0,66,66,NULL,NULL
-"2008","Rebeka Dremelj","Vrag naj vzame",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2009","Quartissimo feat. Martina","Love Symphony",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2010","Ansambel Žlindra and Kalamari","Narodnozabavni rock",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2011","Maja Keuc","No One",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2012","Eva Boto","Verjamem",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Hannah","Straight into Love",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2014","Tinkara Kovač","Round and Round",17,21,24,23,1,36,21,15,6,NULL,NULL
-"2015","Maraaya","Here for You",1,16,12,18,6,82,48,34,14,NULL,NULL
-"2016","ManuElla","Blue and Red",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2017","Omar Naber","On My Way",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2018","Lea Sirk","Hvala, ne!",3,22,18,21,3,64,41,23,18,NULL,NULL
-"2019","Zala Kralj and Gašper Šantl","Sebi",10,15,15,11,4,105,46,59,13,NULL,NULL
-"2020","Ana Soklič","Voda",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2021","Ana Soklič","Amen",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/J9jWDxKQ50s?si=jjGPWPbenM25tTkH","https://music.apple.com/gb/album/amen/1566094263?i=1566094358"
-"2022","LPS","Disko",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/S1tFqoflsT8?si=6nxYNyKwQ8PT76EG","https://music.apple.com/gb/album/disko/1616142461?i=1616142462"
-"2023","Joker Out","Carpe Diem",24,21,18,16,2,78,33,45,12,"https://youtu.be/3LXlPviGiWc?si=zfY94VEpfM-NEzfr","https://music.apple.com/gb/album/carpe-diem/1669480989?i=1669481299"
-"2024","Raiven","Veronika",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/uWcSsi7SliI?si=pZtcHlvSDmYpqWOi","https://music.apple.com/gb/album/zari/1734215972?i=1734216111"
+"sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+"1993","1X Band","Tih deževen dan",16,22,22,NULL,NULL,9,9,NULL,NULL,NULL,NULL,NULL
+"1995","Darja Švajger","Prisluhni mi",20,7,7,NULL,NULL,84,84,NULL,NULL,NULL,NULL,NULL
+"1996","Regina","Dan najlepših sanj",14,19,19,NULL,NULL,16,16,NULL,NULL,NULL,NULL,NULL
+"1997","Tanja Ribič","Zbudi se",6,10,8,13,5,60,60,0,60,NULL,NULL,NULL
+"1998","Vili Resnik","Naj bogovi slišijo",12,17,8,18,10,17,8,9,1,NULL,NULL,NULL
+"1999","Darja Švajger","For a Thousand Years",6,10,2,14,12,50,27,23,4,NULL,NULL,NULL
+"2001","Nuša Derenda","Energy",17,7,6,7,1,70,18,52,34,NULL,NULL,NULL
+"2002","Sestre","Samo ljubezen",22,12,14,13,1,33,11,22,11,NULL,NULL,NULL
+"2003","Karmen","Nanana",26,21,12,23,11,7,4,3,1,NULL,NULL,NULL
+"2004","Platin","Stay Forever",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2005","Omar Naber","Stop",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2006","Anžej Dežan","Mr. Nobody",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2007","Alenka Gotar","Cvet z juga",7,15,12,15,3,66,0,66,66,NULL,NULL,NULL
+"2008","Rebeka Dremelj","Vrag naj vzame",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2009","Quartissimo feat. Martina","Love Symphony",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2010","Ansambel Žlindra and Kalamari","Narodnozabavni rock",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2011","Maja Keuc","No One",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2012","Eva Boto","Verjamem",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2013","Hannah","Straight into Love",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2014","Tinkara Kovač","Round and Round",17,21,24,23,1,36,21,15,6,NULL,NULL,NULL
+"2015","Maraaya","Here for You",1,16,12,18,6,82,48,34,14,NULL,NULL,NULL
+"2016","ManuElla","Blue and Red",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2017","Omar Naber","On My Way",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2018","Lea Sirk","Hvala, ne!",3,22,18,21,3,64,41,23,18,NULL,NULL,NULL
+"2019","Zala Kralj and Gašper Šantl","Sebi",10,15,15,11,4,105,46,59,13,NULL,NULL,NULL
+"2020","Ana Soklič","Voda",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Ana Soklič","Amen",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/J9jWDxKQ50s?si=jjGPWPbenM25tTkH","https://music.apple.com/gb/album/amen/1566094263?i=1566094358",NULL
+"2022","LPS","Disko",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/S1tFqoflsT8?si=6nxYNyKwQ8PT76EG","https://music.apple.com/gb/album/disko/1616142461?i=1616142462",NULL
+"2023","Joker Out","Carpe Diem",24,21,18,16,2,78,33,45,12,"https://youtu.be/3LXlPviGiWc?si=zfY94VEpfM-NEzfr","https://music.apple.com/gb/album/carpe-diem/1669480989?i=1669481299",NULL
+"2024","Raiven","Veronika",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/uWcSsi7SliI?si=pZtcHlvSDmYpqWOi","https://music.apple.com/gb/album/zari/1734215972?i=1734216111",NULL

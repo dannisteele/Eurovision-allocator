@@ -1,64 +1,64 @@
-"SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink"
-"1960","Nora Brockstedt","Voi-voi",6,4,4,NULL,NULL,11,11,NULL,NULL,NULL,NULL
-"1961","Nora Brockstedt","Sommer i Palma",12,6,6,NULL,NULL,10,10,NULL,NULL,NULL,NULL
-"1962","Inger Jacobsen","Kom sol, kom regn",10,8,8,NULL,NULL,2,2,NULL,NULL,NULL,NULL
-"1963","Anita Thallaug","Solhverv",5,12,12,NULL,NULL,0,0,NULL,NULL,NULL,NULL
-"1964","Arne Bendiksen","Spiral",3,7,7,NULL,NULL,6,6,NULL,NULL,NULL,NULL
-"1965","Kirsti Sparboe","Karusell",7,13,13,NULL,NULL,1,1,NULL,NULL,NULL,NULL
-"1966","Åse Kleveland","Intet er nytt under solen",6,3,3,NULL,NULL,15,15,NULL,NULL,NULL,NULL
-"1967","Kirsti Sparboe","Dukkemann",13,11,11,NULL,NULL,2,2,NULL,NULL,NULL,NULL
-"1968","Odd Børre","Stress",13,10,10,NULL,NULL,2,2,NULL,NULL,NULL,NULL
-"1969","Kirsti Sparboe","Oj, oj, oj, så glad jeg skal bli",12,10,10,NULL,NULL,1,1,NULL,NULL,NULL,NULL
-"1971","Hanne Krogh","Lykken er...",18,15,15,NULL,NULL,65,65,NULL,NULL,NULL,NULL
-"1972","Grethe Kausland and Benny Borg","Småting",6,14,14,NULL,NULL,73,73,NULL,NULL,NULL,NULL
-"1973","Bendik Singers","It's Just a Game",5,7,7,NULL,NULL,89,89,NULL,NULL,NULL,NULL
-"1974","Anne-Karine and the Bendik Singers","The First Day of Love",4,10,10,NULL,NULL,3,3,NULL,NULL,NULL,NULL
-"1975","Ellen Nikolaysen","Touch My Life with Summer",6,17,17,NULL,NULL,11,11,NULL,NULL,NULL,NULL
-"1976","Anne-Karine Strøm","Mata Hari",9,18,18,NULL,NULL,7,7,NULL,NULL,NULL,NULL
-"1977","Anita Skorgan","Casanova",5,14,14,NULL,NULL,18,18,NULL,NULL,NULL,NULL
-"1978","Jahn Teigen","Mil etter mil",2,18,18,NULL,NULL,0,0,NULL,NULL,NULL,NULL
-"1979","Anita Skorgan","Oliver",16,11,11,NULL,NULL,57,57,NULL,NULL,NULL,NULL
-"1980","Sverre Kjelsberg and Mattis Hætta","Sámiid ædnan",11,16,16,NULL,NULL,15,15,NULL,NULL,NULL,NULL
-"1981","Finn Kalvik","Aldri i livet",13,17,17,NULL,NULL,0,0,NULL,NULL,NULL,NULL
-"1982","Jahn Teigen and Anita Skorgan","Adieu",3,12,12,NULL,NULL,40,40,NULL,NULL,NULL,NULL
-"1983","Jahn Teigen","Do Re Mi",2,9,9,NULL,NULL,53,53,NULL,NULL,NULL,NULL
-"1984","Dollie de Luxe","Lenge leve livet",5,15,15,NULL,NULL,29,29,NULL,NULL,NULL,NULL
-"1985","Bobbysocks!","La det swinge",13,1,1,NULL,NULL,123,123,NULL,NULL,NULL,NULL
-"1986","Ketil Stokkan","Romeo",4,12,12,NULL,NULL,44,44,NULL,NULL,NULL,NULL
-"1987","Kate Gulbrandsen","Mitt liv",1,8,8,NULL,NULL,65,65,NULL,NULL,NULL,NULL
-"1988","Karoline Krüger","For vår jord",15,5,5,NULL,NULL,88,88,NULL,NULL,NULL,NULL
-"1989","Britt Synnøve Johansen","Venners nærhet",8,16,16,NULL,NULL,30,30,NULL,NULL,NULL,NULL
-"1990","Ketil Stokkan","Brandenburger Tor",9,20,20,NULL,NULL,8,8,NULL,NULL,NULL,NULL
-"1991","Just 4 Fun","Mrs. Thompson",14,15,15,NULL,NULL,14,14,NULL,NULL,NULL,NULL
-"1992","Merethe Trøan","Visjoner",21,18,18,NULL,NULL,23,23,NULL,NULL,NULL,NULL
-"1993","Silje Vige","Alle mine tankar",25,5,5,NULL,NULL,120,120,NULL,NULL,NULL,NULL
-"1994","Elisabeth Andreasson and Jan Werner Danielsen","Duett",17,6,6,NULL,NULL,76,76,NULL,NULL,NULL,NULL
-"1995","Secret Garden","Nocturne",5,1,1,NULL,NULL,148,148,NULL,NULL,NULL,NULL
-"1996","Elisabeth Andreassen","I evighet",12,2,2,NULL,NULL,114,114,NULL,NULL,NULL,NULL
-"1997","Tor Endresen","San Francisco",3,21,22,13,9,0,0,0,0,NULL,NULL
-"1998","Lars A. Fredriksen","Alltid sommer",22,8,10,8,2,79,5,74,69,NULL,NULL
-"1999","Van Eijk","Living My Life Without You",8,12,12,11,1,35,3,32,29,NULL,NULL
-"2000","Charmed","My Heart Goes Boom",8,11,8,9,1,57,16,41,25,NULL,NULL
-"2001","Haldor Lægreid","On My Own",4,21,15,19,4,3,0,3,3,NULL,NULL
-"2003","Jostein Hasselgård","I'm Not Afraid to Move On",18,4,4,4,0,123,16,107,91,NULL,NULL
-"2004","Knut Anders Sørum","High",3,21,NULL,21,NULL,3,NULL,3,NULL,NULL,NULL
-"2005","Wig Wam","In My Dreams",5,8,11,6,5,125,5,120,115,NULL,NULL
-"2006","Christine Guldbrandsen","Alvedansen",5,13,11,13,2,36,1,35,34,NULL,NULL
-"2007","Guri Schanke","Ven a bailar conmigo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2008","Maria","Hold On Be Strong",25,5,4,5,1,182,7,175,168,NULL,NULL
-"2009","Alexander Rybak","Fairytale",20,1,1,1,0,690,312,378,66,NULL,NULL
-"2010","Didrik Solli-Tangen","My Heart Is Yours",3,20,16,20,4,79,61,18,43,NULL,NULL
-"2011","Stella Mwangi","Haba Haba",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2012","Tooji","Stay",12,25,21,23,2,40,24,16,8,NULL,NULL
-"2013","Margaret Berger","I Feed You My Love",24,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2014","Carl Espen","Silent Storm",5,11,9,15,6,141,102,39,63,NULL,NULL
-"2015","Mørland and Debrah Scarlett","A Monster Like Me",9,7,7,17,10,206,163,43,120,NULL,NULL
-"2016","Agnete","Icebreaker",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2017","Jowst","Grab the Moment",17,10,6,15,9,158,129,29,100,NULL,NULL
-"2018","Alexander Rybak","That's How You Write a Song",7,15,15,11,4,144,60,84,24,NULL,NULL
-"2019","Keiino","Spirit in the Sky",15,6,17,1,16,331,40,291,251,NULL,NULL
-"2020","Ulrikke","Attention",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2021","Tix","Fallen Angel",22,17,22,12,10,75,15,60,45,"https://youtu.be/F0r3vmGLzZU?si=FEAZUtuvLlTkHVZu","https://music.apple.com/gb/album/fallen-angel/1554121729?i=1554121906"
-"2022","Subwoolfer","Give That Wolf a Banana",7,10,16,7,9,182,36,146,110,"https://youtu.be/adCU2rQyDeY?si=dz3PN08cy5ojHEGC","https://music.apple.com/gb/album/give-that-wolf-a-banana/1601480323?i=1601480613"
-"2023","Alessandra","Queen of Kings",20,5,16,3,13,268,52,216,164,"https://youtu.be/PUHSM_vTqTI?si=lVt5-tQVvrZJtlxD","https://music.apple.com/gb/album/queen-of-kings/1661148199?i=1661148211"
-"2024","Gåte","Ulveham",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/UipzszlJwRQ?si=Z2CY6lYaZIkcCR6U","https://music.apple.com/gb/album/zari/1734215972?i=1734216111"
+"sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
+"1960","Nora Brockstedt","Voi-voi",6,4,4,NULL,NULL,11,11,NULL,NULL,NULL,NULL,NULL
+"1961","Nora Brockstedt","Sommer i Palma",12,6,6,NULL,NULL,10,10,NULL,NULL,NULL,NULL,NULL
+"1962","Inger Jacobsen","Kom sol, kom regn",10,8,8,NULL,NULL,2,2,NULL,NULL,NULL,NULL,NULL
+"1963","Anita Thallaug","Solhverv",5,12,12,NULL,NULL,0,0,NULL,NULL,NULL,NULL,NULL
+"1964","Arne Bendiksen","Spiral",3,7,7,NULL,NULL,6,6,NULL,NULL,NULL,NULL,NULL
+"1965","Kirsti Sparboe","Karusell",7,13,13,NULL,NULL,1,1,NULL,NULL,NULL,NULL,NULL
+"1966","Åse Kleveland","Intet er nytt under solen",6,3,3,NULL,NULL,15,15,NULL,NULL,NULL,NULL,NULL
+"1967","Kirsti Sparboe","Dukkemann",13,11,11,NULL,NULL,2,2,NULL,NULL,NULL,NULL,NULL
+"1968","Odd Børre","Stress",13,10,10,NULL,NULL,2,2,NULL,NULL,NULL,NULL,NULL
+"1969","Kirsti Sparboe","Oj, oj, oj, så glad jeg skal bli",12,10,10,NULL,NULL,1,1,NULL,NULL,NULL,NULL,NULL
+"1971","Hanne Krogh","Lykken er...",18,15,15,NULL,NULL,65,65,NULL,NULL,NULL,NULL,NULL
+"1972","Grethe Kausland and Benny Borg","Småting",6,14,14,NULL,NULL,73,73,NULL,NULL,NULL,NULL,NULL
+"1973","Bendik Singers","It's Just a Game",5,7,7,NULL,NULL,89,89,NULL,NULL,NULL,NULL,NULL
+"1974","Anne-Karine and the Bendik Singers","The First Day of Love",4,10,10,NULL,NULL,3,3,NULL,NULL,NULL,NULL,NULL
+"1975","Ellen Nikolaysen","Touch My Life with Summer",6,17,17,NULL,NULL,11,11,NULL,NULL,NULL,NULL,NULL
+"1976","Anne-Karine Strøm","Mata Hari",9,18,18,NULL,NULL,7,7,NULL,NULL,NULL,NULL,NULL
+"1977","Anita Skorgan","Casanova",5,14,14,NULL,NULL,18,18,NULL,NULL,NULL,NULL,NULL
+"1978","Jahn Teigen","Mil etter mil",2,18,18,NULL,NULL,0,0,NULL,NULL,NULL,NULL,NULL
+"1979","Anita Skorgan","Oliver",16,11,11,NULL,NULL,57,57,NULL,NULL,NULL,NULL,NULL
+"1980","Sverre Kjelsberg and Mattis Hætta","Sámiid ædnan",11,16,16,NULL,NULL,15,15,NULL,NULL,NULL,NULL,NULL
+"1981","Finn Kalvik","Aldri i livet",13,17,17,NULL,NULL,0,0,NULL,NULL,NULL,NULL,NULL
+"1982","Jahn Teigen and Anita Skorgan","Adieu",3,12,12,NULL,NULL,40,40,NULL,NULL,NULL,NULL,NULL
+"1983","Jahn Teigen","Do Re Mi",2,9,9,NULL,NULL,53,53,NULL,NULL,NULL,NULL,NULL
+"1984","Dollie de Luxe","Lenge leve livet",5,15,15,NULL,NULL,29,29,NULL,NULL,NULL,NULL,NULL
+"1985","Bobbysocks!","La det swinge",13,1,1,NULL,NULL,123,123,NULL,NULL,NULL,NULL,NULL
+"1986","Ketil Stokkan","Romeo",4,12,12,NULL,NULL,44,44,NULL,NULL,NULL,NULL,NULL
+"1987","Kate Gulbrandsen","Mitt liv",1,8,8,NULL,NULL,65,65,NULL,NULL,NULL,NULL,NULL
+"1988","Karoline Krüger","For vår jord",15,5,5,NULL,NULL,88,88,NULL,NULL,NULL,NULL,NULL
+"1989","Britt Synnøve Johansen","Venners nærhet",8,16,16,NULL,NULL,30,30,NULL,NULL,NULL,NULL,NULL
+"1990","Ketil Stokkan","Brandenburger Tor",9,20,20,NULL,NULL,8,8,NULL,NULL,NULL,NULL,NULL
+"1991","Just 4 Fun","Mrs. Thompson",14,15,15,NULL,NULL,14,14,NULL,NULL,NULL,NULL,NULL
+"1992","Merethe Trøan","Visjoner",21,18,18,NULL,NULL,23,23,NULL,NULL,NULL,NULL,NULL
+"1993","Silje Vige","Alle mine tankar",25,5,5,NULL,NULL,120,120,NULL,NULL,NULL,NULL,NULL
+"1994","Elisabeth Andreasson and Jan Werner Danielsen","Duett",17,6,6,NULL,NULL,76,76,NULL,NULL,NULL,NULL,NULL
+"1995","Secret Garden","Nocturne",5,1,1,NULL,NULL,148,148,NULL,NULL,NULL,NULL,NULL
+"1996","Elisabeth Andreassen","I evighet",12,2,2,NULL,NULL,114,114,NULL,NULL,NULL,NULL,NULL
+"1997","Tor Endresen","San Francisco",3,21,22,13,9,0,0,0,0,NULL,NULL,NULL
+"1998","Lars A. Fredriksen","Alltid sommer",22,8,10,8,2,79,5,74,69,NULL,NULL,NULL
+"1999","Van Eijk","Living My Life Without You",8,12,12,11,1,35,3,32,29,NULL,NULL,NULL
+"2000","Charmed","My Heart Goes Boom",8,11,8,9,1,57,16,41,25,NULL,NULL,NULL
+"2001","Haldor Lægreid","On My Own",4,21,15,19,4,3,0,3,3,NULL,NULL,NULL
+"2003","Jostein Hasselgård","I'm Not Afraid to Move On",18,4,4,4,0,123,16,107,91,NULL,NULL,NULL
+"2004","Knut Anders Sørum","High",3,21,NULL,21,NULL,3,NULL,3,NULL,NULL,NULL,NULL
+"2005","Wig Wam","In My Dreams",5,8,11,6,5,125,5,120,115,NULL,NULL,NULL
+"2006","Christine Guldbrandsen","Alvedansen",5,13,11,13,2,36,1,35,34,NULL,NULL,NULL
+"2007","Guri Schanke","Ven a bailar conmigo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2008","Maria","Hold On Be Strong",25,5,4,5,1,182,7,175,168,NULL,NULL,NULL
+"2009","Alexander Rybak","Fairytale",20,1,1,1,0,690,312,378,66,NULL,NULL,NULL
+"2010","Didrik Solli-Tangen","My Heart Is Yours",3,20,16,20,4,79,61,18,43,NULL,NULL,NULL
+"2011","Stella Mwangi","Haba Haba",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2012","Tooji","Stay",12,25,21,23,2,40,24,16,8,NULL,NULL,NULL
+"2013","Margaret Berger","I Feed You My Love",24,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2014","Carl Espen","Silent Storm",5,11,9,15,6,141,102,39,63,NULL,NULL,NULL
+"2015","Mørland and Debrah Scarlett","A Monster Like Me",9,7,7,17,10,206,163,43,120,NULL,NULL,NULL
+"2016","Agnete","Icebreaker",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2017","Jowst","Grab the Moment",17,10,6,15,9,158,129,29,100,NULL,NULL,NULL
+"2018","Alexander Rybak","That's How You Write a Song",7,15,15,11,4,144,60,84,24,NULL,NULL,NULL
+"2019","Keiino","Spirit in the Sky",15,6,17,1,16,331,40,291,251,NULL,NULL,NULL
+"2020","Ulrikke","Attention",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Tix","Fallen Angel",22,17,22,12,10,75,15,60,45,"https://youtu.be/F0r3vmGLzZU?si=FEAZUtuvLlTkHVZu","https://music.apple.com/gb/album/fallen-angel/1554121729?i=1554121906",NULL
+"2022","Subwoolfer","Give That Wolf a Banana",7,10,16,7,9,182,36,146,110,"https://youtu.be/adCU2rQyDeY?si=dz3PN08cy5ojHEGC","https://music.apple.com/gb/album/give-that-wolf-a-banana/1601480323?i=1601480613",NULL
+"2023","Alessandra","Queen of Kings",20,5,16,3,13,268,52,216,164,"https://youtu.be/PUHSM_vTqTI?si=lVt5-tQVvrZJtlxD","https://music.apple.com/gb/album/queen-of-kings/1661148199?i=1661148211",NULL
+"2024","Gåte","Ulveham",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/UipzszlJwRQ?si=Z2CY6lYaZIkcCR6U","https://music.apple.com/gb/album/zari/1734215972?i=1734216111",NULL
