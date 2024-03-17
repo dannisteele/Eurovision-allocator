@@ -1,18 +1,18 @@
 "sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-"1956","Michèle Arnaud","Les Amants de minuit",13,,,,,,,,,"https://www.youtube.com/watch?v=n8esgCRxMzs","https://music.apple.com/gb/album/les-amants-de-minuit/921750628?i=921750767",
-"1956","Michèle Arnaud","Ne Crois Pas",6,,,,,,,,,"https://www.youtube.com/watch?v=S62mHHz2ajc","https://music.apple.com/gb/album/ne-crois-pas/697182162?i=697182892",
-"1957","Danièle Dupré","Tant de peine",2,4,4,,,8,8,,,"https://www.youtube.com/watch?v=-0nMxZ8L1cI",,
-"1958","Solange Berry","Un grand amour",4,8,8,,,1,1,,,,,
-"1960","Camillo Felgen","So laang we's du do bast",3,10,10,,,1,1,,,,,
-"1961","Jean-Claude Pascal","Nous les amoureux",14,1,1,,,31,31,,,,,
-"1962","Camillo Felgen","Petit bonhomme",14,3,3,,,11,11,,,,,
-"1963","Nana Mouskouri","À force de prier",16,7,7,,,13,13,,,,,
-"1964","Hugues Aufray","Dès que le printemps revient",1,4,4,,,14,14,,,,,
-"1965","France Gall","Poupée de cire, poupée de son",15,1,1,,,32,32,,,,,
-"1966","Michèle Torr","Ce soir je t'attendais",4,8,8,,,7,7,,,,,
-"1967","Vicky","L'amour est bleu",2,4,4,,,17,17,,,,,
-"1968","Chris Baldo and Sophie Garel","Nous vivrons d'amour",5,9,9,,,5,5,,,,,
-"1969","Romuald","Catherine",2,6,6,,,7,7,,,,,
+"1956","Michèle Arnaud","Les Amants de minuit",13,,,,,,,,,"https://www.youtube.com/watch?v=n8esgCRxMzs","https://music.apple.com/gb/album/les-amants-de-minuit/921750628?i=921750767","https://open.spotify.com/track/4Htfcujp7KxcgEnJeRrAbT?si=b237cf57a1aa4d4b"
+"1956","Michèle Arnaud","Ne Crois Pas",6,,,,,,,,,"https://www.youtube.com/watch?v=S62mHHz2ajc","https://music.apple.com/gb/album/ne-crois-pas/697182162?i=697182892","https://open.spotify.com/track/6FvurqfNB7a0gETC77KPRO?si=0241d4bbb07440b6"
+"1957","Danièle Dupré","Tant de peine",2,4,4,,,8,8,,,"https://www.youtube.com/watch?v=-0nMxZ8L1cI",,"https://open.spotify.com/track/3g4Pmtk3Up0NCYRFqcEPsQ?si=07f45f1afe21460c"
+"1958","Solange Berry","Un grand amour",4,8,8,,,1,1,,,"https://youtu.be/si14zjMHrhI?si=Ez0w2KRvAIeibymm",,"https://open.spotify.com/track/4J3TVPuP3xDwhYAcRQV4O8?si=9b82bf5c75bc47f0"
+"1960","Camillo Felgen","So laang we's du do bast",3,10,10,,,1,1,,,"https://youtu.be/csoaoaVg_I8?si=n4LbpjiFbvDjo4iu",,"https://open.spotify.com/track/2b8igdRH1x6lIjJd4IUGE7?si=abf0edd858f5443b"
+"1961","Jean-Claude Pascal","Nous les amoureux",14,1,1,,,31,31,,,"https://youtu.be/kPSYrOQEkHQ?si=aVKBVxeVjKWBElx3","https://music.apple.com/gb/album/nous-les-amoureux/435744646?i=435744724","https://open.spotify.com/track/35PWl4T8d2U3a5AboajXXw?si=f2ff8db80d4e4409"
+"1962","Camillo Felgen","Petit bonhomme",14,3,3,,,11,11,,,"https://youtu.be/iPyam2tNeRg?si=MLczb97g8xb2vXve","https://music.apple.com/gb/album/petit-bonhomme/900540969?i=900541176","https://open.spotify.com/track/5OUvkBngWb5OsVdzJ7qG0a?si=741a5a4c2894434e"
+"1963","Nana Mouskouri","À force de prier",16,7,7,,,13,13,,,"https://youtu.be/98HlhsUVX70?si=i3BoTkh3bjQa_a_U","https://music.apple.com/gb/album/%C3%A0-force-de-prier-grand-prix-eurovision-1963/1444011281?i=1444011397","https://open.spotify.com/track/6m2OeTFSoVmjlzBHPhXJMO?si=ba55a32bd567460e"
+"1964","Hugues Aufray","Dès que le printemps revient",1,4,4,,,14,14,,,"https://youtu.be/HQPy7voOC10?si=60yCagomPR51Qkw3","https://music.apple.com/gb/album/d%C3%A8s-que-le-printemps-revient/1452864964?i=1452864981","https://open.spotify.com/track/2eFts2ZspBoEaJlfgm2PjI?si=34e34df6493144f6"
+"1965","France Gall","Poupée de cire, poupée de son",15,1,1,,,32,32,,,"https://youtu.be/wV50SMhljmo?si=6l0Ud0V71IFIQgCF","https://music.apple.com/gb/album/poupee-de-cire-poupee-de-son/332601104?i=332601711","https://open.spotify.com/track/1OJcI2EzUidsTVl532wkWN?si=db59d38d8aa24f8d"
+"1966","Michèle Torr","Ce soir je t'attendais",4,8,8,,,7,7,,,"https://youtu.be/wXLGzNyb1j0?si=IboMUsgFPxKZwd60","https://music.apple.com/gb/album/ce-soir-je-tattendais/1664093436?i=1664095694","https://open.spotify.com/track/5rTnQTTdCRQWVUW3fuadXo?si=ea0f46c11ad14f43"
+"1967","Vicky","L'amour est bleu",2,4,4,,,17,17,,,"https://youtu.be/nD4ib9-laGY?si=23nt4tpzM1ITnxwy","https://music.apple.com/gb/album/lamour-est-bleu/1484095388?i=1484096295",
+"1968","Chris Baldo and Sophie Garel","Nous vivrons d'amour",5,9,9,,,5,5,,,"https://youtu.be/lZ-88XdFAW8?si=2BiqN1ZDCBwRS-WO",,
+"1969","Romuald","Catherine",2,6,6,,,7,7,,,"https://youtu.be/reJAq87Wwrw?si=cKricRV_0byKzEAh","https://music.apple.com/gb/album/catherine/1583006529?i=1583006532","https://open.spotify.com/track/0tjbV1ImC3r6JxkHcdteQZ?si=3df16718ff2048b7"
 "1970","David Alexandre Winter","Je suis tombé du ciel",8,8,8,,,0,0,,,,,
 "1971","Monique Melsen","Pomme, pomme, pomme",8,12,12,,,70,70,,,,,
 "1972","Vicky Leandros","Après toi",17,1,1,,,128,128,,,,,
@@ -37,4 +37,4 @@
 "1991","Sarah Bray","Un baiser volé",7,12,12,,,29,29,,,,,
 "1992","Marion Welter and Kontinent","Sou fräi",14,21,21,,,10,10,,,,,
 "1993","Modern Times","Donne-moi une chance",15,20,20,,,11,11,,,,,
-"2024","Tali","Fighter",,,,,,,,,,"https://youtu.be/HV3sORfrREE?si=zRYYSHJb_4hpnnMa","https://music.apple.com/gb/album/zari/1734215972?i=1734216111","https://open.spotify.com/track/6ac0GZMtGXywMyyNJg7EAP?si=c879c1f980c24eb8"
+"2024","Tali","Fighter",,,,,,,,,,"https://youtu.be/HV3sORfrREE?si=zRYYSHJb_4hpnnMa","https://music.apple.com/gb/album/fighter/1724785830?i=1724786328","https://open.spotify.com/track/6ac0GZMtGXywMyyNJg7EAP?si=c879c1f980c24eb8"

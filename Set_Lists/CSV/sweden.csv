@@ -1,15 +1,15 @@
 "sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-"1958","Alice Babs","Lilla stjärna",5,4,4,,,10,10,,,,,
-"1959","Brita Borg","Augustin",7,8,8,,,4,4,,,,,
-"1960","Siw Malmkvist","Alla andra får varann",2,8,8,,,4,4,,,,,
-"1961","Lill-Babs","April, april",7,11,11,,,2,2,,,,,
-"1962","Inger Berggren","Sol och vår",6,6,6,,,4,4,,,,,
-"1963","Monica Zetterlund","En gång i Stockholm",13,12,12,,,0,0,,,,,
-"1965","Ingvar Wixell","Absent Friend",10,10,10,,,6,6,,,,,
-"1966","Lill Lindfors and Svante Thuresson","Nygammal vals",10,2,2,,,16,16,,,,,
-"1967","Östen Warnerbring","Som en dröm",7,8,8,,,7,7,,,,,
-"1968","Claes-Göran Hederström","Det börjar verka kärlek, banne mej",8,5,5,,,15,15,,,,,
-"1969","Tommy Körberg","Judy, min vän",9,5,5,,,8,8,,,,,
+"1958","Alice Babs","Lilla stjärna",5,4,4,,,10,10,,,"https://youtu.be/f5DNvsB94uI?si=7-6UwHW2iGRskWeo","https://music.apple.com/gb/album/lilla-stj%C3%A4rna/889660639?i=889660658","https://open.spotify.com/track/1VrHijWfzrqYM9A76u1zBA?si=7374f8793ca6492d"
+"1959","Brita Borg","Augustin",7,8,8,,,4,4,,,"https://youtu.be/BG_hh_f9ANg?si=yso5DhfMsnKCD5en",,"https://open.spotify.com/track/3Slc76uWyTN3eMt4L8aIv1?si=965e78583ca94962"
+"1960","Siw Malmkvist","Alla andra får varann",2,8,8,,,4,4,,,"https://youtu.be/Vb8o-fBkXnA?si=lmK9_-dAINPMoQ-A",,
+"1961","Lill-Babs","April, april",7,11,11,,,2,2,,,"https://youtu.be/JzldSvZG6cc?si=g2LhIR1lYNLTRrzV","https://music.apple.com/gb/album/april-april/1455083010?i=1455083019","https://open.spotify.com/track/6dkODYmzFy7ocAszlfPlM1?si=9bdfdda8c61e43c6"
+"1962","Inger Berggren","Sol och vår",6,6,6,,,4,4,,,"https://youtu.be/hP5G3bzqLsg?si=6bgE160NNLGolVTA","https://music.apple.com/gb/album/sol-och-v%C3%A5r/1187835637?i=1187835826","https://open.spotify.com/track/7xVrhpdprtkRTjU1Z3xG7H?si=f6d19098787c4af8"
+"1963","Monica Zetterlund","En gång i Stockholm",13,12,12,,,0,0,,,"https://youtu.be/j19HXn0-iGc?si=6YOb7Xx4-qD-Mrai","https://music.apple.com/gb/album/en-g%C3%A5ng-i-stockholm/928620606?i=928620680","https://open.spotify.com/track/6WiPnFoRRExPzLaHeRWmDW?si=0ba2498aeeb54ed8"
+"1965","Ingvar Wixell","Annorstädes Vals",10,10,10,,,6,6,,,"https://youtu.be/NrPiw8gILOY?si=LcmCPxdv9mdJLW-H","https://music.apple.com/gb/album/annorst%C3%A4des-vals/806737989?i=806738439","https://open.spotify.com/track/3B1QZcT1mnQQKknSTSjt8e?si=4cabe2c833cc4d90"
+"1966","Lill Lindfors and Svante Thuresson","Nygammal vals",10,2,2,,,16,16,,,"https://youtu.be/P3HRr9G9c_s?si=4VANlcU9u4h6aJj8","https://music.apple.com/gb/album/nygammal-vals/1442402405?i=1442402543","https://open.spotify.com/track/5nDEZqQnqzdhAC1OVfNwaA?si=cff207894eb745cc"
+"1967","Östen Warnerbring","Som en dröm",7,8,8,,,7,7,,,"https://youtu.be/RHroCOZDgng?si=bTTzw2Lnf4Y4GrKo",,
+"1968","Claes-Göran Hederström","Det börjar verka kärlek, banne mej",8,5,5,,,15,15,,,"https://youtu.be/c1IzEh6aTXU?si=OPG40n8khCs8T4cj","https://music.apple.com/gb/album/det-b%C3%B6rjar-verka-k%C3%A4rlek-banne-mej/980399911?i=980400863","https://open.spotify.com/track/1qnzSLvl5qWPIgpaRnLGxl?si=3c98379b1cd742bd"
+"1969","Tommy Körberg","Judy, min vän",9,5,5,,,8,8,,,"https://youtu.be/RRI5mzHoi5g?si=WmAmY-s4mJHoMRq8","https://music.apple.com/gb/album/judy-min-v%C3%A4n/1469546495?i=1469547017","https://open.spotify.com/track/1Z4zGDjmHURFmHAd0OAV2t?si=e88c3c48361748ae"
 "1971","The Family Four","Vita vidder",12,6,6,,,85,85,,,,,
 "1972","The Family Four","Härliga sommardag",14,13,13,,,75,75,,,,,
 "1973","The Nova","You're Summer",12,5,5,,,94,94,,,,,
@@ -62,4 +62,4 @@
 "2021","Tusse","Voices",25,13,17,10,7,109,46,63,17,"https://youtu.be/5P1ueI9j6gk?si=vJGbM5Yanb6CFL-9","https://music.apple.com/gb/album/voices-french-version/1567060252?i=1567060253","https://open.spotify.com/track/5zxZ7M4RgWZUHlMEwac8vt?si=6edf49f54ec9410a"
 "2022","Cornelia Jakobs","Hold Me Closer",20,4,2,6,4,438,258,180,78,"https://youtu.be/i777psA2gP4?si=xK1dgdrs-E61ED3x","https://music.apple.com/gb/album/hold-me-closer/1607274606?i=1607274608","https://open.spotify.com/track/6cTWJgNkmhATsI6RJgTPH4?si=02fd7bc740df401e"
 "2023","Loreen","Tattoo",9,1,1,2,1,583,340,243,97,"https://youtu.be/BE2Fj0W4jP4?si=zBGT5PxnTqhC3yVW","https://music.apple.com/gb/album/tattoo/1672056674?i=1672056675","https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6?si=3174f80c98f74a8e"
-"2024","Marcus & Martinus","Unforgettable",0,,,,,,,,,"https://youtu.be/yekc8t0rJqA?si=n0wj3LeLETzKwsn7","https://music.apple.com/gb/album/zari/1734215972?i=1734216111","https://open.spotify.com/track/5L8C1PZGCpZf8STcN79H5j?si=fde64b2c704147a5"
+"2024","Marcus & Martinus","Unforgettable",0,,,,,,,,,"https://youtu.be/yekc8t0rJqA?si=n0wj3LeLETzKwsn7","https://music.apple.com/gb/album/unforgettable/1730254314?i=1730254320","https://open.spotify.com/track/5L8C1PZGCpZf8STcN79H5j?si=fde64b2c704147a5"
