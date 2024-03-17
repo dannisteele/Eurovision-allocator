@@ -1,13 +1,13 @@
 "sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-"1961","Conchita Bautista","Estando contigo",1,8,8,,,8,8,,,,,
-"1962","Víctor Balaguer","Llámame",3,9,9,,,0,0,,,,,
-"1963","José Guardiola","Algo prodigioso",12,11,11,,,2,2,,,,,
-"1964","Nelly with Tim and Tony","Caracola",16,10,10,,,1,1,,,,,
-"1965","Conchita Bautista","Qué bueno, qué bueno",3,14,14,,,0,0,,,,,
-"1966","Raphael","Yo soy aquél",11,6,6,,,9,9,,,,,
-"1967","Raphael","Hablemos del amor",12,6,6,,,9,9,,,,,
-"1968","Massiel","La La La",15,1,1,,,29,29,,,,,
-"1969","Salomé","Vivo cantando",3,1,1,,,18,18,,,,,
+"1961","Conchita Bautista","Estando contigo",1,8,8,,,8,8,,,"https://youtu.be/qPOP5gTnGcY?si=C44TC1iMQZLcvnYl","https://music.apple.com/gb/album/estando-contigo/168755567?i=168756231","https://open.spotify.com/track/5DIovqjO8pCMkA6L1FXrXl?si=cc9e86ccdee841cf"
+"1962","Víctor Balaguer","Llámame",3,9,9,,,0,0,,,"https://youtu.be/klMKcdPXH7c?si=kigbobd2X4qrt2mS",,"https://open.spotify.com/track/5NIOZIbuLhFO1PQNv3pHhl?si=d39a309ab0c84bdf"
+"1963","José Guardiola","Algo prodigioso",12,11,11,,,2,2,,,"https://youtu.be/YSrbG8DrGBA?si=ydBE0ruItEf6kMQE","https://music.apple.com/gb/album/algo-prodigioso/690459012?i=690460175","https://open.spotify.com/track/08lZvHPOvP3MsGpxZlZ9Up?si=30aaa043200b4112"
+"1964","Los TNT","Caracola",16,10,10,,,1,1,,,"https://youtu.be/jWtEypoNSno?si=iIppkTlCDP8PnHx0","https://music.apple.com/gb/album/caracola-remastered/956158163?i=956158171","https://open.spotify.com/track/4pTGS44sUrO2aX8rAq0SZc?si=eece3b2203a54eae"
+"1965","Conchita Bautista","Qué bueno, qué bueno",3,14,14,,,0,0,,,"https://youtu.be/Ax3Gr8FDeaw?si=rIqzDybC10A_ufAV","https://music.apple.com/gb/album/que-bueno-que-bueno/250464281?i=250464461","https://open.spotify.com/track/6ojK3fWtv67fPP3yMti3ZC?si=36ba9239f7a948d4"
+"1966","Raphael","Yo soy aquél",11,6,6,,,9,9,,,"https://youtu.be/EqmbC813p0w?si=VXXYjTkXIHzIxutW","https://music.apple.com/gb/album/yo-soy-aqu%C3%A9l/734819736?i=734819803","https://open.spotify.com/track/5KlxDlTDQLNsAPnKfgbVPB?si=0bb691d5f1144ea1"
+"1967","Raphael","Hablemos del amor",12,6,6,,,9,9,,,"https://youtu.be/iuFiQLQYM7w?si=bPAekuephIeCmVaU","https://music.apple.com/gb/album/hablemos-del-amor/693490631?i=693490639","https://open.spotify.com/track/1uG9IM78KZTIEBzcWEd2E8?si=608c5083300443e7"
+"1968","Massiel","La La La",15,1,1,,,29,29,,,"https://youtu.be/_ifGokQxN_c?si=0sXwgVlBQye2Wavy","https://music.apple.com/gb/album/la-la-la/1344881086?i=1344881200","https://open.spotify.com/track/1ApXNkjfjxkSDoezO8Kh8g?si=7f638d59ccf74df2"
+"1969","Salomé","Vivo cantando",3,1,1,,,18,18,,,"https://youtu.be/uQgb7QdZIv0?si=YpaUscwkkz4mbr-E","https://music.apple.com/gb/album/vivo-cantando/175107274?i=175107275","https://open.spotify.com/track/059G9tpE3kl6wz3kiddaN0?si=fc34d3b8fd704bde"
 "1970","Julio Iglesias","Gwendolyne",9,4,4,,,8,8,,,,,
 "1971","Karina","En un mundo nuevo",6,2,2,,,116,116,,,,,
 "1972","Jaime Morey","Amanece",4,10,10,,,83,83,,,,,
@@ -62,4 +62,4 @@
 "2021","Blas Cantó","Voy a quedarme",13,23,24,22,2,6,6,0,6,"https://youtu.be/thV-vhOQHvQ?si=wC_hWigjhcaUG-2Y","https://music.apple.com/gb/album/voy-a-quedarme/1551663583?i=1551663596","https://open.spotify.com/track/1yCpJ5qmyM9UK7MXQCAyHh?si=c733548f16bb4bf2"
 "2022","Chanel","SloMo",10,3,3,3,0,459,231,228,3,"https://youtu.be/jSQYTt4xg3I?si=X6nZO_WEg4awqzev","https://music.apple.com/gb/album/slomo/1601265804?i=1601265805","https://open.spotify.com/track/00rUx6vPpy0XbJer8BcoRn?si=0b9da04caa38400e"
 "2023","Blanca Paloma","Eaea",8,17,9,24,15,100,95,5,90,"https://youtu.be/Vw6qPWhjevk?si=4ndBB5h-7DkixlLg","https://music.apple.com/gb/album/eaea/1660343905?i=1660343906","https://open.spotify.com/track/1NzoDUn5bLqpS36GD00Smi?si=d637d6f7863b4606"
-"2024","Nebulossa","Zorra",0,,,,,,,,,"https://youtu.be/LJFpexlj9Bs?si=Ir4vd_ZRQiKiFAvY","https://music.apple.com/gb/album/zari/1734215972?i=1734216111","https://open.spotify.com/track/4ypCNolz6aRYZPO3UOGp8Z?si=333f4b765eb5499a"
+"2024","Nebulossa","Zorra",0,,,,,,,,,"https://youtu.be/LJFpexlj9Bs?si=Ir4vd_ZRQiKiFAvY","https://music.apple.com/gb/album/zorra/1719691632?i=1719691700","https://open.spotify.com/track/4ypCNolz6aRYZPO3UOGp8Z?si=333f4b765eb5499a"

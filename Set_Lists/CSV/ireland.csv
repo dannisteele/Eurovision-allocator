@@ -1,9 +1,9 @@
 "sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-"1965","Butch Moore","I'm Walking the Streets in the Rain",4,6,6,,,11,11,,,,,
-"1966","Dickie Rock","Come Back to Stay",17,4,4,,,14,14,,,,,
-"1967","Sean Dunphy","If I Could Choose",17,2,2,,,22,22,,,,,
-"1968","Pat McGeegan","Chance of a Lifetime",14,4,4,,,18,18,,,,,
-"1969","Muriel Day","The Wages of Love",5,4,4,,,10,10,,,,,
+"1965","Butch Moore","I'm Walking the Streets in the Rain",4,6,6,,,11,11,,,"https://youtu.be/6RVo0MD9rB8?si=p1QKzFTo7EjiPH5P","https://music.apple.com/gb/album/walking-the-streets-in-the-rain/1439348371?i=1439348498","https://open.spotify.com/track/6AMp6XaDKSrUyBqhvUHpIx?si=6322fd1508454513"
+"1966","Dickie Rock","Come Back to Stay",17,4,4,,,14,14,,,"https://youtu.be/aRBnF58ykIQ?si=UkXWoFzsKufsRU6M","https://music.apple.com/gb/album/come-back-to-stay/683323777?i=683324626","https://open.spotify.com/track/6pT48pT32qKHQ8jwEwxIVQ?si=0b4e40d1f54d4799"
+"1967","Sean Dunphy","If I Could Choose",17,2,2,,,22,22,,,"https://youtu.be/kDFmu-klR78?si=ge5v3foI_44SfZTu","https://music.apple.com/gb/album/if-i-could-choose/1439348371?i=1439348534","https://open.spotify.com/track/6csPs5g5gUraKCMlf8y9LB?si=e087a45290354602"
+"1968","Pat McGeegan","Chance of a Lifetime",14,4,4,,,18,18,,,"https://youtu.be/P1qFcgBiWLU?si=YAKICsL1JEkkfXVi","https://music.apple.com/gb/album/the-chance-of-a-lifetime/1148297554?i=1148297663","https://open.spotify.com/track/3djihaaFYWdgPtNSHBHOKY?si=82c8d56ea72f46ca"
+"1969","Muriel Day","The Wages of Love",5,4,4,,,10,10,,,"https://youtu.be/1-lxKz2heAM?si=KSTsT3CIGOrZuQ3a",,
 "1970","Dana","All Kinds of Everything",12,1,1,,,32,32,,,,,
 "1971","Angela Farrell","One Day Love",13,10,10,,,79,79,,,,,
 "1972","Sandie Jones","Ceol an Ghrá",3,15,15,,,72,72,,,,,
@@ -56,4 +56,4 @@
 "2021","Lesley Roy","Maps",,,,,,,,,,"https://youtu.be/FY2rxbZNvZ0?si=OGBcHnCIcc_AdqAK","https://music.apple.com/gb/album/maps/1554533921?i=1554534049","https://open.spotify.com/track/3OFGkaztvfjW0McKujTzdI?si=157a1bf44ad54536"
 "2022","Brooke","That's Rich",,,,,,,,,,"https://youtu.be/Kq2AJrWm04s?si=wN9iY8n7wpd-Nzn0","https://music.apple.com/gb/album/thats-rich/1613375632?i=1613375635","https://open.spotify.com/track/1oS41M8cx60aAeNe3k5Csw?si=a96e8c14382f44a3"
 "2023","Wild Youth","We Are One",,,,,,,,,,"https://youtu.be/80-4_rjW10U?si=sGVJvm-2hQpbQ0EN","https://music.apple.com/gb/album/we-are-one-eurovision-song-contest-edit/1709047610?i=1709047611","https://open.spotify.com/track/5AkEgrj433NMHrJvn7oASj?si=682ae297aea44dc6"
-"2024","Bambie Thug","Doomsday Blue",,,,,,,,,,"https://youtu.be/ZGRXRrlIspY?si=AcUAPel8n7w1_OvF","https://music.apple.com/gb/album/zari/1734215972?i=1734216111","https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g?si=434cde945f384b14"
+"2024","Bambie Thug","Doomsday Blue",,,,,,,,,,"https://youtu.be/ZGRXRrlIspY?si=AcUAPel8n7w1_OvF","https://music.apple.com/gb/album/doomsday-blue/1709266722?i=1709267030","https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g?si=434cde945f384b14"

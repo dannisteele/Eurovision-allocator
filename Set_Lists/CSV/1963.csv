@@ -1,17 +1,17 @@
 "id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-1,"Austria","Carmela Corren","Vielleicht geschieht ein Wunder",8,4,6,6,,,16,16,,,,,
-2,"Belgium","Jacques Raymond","Waarom?",1,14,9,9,,,4,4,,,,,
-3,"Denmark","Grethe and Jørgen Ingmann","Dansevise",9,8,1,1,,,42,42,,,,,
-4,"Finland","Laila Halme","Muistojeni laulu",14,7,12,12,,,0,0,,,,,
-5,"France","Alain Barrière","Elle était si jolie",2,11,5,5,,,25,25,,,,,
-6,"Germany","Heidi Brühl","Marcel",3,3,8,8,,,5,5,,,,,
-7,"Italy","Emilio Pericoli","Uno per tutte",4,6,3,3,,,37,37,,,,,
-8,"Luxembourg","Nana Mouskouri","À force de prier",5,16,7,7,,,13,13,,,,,
-9,"Monaco","Françoise Hardy","L'amour s'en va",12,15,5,5,,,25,25,,,,,
-10,"Netherlands","Annie Palmen","Een speeldoos",6,2,12,12,,,0,0,,,,,
-11,"Norway","Anita Thallaug","Solhverv",13,5,12,12,,,0,0,,,,,
-12,"Spain","José Guardiola","Algo prodigioso",15,12,11,11,,,2,2,,,,,
-13,"Sweden","Monica Zetterlund","En gång i Stockholm",11,13,12,12,,,0,0,,,,,
-14,"Switzerland","Esther Ofarim","T'en va pas",7,10,2,2,,,40,40,,,,,
-15,"United Kingdom","Ronnie Carroll","Say Wonderful Things",10,1,4,4,,,28,28,,,,,
-16,"Yugoslavia","Vice Vukov","Brodovi",16,9,10,10,,,3,3,,,,,
+1,"Austria","Carmela Corren","Vielleicht geschieht ein Wunder",8,4,6,6,,,16,16,,,"https://youtu.be/biJfeQaHZe0?si=JPnI7tdW7GfLnyjE",,
+2,"Belgium","Jacques Raymond","Waarom?",1,14,9,9,,,4,4,,,"https://youtu.be/Pi4vDTGHArQ?si=cj7azODjjv53XwD0",,
+3,"Denmark","Grethe and Jørgen Ingmann","Dansevise",9,8,1,1,,,42,42,,,"https://youtu.be/tnxLqOGzCV8?si=EpAly4Lq2KfjzaOK","https://music.apple.com/gb/album/dansevise/1676952462?i=1676956391","https://open.spotify.com/track/1oIVUqdVUFouSa6xsSN5aM?si=3db89faa644947b7"
+4,"Finland","Laila Halme","Muistojeni laulu",14,7,12,12,,,0,0,,,"https://youtu.be/632aaGy8QGk?si=8wY6chN-E_HTeDRE","https://music.apple.com/gb/album/muistojeni-laulu/250393069?i=250393119","https://open.spotify.com/track/0Tims1bz7uG5VrLV4isIG5?si=bdc532e8aeb84f62"
+5,"France","Alain Barrière","Elle était si jolie",2,11,5,5,,,25,25,,,"https://youtu.be/_2tzFKthcVs?si=enbG3j_qBBQ-us07","https://music.apple.com/gb/album/elle-%C3%A9tait-si-jolie/512244119?i=512244696","https://open.spotify.com/track/6m0s4XFYpE1h63NaP6hBA9?si=9d40cb75e2ac402f"
+6,"Germany","Heidi Brühl","Marcel",3,3,8,8,,,5,5,,,"https://youtu.be/XA_SIOCX-l0?si=sq90NE88ILL26_A-","https://music.apple.com/gb/album/marcel/1632531503?i=1632531920","https://open.spotify.com/track/0SpyNg7omYR3Vo0DFVQhYs?si=3b34c116f0f546f1"
+7,"Italy","Emilio Pericoli","Uno per tutte",4,6,3,3,,,37,37,,,"https://youtu.be/gn8GMilGDZw?si=50u6iO7CNVFjlYVi","https://music.apple.com/gb/album/uno-per-tutte-1963/819774884?i=819774899","https://open.spotify.com/track/4OF9t8dHcIBMip0Vc5hSlk?si=c238151bd8f245e9"
+8,"Luxembourg","Nana Mouskouri","À force de prier",5,16,7,7,,,13,13,,,"https://youtu.be/98HlhsUVX70?si=i3BoTkh3bjQa_a_U","https://music.apple.com/gb/album/%C3%A0-force-de-prier-grand-prix-eurovision-1963/1444011281?i=1444011397","https://open.spotify.com/track/6m2OeTFSoVmjlzBHPhXJMO?si=ba55a32bd567460e"
+9,"Monaco","Françoise Hardy","L'amour s'en va",12,15,5,5,,,25,25,,,"https://youtu.be/YgoaMzC3W18?si=cQnrfgeexGsrsAjM","https://music.apple.com/gb/album/lamour-sen-va/581116855?i=581117363","https://open.spotify.com/track/7fGlVINs6TgZcCt5QMzxXq?si=1eebe616943b490b"
+10,"Netherlands","Annie Palmen","Een speeldoos",6,2,12,12,,,0,0,,,"https://youtu.be/lWINVYSsrTU?si=55CwUCYWUl-DCbEa",,
+11,"Norway","Anita Thallaug","Solhverv",13,5,12,12,,,0,0,,,"https://youtu.be/kaOIm-2hfm4?si=U2UptbonbX4CWlZG",,
+12,"Spain","José Guardiola","Algo prodigioso",15,12,11,11,,,2,2,,,"https://youtu.be/YSrbG8DrGBA?si=ydBE0ruItEf6kMQE","https://music.apple.com/gb/album/algo-prodigioso/690459012?i=690460175","https://open.spotify.com/track/08lZvHPOvP3MsGpxZlZ9Up?si=30aaa043200b4112"
+13,"Sweden","Monica Zetterlund","En gång i Stockholm",11,13,12,12,,,0,0,,,"https://youtu.be/j19HXn0-iGc?si=6YOb7Xx4-qD-Mrai","https://music.apple.com/gb/album/en-g%C3%A5ng-i-stockholm/928620606?i=928620680","https://open.spotify.com/track/6WiPnFoRRExPzLaHeRWmDW?si=0ba2498aeeb54ed8"
+14,"Switzerland","Esther Ofarim","T'en va pas",7,10,2,2,,,40,40,,,"https://youtu.be/eI8yLiJLObc?si=wXzlpBQLZXSgu2St",,
+15,"United Kingdom","Ronnie Carroll","Say Wonderful Things",10,1,4,4,,,28,28,,,"https://youtu.be/ZfScDjzNdpQ?si=GG8hzHqFmY3HEdM6","https://music.apple.com/gb/album/say-wonderful-things-rerecorded/73434259?i=73434170","https://open.spotify.com/track/2039TuukTehudI3eDnIlfb?si=70800559942c451d"
+16,"Yugoslavia","Vice Vukov","Brodovi",16,9,10,10,,,3,3,,,"https://youtu.be/fi0HHCI8698?si=ZBGk3A4QsbbJqL0O","https://music.apple.com/gb/album/brodovi/531615641?i=531615954","https://open.spotify.com/track/4mQlXKhbczdBxf9c1cMW3J?si=c4727f394cc14c3f"

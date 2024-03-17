@@ -1,10 +1,10 @@
 "sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-"1964","António Calvário","Oração",11,11,11,,,0,0,,,,,
-"1965","Simone de Oliveira","Sol de inverno",12,13,13,,,1,1,,,,,
-"1966","Madalena Iglésias","Ele e ela",8,9,9,,,6,6,,,,,
-"1967","Eduardo Nascimento","O vento mudou",5,10,10,,,3,3,,,,,
-"1968","Carlos Mendes","Verão",1,9,9,,,5,5,,,,,
-"1969","Simone de Oliveira","Desfolhada portuguesa",15,9,9,,,4,4,,,,,
+"1964","António Calvário","Oração",11,11,11,,,0,0,,,"https://youtu.be/rI6Kz-URYfk?si=2q1_KK8QNzJ_08iJ","https://music.apple.com/gb/album/ora%C3%A7%C3%A3o/1394723641?i=1394723649","https://open.spotify.com/track/7irYTJgKTy2wKUX1we6KO8?si=a66847322d0b4289"
+"1965","Simone de Oliveira","Sol de inverno",12,13,13,,,1,1,,,"https://youtu.be/3EWerGTtyEg?si=Pk1ay6L_oqNlTSXB","https://music.apple.com/gb/album/sol-de-inverno/1437581589?i=1437581793","https://open.spotify.com/track/7Eb59M7Raj8XKn81iqD5HN?si=97d55eb8d5cc47e5"
+"1966","Madalena Iglésias","Ele y ela",8,9,9,,,6,6,,,"https://youtu.be/GLj0qW6flqo?si=nWdYVpA7XKqk3MGs","https://music.apple.com/gb/album/%C3%A9l-y-ella/1394612276?i=1394612469","https://open.spotify.com/track/7k0RJUWh99X8ZtfNRYP5QV?si=b18a4165d30544bd"
+"1967","Eduardo Nascimento","O vento mudou",5,10,10,,,3,3,,,"https://youtu.be/9ttguvQmqTw?si=CuhNmXpn69bcZ0NQ","https://music.apple.com/gb/album/o-vento-mudou/1400171228?i=1400171404","https://open.spotify.com/track/0XTIjnsEWgTr5uZRTqfna5?si=e1b815afd4f84ca1"
+"1968","Carlos Mendes","Verão",1,9,9,,,5,5,,,"https://youtu.be/TDCB57_ih7w?si=1wjeKeAAQNWK26XQ","https://music.apple.com/gb/album/ver%C3%A3o/1395297941?i=1395297950","https://open.spotify.com/track/2rnR6kYGV7ixJqZNceIRmj?si=83b58ecfe4224eae"
+"1969","Simone de Oliveira","Desfolhada portuguesa",15,9,9,,,4,4,,,"https://youtu.be/l6WXhDQY_sQ?si=__Nr1mi66B-Leq0z","https://music.apple.com/gb/album/desfolhada-portuguesa/1437581589?i=1437581792","https://open.spotify.com/track/1G0kV398JWt9kB9p1wL4at?si=fb6a3d3ca99d4da6"
 "1971","Tonicha","Menina do alto da serra",15,8,8,,,83,83,,,,,
 "1972","Carlos Mendes","A festa da vida",7,7,7,,,90,90,,,,,
 "1973","Fernando Tordo","Tourada",3,9,9,,,80,80,,,,,
@@ -54,4 +54,4 @@
 "2021","The Black Mamba","Love Is on My Side",7,11,7,18,11,153,126,27,99,"https://youtu.be/qq9SceXaukA?si=HgaW87zsa1nC5hlV","https://music.apple.com/gb/album/love-is-on-my-side/1556921127?i=1556921128","https://open.spotify.com/track/7fUlEgQytIcVr9tu20hv89?si=eaf011e4decc4bc4"
 "2022","Maro","Saudade, saudade",3,9,5,15,10,207,171,36,135,"https://youtu.be/mZtbD47u6yI?si=Ahx7LoW1BEMl9Qb8","https://music.apple.com/gb/album/saudade-saudade/1606013782?i=1606014430","https://open.spotify.com/track/4S4Amrpr631M16IIXqRk73?si=2b069f9701c3462d"
 "2023","Mimicat","Ai coração",2,23,17,21,4,59,43,16,27,"https://youtu.be/HYfkxX4PFyw?si=3lUf7l4Ks99w_yAX","https://music.apple.com/gb/album/ai-cora%C3%A7%C3%A3o/1667650267?i=1667650571","https://open.spotify.com/track/2i2L1439P8JJRqp1jiKfUR?si=ff96bb3abefd46a5"
-"2024","Iolanda","Grito",,,,,,,,,,"https://youtu.be/K5wDGhcDSpQ?si=BPQqpug0DAqsIKeO","https://music.apple.com/gb/album/zari/1734215972?i=1734216111","https://open.spotify.com/track/2zhBeIoGEqISdQOu4HtQZc?si=2f4d479f10134e72"
+"2024","Iolanda","Grito",,,,,,,,,,"https://youtu.be/K5wDGhcDSpQ?si=BPQqpug0DAqsIKeO","https://music.apple.com/gb/album/grito/1726492157?i=1726492402","https://open.spotify.com/track/2zhBeIoGEqISdQOu4HtQZc?si=2f4d479f10134e72"

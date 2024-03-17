@@ -1,14 +1,14 @@
 "sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-"1960","Nora Brockstedt","Voi-voi",6,4,4,,,11,11,,,,,
-"1961","Nora Brockstedt","Sommer i Palma",12,6,6,,,10,10,,,,,
-"1962","Inger Jacobsen","Kom sol, kom regn",10,8,8,,,2,2,,,,,
-"1963","Anita Thallaug","Solhverv",5,12,12,,,0,0,,,,,
-"1964","Arne Bendiksen","Spiral",3,7,7,,,6,6,,,,,
-"1965","Kirsti Sparboe","Karusell",7,13,13,,,1,1,,,,,
-"1966","Åse Kleveland","Intet er nytt under solen",6,3,3,,,15,15,,,,,
-"1967","Kirsti Sparboe","Dukkemann",13,11,11,,,2,2,,,,,
-"1968","Odd Børre","Stress",13,10,10,,,2,2,,,,,
-"1969","Kirsti Sparboe","Oj, oj, oj, så glad jeg skal bli",12,10,10,,,1,1,,,,,
+"1960","Nora Brockstedt","Voi-voi",6,4,4,,,11,11,,,"https://youtu.be/q70CwO8TI6s?si=E5no0iCX9r9Dc7_S","https://music.apple.com/gb/album/voi-voi/965887666?i=965887836","https://open.spotify.com/track/7h10Yr54xAEdnM19GBbtcz?si=a382691fa4f44f8c"
+"1961","Nora Brockstedt","Sommer i Palma",12,6,6,,,10,10,,,"https://youtu.be/5i_BCD46-fo?si=3iRVY7-vFKd1rYZq","https://music.apple.com/gb/album/sommer-i-palma/296182234?i=296182366","https://open.spotify.com/track/4NPpSIxpQaGDWxSHvCmWGD?si=85b1df1cfffc4eed"
+"1962","Inger Jacobsen","Kom sol, kom regn",10,8,8,,,2,2,,,"https://youtu.be/58QSyaUc6Ms?si=jTVxfLNsBWr2H33U","https://music.apple.com/gb/album/kom-sol-kom-regn/575375835?i=575376082","https://open.spotify.com/track/0iUroSitQySYZr5tdT4StB?si=276bfea6203b45ac"
+"1963","Anita Thallaug","Solhverv",5,12,12,,,0,0,,,"https://youtu.be/kaOIm-2hfm4?si=U2UptbonbX4CWlZG",,
+"1964","Arne Bendiksen","Spiral",3,7,7,,,6,6,,,"https://youtu.be/V6ecLdbR_is?si=fo0E5kVDw7tITHu1","https://music.apple.com/gb/album/spiral/297664377?i=297665178","https://open.spotify.com/track/1g65SWNmTGmSkOMgHB9hGD?si=f326e442bca14b35"
+"1965","Kirsti Sparboe","Karusell",7,13,13,,,1,1,,,"https://youtu.be/7r_wetdKq1w?si=DnZQyluYfLyLQoec","https://music.apple.com/gb/album/karusell/297209884?i=297210003","https://open.spotify.com/track/20XUJu6LqjZsDBpmOmC7fY?si=4f9a33a518c84ace"
+"1966","Åse Kleveland","Intet er nytt under solen",6,3,3,,,15,15,,,"https://youtu.be/hS1-YJtovaI?si=tQJ_rBcqXonPHb6I","https://music.apple.com/gb/album/intet-er-nytt-under-solen-feat-the-salmon-smokers/1513734513?i=1513734830","https://open.spotify.com/track/68ccbuUBIZtRKO0Y7TWnUc?si=8594c0cd0ee342c6"
+"1967","Kirsti Sparboe","Dukkemann",13,11,11,,,2,2,,,"https://youtu.be/Y7I__FNMevk?si=tYkYEn0ps_5kyH_R","https://music.apple.com/gb/album/dukkemann/297209884?i=297209975","https://open.spotify.com/track/6U2birUTzSLbWAf5vL4EpG?si=37e2cfe4e3cd4264"
+"1968","Odd Børre","Stress",13,10,10,,,2,2,,,"https://youtu.be/rLX2diZZ5TY?si=OH_k-rBRHBbtah2i","https://music.apple.com/gb/album/stress/298070003?i=298070042","https://open.spotify.com/track/4ReH9EkiNLuWQl2PwljTIx?si=ea883ae8710648a3"
+"1969","Kirsti Sparboe","Oj, oj, oj, så glad jeg skal bli",12,10,10,,,1,1,,,"https://youtu.be/82uR5MLX5YY?si=MPd8wjzsDF81FOC6","https://music.apple.com/gb/album/oj-oj-oj-s%C3%A5-glad-jeg-skal-bli/297209884?i=297210049","https://open.spotify.com/track/1wTSmFsq5noeiitpwifvIG?si=ecc02dcbc32b40ae"
 "1971","Hanne Krogh","Lykken er...",18,15,15,,,65,65,,,,,
 "1972","Grethe Kausland and Benny Borg","Småting",6,14,14,,,73,73,,,,,
 "1973","Bendik Singers","It's Just a Game",5,7,7,,,89,89,,,,,
@@ -61,4 +61,4 @@
 "2021","Tix","Fallen Angel",22,17,22,12,10,75,15,60,45,"https://youtu.be/F0r3vmGLzZU?si=FEAZUtuvLlTkHVZu","https://music.apple.com/gb/album/fallen-angel/1554121729?i=1554121906","https://open.spotify.com/track/1ISMa0THMDKFBq2UMfm02e?si=ed3b2b0e5a354289"
 "2022","Subwoolfer","Give That Wolf a Banana",7,10,16,7,9,182,36,146,110,"https://youtu.be/adCU2rQyDeY?si=dz3PN08cy5ojHEGC","https://music.apple.com/gb/album/give-that-wolf-a-banana/1601480323?i=1601480613","https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL?si=a963e3b8ab144d64"
 "2023","Alessandra","Queen of Kings",20,5,16,3,13,268,52,216,164,"https://youtu.be/PUHSM_vTqTI?si=lVt5-tQVvrZJtlxD","https://music.apple.com/gb/album/queen-of-kings/1661148199?i=1661148211","https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA?si=d96f9df4031b46a5"
-"2024","Gåte","Ulveham",,,,,,,,,,"https://youtu.be/UipzszlJwRQ?si=Z2CY6lYaZIkcCR6U","https://music.apple.com/gb/album/zari/1734215972?i=1734216111","https://open.spotify.com/track/6awPQdcqY8IYdHzqhEYm3s?si=0a378f51f95b49ef"
+"2024","Gåte","Ulveham",,,,,,,,,,"https://youtu.be/UipzszlJwRQ?si=Z2CY6lYaZIkcCR6U","https://music.apple.com/gb/album/ulveham/1728647453?i=1728647470","https://open.spotify.com/track/6awPQdcqY8IYdHzqhEYm3s?si=0a378f51f95b49ef"
