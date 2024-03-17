@@ -1,38 +1,38 @@
 "sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-"1986","ICY","Gleðibankinn",6,16,16,NULL,NULL,19,19,NULL,NULL,NULL,NULL,NULL
-"1987","Halla Margrét","Hægt og hljótt",4,15,15,NULL,NULL,28,28,NULL,NULL,NULL,NULL,NULL
-"1988","Beathoven","Sókrates",1,15,15,NULL,NULL,20,20,NULL,NULL,NULL,NULL,NULL
-"1989","Daníel","Það sem enginn sér",20,21,21,NULL,NULL,0,0,NULL,NULL,NULL,NULL,NULL
-"1990","Stjórnin","Eitt lag enn",8,3,3,NULL,NULL,124,124,NULL,NULL,NULL,NULL,NULL
-"1991","Stefán and Eyfi","Nína",2,13,13,NULL,NULL,26,26,NULL,NULL,NULL,NULL,NULL
-"1992","Heart 2 Heart","Nei eða já",11,7,7,NULL,NULL,80,80,NULL,NULL,NULL,NULL,NULL
-"1993","Inga","Þá veistu svarið",9,13,13,NULL,NULL,42,42,NULL,NULL,NULL,NULL,NULL
-"1994","Sigga","Nætur",5,12,12,NULL,NULL,49,49,NULL,NULL,NULL,NULL,NULL
-"1995","Bo Halldórsson","Núna",7,14,14,NULL,NULL,31,31,NULL,NULL,NULL,NULL,NULL
-"1996","Anna Mjöll","Sjúbídú",19,12,12,NULL,NULL,51,51,NULL,NULL,NULL,NULL,NULL
-"1997","Paul Oscar","Minn hinsti dans",25,18,21,6,15,18,2,16,14,NULL,NULL,NULL
-"1999","Selma","All Out of Luck",13,2,4,2,2,146,22,124,102,NULL,NULL,NULL
-"2000","August and Telma","Tell Me!",12,12,13,11,2,45,7,38,31,NULL,NULL,NULL
-"2001","Two Tricky","Angel",2,21,15,19,4,3,0,3,3,NULL,NULL,NULL
-"2003","Birgitta","Open Your Heart",1,8,9,9,0,81,7,74,67,NULL,NULL,NULL
-"2004","Jónsi","Heaven",17,17,NULL,17,NULL,16,NULL,16,NULL,NULL,NULL,NULL
-"2005","Selma","If I Had Your Love",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2006","Silvía Night","Congratulations",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2007","Eiríkur Hauksson","Valentine Lost",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2008","Euroband","This Is My Life",11,13,11,12,1,64,0,64,64,NULL,NULL,NULL
-"2009","Yohanna","Is It True?",7,2,2,4,2,433,260,173,87,NULL,NULL,NULL
-"2010","Hera Björk","Je ne sais quoi",16,18,17,15,2,97,57,40,17,NULL,NULL,NULL
-"2011","Sjonni's Friends","Coming Home",21,18,18,18,0,132,72,60,12,NULL,NULL,NULL
-"2012","Greta Salóme and Jónsi","Never Forget",7,12,17,7,10,170,53,117,64,NULL,NULL,NULL
-"2013","Eythor Ingi","Ég á líf",19,16,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2014","Pollapönk","No Prejudice",4,17,15,12,3,105,59,46,13,NULL,NULL,NULL
-"2015","Maria Olafs","Unbroken",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2016","Greta Salóme","Hear Them Calling",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2017","Svala","Paper",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2018","Ari Ólafsson","Our Choice",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2019","Hatari","Hatrið mun sigra",17,10,15,6,9,232,46,186,140,NULL,NULL,NULL
-"2020","Daði og Gagnamagnið","Think About Things",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/1HU7ocv3S2o?si=EtZ9-Fctm6VtgwU1","https://music.apple.com/gb/album/think-about-things/1566552741?i=1566553206","https://open.spotify.com/track/2iRniYXjMHKmwXqA2jYXP7?si=6c790976c50f47c9"
+"1986","ICY","Gleðibankinn",6,16,16,,,19,19,,,,,
+"1987","Halla Margrét","Hægt og hljótt",4,15,15,,,28,28,,,,,
+"1988","Beathoven","Sókrates",1,15,15,,,20,20,,,,,
+"1989","Daníel","Það sem enginn sér",20,21,21,,,0,0,,,,,
+"1990","Stjórnin","Eitt lag enn",8,3,3,,,124,124,,,,,
+"1991","Stefán and Eyfi","Nína",2,13,13,,,26,26,,,,,
+"1992","Heart 2 Heart","Nei eða já",11,7,7,,,80,80,,,,,
+"1993","Inga","Þá veistu svarið",9,13,13,,,42,42,,,,,
+"1994","Sigga","Nætur",5,12,12,,,49,49,,,,,
+"1995","Bo Halldórsson","Núna",7,14,14,,,31,31,,,,,
+"1996","Anna Mjöll","Sjúbídú",19,12,12,,,51,51,,,,,
+"1997","Paul Oscar","Minn hinsti dans",25,18,21,6,15,18,2,16,14,,,
+"1999","Selma","All Out of Luck",13,2,4,2,2,146,22,124,102,,,
+"2000","August and Telma","Tell Me!",12,12,13,11,2,45,7,38,31,,,
+"2001","Two Tricky","Angel",2,21,15,19,4,3,0,3,3,,,
+"2003","Birgitta","Open Your Heart",1,8,9,9,0,81,7,74,67,,,
+"2004","Jónsi","Heaven",17,17,,17,,16,,16,,,,
+"2005","Selma","If I Had Your Love",,,,,,,,,,,,
+"2006","Silvía Night","Congratulations",,,,,,,,,,,,
+"2007","Eiríkur Hauksson","Valentine Lost",,,,,,,,,,,,
+"2008","Euroband","This Is My Life",11,13,11,12,1,64,0,64,64,,,
+"2009","Yohanna","Is It True?",7,2,2,4,2,433,260,173,87,,,
+"2010","Hera Björk","Je ne sais quoi",16,18,17,15,2,97,57,40,17,,,
+"2011","Sjonni's Friends","Coming Home",21,18,18,18,0,132,72,60,12,,,
+"2012","Greta Salóme and Jónsi","Never Forget",7,12,17,7,10,170,53,117,64,,,
+"2013","Eythor Ingi","Ég á líf",19,16,,,,,,,,,,
+"2014","Pollapönk","No Prejudice",4,17,15,12,3,105,59,46,13,,,
+"2015","Maria Olafs","Unbroken",,,,,,,,,,,,
+"2016","Greta Salóme","Hear Them Calling",,,,,,,,,,,,
+"2017","Svala","Paper",,,,,,,,,,,,
+"2018","Ari Ólafsson","Our Choice",,,,,,,,,,,,
+"2019","Hatari","Hatrið mun sigra",17,10,15,6,9,232,46,186,140,"https://youtu.be/kTb69WkBbvs?si=iHx6fd9icAmQ_AcB","https://music.apple.com/gb/album/hatri%C3%B0-mun-sigra/1623882307?i=1623882313","https://open.spotify.com/track/1JBqLoGfH1LnGTE0wzAatU?si=b77960ff7d854b58"
+"2020","Daði og Gagnamagnið","Think About Things",,,,,,,,,,"https://youtu.be/1HU7ocv3S2o?si=EtZ9-Fctm6VtgwU1","https://music.apple.com/gb/album/think-about-things/1566552741?i=1566553206","https://open.spotify.com/track/2iRniYXjMHKmwXqA2jYXP7?si=6c790976c50f47c9"
 "2021","Daði og Gagnamagnið","10 Years",12,4,5,5,0,378,198,180,18,"https://youtu.be/YSMhu-PrLME?si=vBjCxdEaSUHiETW_","https://music.apple.com/gb/album/10-years/1566552741?i=1566552747","https://open.spotify.com/track/4O0LQKVT6hGmVGNwizmydg?si=13f4cc9396b74931"
 "2022","Systur","Með hækkandi sól",18,22,21,18,3,20,10,10,0,"https://youtu.be/vk9D10EyxHA?si=hh_IYc9XlTRIjqH1","https://music.apple.com/gb/album/me%C3%B0-h%C3%A6kkandi-s%C3%B3l/1621533876?i=1621533880","https://open.spotify.com/track/4t3gM4Rl5rz5du0Qn2Yd8K?si=3892cca3983146c6"
-"2023","Diljá","Power",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/lzlTcA0OC5s?si=dxAlUlgCDyy7SZ36","https://music.apple.com/gb/album/power/1671832776?i=1671832777","https://open.spotify.com/track/6bOdKJKweHiUb9a47anbP8?si=9d451f961a1a48fa"
-"2024","Hera Björk","Scared of Heights",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/OouUsCZ3xkM?si=SAr7r2sCfe5bOwYq","https://music.apple.com/gb/album/zari/1734215972?i=1734216111","https://open.spotify.com/track/0Vsjlru86RuL55GX5LsnF3?si=29132ae157404d83"
+"2023","Diljá","Power",,,,,,,,,,"https://youtu.be/lzlTcA0OC5s?si=dxAlUlgCDyy7SZ36","https://music.apple.com/gb/album/power/1671832776?i=1671832777","https://open.spotify.com/track/6bOdKJKweHiUb9a47anbP8?si=9d451f961a1a48fa"
+"2024","Hera Björk","Scared of Heights",,,,,,,,,,"https://youtu.be/OouUsCZ3xkM?si=SAr7r2sCfe5bOwYq","https://music.apple.com/gb/album/zari/1734215972?i=1734216111","https://open.spotify.com/track/0Vsjlru86RuL55GX5LsnF3?si=29132ae157404d83"

@@ -1,37 +1,37 @@
 "id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-1,"Albania","Anjeza Shahini","The Image of You",39,9,6,NULL,6,NULL,106,NULL,106,NULL,NULL,NULL,NULL
-2,"Andorra","Marta Roure","Jugarem a estimar-nos",40,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-3,"Austria","Tie Break","Du bist",8,2,19,NULL,19,NULL,9,NULL,9,NULL,NULL,NULL,NULL
-4,"Belarus","Aleksandra and Konstantin","My Galileo",41,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-5,"Belgium","Xandee","1 Life",1,13,20,NULL,20,NULL,7,NULL,7,NULL,NULL,NULL,NULL
-6,"Bosnia and Herzegovina","Deen","In the Disco",26,12,8,NULL,8,NULL,91,NULL,91,NULL,NULL,NULL,NULL
-7,"Croatia","Ivan Mikulić","You Are the Only One",27,11,11,NULL,11,NULL,50,NULL,50,NULL,NULL,NULL,NULL
-8,"Cyprus","Lisa Andreas","Stronger Every Minute",24,21,5,NULL,5,NULL,170,NULL,170,NULL,NULL,NULL,NULL
-9,"Denmark","Tomas Thordarson","Shame on You",9,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-10,"Estonia","Neiokõsõ","Tii",29,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-11,"Finland","Jari Sillanpää","Takes 2 to Tango",14,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-12,"France","Jonatan Cerrada","À chaque pas",2,4,13,NULL,13,NULL,40,NULL,40,NULL,NULL,NULL,NULL
-13,"Germany","Max","Can't Wait Until Tonight",3,8,7,NULL,7,NULL,93,NULL,93,NULL,NULL,NULL,NULL
-14,"Greece","Sakis Rouvas","Shake It",21,16,3,NULL,3,NULL,252,NULL,252,NULL,NULL,NULL,NULL
-15,"Iceland","Jónsi","Heaven",25,17,17,NULL,17,NULL,16,NULL,16,NULL,NULL,NULL,NULL
-16,"Ireland","Chris Doran","If My World Stopped Turning",18,18,20,NULL,20,NULL,7,NULL,7,NULL,NULL,NULL,NULL
-17,"Israel","David D'Or","Leha'amin",20,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-18,"Latvia","Fomins and Kleins","Dziesma par laimi",37,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-19,"Lithuania","Linas and Simona","What's Happened to Your Love",31,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-20,"North Macedonia","Toše Proeski","Life",36,15,12,NULL,12,NULL,47,NULL,47,NULL,NULL,NULL,NULL
-21,"Malta","Julie and Ludwig","On Again... Off Again",19,6,11,NULL,11,NULL,50,NULL,50,NULL,NULL,NULL,NULL
-22,"Monaco","Maryon","Notre planète",12,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-23,"Netherlands","Re-union","Without You",6,7,18,NULL,18,NULL,11,NULL,11,NULL,NULL,NULL,NULL
-24,"Norway","Knut Anders Sørum","High",13,3,21,NULL,21,NULL,3,NULL,3,NULL,NULL,NULL,NULL
-25,"Poland","Blue Café","Love Song",32,19,15,NULL,15,NULL,27,NULL,27,NULL,NULL,NULL,NULL
-26,"Portugal","Sofia Vitória","Foi magia",17,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-27,"Romania","Sanda","I Admit",33,23,16,NULL,16,NULL,18,NULL,18,NULL,NULL,NULL,NULL
-28,"Russia","Julia Savicheva","Believe Me",34,14,10,NULL,10,NULL,67,NULL,67,NULL,NULL,NULL,NULL
-29,"Serbia and Montenegro","Željko Joksimović and Ad-Hoc Orchestra","Lane moje",42,5,2,NULL,2,NULL,263,NULL,263,NULL,NULL,NULL,NULL
-30,"Slovenia","Platin","Stay Forever",28,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-31,"Spain","Ramón","Para llenarme de ti",15,1,9,NULL,9,NULL,87,NULL,87,NULL,NULL,NULL,NULL
-32,"Sweden","Lena Philipsson","It Hurts",11,24,5,NULL,5,NULL,170,NULL,170,NULL,NULL,NULL,NULL
-33,"Switzerland","Piero and the MusicStars","Celebrate",7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-34,"Turkey","Athena","For Real",22,22,4,NULL,4,NULL,195,NULL,195,NULL,NULL,NULL,NULL
-35,"Ukraine","Ruslana","Wild Dances",38,10,1,NULL,1,NULL,280,NULL,280,NULL,NULL,NULL,NULL
-36,"United Kingdom","James Fox","Hold On to Our Love",10,20,14,NULL,14,NULL,29,NULL,29,NULL,NULL,NULL,NULL
+1,"Albania","Anjeza Shahini","The Image of You",39,9,6,,6,,106,,106,,,,
+2,"Andorra","Marta Roure","Jugarem a estimar-nos",40,,,,,,,,,,,,
+3,"Austria","Tie Break","Du bist",8,2,19,,19,,9,,9,,,,
+4,"Belarus","Aleksandra and Konstantin","My Galileo",41,,,,,,,,,,,,
+5,"Belgium","Xandee","1 Life",1,13,20,,20,,7,,7,,,,
+6,"Bosnia and Herzegovina","Deen","In the Disco",26,12,8,,8,,91,,91,,,,
+7,"Croatia","Ivan Mikulić","You Are the Only One",27,11,11,,11,,50,,50,,,,
+8,"Cyprus","Lisa Andreas","Stronger Every Minute",24,21,5,,5,,170,,170,,,,
+9,"Denmark","Tomas Thordarson","Shame on You",9,,,,,,,,,,,,
+10,"Estonia","Neiokõsõ","Tii",29,,,,,,,,,,,,
+11,"Finland","Jari Sillanpää","Takes 2 to Tango",14,,,,,,,,,,,,
+12,"France","Jonatan Cerrada","À chaque pas",2,4,13,,13,,40,,40,,,,
+13,"Germany","Max","Can't Wait Until Tonight",3,8,7,,7,,93,,93,,,,
+14,"Greece","Sakis Rouvas","Shake It",21,16,3,,3,,252,,252,,,,
+15,"Iceland","Jónsi","Heaven",25,17,17,,17,,16,,16,,,,
+16,"Ireland","Chris Doran","If My World Stopped Turning",18,18,20,,20,,7,,7,,,,
+17,"Israel","David D'Or","Leha'amin",20,,,,,,,,,,,,
+18,"Latvia","Fomins and Kleins","Dziesma par laimi",37,,,,,,,,,,,,
+19,"Lithuania","Linas and Simona","What's Happened to Your Love",31,,,,,,,,,,,,
+20,"North Macedonia","Toše Proeski","Life",36,15,12,,12,,47,,47,,,,
+21,"Malta","Julie and Ludwig","On Again... Off Again",19,6,11,,11,,50,,50,,,,
+22,"Monaco","Maryon","Notre planète",12,,,,,,,,,,,,
+23,"Netherlands","Re-union","Without You",6,7,18,,18,,11,,11,,,,
+24,"Norway","Knut Anders Sørum","High",13,3,21,,21,,3,,3,,,,
+25,"Poland","Blue Café","Love Song",32,19,15,,15,,27,,27,,,,
+26,"Portugal","Sofia Vitória","Foi magia",17,,,,,,,,,,,,
+27,"Romania","Sanda","I Admit",33,23,16,,16,,18,,18,,,,
+28,"Russia","Julia Savicheva","Believe Me",34,14,10,,10,,67,,67,,,,
+29,"Serbia and Montenegro","Željko Joksimović and Ad-Hoc Orchestra","Lane moje",42,5,2,,2,,263,,263,,,,
+30,"Slovenia","Platin","Stay Forever",28,,,,,,,,,,,,
+31,"Spain","Ramón","Para llenarme de ti",15,1,9,,9,,87,,87,,,,
+32,"Sweden","Lena Philipsson","It Hurts",11,24,5,,5,,170,,170,,,,
+33,"Switzerland","Piero and the MusicStars","Celebrate",7,,,,,,,,,,,,
+34,"Turkey","Athena","For Real",22,22,4,,4,,195,,195,,,,
+35,"Ukraine","Ruslana","Wild Dances",38,10,1,,1,,280,,280,,,,
+36,"United Kingdom","James Fox","Hold On to Our Love",10,20,14,,14,,29,,29,,,,

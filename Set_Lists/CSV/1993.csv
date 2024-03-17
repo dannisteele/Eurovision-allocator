@@ -1,26 +1,26 @@
 "id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-1,"Austria","Tony Wegas","Maria Magdalena",8,10,14,14,NULL,NULL,32,32,NULL,NULL,NULL,NULL,NULL
-2,"Belgium","Barbara","Iemand als jij",1,7,24,24,NULL,NULL,3,3,NULL,NULL,NULL,NULL,NULL
-3,"Bosnia and Herzegovina","Fazla","Sva bol svijeta",26,18,16,16,NULL,NULL,27,27,NULL,NULL,NULL,NULL,NULL
-4,"Croatia","Put","Don't Ever Cry",27,21,15,15,NULL,NULL,31,31,NULL,NULL,NULL,NULL,NULL
-5,"Cyprus","Zymboulakis and Van Beke","Mi stamatas (Μη σταματάς)",24,23,19,19,NULL,NULL,17,17,NULL,NULL,NULL,NULL,NULL
-6,"Denmark","Seebach Band","Under stjernerne på himlen",9,5,22,22,NULL,NULL,9,9,NULL,NULL,NULL,NULL,NULL
-7,"Finland","Katri Helena","Tule luo",14,17,17,17,NULL,NULL,20,20,NULL,NULL,NULL,NULL,NULL
-8,"France","Patrick Fiori","Mama Corsica",2,12,4,4,NULL,NULL,121,121,NULL,NULL,NULL,NULL,NULL
-9,"Germany","Münchener Freiheit","Viel zu weit",3,3,18,18,NULL,NULL,18,18,NULL,NULL,NULL,NULL,NULL
-10,"Greece","Katerina Garbi","Ellada, hora tou fotos (Ελλάδα, χώρα του φωτός)",21,6,9,9,NULL,NULL,64,64,NULL,NULL,NULL,NULL,NULL
-11,"Iceland","Inga","Þá veistu svarið",25,9,13,13,NULL,NULL,42,42,NULL,NULL,NULL,NULL,NULL
-12,"Ireland","Niamh Kavanagh","In Your Eyes",18,14,1,1,NULL,NULL,187,187,NULL,NULL,NULL,NULL,NULL
-13,"Israel","Lehakat Shiru","Shiru (שירו)",20,24,23,23,NULL,NULL,4,4,NULL,NULL,NULL,NULL,NULL
-14,"Italy","Enrico Ruggeri","Sole d'Europa",4,1,12,12,NULL,NULL,45,45,NULL,NULL,NULL,NULL,NULL
-15,"Luxembourg","Modern Times","Donne-moi une chance",5,15,20,20,NULL,NULL,11,11,NULL,NULL,NULL,NULL,NULL
-16,"Malta","William Mangion","This Time",19,8,8,8,NULL,NULL,69,69,NULL,NULL,NULL,NULL,NULL
-17,"Netherlands","Ruth Jacott","Vrede",6,20,6,6,NULL,NULL,92,92,NULL,NULL,NULL,NULL,NULL
-18,"Norway","Silje Vige","Alle mine tankar",13,25,5,5,NULL,NULL,120,120,NULL,NULL,NULL,NULL,NULL
-19,"Portugal","Anabela","A cidade até ser dia",17,11,10,10,NULL,NULL,60,60,NULL,NULL,NULL,NULL,NULL
-20,"Slovenia","1X Band","Tih deževen dan",28,16,22,22,NULL,NULL,9,9,NULL,NULL,NULL,NULL,NULL
-21,"Spain","Eva Santamaría","Hombres",15,22,11,11,NULL,NULL,58,58,NULL,NULL,NULL,NULL,NULL
-22,"Sweden","Arvingarna","Eloise",11,13,7,7,NULL,NULL,89,89,NULL,NULL,NULL,NULL,NULL
-23,"Switzerland","Annie Cotton","Moi, tout simplement",7,4,3,3,NULL,NULL,148,148,NULL,NULL,NULL,NULL,NULL
-24,"Turkey","Burak Aydos, Öztürk Baybora and Serter","Esmer Yarim",22,2,21,21,NULL,NULL,10,10,NULL,NULL,NULL,NULL,NULL
-25,"United Kingdom","Sonia","Better the Devil You Know",10,19,2,2,NULL,NULL,164,164,NULL,NULL,NULL,NULL,NULL
+1,"Austria","Tony Wegas","Maria Magdalena",8,10,14,14,,,32,32,,,,,
+2,"Belgium","Barbara","Iemand als jij",1,7,24,24,,,3,3,,,,,
+3,"Bosnia and Herzegovina","Fazla","Sva bol svijeta",26,18,16,16,,,27,27,,,,,
+4,"Croatia","Put","Don't Ever Cry",27,21,15,15,,,31,31,,,,,
+5,"Cyprus","Zymboulakis and Van Beke","Mi stamatas (Μη σταματάς)",24,23,19,19,,,17,17,,,,,
+6,"Denmark","Seebach Band","Under stjernerne på himlen",9,5,22,22,,,9,9,,,,,
+7,"Finland","Katri Helena","Tule luo",14,17,17,17,,,20,20,,,,,
+8,"France","Patrick Fiori","Mama Corsica",2,12,4,4,,,121,121,,,,,
+9,"Germany","Münchener Freiheit","Viel zu weit",3,3,18,18,,,18,18,,,,,
+10,"Greece","Katerina Garbi","Ellada, hora tou fotos (Ελλάδα, χώρα του φωτός)",21,6,9,9,,,64,64,,,,,
+11,"Iceland","Inga","Þá veistu svarið",25,9,13,13,,,42,42,,,,,
+12,"Ireland","Niamh Kavanagh","In Your Eyes",18,14,1,1,,,187,187,,,,,
+13,"Israel","Lehakat Shiru","Shiru (שירו)",20,24,23,23,,,4,4,,,,,
+14,"Italy","Enrico Ruggeri","Sole d'Europa",4,1,12,12,,,45,45,,,,,
+15,"Luxembourg","Modern Times","Donne-moi une chance",5,15,20,20,,,11,11,,,,,
+16,"Malta","William Mangion","This Time",19,8,8,8,,,69,69,,,,,
+17,"Netherlands","Ruth Jacott","Vrede",6,20,6,6,,,92,92,,,,,
+18,"Norway","Silje Vige","Alle mine tankar",13,25,5,5,,,120,120,,,,,
+19,"Portugal","Anabela","A cidade até ser dia",17,11,10,10,,,60,60,,,,,
+20,"Slovenia","1X Band","Tih deževen dan",28,16,22,22,,,9,9,,,,,
+21,"Spain","Eva Santamaría","Hombres",15,22,11,11,,,58,58,,,,,
+22,"Sweden","Arvingarna","Eloise",11,13,7,7,,,89,89,,,,,
+23,"Switzerland","Annie Cotton","Moi, tout simplement",7,4,3,3,,,148,148,,,,,
+24,"Turkey","Burak Aydos, Öztürk Baybora and Serter","Esmer Yarim",22,2,21,21,,,10,10,,,,,
+25,"United Kingdom","Sonia","Better the Devil You Know",10,19,2,2,,,164,164,,,,,

@@ -1,26 +1,26 @@
 "id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-1,"Austria","Bettina Soriat","One Step",8,4,19,18,13,5,12,12,0,12,NULL,NULL,NULL
-2,"Bosnia and Herzegovina","Alma Čardžić","Goodbye",26,14,17,19,8,11,22,9,13,4,NULL,NULL,NULL
-3,"Croatia","E.N.I.","Probudi me",27,23,16,15,11,4,24,17,7,10,NULL,NULL,NULL
-4,"Cyprus","Hara and Andreas Konstantinou","Mana mou (Μάνα μου)",24,1,5,6,7,1,98,84,14,70,NULL,NULL,NULL
-5,"Denmark","Kølig Kaj[a]","Stemmen i mit liv",9,21,15,16,9,7,25,15,10,5,NULL,NULL,NULL
-6,"Estonia","Maarja","Keelatud maa",29,13,8,9,4,5,82,58,24,34,NULL,NULL,NULL
-7,"France","Fanny","Sentiments songes",2,22,7,4,12,8,95,90,5,85,NULL,NULL,NULL
-8,"Germany","Bianca Shomburg","Zeit",3,11,17,17,10,7,22,14,8,6,NULL,NULL,NULL
-9,"Greece","Marianna Zorba","Horepse (Χόρεψε)",21,17,12,11,13,2,39,39,0,39,NULL,NULL,NULL
-10,"Hungary","V.I.P.","Miért kell, hogy elmenj?",30,19,12,12,10,2,39,31,8,23,NULL,NULL,NULL
-11,"Iceland","Paul Oscar","Minn hinsti dans",25,25,18,21,6,15,18,2,16,14,NULL,NULL,NULL
-12,"Ireland","Marc Roberts","Mysterious Woman",18,5,2,2,1,1,157,110,47,63,NULL,NULL,NULL
-13,"Italy","Jalisse","Fiumi di parole",4,9,4,3,5,2,114,93,21,72,NULL,NULL,NULL
-14,"Malta","Debbie Scerri","Let Me Fly",19,18,9,7,13,6,66,66,0,66,NULL,NULL,NULL
-15,"Netherlands","Mrs. Einstein","Niemand heeft nog tijd",6,8,20,20,13,7,5,5,0,5,NULL,NULL,NULL
-16,"Norway","Tor Endresen","San Francisco",13,3,21,22,13,9,0,0,0,0,NULL,NULL,NULL
-17,"Poland","Anna Maria Jopek","Ale jestem",32,12,11,10,7,3,54,40,14,26,NULL,NULL,NULL
-18,"Portugal","Célia Lawson","Antes do adeus",17,15,21,22,13,9,0,0,0,0,NULL,NULL,NULL
-19,"Russia","Alla Pugacheva","Primadonna (Примадонна)",34,20,14,14,12,2,33,28,5,23,NULL,NULL,NULL
-20,"Slovenia","Tanja Ribič","Zbudi se",28,6,10,8,13,5,60,60,0,60,NULL,NULL,NULL
-21,"Spain","Marcos Llunas","Sin rencor",15,10,6,5,9,4,96,86,10,76,NULL,NULL,NULL
-22,"Sweden","Blond","Bara hon älskar mig",11,16,13,13,11,2,36,29,7,22,NULL,NULL,NULL
-23,"Switzerland","Barbara Berta","Dentro di me",7,7,20,20,13,7,5,5,0,5,NULL,NULL,NULL
-24,"Turkey","Şebnem Paker and Grup Ethnic","Dinle",22,2,3,5,3,2,121,86,35,51,NULL,NULL,NULL
-25,"United Kingdom","Katrina and the Waves","Love Shine a Light",10,24,1,1,2,1,227,181,46,135,NULL,NULL,NULL
+1,"Austria","Bettina Soriat","One Step",8,4,19,18,13,5,12,12,0,12,,,
+2,"Bosnia and Herzegovina","Alma Čardžić","Goodbye",26,14,17,19,8,11,22,9,13,4,,,
+3,"Croatia","E.N.I.","Probudi me",27,23,16,15,11,4,24,17,7,10,,,
+4,"Cyprus","Hara and Andreas Konstantinou","Mana mou (Μάνα μου)",24,1,5,6,7,1,98,84,14,70,,,
+5,"Denmark","Kølig Kaj[a]","Stemmen i mit liv",9,21,15,16,9,7,25,15,10,5,,,
+6,"Estonia","Maarja","Keelatud maa",29,13,8,9,4,5,82,58,24,34,,,
+7,"France","Fanny","Sentiments songes",2,22,7,4,12,8,95,90,5,85,,,
+8,"Germany","Bianca Shomburg","Zeit",3,11,17,17,10,7,22,14,8,6,,,
+9,"Greece","Marianna Zorba","Horepse (Χόρεψε)",21,17,12,11,13,2,39,39,0,39,,,
+10,"Hungary","V.I.P.","Miért kell, hogy elmenj?",30,19,12,12,10,2,39,31,8,23,,,
+11,"Iceland","Paul Oscar","Minn hinsti dans",25,25,18,21,6,15,18,2,16,14,,,
+12,"Ireland","Marc Roberts","Mysterious Woman",18,5,2,2,1,1,157,110,47,63,,,
+13,"Italy","Jalisse","Fiumi di parole",4,9,4,3,5,2,114,93,21,72,,,
+14,"Malta","Debbie Scerri","Let Me Fly",19,18,9,7,13,6,66,66,0,66,,,
+15,"Netherlands","Mrs. Einstein","Niemand heeft nog tijd",6,8,20,20,13,7,5,5,0,5,,,
+16,"Norway","Tor Endresen","San Francisco",13,3,21,22,13,9,0,0,0,0,,,
+17,"Poland","Anna Maria Jopek","Ale jestem",32,12,11,10,7,3,54,40,14,26,,,
+18,"Portugal","Célia Lawson","Antes do adeus",17,15,21,22,13,9,0,0,0,0,,,
+19,"Russia","Alla Pugacheva","Primadonna (Примадонна)",34,20,14,14,12,2,33,28,5,23,,,
+20,"Slovenia","Tanja Ribič","Zbudi se",28,6,10,8,13,5,60,60,0,60,,,
+21,"Spain","Marcos Llunas","Sin rencor",15,10,6,5,9,4,96,86,10,76,,,
+22,"Sweden","Blond","Bara hon älskar mig",11,16,13,13,11,2,36,29,7,22,,,
+23,"Switzerland","Barbara Berta","Dentro di me",7,7,20,20,13,7,5,5,0,5,,,
+24,"Turkey","Şebnem Paker and Grup Ethnic","Dinle",22,2,3,5,3,2,121,86,35,51,,,
+25,"United Kingdom","Katrina and the Waves","Love Shine a Light",10,24,1,1,2,1,227,181,46,135,,,

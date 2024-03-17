@@ -1,43 +1,43 @@
 "id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-1,"Albania","Kejsi Tola","Carry Me in Your Dreams",39,19,18,21,11,10,107,26,81,55,NULL,NULL,NULL
-2,"Andorra","Susanne Georgi","La teva decisió (Get a Life)",40,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-3,"Armenia","Inga and Anush","Jan Jan",45,9,11,14,9,5,182,71,111,40,NULL,NULL,NULL
-4,"Azerbaijan","Aysel and Arash","Always",50,11,3,8,2,6,365,112,253,141,NULL,NULL,NULL
-5,"Belarus","Petr Elfimov","Eyes That Never Lie",41,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-6,"Belgium","Copycat","Copycat",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-7,"Bosnia and Herzegovina","Regina","Bistra voda",26,12,9,11,7,4,214,90,124,34,NULL,NULL,NULL
-8,"Bulgaria","Krassimir Avramov","Illusion",43,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-9,"Croatia","Igor Cukrov feat. Andrea","Lijepa Tena",27,5,16,18,16,2,113,58,55,3,NULL,NULL,NULL
-10,"Cyprus","Christina Metaxa","Firefly",24,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-11,"Czech Republic","Gipsy.cz","Aven Romale",46,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-12,"Denmark","Brinck","Believe Again",9,16,12,6,19,13,160,120,40,80,NULL,NULL,NULL
-13,"Estonia","Urban Symphony","Rändajad",29,15,6,5,6,1,253,124,129,5,NULL,NULL,NULL
-14,"Finland","Waldo's People","Lose Control",14,24,25,22,21,1,42,12,30,18,NULL,NULL,NULL
-15,"France","Patricia Kaas","Et s'il fallait le faire",2,3,8,4,17,13,218,164,54,110,NULL,NULL,NULL
-16,"Germany","Alex Swings Oscar Sings!","Miss Kiss Kiss Bang",3,17,21,13,22,9,91,73,18,55,NULL,NULL,NULL
-17,"Greece","Sakis Rouvas","This Is Our Night",21,8,13,10,13,3,159,93,66,27,NULL,NULL,NULL
-18,"Hungary","Zoli Ádok","Dance with Me",30,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-19,"Iceland","Yohanna","Is It True?",25,7,2,2,4,2,433,260,173,87,NULL,NULL,NULL
-20,"Ireland","Sinéad Mulvey and Black Daisy","Et Cetera",18,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-21,"Israel","Noa and Mira Awad","There Must Be Another Way",20,2,15,9,23,14,122,107,15,92,NULL,NULL,NULL
-22,"Latvia","Intars Busulis","Probka",37,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-23,"Lithuania","Sasha Son","Love",31,1,20,19,14,5,95,31,64,33,NULL,NULL,NULL
-24,"Macedonia","Next Time","Nešto što kje ostane",36,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-25,"Malta","Chiara","What If We",19,14,19,12,22,10,105,87,18,69,NULL,NULL,NULL
-26,"Moldova","Nelly Ciobanu","Hora din Moldova",44,13,7,10,5,5,244,93,151,58,NULL,NULL,NULL
-27,"Montenegro","Andrea Demirović","Just Get Out of My Life",48,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-28,"Netherlands","The Toppers","Shine",6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-29,"Norway","Alexander Rybak","Fairytale",13,20,1,1,1,0,690,312,378,66,NULL,NULL,NULL
-30,"Poland","Lidia Kopania","I Don't Wanna Leave",32,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-31,"Portugal","Flor-de-Lis","Todas as ruas do amor",17,6,17,17,18,1,109,64,45,19,NULL,NULL,NULL
-32,"Romania","Elena","The Balkan Girls",33,22,23,19,20,1,69,31,38,7,NULL,NULL,NULL
-33,"Russia","Anastasia Prikhodko","Mamo",34,10,10,16,8,8,185,67,118,51,NULL,NULL,NULL
-34,"Serbia","Marko Kon and Milaan","Cipela",49,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-35,"Slovakia","Kamil Mikulčík and Nela Pocisková","Leť tmou",35,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-36,"Slovenia","Quartissimo feat. Martina","Love Symphony",28,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-37,"Spain","Soraya Arnelas","La noche es para mí",15,25,24,23,20,3,47,9,38,29,NULL,NULL,NULL
-38,"Sweden","Malena Ernman","La Voix",11,4,22,20,15,5,86,27,59,32,NULL,NULL,NULL
-39,"Switzerland","Lovebugs","The Highest Heights",7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-40,"Turkey","Hadise","Düm Tek Tek",22,18,5,7,3,4,317,114,203,89,NULL,NULL,NULL
-41,"Ukraine","Svetlana Loboda","Be My Valentine! (Anti-Crisis Girl)",38,21,14,15,12,3,138,68,70,2,NULL,NULL,NULL
-42,"United Kingdom","Jade Ewen","It's My Time",10,23,4,3,10,7,328,223,105,118,NULL,NULL,NULL
+1,"Albania","Kejsi Tola","Carry Me in Your Dreams",39,19,18,21,11,10,107,26,81,55,,,
+2,"Andorra","Susanne Georgi","La teva decisió (Get a Life)",40,,,,,,,,,,,,
+3,"Armenia","Inga and Anush","Jan Jan",45,9,11,14,9,5,182,71,111,40,,,
+4,"Azerbaijan","Aysel and Arash","Always",50,11,3,8,2,6,365,112,253,141,,,
+5,"Belarus","Petr Elfimov","Eyes That Never Lie",41,,,,,,,,,,,,
+6,"Belgium","Copycat","Copycat",1,,,,,,,,,,,,
+7,"Bosnia and Herzegovina","Regina","Bistra voda",26,12,9,11,7,4,214,90,124,34,,,
+8,"Bulgaria","Krassimir Avramov","Illusion",43,,,,,,,,,,,,
+9,"Croatia","Igor Cukrov feat. Andrea","Lijepa Tena",27,5,16,18,16,2,113,58,55,3,,,
+10,"Cyprus","Christina Metaxa","Firefly",24,,,,,,,,,,,,
+11,"Czech Republic","Gipsy.cz","Aven Romale",46,,,,,,,,,,,,
+12,"Denmark","Brinck","Believe Again",9,16,12,6,19,13,160,120,40,80,,,
+13,"Estonia","Urban Symphony","Rändajad",29,15,6,5,6,1,253,124,129,5,,,
+14,"Finland","Waldo's People","Lose Control",14,24,25,22,21,1,42,12,30,18,,,
+15,"France","Patricia Kaas","Et s'il fallait le faire",2,3,8,4,17,13,218,164,54,110,,,
+16,"Germany","Alex Swings Oscar Sings!","Miss Kiss Kiss Bang",3,17,21,13,22,9,91,73,18,55,,,
+17,"Greece","Sakis Rouvas","This Is Our Night",21,8,13,10,13,3,159,93,66,27,,,
+18,"Hungary","Zoli Ádok","Dance with Me",30,,,,,,,,,,,,
+19,"Iceland","Yohanna","Is It True?",25,7,2,2,4,2,433,260,173,87,,,
+20,"Ireland","Sinéad Mulvey and Black Daisy","Et Cetera",18,,,,,,,,,,,,
+21,"Israel","Noa and Mira Awad","There Must Be Another Way",20,2,15,9,23,14,122,107,15,92,,,
+22,"Latvia","Intars Busulis","Probka",37,,,,,,,,,,,,
+23,"Lithuania","Sasha Son","Love",31,1,20,19,14,5,95,31,64,33,,,
+24,"Macedonia","Next Time","Nešto što kje ostane",36,,,,,,,,,,,,
+25,"Malta","Chiara","What If We",19,14,19,12,22,10,105,87,18,69,,,
+26,"Moldova","Nelly Ciobanu","Hora din Moldova",44,13,7,10,5,5,244,93,151,58,,,
+27,"Montenegro","Andrea Demirović","Just Get Out of My Life",48,,,,,,,,,,,,
+28,"Netherlands","The Toppers","Shine",6,,,,,,,,,,,,
+29,"Norway","Alexander Rybak","Fairytale",13,20,1,1,1,0,690,312,378,66,,,
+30,"Poland","Lidia Kopania","I Don't Wanna Leave",32,,,,,,,,,,,,
+31,"Portugal","Flor-de-Lis","Todas as ruas do amor",17,6,17,17,18,1,109,64,45,19,,,
+32,"Romania","Elena","The Balkan Girls",33,22,23,19,20,1,69,31,38,7,,,
+33,"Russia","Anastasia Prikhodko","Mamo",34,10,10,16,8,8,185,67,118,51,,,
+34,"Serbia","Marko Kon and Milaan","Cipela",49,,,,,,,,,,,,
+35,"Slovakia","Kamil Mikulčík and Nela Pocisková","Leť tmou",35,,,,,,,,,,,,
+36,"Slovenia","Quartissimo feat. Martina","Love Symphony",28,,,,,,,,,,,,
+37,"Spain","Soraya Arnelas","La noche es para mí",15,25,24,23,20,3,47,9,38,29,,,
+38,"Sweden","Malena Ernman","La Voix",11,4,22,20,15,5,86,27,59,32,,,
+39,"Switzerland","Lovebugs","The Highest Heights",7,,,,,,,,,,,,
+40,"Turkey","Hadise","Düm Tek Tek",22,18,5,7,3,4,317,114,203,89,,,
+41,"Ukraine","Svetlana Loboda","Be My Valentine! (Anti-Crisis Girl)",38,21,14,15,12,3,138,68,70,2,,,
+42,"United Kingdom","Jade Ewen","It's My Time",10,23,4,3,10,7,328,223,105,118,,,

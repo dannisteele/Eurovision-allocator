@@ -1,38 +1,38 @@
 "id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-1,"Albania","Hersi","One Night's Anger",39,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-2,"Armenia","Aram Mp3","Not Alone",45,7,4,5,3,2,318,125,193,68,NULL,NULL,NULL
-3,"Austria","Conchita Wurst","Rise Like a Phoenix",8,11,1,1,1,0,535,224,311,87,NULL,NULL,NULL
-4,"Azerbaijan","Dilara Kazimova","Start a Fire",50,3,13,8,20,12,134,108,26,82,NULL,NULL,NULL
-5,"Belarus","Teo","Cheesecake",41,2,16,18,11,7,106,50,56,6,NULL,NULL,NULL
-6,"Belgium","Axel Hirsoux","Mother",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-7,"Denmark","Basim","Cliche Love Song",9,23,14,10,13,3,128,85,43,42,NULL,NULL,NULL
-8,"Estonia","Tanja","Amazing",29,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-9,"Finland","Softengine","Something Better",14,18,10,7,15,8,153,114,39,75,NULL,NULL,NULL
-10,"France","Twin Twin","Moustache",2,14,23,26,24,2,6,5,1,4,NULL,NULL,NULL
-11,"Georgia","The Shin and Mariko","Three Minutes to Earth",47,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-12,"Germany","Elaiza","Is It Right",3,12,18,14,18,4,92,61,31,30,NULL,NULL,NULL
-13,"Greece","Freaky Fortune feat. RiskyKidd","Rise Up",21,10,18,19,13,6,92,49,43,6,NULL,NULL,NULL
-14,"Hungary","András Kállay-Saunders","Running",30,21,5,4,10,6,236,138,98,40,NULL,NULL,NULL
-15,"Iceland","Pollapönk","No Prejudice",25,4,17,15,12,3,105,59,46,13,NULL,NULL,NULL
-16,"Ireland","Can-linn feat. Kasey Smith","Heartbeat",18,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-17,"Israel","Mei Finegold","Same Heart",20,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-18,"Italy","Emma","La mia città",4,16,20,21,17,4,69,37,32,5,NULL,NULL,NULL
-19,"Latvia","Aarzemnieki","Cake to Bake",37,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-20,"Lithuania","Vilija","Attention",31,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-21,"Macedonia","Tijana","To the Sky",36,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-22,"Malta","Firelight","Coming Home",19,22,12,6,22,16,136,119,17,102,NULL,NULL,NULL
-23,"Moldova","Cristina Scarlat","Wild Soul",44,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-24,"Montenegro","Sergej Ćetković","Moj svijet",48,8,19,20,16,4,81,48,33,15,NULL,NULL,NULL
-25,"Netherlands","The Common Linnets","Calm After the Storm",6,24,2,3,2,1,422,200,222,22,NULL,NULL,NULL
-26,"Norway","Carl Espen","Silent Storm",13,5,11,9,15,6,141,102,39,63,NULL,NULL,NULL
-27,"Poland","Donatan and Cleo","My Słowianie – We Are Slavic",32,9,8,23,5,18,185,23,162,139,NULL,NULL,NULL
-28,"Portugal","Suzy","Quero ser tua",17,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-29,"Romania","Paula Seling and Ovi","Miracle",33,6,9,17,9,8,154,51,103,52,NULL,NULL,NULL
-30,"Russia","Tolmachevy Sisters","Shine",34,15,6,13,6,7,202,70,132,62,NULL,NULL,NULL
-31,"San Marino","Valentina Monetta","Maybe",51,25,22,25,21,4,34,16,18,2,NULL,NULL,NULL
-32,"Slovenia","Tinkara Kovač","Round and Round",28,17,21,24,23,1,36,21,15,6,NULL,NULL,NULL
-33,"Spain","Ruth Lorenzo","Dancing in the Rain",15,19,15,11,14,3,124,83,41,42,NULL,NULL,NULL
-34,"Sweden","Sanna Nielsen","Undo",11,13,3,2,4,2,391,201,190,11,NULL,NULL,NULL
-35,"Switzerland","Sebalter","Hunter of Stars",7,20,11,22,7,15,141,27,114,87,NULL,NULL,NULL
-36,"Ukraine","Mariya Yaremchuk","Tick-Tock",38,1,7,12,8,4,190,78,112,34,NULL,NULL,NULL
-37,"United Kingdom","Molly","Children of the Universe",10,26,19,16,19,3,81,52,29,23,NULL,NULL,NULL
+1,"Albania","Hersi","One Night's Anger",39,,,,,,,,,,,,
+2,"Armenia","Aram Mp3","Not Alone",45,7,4,5,3,2,318,125,193,68,,,
+3,"Austria","Conchita Wurst","Rise Like a Phoenix",8,11,1,1,1,0,535,224,311,87,,,
+4,"Azerbaijan","Dilara Kazimova","Start a Fire",50,3,13,8,20,12,134,108,26,82,,,
+5,"Belarus","Teo","Cheesecake",41,2,16,18,11,7,106,50,56,6,,,
+6,"Belgium","Axel Hirsoux","Mother",1,,,,,,,,,,,,
+7,"Denmark","Basim","Cliche Love Song",9,23,14,10,13,3,128,85,43,42,,,
+8,"Estonia","Tanja","Amazing",29,,,,,,,,,,,,
+9,"Finland","Softengine","Something Better",14,18,10,7,15,8,153,114,39,75,,,
+10,"France","Twin Twin","Moustache",2,14,23,26,24,2,6,5,1,4,,,
+11,"Georgia","The Shin and Mariko","Three Minutes to Earth",47,,,,,,,,,,,,
+12,"Germany","Elaiza","Is It Right",3,12,18,14,18,4,92,61,31,30,,,
+13,"Greece","Freaky Fortune feat. RiskyKidd","Rise Up",21,10,18,19,13,6,92,49,43,6,,,
+14,"Hungary","András Kállay-Saunders","Running",30,21,5,4,10,6,236,138,98,40,,,
+15,"Iceland","Pollapönk","No Prejudice",25,4,17,15,12,3,105,59,46,13,,,
+16,"Ireland","Can-linn feat. Kasey Smith","Heartbeat",18,,,,,,,,,,,,
+17,"Israel","Mei Finegold","Same Heart",20,,,,,,,,,,,,
+18,"Italy","Emma","La mia città",4,16,20,21,17,4,69,37,32,5,,,
+19,"Latvia","Aarzemnieki","Cake to Bake",37,,,,,,,,,,,,
+20,"Lithuania","Vilija","Attention",31,,,,,,,,,,,,
+21,"Macedonia","Tijana","To the Sky",36,,,,,,,,,,,,
+22,"Malta","Firelight","Coming Home",19,22,12,6,22,16,136,119,17,102,,,
+23,"Moldova","Cristina Scarlat","Wild Soul",44,,,,,,,,,,,,
+24,"Montenegro","Sergej Ćetković","Moj svijet",48,8,19,20,16,4,81,48,33,15,,,
+25,"Netherlands","The Common Linnets","Calm After the Storm",6,24,2,3,2,1,422,200,222,22,,,
+26,"Norway","Carl Espen","Silent Storm",13,5,11,9,15,6,141,102,39,63,,,
+27,"Poland","Donatan and Cleo","My Słowianie – We Are Slavic",32,9,8,23,5,18,185,23,162,139,,,
+28,"Portugal","Suzy","Quero ser tua",17,,,,,,,,,,,,
+29,"Romania","Paula Seling and Ovi","Miracle",33,6,9,17,9,8,154,51,103,52,,,
+30,"Russia","Tolmachevy Sisters","Shine",34,15,6,13,6,7,202,70,132,62,,,
+31,"San Marino","Valentina Monetta","Maybe",51,25,22,25,21,4,34,16,18,2,,,
+32,"Slovenia","Tinkara Kovač","Round and Round",28,17,21,24,23,1,36,21,15,6,,,
+33,"Spain","Ruth Lorenzo","Dancing in the Rain",15,19,15,11,14,3,124,83,41,42,,,
+34,"Sweden","Sanna Nielsen","Undo",11,13,3,2,4,2,391,201,190,11,,,
+35,"Switzerland","Sebalter","Hunter of Stars",7,20,11,22,7,15,141,27,114,87,,,
+36,"Ukraine","Mariya Yaremchuk","Tick-Tock",38,1,7,12,8,4,190,78,112,34,,,
+37,"United Kingdom","Molly","Children of the Universe",10,26,19,16,19,3,81,52,29,23,,,

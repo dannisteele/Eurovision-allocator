@@ -1,18 +1,18 @@
 "id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-1,"Austria","Peter Horton","Warum es hunderttausend Sterne gibt",8,3,11,11,NULL,NULL,2,2,NULL,NULL,NULL,NULL,NULL
-2,"Belgium","Louis Neefs","Ik heb zorgen",1,10,7,7,NULL,NULL,8,8,NULL,NULL,NULL,NULL,NULL
-3,"Finland","Fredi","Varjoon – suojaan",14,8,10,10,NULL,NULL,3,3,NULL,NULL,NULL,NULL,NULL
-4,"France","Noëlle Cordier","Il doit faire beau là-bas",2,4,3,3,NULL,NULL,20,20,NULL,NULL,NULL,NULL,NULL
-5,"Germany","Inge Brück","Anouschka",3,9,8,8,NULL,NULL,7,7,NULL,NULL,NULL,NULL,NULL
-6,"Ireland","Sean Dunphy","If I Could Choose",18,17,2,2,NULL,NULL,22,22,NULL,NULL,NULL,NULL,NULL
-7,"Italy","Claudio Villa","Non andare più lontano",4,16,9,9,NULL,NULL,4,4,NULL,NULL,NULL,NULL,NULL
-8,"Luxembourg","Vicky","L'amour est bleu",5,2,4,4,NULL,NULL,17,17,NULL,NULL,NULL,NULL,NULL
-9,"Monaco","Minouche Barelli","Boum-Badaboum",12,14,5,5,NULL,NULL,10,10,NULL,NULL,NULL,NULL,NULL
-10,"Netherlands","Thérèse Steinmetz","Ringe-dinge",6,1,11,11,NULL,NULL,2,2,NULL,NULL,NULL,NULL,NULL
-11,"Norway","Kirsti Sparboe","Dukkemann",13,13,11,11,NULL,NULL,2,2,NULL,NULL,NULL,NULL,NULL
-12,"Portugal","Eduardo Nascimento","O vento mudou",17,5,10,10,NULL,NULL,3,3,NULL,NULL,NULL,NULL,NULL
-13,"Spain","Raphael","Hablemos del amor",15,12,6,6,NULL,NULL,9,9,NULL,NULL,NULL,NULL,NULL
-14,"Sweden","Östen Warnerbring","Som en dröm",11,7,8,8,NULL,NULL,7,7,NULL,NULL,NULL,NULL,NULL
-15,"Switzerland","Géraldine","Quel cœur vas-tu briser ?",7,6,12,12,NULL,NULL,0,0,NULL,NULL,NULL,NULL,NULL
-16,"United Kingdom","Sandie Shaw","Puppet on a String",10,11,1,1,NULL,NULL,47,47,NULL,NULL,NULL,NULL,NULL
-17,"Yugoslavia","Lado Leskovar","Vse rože sveta",16,15,8,8,NULL,NULL,7,7,NULL,NULL,NULL,NULL,NULL
+1,"Austria","Peter Horton","Warum es hunderttausend Sterne gibt",8,3,11,11,,,2,2,,,,,
+2,"Belgium","Louis Neefs","Ik heb zorgen",1,10,7,7,,,8,8,,,,,
+3,"Finland","Fredi","Varjoon – suojaan",14,8,10,10,,,3,3,,,,,
+4,"France","Noëlle Cordier","Il doit faire beau là-bas",2,4,3,3,,,20,20,,,,,
+5,"Germany","Inge Brück","Anouschka",3,9,8,8,,,7,7,,,,,
+6,"Ireland","Sean Dunphy","If I Could Choose",18,17,2,2,,,22,22,,,,,
+7,"Italy","Claudio Villa","Non andare più lontano",4,16,9,9,,,4,4,,,,,
+8,"Luxembourg","Vicky","L'amour est bleu",5,2,4,4,,,17,17,,,,,
+9,"Monaco","Minouche Barelli","Boum-Badaboum",12,14,5,5,,,10,10,,,,,
+10,"Netherlands","Thérèse Steinmetz","Ringe-dinge",6,1,11,11,,,2,2,,,,,
+11,"Norway","Kirsti Sparboe","Dukkemann",13,13,11,11,,,2,2,,,,,
+12,"Portugal","Eduardo Nascimento","O vento mudou",17,5,10,10,,,3,3,,,,,
+13,"Spain","Raphael","Hablemos del amor",15,12,6,6,,,9,9,,,,,
+14,"Sweden","Östen Warnerbring","Som en dröm",11,7,8,8,,,7,7,,,,,
+15,"Switzerland","Géraldine","Quel cœur vas-tu briser ?",7,6,12,12,,,0,0,,,,,
+16,"United Kingdom","Sandie Shaw","Puppet on a String",10,11,1,1,,,47,47,,,,,
+17,"Yugoslavia","Lado Leskovar","Vse rože sveta",16,15,8,8,,,7,7,,,,,

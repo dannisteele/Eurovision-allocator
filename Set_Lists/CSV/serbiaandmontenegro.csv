@@ -1,3 +1,3 @@
 "sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-"2004","Željko Joksimović and Ad-Hoc Orchestra","Lane moje",5,2,NULL,2,NULL,263,NULL,263,NULL,NULL,NULL,NULL
-"2005","No Name","Zauvijek moja",12,7,9,5,4,135,7,128,121,NULL,NULL,NULL
+"2004","Željko Joksimović and Ad-Hoc Orchestra","Lane moje",5,2,,2,,263,,263,,,,
+"2005","No Name","Zauvijek moja",12,7,9,5,4,135,7,128,121,,,

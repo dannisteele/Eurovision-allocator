@@ -1,21 +1,21 @@
 "id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-1,"Austria","Marty Brem","Wenn du da bist",8,1,15,15,NULL,NULL,20,20,NULL,NULL,NULL,NULL,NULL
-2,"Belgium","Emly Starr","Samson",1,16,17,17,NULL,NULL,0,0,NULL,NULL,NULL,NULL,NULL
-3,"Cyprus","Island","Monika",24,18,6,6,NULL,NULL,69,69,NULL,NULL,NULL,NULL,NULL
-4,"Denmark","Tommy Seebach and Debbie Cameron","Krøller eller ej",9,6,11,11,NULL,NULL,41,41,NULL,NULL,NULL,NULL,NULL
-5,"Finland","Riki Sorsa","Reggae O.K.",14,8,14,14,NULL,NULL,27,27,NULL,NULL,NULL,NULL,NULL
-6,"France","Jean Gabilou","Humanahum",2,9,3,3,NULL,NULL,125,125,NULL,NULL,NULL,NULL,NULL
-7,"Germany","Lena Valaitis","Johnny Blue",3,3,2,2,NULL,NULL,132,132,NULL,NULL,NULL,NULL,NULL
-8,"Greece","Yiannis Dimitras","Feggari kalokerino",21,17,8,8,NULL,NULL,55,55,NULL,NULL,NULL,NULL,NULL
-9,"Ireland","Sheeba","Horoscopes",18,12,5,5,NULL,NULL,105,105,NULL,NULL,NULL,NULL,NULL
-10,"Israel","Habibi","Halayla",20,5,7,7,NULL,NULL,56,56,NULL,NULL,NULL,NULL,NULL
-11,"Luxembourg","Jean-Claude Pascal","C'est peut-être pas l'Amérique",5,4,11,11,NULL,NULL,41,41,NULL,NULL,NULL,NULL,NULL
-12,"Netherlands","Linda Williams","Het is een wonder",6,11,9,9,NULL,NULL,51,51,NULL,NULL,NULL,NULL,NULL
-13,"Norway","Finn Kalvik","Aldri i livet",13,13,17,17,NULL,NULL,0,0,NULL,NULL,NULL,NULL,NULL
-14,"Portugal","Carlos Paião","Playback",17,15,16,16,NULL,NULL,9,9,NULL,NULL,NULL,NULL,NULL
-15,"Spain","Bacchelli","Y sólo tú",15,10,12,12,NULL,NULL,38,38,NULL,NULL,NULL,NULL,NULL
-16,"Sweden","Björn Skifs","Fångad i en dröm",11,20,10,10,NULL,NULL,50,50,NULL,NULL,NULL,NULL,NULL
-17,"Switzerland","Peter, Sue and Marc","Io senza te",7,19,4,4,NULL,NULL,121,121,NULL,NULL,NULL,NULL,NULL
-18,"Turkey","Modern Folk Trio and Ayşegül","Dönme Dolap",22,2,16,16,NULL,NULL,9,9,NULL,NULL,NULL,NULL,NULL
-19,"United Kingdom","Bucks Fizz","Making Your Mind Up",10,14,1,1,NULL,NULL,136,136,NULL,NULL,NULL,NULL,NULL
-20,"Yugoslavia","Seid Memić Vajta","Lejla",16,7,13,13,NULL,NULL,35,35,NULL,NULL,NULL,NULL,NULL
+1,"Austria","Marty Brem","Wenn du da bist",8,1,15,15,,,20,20,,,,,
+2,"Belgium","Emly Starr","Samson",1,16,17,17,,,0,0,,,,,
+3,"Cyprus","Island","Monika",24,18,6,6,,,69,69,,,,,
+4,"Denmark","Tommy Seebach and Debbie Cameron","Krøller eller ej",9,6,11,11,,,41,41,,,,,
+5,"Finland","Riki Sorsa","Reggae O.K.",14,8,14,14,,,27,27,,,,,
+6,"France","Jean Gabilou","Humanahum",2,9,3,3,,,125,125,,,,,
+7,"Germany","Lena Valaitis","Johnny Blue",3,3,2,2,,,132,132,,,,,
+8,"Greece","Yiannis Dimitras","Feggari kalokerino",21,17,8,8,,,55,55,,,,,
+9,"Ireland","Sheeba","Horoscopes",18,12,5,5,,,105,105,,,,,
+10,"Israel","Habibi","Halayla",20,5,7,7,,,56,56,,,,,
+11,"Luxembourg","Jean-Claude Pascal","C'est peut-être pas l'Amérique",5,4,11,11,,,41,41,,,,,
+12,"Netherlands","Linda Williams","Het is een wonder",6,11,9,9,,,51,51,,,,,
+13,"Norway","Finn Kalvik","Aldri i livet",13,13,17,17,,,0,0,,,,,
+14,"Portugal","Carlos Paião","Playback",17,15,16,16,,,9,9,,,,,
+15,"Spain","Bacchelli","Y sólo tú",15,10,12,12,,,38,38,,,,,
+16,"Sweden","Björn Skifs","Fångad i en dröm",11,20,10,10,,,50,50,,,,,
+17,"Switzerland","Peter, Sue and Marc","Io senza te",7,19,4,4,,,121,121,,,,,
+18,"Turkey","Modern Folk Trio and Ayşegül","Dönme Dolap",22,2,16,16,,,9,9,,,,,
+19,"United Kingdom","Bucks Fizz","Making Your Mind Up",10,14,1,1,,,136,136,,,,,
+20,"Yugoslavia","Seid Memić Vajta","Lejla",16,7,13,13,,,35,35,,,,,

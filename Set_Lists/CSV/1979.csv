@@ -1,20 +1,20 @@
 "id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-1,"Austria","Christina Simon","Heute in Jerusalem",8,18,18,18,NULL,NULL,5,5,NULL,NULL,NULL,NULL,NULL
-2,"Belgium","Micha Marah","Hey Nana",1,12,18,18,NULL,NULL,5,5,NULL,NULL,NULL,NULL,NULL
-3,"Denmark","Tommy Seebach","Disco Tango",9,3,6,6,NULL,NULL,76,76,NULL,NULL,NULL,NULL,NULL
-4,"Finland","Katri Helena","Katson sineen taivaan",14,5,14,14,NULL,NULL,38,38,NULL,NULL,NULL,NULL,NULL
-5,"France","Anne-Marie David","Je suis l'enfant soleil",2,11,3,3,NULL,NULL,106,106,NULL,NULL,NULL,NULL,NULL
-6,"Germany","Dschinghis Khan","Dschinghis Khan",3,9,4,4,NULL,NULL,86,86,NULL,NULL,NULL,NULL,NULL
-7,"Greece","Elpida","Socrates (Σωκράτη)",21,7,8,8,NULL,NULL,69,69,NULL,NULL,NULL,NULL,NULL
-8,"Ireland","Cathal Dunne","Happy Man",18,4,5,5,NULL,NULL,80,80,NULL,NULL,NULL,NULL,NULL
-9,"Israel","Milk and Honey","Hallelujah (הללויה)",20,10,1,1,NULL,NULL,125,125,NULL,NULL,NULL,NULL,NULL
-10,"Italy","Matia Bazar","Raggio di luna",4,2,15,15,NULL,NULL,27,27,NULL,NULL,NULL,NULL,NULL
-11,"Luxembourg","Jeane Manson","J'ai déjà vu ça dans tes yeux",5,13,13,13,NULL,NULL,44,44,NULL,NULL,NULL,NULL,NULL
-12,"Monaco","Laurent Vaguener","Notre vie c'est la musique",12,6,16,16,NULL,NULL,12,12,NULL,NULL,NULL,NULL,NULL
-13,"Netherlands","Xandra","Colorado",6,14,12,12,NULL,NULL,51,51,NULL,NULL,NULL,NULL,NULL
-14,"Norway","Anita Skorgan","Oliver",13,16,11,11,NULL,NULL,57,57,NULL,NULL,NULL,NULL,NULL
-15,"Portugal","Manuela Bravo","Sobe, sobe, balão sobe",17,1,9,9,NULL,NULL,64,64,NULL,NULL,NULL,NULL,NULL
-16,"Spain","Betty Missiego","Su canción",15,19,2,2,NULL,NULL,116,116,NULL,NULL,NULL,NULL,NULL
-17,"Sweden","Ted Gärdestad","Satellit",11,15,17,17,NULL,NULL,8,8,NULL,NULL,NULL,NULL,NULL
-18,"Switzerland","Peter, Sue and Marc, Pfuri, Gorps and Kniri","Trödler und Co.",7,8,10,10,NULL,NULL,60,60,NULL,NULL,NULL,NULL,NULL
-19,"United Kingdom","Black Lace","Mary Ann",10,17,7,7,NULL,NULL,73,73,NULL,NULL,NULL,NULL,NULL
+1,"Austria","Christina Simon","Heute in Jerusalem",8,18,18,18,,,5,5,,,,,
+2,"Belgium","Micha Marah","Hey Nana",1,12,18,18,,,5,5,,,,,
+3,"Denmark","Tommy Seebach","Disco Tango",9,3,6,6,,,76,76,,,,,
+4,"Finland","Katri Helena","Katson sineen taivaan",14,5,14,14,,,38,38,,,,,
+5,"France","Anne-Marie David","Je suis l'enfant soleil",2,11,3,3,,,106,106,,,,,
+6,"Germany","Dschinghis Khan","Dschinghis Khan",3,9,4,4,,,86,86,,,,,
+7,"Greece","Elpida","Socrates (Σωκράτη)",21,7,8,8,,,69,69,,,,,
+8,"Ireland","Cathal Dunne","Happy Man",18,4,5,5,,,80,80,,,,,
+9,"Israel","Milk and Honey","Hallelujah (הללויה)",20,10,1,1,,,125,125,,,,,
+10,"Italy","Matia Bazar","Raggio di luna",4,2,15,15,,,27,27,,,,,
+11,"Luxembourg","Jeane Manson","J'ai déjà vu ça dans tes yeux",5,13,13,13,,,44,44,,,,,
+12,"Monaco","Laurent Vaguener","Notre vie c'est la musique",12,6,16,16,,,12,12,,,,,
+13,"Netherlands","Xandra","Colorado",6,14,12,12,,,51,51,,,,,
+14,"Norway","Anita Skorgan","Oliver",13,16,11,11,,,57,57,,,,,
+15,"Portugal","Manuela Bravo","Sobe, sobe, balão sobe",17,1,9,9,,,64,64,,,,,
+16,"Spain","Betty Missiego","Su canción",15,19,2,2,,,116,116,,,,,
+17,"Sweden","Ted Gärdestad","Satellit",11,15,17,17,,,8,8,,,,,
+18,"Switzerland","Peter, Sue and Marc, Pfuri, Gorps and Kniri","Trödler und Co.",7,8,10,10,,,60,60,,,,,
+19,"United Kingdom","Black Lace","Mary Ann",10,17,7,7,,,73,73,,,,,

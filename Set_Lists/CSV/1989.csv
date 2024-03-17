@@ -1,23 +1,23 @@
 "id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-1,"Austria","Thomas Forstner","Nur ein Lied",8,13,5,5,NULL,NULL,97,97,NULL,NULL,NULL,NULL,NULL
-2,"Belgium","Ingeborg","Door de wind",1,6,18,18,NULL,NULL,13,13,NULL,NULL,NULL,NULL,NULL
-3,"Cyprus","Fanny Polymeri and Yiannis Savvidakis","Apopse as vrethoume",24,17,10,10,NULL,NULL,51,51,NULL,NULL,NULL,NULL,NULL
-4,"Denmark","Birthe Kjær","Vi maler byen rød",9,12,3,3,NULL,NULL,111,111,NULL,NULL,NULL,NULL,NULL
-5,"Finland","Anneli Saaristo","La dolce vita",14,14,7,7,NULL,NULL,76,76,NULL,NULL,NULL,NULL,NULL
-6,"France","Nathalie Pâque","J'ai volé la vie",2,15,8,8,NULL,NULL,60,60,NULL,NULL,NULL,NULL,NULL
-7,"Germany","Nino de Angelo","Flieger",3,21,13,13,NULL,NULL,46,46,NULL,NULL,NULL,NULL,NULL
-8,"Greece","Marianna","To diko sou asteri",21,19,9,9,NULL,NULL,56,56,NULL,NULL,NULL,NULL,NULL
-9,"Iceland","Daníel","Það sem enginn sér",25,20,21,21,NULL,NULL,0,0,NULL,NULL,NULL,NULL,NULL
-10,"Ireland","Kiev Connolly and the Missing Passengers","The Real Me",18,3,17,17,NULL,NULL,21,21,NULL,NULL,NULL,NULL,NULL
-11,"Israel","Gili and Galit","Derekh Hamelekh",20,2,11,11,NULL,NULL,50,50,NULL,NULL,NULL,NULL,NULL
-12,"Italy","Anna Oxa and Fausto Leali","Avrei voluto",4,1,9,9,NULL,NULL,56,56,NULL,NULL,NULL,NULL,NULL
-13,"Luxembourg","Park Café","Monsieur",5,11,19,19,NULL,NULL,8,8,NULL,NULL,NULL,NULL,NULL
-14,"Netherlands","Justine Pelmelay","Blijf zoals je bent",6,4,14,14,NULL,NULL,45,45,NULL,NULL,NULL,NULL,NULL
-15,"Norway","Britt Synnøve Johansen","Venners nærhet",13,8,16,16,NULL,NULL,30,30,NULL,NULL,NULL,NULL,NULL
-16,"Portugal","Da Vinci","Conquistador",17,9,15,15,NULL,NULL,39,39,NULL,NULL,NULL,NULL,NULL
-17,"Spain","Nina","Nacida para amar",15,16,6,6,NULL,NULL,88,88,NULL,NULL,NULL,NULL,NULL
-18,"Sweden","Tommy Nilsson","En dag",11,10,4,4,NULL,NULL,110,110,NULL,NULL,NULL,NULL,NULL
-19,"Switzerland","Furbaz","Viver senza tei",7,18,12,12,NULL,NULL,47,47,NULL,NULL,NULL,NULL,NULL
-20,"Turkey","Pan","Bana Bana",22,5,20,20,NULL,NULL,5,5,NULL,NULL,NULL,NULL,NULL
-21,"United Kingdom","Live Report","Why Do I Always Get It Wrong",10,7,2,2,NULL,NULL,130,130,NULL,NULL,NULL,NULL,NULL
-22,"Yugoslavia","Riva","Rock Me",16,22,1,1,NULL,NULL,137,137,NULL,NULL,NULL,NULL,NULL
+1,"Austria","Thomas Forstner","Nur ein Lied",8,13,5,5,,,97,97,,,,,
+2,"Belgium","Ingeborg","Door de wind",1,6,18,18,,,13,13,,,,,
+3,"Cyprus","Fanny Polymeri and Yiannis Savvidakis","Apopse as vrethoume",24,17,10,10,,,51,51,,,,,
+4,"Denmark","Birthe Kjær","Vi maler byen rød",9,12,3,3,,,111,111,,,,,
+5,"Finland","Anneli Saaristo","La dolce vita",14,14,7,7,,,76,76,,,,,
+6,"France","Nathalie Pâque","J'ai volé la vie",2,15,8,8,,,60,60,,,,,
+7,"Germany","Nino de Angelo","Flieger",3,21,13,13,,,46,46,,,,,
+8,"Greece","Marianna","To diko sou asteri",21,19,9,9,,,56,56,,,,,
+9,"Iceland","Daníel","Það sem enginn sér",25,20,21,21,,,0,0,,,,,
+10,"Ireland","Kiev Connolly and the Missing Passengers","The Real Me",18,3,17,17,,,21,21,,,,,
+11,"Israel","Gili and Galit","Derekh Hamelekh",20,2,11,11,,,50,50,,,,,
+12,"Italy","Anna Oxa and Fausto Leali","Avrei voluto",4,1,9,9,,,56,56,,,,,
+13,"Luxembourg","Park Café","Monsieur",5,11,19,19,,,8,8,,,,,
+14,"Netherlands","Justine Pelmelay","Blijf zoals je bent",6,4,14,14,,,45,45,,,,,
+15,"Norway","Britt Synnøve Johansen","Venners nærhet",13,8,16,16,,,30,30,,,,,
+16,"Portugal","Da Vinci","Conquistador",17,9,15,15,,,39,39,,,,,
+17,"Spain","Nina","Nacida para amar",15,16,6,6,,,88,88,,,,,
+18,"Sweden","Tommy Nilsson","En dag",11,10,4,4,,,110,110,,,,,
+19,"Switzerland","Furbaz","Viver senza tei",7,18,12,12,,,47,47,,,,,
+20,"Turkey","Pan","Bana Bana",22,5,20,20,,,5,5,,,,,
+21,"United Kingdom","Live Report","Why Do I Always Get It Wrong",10,7,2,2,,,130,130,,,,,
+22,"Yugoslavia","Riva","Rock Me",16,22,1,1,,,137,137,,,,,

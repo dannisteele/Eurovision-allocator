@@ -1,24 +1,24 @@
 "id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-1,"Austria","Tony Wegas","Zusammen geh'n",8,15,10,10,NULL,NULL,63,63,NULL,NULL,NULL,NULL,NULL
-2,"Belgium","Morgane","Nous on veut des violons",1,2,20,20,NULL,NULL,11,11,NULL,NULL,NULL,NULL,NULL
-3,"Cyprus","Evridiki","Teriazoume (Ταιριάζουμε)",24,9,11,11,NULL,NULL,57,57,NULL,NULL,NULL,NULL,NULL
-4,"Denmark","Lotte Nilsson and Kenny Lübcke","Alt det som ingen ser",9,18,12,12,NULL,NULL,47,47,NULL,NULL,NULL,NULL,NULL
-5,"Finland","Pave","Yamma Yamma",14,12,23,23,NULL,NULL,4,4,NULL,NULL,NULL,NULL,NULL
-6,"France","Kali","Monté la riviè",2,6,8,8,NULL,NULL,73,73,NULL,NULL,NULL,NULL,NULL
-7,"Germany","Wind","Träume sind für alle da",3,22,16,16,NULL,NULL,27,27,NULL,NULL,NULL,NULL,NULL
-8,"Greece","Cleopatra","Olou tou kosmou i elpida (Όλου του κόσμου η ελπίδα)",21,5,5,5,NULL,NULL,94,94,NULL,NULL,NULL,NULL,NULL
-9,"Iceland","Heart 2 Heart","Nei eða já",25,11,7,7,NULL,NULL,80,80,NULL,NULL,NULL,NULL,NULL
-10,"Ireland","Linda Martin","Why Me",18,17,1,1,NULL,NULL,155,155,NULL,NULL,NULL,NULL,NULL
-11,"Israel","Dafna","Ze Rak Sport (זה רק ספורט)",20,3,6,6,NULL,NULL,85,85,NULL,NULL,NULL,NULL,NULL
-12,"Italy","Mia Martini","Rapsodia",4,19,4,4,NULL,NULL,111,111,NULL,NULL,NULL,NULL,NULL
-13,"Luxembourg","Marion Welter and Kontinent","Sou fräi",5,14,21,21,NULL,NULL,10,10,NULL,NULL,NULL,NULL,NULL
-14,"Malta","Mary Spiteri","Little Child",19,10,3,3,NULL,NULL,123,123,NULL,NULL,NULL,NULL,NULL
-15,"Netherlands","Humphrey Campbell","Wijs me de weg",6,23,9,9,NULL,NULL,67,67,NULL,NULL,NULL,NULL,NULL
-16,"Norway","Merethe Trøan","Visjoner",13,21,18,18,NULL,NULL,23,23,NULL,NULL,NULL,NULL,NULL
-17,"Portugal","Dina","Amor d'água fresca",17,8,17,17,NULL,NULL,26,26,NULL,NULL,NULL,NULL,NULL
-18,"Spain","Serafín","Todo esto es la música",15,1,14,14,NULL,NULL,37,37,NULL,NULL,NULL,NULL,NULL
-19,"Sweden","Christer Björkman","I morgon är en annan dag",11,7,22,22,NULL,NULL,9,9,NULL,NULL,NULL,NULL,NULL
-20,"Switzerland","Daisy Auvray","Mister Music Man",7,13,15,15,NULL,NULL,32,32,NULL,NULL,NULL,NULL,NULL
-21,"Turkey","Aylin Vatankoş","Yaz Bitti",22,4,19,19,NULL,NULL,17,17,NULL,NULL,NULL,NULL,NULL
-22,"United Kingdom","Michael Ball","One Step Out of Time",10,16,2,2,NULL,NULL,139,139,NULL,NULL,NULL,NULL,NULL
-23,"Yugoslavia","Extra Nena","Ljubim te pesmama (Љубим те песмама)",16,20,13,13,NULL,NULL,44,44,NULL,NULL,NULL,NULL,NULL
+1,"Austria","Tony Wegas","Zusammen geh'n",8,15,10,10,,,63,63,,,,,
+2,"Belgium","Morgane","Nous on veut des violons",1,2,20,20,,,11,11,,,,,
+3,"Cyprus","Evridiki","Teriazoume (Ταιριάζουμε)",24,9,11,11,,,57,57,,,,,
+4,"Denmark","Lotte Nilsson and Kenny Lübcke","Alt det som ingen ser",9,18,12,12,,,47,47,,,,,
+5,"Finland","Pave","Yamma Yamma",14,12,23,23,,,4,4,,,,,
+6,"France","Kali","Monté la riviè",2,6,8,8,,,73,73,,,,,
+7,"Germany","Wind","Träume sind für alle da",3,22,16,16,,,27,27,,,,,
+8,"Greece","Cleopatra","Olou tou kosmou i elpida (Όλου του κόσμου η ελπίδα)",21,5,5,5,,,94,94,,,,,
+9,"Iceland","Heart 2 Heart","Nei eða já",25,11,7,7,,,80,80,,,,,
+10,"Ireland","Linda Martin","Why Me",18,17,1,1,,,155,155,,,,,
+11,"Israel","Dafna","Ze Rak Sport (זה רק ספורט)",20,3,6,6,,,85,85,,,,,
+12,"Italy","Mia Martini","Rapsodia",4,19,4,4,,,111,111,,,,,
+13,"Luxembourg","Marion Welter and Kontinent","Sou fräi",5,14,21,21,,,10,10,,,,,
+14,"Malta","Mary Spiteri","Little Child",19,10,3,3,,,123,123,,,,,
+15,"Netherlands","Humphrey Campbell","Wijs me de weg",6,23,9,9,,,67,67,,,,,
+16,"Norway","Merethe Trøan","Visjoner",13,21,18,18,,,23,23,,,,,
+17,"Portugal","Dina","Amor d'água fresca",17,8,17,17,,,26,26,,,,,
+18,"Spain","Serafín","Todo esto es la música",15,1,14,14,,,37,37,,,,,
+19,"Sweden","Christer Björkman","I morgon är en annan dag",11,7,22,22,,,9,9,,,,,
+20,"Switzerland","Daisy Auvray","Mister Music Man",7,13,15,15,,,32,32,,,,,
+21,"Turkey","Aylin Vatankoş","Yaz Bitti",22,4,19,19,,,17,17,,,,,
+22,"United Kingdom","Michael Ball","One Step Out of Time",10,16,2,2,,,139,139,,,,,
+23,"Yugoslavia","Extra Nena","Ljubim te pesmama (Љубим те песмама)",16,20,13,13,,,44,44,,,,,

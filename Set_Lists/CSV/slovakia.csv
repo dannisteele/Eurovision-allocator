@@ -1,8 +1,8 @@
 "sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-"1994","Martin Ďurinda and Tublatanka","Nekonečná pieseň",15,19,19,NULL,NULL,15,15,NULL,NULL,NULL,NULL,NULL
-"1996","Marcel Palonder","Kým nás máš",22,16,16,NULL,NULL,19,19,NULL,NULL,NULL,NULL,NULL
-"1998","Katarína Hasprová","Modlitba",6,20,15,19,4,8,0,8,8,NULL,NULL,NULL
-"2009","Kamil Mikulčík and Nela Pocisková","Leť tmou",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2010","Kristína","Horehronie",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2011","Twiins","I'm Still Alive",20,12,4,21,17,199,160,39,121,NULL,NULL,NULL
-"2012","Max Jason Mai","Don't Close Your Eyes",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1994","Martin Ďurinda and Tublatanka","Nekonečná pieseň",15,19,19,,,15,15,,,,,
+"1996","Marcel Palonder","Kým nás máš",22,16,16,,,19,19,,,,,
+"1998","Katarína Hasprová","Modlitba",6,20,15,19,4,8,0,8,8,,,
+"2009","Kamil Mikulčík and Nela Pocisková","Leť tmou",,,,,,,,,,,,
+"2010","Kristína","Horehronie",,,,,,,,,,,,
+"2011","Twiins","I'm Still Alive",20,12,4,21,17,199,160,39,121,,,
+"2012","Max Jason Mai","Don't Close Your Eyes",,,,,,,,,,,,
