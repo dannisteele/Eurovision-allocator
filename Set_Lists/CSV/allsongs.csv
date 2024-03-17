@@ -1,751 +1,751 @@
 "SourceTable","Artist","Song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff"
-"1956","Fud Leclerc","Messieurs les noyés de la Seine",3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"1956","Mony Marc","Le Plus Beau Jour de ma vie",10,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"1956","Mathé Altéry","Le Temps perdu",5,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"1956","Dany Dauberson","Il est là",12,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"1956","Freddy Quinn","So geht das jede Nacht",11,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"1956","Walter Andreas Schwarz","Im Wartesaal zum großen Glück",4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"1956","Franca Raimondi","Aprite le finestre",7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"1956","Tonina Torrielli","Amami se vuoi",14,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"1956","Michèle Arnaud","Les Amants de minuit",13,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"1956","Michèle Arnaud","Ne Crois Pas",6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"1956","Corry Brokken","Voorgoed voorbij",8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"1956","Jetty Paerl","De vogels van Holland",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"1956","Lys Assia","Das alte Karussell",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"1956","Lys Assia","Refrain",9,1,1,NULL,NULL,NULL,NULL,NULL,NULL
-"1957","Bob Martin","Wohin, kleines Pony?",5,8,8,NULL,NULL,3,3,NULL,NULL
-"1957","Bobbejaan Schoepen","Straatdeuntje",1,7,7,NULL,NULL,5,5,NULL,NULL
-"1957","Birthe Wilke and Gustav Winckler","Skibet skal sejle i nat",9,3,3,NULL,NULL,10,10,NULL,NULL
-"1957","Paule Desjardins","La Belle amour",8,2,2,NULL,NULL,17,17,NULL,NULL
-"1957","Margot Hielscher","Telefon, Telefon",7,4,4,NULL,NULL,8,8,NULL,NULL
-"1957","Nunzio Gallo","Corde della mia chitarra",4,5,5,NULL,NULL,7,7,NULL,NULL
-"1957","Danièle Dupré","Tant de peine",2,4,4,NULL,NULL,8,8,NULL,NULL
-"1957","Corry Brokken","Net als toen",6,1,1,NULL,NULL,31,31,NULL,NULL
-"1957","Lys Assia","L'Enfant que j'étais",10,7,7,NULL,NULL,5,5,NULL,NULL
-"1957","Patricia Bredin","All",3,6,6,NULL,NULL,6,6,NULL,NULL
-"1958","Liane Augustin","Die ganze Welt braucht Liebe",9,5,5,NULL,NULL,8,8,NULL,NULL
-"1958","Fud Leclerc","Ma petite chatte",7,5,5,NULL,NULL,8,8,NULL,NULL
-"1958","Raquel Rastenni","Jeg rev et blad ud af min dagbog",6,7,7,NULL,NULL,3,3,NULL,NULL
-"1958","André Claveau","Dors mon amour",3,1,1,NULL,NULL,27,27,NULL,NULL
-"1958","Margot Hielscher","Für zwei Groschen Musik",8,6,6,NULL,NULL,5,5,NULL,NULL
-"1958","Domenico Modugno","Nel blu, dipinto di blu",1,3,3,NULL,NULL,13,13,NULL,NULL
-"1958","Solange Berry","Un grand amour",4,8,8,NULL,NULL,1,1,NULL,NULL
-"1958","Corry Brokken","Heel de wereld",2,8,8,NULL,NULL,1,1,NULL,NULL
-"1958","Alice Babs","Lilla stjärna",5,4,4,NULL,NULL,10,10,NULL,NULL
-"1958","Lys Assia","Giorgio",10,2,2,NULL,NULL,24,24,NULL,NULL
-"1959","Ferry Graf","Der K. und K. Kalypso aus Wien",9,8,8,NULL,NULL,4,4,NULL,NULL
-"1959","Bob Benny","Hou toch van mij",11,6,6,NULL,NULL,9,9,NULL,NULL
-"1959","Birthe Wilke","Uh, jeg ville ønske, jeg var dig",2,5,5,NULL,NULL,12,12,NULL,NULL
-"1959","Jean Philippe","Oui oui oui oui",1,3,3,NULL,NULL,15,15,NULL,NULL
-"1959","Alice and Ellen Kessler","Heut' woll'n wir tanzen geh'n",6,7,7,NULL,NULL,5,5,NULL,NULL
-"1959","Domenico Modugno","Piove",3,6,6,NULL,NULL,9,9,NULL,NULL
-"1959","Jacques Pills","Mon ami Pierrot",4,9,9,NULL,NULL,1,1,NULL,NULL
-"1959","Teddy Scholten","Een beetje",5,1,1,NULL,NULL,21,21,NULL,NULL
-"1959","Brita Borg","Augustin",7,8,8,NULL,NULL,4,4,NULL,NULL
-"1959","Christa Williams","Irgendwoher",8,4,4,NULL,NULL,14,14,NULL,NULL
-"1959","Pearl Carr and Teddy Johnson","Sing Little Birdie",10,2,2,NULL,NULL,16,16,NULL,NULL
-"1960","Harry Winter","Du hast mich so fasziniert",7,6,6,NULL,NULL,6,6,NULL,NULL
-"1960","Fud Leclerc","Mon amour pour toi",5,5,5,NULL,NULL,9,9,NULL,NULL
-"1960","Katy Bødtger","Det var en yndig tid",4,8,8,NULL,NULL,4,4,NULL,NULL
-"1960","Jacqueline Boyer","Tom Pillibi",13,1,1,NULL,NULL,32,32,NULL,NULL
-"1960","Wyn Hoop","Bonne nuit ma chérie",11,4,4,NULL,NULL,11,11,NULL,NULL
-"1960","Renato Rascel","Romantica",12,7,7,NULL,NULL,5,5,NULL,NULL
-"1960","Camillo Felgen","So laang we's du do bast",3,10,10,NULL,NULL,1,1,NULL,NULL
-"1960","François Deguelt","Ce soir-là",8,3,3,NULL,NULL,15,15,NULL,NULL
-"1960","Rudi Carrell","Wat een geluk",10,9,9,NULL,NULL,2,2,NULL,NULL
-"1960","Nora Brockstedt","Voi-voi",6,4,4,NULL,NULL,11,11,NULL,NULL
-"1960","Siw Malmkvist","Alla andra får varann",2,8,8,NULL,NULL,4,4,NULL,NULL
-"1960","Anita Traversi","Cielo e terra",9,7,7,NULL,NULL,5,5,NULL,NULL
-"1960","Bryan Johnson","Looking High, High, High",1,2,2,NULL,NULL,25,25,NULL,NULL
-"1961","Jimmy Makulis","Sehnsucht",3,12,12,NULL,NULL,1,1,NULL,NULL
-"1961","Bob Benny","September, gouden roos",11,12,12,NULL,NULL,1,1,NULL,NULL
-"1961","Dario Campeotto","Angelique",13,5,5,NULL,NULL,12,12,NULL,NULL
-"1961","Laila Kinnunen","Valoa ikkunassa",4,9,9,NULL,NULL,6,6,NULL,NULL
-"1961","Jean-Paul Mauric","Printemps (avril carillonne)",9,4,4,NULL,NULL,13,13,NULL,NULL
-"1961","Lale Andersen","Einmal sehen wir uns wieder",8,10,10,NULL,NULL,3,3,NULL,NULL
-"1961","Betty Curtis","Al di là",16,5,5,NULL,NULL,12,12,NULL,NULL
-"1961","Jean-Claude Pascal","Nous les amoureux",14,1,1,NULL,NULL,31,31,NULL,NULL
-"1961","Colette Deréal","Allons, allons les enfants",2,9,9,NULL,NULL,6,6,NULL,NULL
-"1961","Greetje Kauffeld","Wat een dag",6,9,9,NULL,NULL,6,6,NULL,NULL
-"1961","Nora Brockstedt","Sommer i Palma",12,6,6,NULL,NULL,10,10,NULL,NULL
-"1961","Conchita Bautista","Estando contigo",1,8,8,NULL,NULL,8,8,NULL,NULL
-"1961","Lill-Babs","April, april",7,11,11,NULL,NULL,2,2,NULL,NULL
-"1961","Franca di Rienzo","Nous aurons demain",10,3,3,NULL,NULL,16,16,NULL,NULL
-"1961","The Allisons","Are You Sure?",15,2,2,NULL,NULL,24,24,NULL,NULL
-"1961","Ljiljana Petrović","Neke davne zvezde",5,7,7,NULL,NULL,9,9,NULL,NULL
-"1962","Eleonore Schwarz","Nur in der Wiener Luft",4,9,9,NULL,NULL,0,0,NULL,NULL
-"1962","Fud Leclerc","Ton nom",2,9,9,NULL,NULL,0,0,NULL,NULL
-"1962","Ellen Winther","Vuggevise",5,8,8,NULL,NULL,2,2,NULL,NULL
-"1962","Marion Rung","Tipi-tii",1,6,6,NULL,NULL,4,4,NULL,NULL
-"1962","Isabelle Aubret","Un premier amour",9,1,1,NULL,NULL,26,26,NULL,NULL
-"1962","Conny Froboess","Zwei kleine Italiener",7,5,5,NULL,NULL,9,9,NULL,NULL
-"1962","Claudio Villa","Addio, addio",15,7,7,NULL,NULL,3,3,NULL,NULL
-"1962","Camillo Felgen","Petit bonhomme",14,3,3,NULL,NULL,11,11,NULL,NULL
-"1962","François Deguelt","Dis rien",16,2,2,NULL,NULL,13,13,NULL,NULL
-"1962","De Spelbrekers","Katinka",8,9,9,NULL,NULL,0,0,NULL,NULL
-"1962","Inger Jacobsen","Kom sol, kom regn",10,8,8,NULL,NULL,2,2,NULL,NULL
-"1962","Víctor Balaguer","Llámame",3,9,9,NULL,NULL,0,0,NULL,NULL
-"1962","Inger Berggren","Sol och vår",6,6,6,NULL,NULL,4,4,NULL,NULL
-"1962","Jean Philippe","Le Retour",11,8,8,NULL,NULL,2,2,NULL,NULL
-"1962","Ronnie Carroll","Ring-A-Ding Girl",13,4,4,NULL,NULL,10,10,NULL,NULL
-"1962","Lola Novaković","Ne pali svetla u sumrak",12,4,4,NULL,NULL,10,10,NULL,NULL
-"1963","Carmela Corren","Vielleicht geschieht ein Wunder",4,6,6,NULL,NULL,16,16,NULL,NULL
-"1963","Jacques Raymond","Waarom?",14,9,9,NULL,NULL,4,4,NULL,NULL
-"1963","Grethe and Jørgen Ingmann","Dansevise",8,1,1,NULL,NULL,42,42,NULL,NULL
-"1963","Laila Halme","Muistojeni laulu",7,12,12,NULL,NULL,0,0,NULL,NULL
-"1963","Alain Barrière","Elle était si jolie",11,5,5,NULL,NULL,25,25,NULL,NULL
-"1963","Heidi Brühl","Marcel",3,8,8,NULL,NULL,5,5,NULL,NULL
-"1963","Emilio Pericoli","Uno per tutte",6,3,3,NULL,NULL,37,37,NULL,NULL
-"1963","Nana Mouskouri","À force de prier",16,7,7,NULL,NULL,13,13,NULL,NULL
-"1963","Françoise Hardy","L'amour s'en va",15,5,5,NULL,NULL,25,25,NULL,NULL
-"1963","Annie Palmen","Een speeldoos",2,12,12,NULL,NULL,0,0,NULL,NULL
-"1963","Anita Thallaug","Solhverv",5,12,12,NULL,NULL,0,0,NULL,NULL
-"1963","José Guardiola","Algo prodigioso",12,11,11,NULL,NULL,2,2,NULL,NULL
-"1963","Monica Zetterlund","En gång i Stockholm",13,12,12,NULL,NULL,0,0,NULL,NULL
-"1963","Esther Ofarim","T'en va pas",10,2,2,NULL,NULL,40,40,NULL,NULL
-"1963","Ronnie Carroll","Say Wonderful Things",1,4,4,NULL,NULL,28,28,NULL,NULL
-"1963","Vice Vukov","Brodovi",9,10,10,NULL,NULL,3,3,NULL,NULL
-"1964","Udo Jürgens","Warum nur, warum?",6,5,5,NULL,NULL,11,11,NULL,NULL
-"1964","Robert Cogoi","Près de ma rivière",15,9,9,NULL,NULL,2,2,NULL,NULL
-"1964","Bjørn Tidmand","Sangen om dig",4,8,8,NULL,NULL,4,4,NULL,NULL
-"1964","Lasse Mårtenson","Laiskotellen",5,6,6,NULL,NULL,9,9,NULL,NULL
-"1964","Rachel","Le Chant de Mallory",7,4,4,NULL,NULL,14,14,NULL,NULL
-"1964","Nora Nova","Man gewöhnt sich so schnell an das Schöne",9,11,11,NULL,NULL,0,0,NULL,NULL
-"1964","Gigliola Cinquetti","Non ho l'età",12,1,1,NULL,NULL,49,49,NULL,NULL
-"1964","Hugues Aufray","Dès que le printemps revient",1,4,4,NULL,NULL,14,14,NULL,NULL
-"1964","Romuald","Où sont-elles passées",10,3,3,NULL,NULL,15,15,NULL,NULL
-"1964","Anneke Grönloh","Jij bent mijn leven",2,9,9,NULL,NULL,2,2,NULL,NULL
-"1964","Arne Bendiksen","Spiral",3,7,7,NULL,NULL,6,6,NULL,NULL
-"1964","António Calvário","Oração",11,11,11,NULL,NULL,0,0,NULL,NULL
-"1964","Nelly with Tim and Tony","Caracola",16,10,10,NULL,NULL,1,1,NULL,NULL
-"1964","Anita Traversi","I miei pensieri",14,11,11,NULL,NULL,0,0,NULL,NULL
-"1964","Matt Monro","I Love the Little Things",8,2,2,NULL,NULL,17,17,NULL,NULL
-"1964","Sabahudin Kurt","Život je sklopio krug",13,11,11,NULL,NULL,0,0,NULL,NULL
-"1965","Udo Jürgens","Sag ihr, ich lass sie grüßen",6,4,4,NULL,NULL,16,16,NULL,NULL
-"1965","Lize Marke","Als het weer lente is",8,14,14,NULL,NULL,0,0,NULL,NULL
-"1965","Birgit Brüel","For din skyld",14,7,7,NULL,NULL,10,10,NULL,NULL
-"1965","Viktor Klimenko","Aurinko laskee länteen",16,14,14,NULL,NULL,0,0,NULL,NULL
-"1965","Guy Mardel","N'avoue jamais",11,3,3,NULL,NULL,22,22,NULL,NULL
-"1965","Ulla Wiesner","Paradies, wo bist du?",5,14,14,NULL,NULL,0,0,NULL,NULL
-"1965","Butch Moore","I'm Walking the Streets in the Rain",4,6,6,NULL,NULL,11,11,NULL,NULL
-"1965","Bobby Solo","Se piangi, se ridi",13,5,5,NULL,NULL,15,15,NULL,NULL
-"1965","France Gall","Poupée de cire, poupée de son",15,1,1,NULL,NULL,32,32,NULL,NULL
-"1965","Marjorie Noël","Va dire à l'amour",9,9,9,NULL,NULL,7,7,NULL,NULL
-"1965","Conny Vandenbos","Het is genoeg",1,11,11,NULL,NULL,5,5,NULL,NULL
-"1965","Kirsti Sparboe","Karusell",7,13,13,NULL,NULL,1,1,NULL,NULL
-"1965","Simone de Oliveira","Sol de inverno",12,13,13,NULL,NULL,1,1,NULL,NULL
-"1965","Conchita Bautista","Qué bueno, qué bueno",3,14,14,NULL,NULL,0,0,NULL,NULL
-"1965","Ingvar Wixell","Absent Friend",10,10,10,NULL,NULL,6,6,NULL,NULL
-"1965","Yovanna","Non, à jamais sans toi",18,8,8,NULL,NULL,8,8,NULL,NULL
-"1965","Kathy Kirby","I Belong",2,2,2,NULL,NULL,26,26,NULL,NULL
-"1965","Vice Vukov","Čežnja",17,12,12,NULL,NULL,2,2,NULL,NULL
-"1966","Udo Jürgens","Merci, Chérie",9,1,1,NULL,NULL,31,31,NULL,NULL
-"1966","Tonia","Un peu de poivre, un peu de sel",3,4,4,NULL,NULL,14,14,NULL,NULL
-"1966","Ulla Pia","Stop – mens legen er go'",2,10,10,NULL,NULL,4,4,NULL,NULL
-"1966","Ann-Christine","Playboy",7,8,8,NULL,NULL,7,7,NULL,NULL
-"1966","Dominique Walter","Chez nous",15,12,12,NULL,NULL,1,1,NULL,NULL
-"1966","Margot Eskens","Die Zeiger der Uhr",1,8,8,NULL,NULL,7,7,NULL,NULL
-"1966","Dickie Rock","Come Back to Stay",17,4,4,NULL,NULL,14,14,NULL,NULL
-"1966","Domenico Modugno","Dio, come ti amo",14,13,13,NULL,NULL,0,0,NULL,NULL
-"1966","Michèle Torr","Ce soir je t'attendais",4,8,8,NULL,NULL,7,7,NULL,NULL
-"1966","Téréza","Bien plus fort",13,13,13,NULL,NULL,0,0,NULL,NULL
-"1966","Milly Scott","Fernando en Philippo",16,11,11,NULL,NULL,2,2,NULL,NULL
-"1966","Åse Kleveland","Intet er nytt under solen",6,3,3,NULL,NULL,15,15,NULL,NULL
-"1966","Madalena Iglésias","Ele e ela",8,9,9,NULL,NULL,6,6,NULL,NULL
-"1966","Raphael","Yo soy aquél",11,6,6,NULL,NULL,9,9,NULL,NULL
-"1966","Lill Lindfors and Svante Thuresson","Nygammal vals",10,2,2,NULL,NULL,16,16,NULL,NULL
-"1966","Madeleine Pascal","Ne vois-tu pas ?",12,5,5,NULL,NULL,12,12,NULL,NULL
-"1966","Kenneth McKellar","A Man Without Love",18,7,7,NULL,NULL,8,8,NULL,NULL
-"1966","Berta Ambrož","Brez besed",5,6,6,NULL,NULL,9,9,NULL,NULL
-"1967","Peter Horton","Warum es hunderttausend Sterne gibt",3,11,11,NULL,NULL,2,2,NULL,NULL
-"1967","Louis Neefs","Ik heb zorgen",10,7,7,NULL,NULL,8,8,NULL,NULL
-"1967","Fredi","Varjoon – suojaan",8,10,10,NULL,NULL,3,3,NULL,NULL
-"1967","Noëlle Cordier","Il doit faire beau là-bas",4,3,3,NULL,NULL,20,20,NULL,NULL
-"1967","Inge Brück","Anouschka",9,8,8,NULL,NULL,7,7,NULL,NULL
-"1967","Sean Dunphy","If I Could Choose",17,2,2,NULL,NULL,22,22,NULL,NULL
-"1967","Claudio Villa","Non andare più lontano",16,9,9,NULL,NULL,4,4,NULL,NULL
-"1967","Vicky","L'amour est bleu",2,4,4,NULL,NULL,17,17,NULL,NULL
-"1967","Minouche Barelli","Boum-Badaboum",14,5,5,NULL,NULL,10,10,NULL,NULL
-"1967","Thérèse Steinmetz","Ringe-dinge",1,11,11,NULL,NULL,2,2,NULL,NULL
-"1967","Kirsti Sparboe","Dukkemann",13,11,11,NULL,NULL,2,2,NULL,NULL
-"1967","Eduardo Nascimento","O vento mudou",5,10,10,NULL,NULL,3,3,NULL,NULL
-"1967","Raphael","Hablemos del amor",12,6,6,NULL,NULL,9,9,NULL,NULL
-"1967","Östen Warnerbring","Som en dröm",7,8,8,NULL,NULL,7,7,NULL,NULL
-"1967","Géraldine","Quel cœur vas-tu briser ?",6,12,12,NULL,NULL,0,0,NULL,NULL
-"1967","Sandie Shaw","Puppet on a String",11,1,1,NULL,NULL,47,47,NULL,NULL
-"1967","Lado Leskovar","Vse rože sveta",15,8,8,NULL,NULL,7,7,NULL,NULL
-"1968","Karel Gott","Tausend Fenster",4,10,10,NULL,NULL,2,2,NULL,NULL
-"1968","Claude Lombard","Quand tu reviendras",3,7,7,NULL,NULL,8,8,NULL,NULL
-"1968","Kristina Hautala","Kun kello käy",9,11,11,NULL,NULL,1,1,NULL,NULL
-"1968","Isabelle Aubret","La Source",10,3,3,NULL,NULL,20,20,NULL,NULL
-"1968","Wencke Myhre","Ein Hoch der Liebe",16,6,6,NULL,NULL,11,11,NULL,NULL
-"1968","Pat McGeegan","Chance of a Lifetime",14,4,4,NULL,NULL,18,18,NULL,NULL
-"1968","Sergio Endrigo","Marianne",11,8,8,NULL,NULL,7,7,NULL,NULL
-"1968","Chris Baldo and Sophie Garel","Nous vivrons d'amour",5,9,9,NULL,NULL,5,5,NULL,NULL
-"1968","Line and Willy","À chacun sa chanson",7,7,7,NULL,NULL,8,8,NULL,NULL
-"1968","Ronnie Tober","Morgen",2,11,11,NULL,NULL,1,1,NULL,NULL
-"1968","Odd Børre","Stress",13,10,10,NULL,NULL,2,2,NULL,NULL
-"1968","Carlos Mendes","Verão",1,9,9,NULL,NULL,5,5,NULL,NULL
-"1968","Massiel","La La La",15,1,1,NULL,NULL,29,29,NULL,NULL
-"1968","Claes-Göran Hederström","Det börjar verka kärlek, banne mej",8,5,5,NULL,NULL,15,15,NULL,NULL
-"1968","Gianni Mascolo","Guardando il sole",6,10,10,NULL,NULL,2,2,NULL,NULL
-"1968","Cliff Richard","Congratulations",12,2,2,NULL,NULL,28,28,NULL,NULL
-"1968","Lući Kapurso and Hamo Hajdarhodžić","Jedan dan",17,7,7,NULL,NULL,8,8,NULL,NULL
-"1969","Louis Neefs","Jennifer Jennings",10,4,4,NULL,NULL,10,10,NULL,NULL
-"1969","Jarkko and Laura","Kuin silloin ennen",16,7,7,NULL,NULL,6,6,NULL,NULL
-"1969","Frida Boccara","Un jour, un enfant",14,1,1,NULL,NULL,18,18,NULL,NULL
-"1969","Siw Malmkvist","Primaballerina",13,5,5,NULL,NULL,8,8,NULL,NULL
-"1969","Muriel Day","The Wages of Love",5,4,4,NULL,NULL,10,10,NULL,NULL
-"1969","Iva Zanicchi","Due grosse lacrime bianche",6,8,8,NULL,NULL,5,5,NULL,NULL
-"1969","Romuald","Catherine",2,6,6,NULL,NULL,7,7,NULL,NULL
-"1969","Jean Jacques","Maman, Maman",4,3,3,NULL,NULL,11,11,NULL,NULL
-"1969","Lenny Kuhr","De troubadour",8,1,1,NULL,NULL,18,18,NULL,NULL
-"1969","Kirsti Sparboe","Oj, oj, oj, så glad jeg skal bli",12,10,10,NULL,NULL,1,1,NULL,NULL
-"1969","Simone de Oliveira","Desfolhada portuguesa",15,9,9,NULL,NULL,4,4,NULL,NULL
-"1969","Salomé","Vivo cantando",3,1,1,NULL,NULL,18,18,NULL,NULL
-"1969","Tommy Körberg","Judy, min vän",9,5,5,NULL,NULL,8,8,NULL,NULL
-"1969","Paola","Bonjour, Bonjour",11,2,2,NULL,NULL,13,13,NULL,NULL
-"1969","Lulu","Boom Bang-a-Bang",7,1,1,NULL,NULL,18,18,NULL,NULL
-"1969","Ivan","Pozdrav svijetu",1,8,8,NULL,NULL,5,5,NULL,NULL
-"1970","Jean Vallée","Viens l'oublier",5,6,6,NULL,NULL,5,5,NULL,NULL
-"1970","Guy Bonnet","Marie-Blanche",6,4,4,NULL,NULL,8,8,NULL,NULL
-"1970","Katja Ebstein","Wunder gibt es immer wieder",11,3,3,NULL,NULL,12,12,NULL,NULL
-"1970","Dana","All Kinds of Everything",12,1,1,NULL,NULL,32,32,NULL,NULL
-"1970","Gianni Morandi","Occhi di ragazza",3,6,6,NULL,NULL,5,5,NULL,NULL
-"1970","David Alexandre Winter","Je suis tombé du ciel",8,8,8,NULL,NULL,0,0,NULL,NULL
-"1970","Dominique Dussault","Marlène",10,6,6,NULL,NULL,5,5,NULL,NULL
-"1970","Patricia and Hearts of Soul","Waterman",1,5,5,NULL,NULL,7,7,NULL,NULL
-"1970","Julio Iglesias","Gwendolyne",9,4,4,NULL,NULL,8,8,NULL,NULL
-"1970","Henri Dès","Retour",2,4,4,NULL,NULL,8,8,NULL,NULL
-"1970","Mary Hopkin","Knock, Knock (Who's There?)",7,2,2,NULL,NULL,26,26,NULL,NULL
-"1970","Eva Sršen","Pridi, dala ti bom cvet",4,7,7,NULL,NULL,4,4,NULL,NULL
-"1971","Marianne Mendt","Musik",1,14,14,NULL,NULL,66,66,NULL,NULL
-"1971","Jacques Raymond and Lily Castel","Goeie morgen, morgen",10,13,13,NULL,NULL,68,68,NULL,NULL
-"1971","Markku Aro and Koivisto Sisters","Tie uuteen päivään",17,7,7,NULL,NULL,84,84,NULL,NULL
-"1971","Serge Lama","Un jardin sur la terre",7,9,9,NULL,NULL,82,82,NULL,NULL
-"1971","Katja Ebstein","Diese Welt",5,3,3,NULL,NULL,100,100,NULL,NULL
-"1971","Angela Farrell","One Day Love",13,10,10,NULL,NULL,79,79,NULL,NULL
-"1971","Massimo Ranieri","L'amore è un attimo",11,5,5,NULL,NULL,91,91,NULL,NULL
-"1971","Monique Melsen","Pomme, pomme, pomme",8,12,12,NULL,NULL,70,70,NULL,NULL
-"1971","Joe Grech","Marija l-Maltija",2,16,16,NULL,NULL,52,52,NULL,NULL
-"1971","Séverine","Un banc, un arbre, une rue",3,1,1,NULL,NULL,128,128,NULL,NULL
-"1971","Saskia and Serge","Tijd",14,6,6,NULL,NULL,85,85,NULL,NULL
-"1971","Hanne Krogh","Lykken er...",18,15,15,NULL,NULL,65,65,NULL,NULL
-"1971","Tonicha","Menina do alto da serra",15,8,8,NULL,NULL,83,83,NULL,NULL
-"1971","Karina","En un mundo nuevo",6,2,2,NULL,NULL,116,116,NULL,NULL
-"1971","The Family Four","Vita vidder",12,6,6,NULL,NULL,85,85,NULL,NULL
-"1971","Peter, Sue and Marc","Les Illusions de nos vingt ans",4,11,11,NULL,NULL,78,78,NULL,NULL
-"1971","Clodagh Rodgers","Jack in the Box",9,4,4,NULL,NULL,98,98,NULL,NULL
-"1971","Krunoslav Slabinac","Tvoj dječak je tužan",16,13,13,NULL,NULL,68,68,NULL,NULL
-"1972","The Milestones","Falter im Wind",11,5,5,NULL,NULL,100,100,NULL,NULL
-"1972","Serge and Christine Ghisoland","À la folie ou pas du tout",16,17,17,NULL,NULL,55,55,NULL,NULL
-"1972","Päivi Paunu and Kim Floor","Muistathan",10,12,12,NULL,NULL,78,78,NULL,NULL
-"1972","Betty Mars","Comé-comédie",2,11,11,NULL,NULL,81,81,NULL,NULL
-"1972","Mary Roos","Nur die Liebe läßt uns leben",1,3,3,NULL,NULL,107,107,NULL,NULL
-"1972","Sandie Jones","Ceol an Ghrá",3,15,15,NULL,NULL,72,72,NULL,NULL
-"1972","Nicola Di Bari","I giorni dell'arcobaleno",12,6,6,NULL,NULL,92,92,NULL,NULL
-"1972","Vicky Leandros","Après toi",17,1,1,NULL,NULL,128,128,NULL,NULL
-"1972","Helen and Joseph","L-imħabba",9,18,18,NULL,NULL,48,48,NULL,NULL
-"1972","Anne-Marie Godart and Peter MacLane","Comme on s'aime",15,16,16,NULL,NULL,65,65,NULL,NULL
-"1972","Sandra and Andres","Als het om de liefde gaat",18,4,4,NULL,NULL,106,106,NULL,NULL
-"1972","Grethe Kausland and Benny Borg","Småting",6,14,14,NULL,NULL,73,73,NULL,NULL
-"1972","Carlos Mendes","A festa da vida",7,7,7,NULL,NULL,90,90,NULL,NULL
-"1972","Jaime Morey","Amanece",4,10,10,NULL,NULL,83,83,NULL,NULL
-"1972","The Family Four","Härliga sommardag",14,13,13,NULL,NULL,75,75,NULL,NULL
-"1972","Véronique Müller","C'est la chanson de mon amour",8,8,8,NULL,NULL,88,88,NULL,NULL
-"1972","The New Seekers","Beg, Steal or Borrow",5,2,2,NULL,NULL,114,114,NULL,NULL
-"1972","Tereza","Muzika i ti",13,9,9,NULL,NULL,87,87,NULL,NULL
-"1973","Nicole and Hugo","Baby Baby",2,14,14,NULL,NULL,58,58,NULL,NULL
-"1973","Marion Rung","Tom Tom Tom",1,6,6,NULL,NULL,93,93,NULL,NULL
-"1973","Martine Clémenceau","Sans toi",16,13,13,NULL,NULL,65,65,NULL,NULL
-"1973","Gitte","Junger Tag",4,8,8,NULL,NULL,85,85,NULL,NULL
-"1973","Maxi","Do I Dream",14,9,9,NULL,NULL,80,80,NULL,NULL
-"1973","Ilanit","Ey Sham",17,4,4,NULL,NULL,97,97,NULL,NULL
-"1973","Massimo Ranieri","Chi sarà con te",10,11,11,NULL,NULL,74,74,NULL,NULL
-"1973","Anne-Marie David","Tu te reconnaîtras",11,1,1,NULL,NULL,129,129,NULL,NULL
-"1973","Marie","Un train qui part",6,8,8,NULL,NULL,85,85,NULL,NULL
-"1973","Ben Cramer","De oude muzikant",13,12,12,NULL,NULL,69,69,NULL,NULL
-"1973","Bendik Singers","It's Just a Game",5,7,7,NULL,NULL,89,89,NULL,NULL
-"1973","Fernando Tordo","Tourada",3,9,9,NULL,NULL,80,80,NULL,NULL
-"1973","Mocedades","Eres tú",7,2,2,NULL,NULL,125,125,NULL,NULL
-"1973","The Nova","You're Summer",12,5,5,NULL,NULL,94,94,NULL,NULL
-"1973","Patrick Juvet","Je vais me marier, Marie",8,10,10,NULL,NULL,79,79,NULL,NULL
-"1973","Cliff Richard","Power to All Our Friends",15,3,3,NULL,NULL,123,123,NULL,NULL
-"1973","Zdravko Čolić","Gori vatra",9,13,13,NULL,NULL,65,65,NULL,NULL
-"1974","Jacques Hustin","Fleur de liberté",11,6,6,NULL,NULL,10,10,NULL,NULL
-"1974","Carita","Keep Me Warm",1,9,9,NULL,NULL,4,4,NULL,NULL
-"1974","Cindy and Bert","Die Sommermelodie",14,10,10,NULL,NULL,3,3,NULL,NULL
-"1974","Marinella","Krassi, thalassa ke t' agori mou",5,7,7,NULL,NULL,7,7,NULL,NULL
-"1974","Tina Reynolds","Cross Your Heart",13,5,5,NULL,NULL,11,11,NULL,NULL
-"1974","Poogy","Natati La Khaiai",6,5,5,NULL,NULL,11,11,NULL,NULL
-"1974","Gigliola Cinquetti","Sì",17,2,2,NULL,NULL,18,18,NULL,NULL
-"1974","Ireen Sheer","Bye Bye I Love You",9,4,4,NULL,NULL,14,14,NULL,NULL
-"1974","Romuald","Celui qui reste et celui qui s'en va",10,4,4,NULL,NULL,14,14,NULL,NULL
-"1974","Mouth and MacNeal","I See a Star",12,3,3,NULL,NULL,15,15,NULL,NULL
-"1974","Anne-Karine and the Bendik Singers","The First Day of Love",4,10,10,NULL,NULL,3,3,NULL,NULL
-"1974","Paulo de Carvalho","E depois do adeus",16,10,10,NULL,NULL,3,3,NULL,NULL
-"1974","Peret","Canta y sé feliz",3,6,6,NULL,NULL,10,10,NULL,NULL
-"1974","ABBA","Waterloo",8,1,1,NULL,NULL,24,24,NULL,NULL
-"1974","Piera Martell","Mein Ruf nach dir",15,10,10,NULL,NULL,3,3,NULL,NULL
-"1974","Olivia Newton-John","Long Live Love",2,4,4,NULL,NULL,14,14,NULL,NULL
-"1974","Korni Grupa","Generacija '42",7,8,8,NULL,NULL,6,6,NULL,NULL
-"1975","Ann Christy","Gelukkig zijn",11,14,14,NULL,NULL,17,17,NULL,NULL
-"1975","Pihasoittajat","Old Man Fiddle",15,7,7,NULL,NULL,74,74,NULL,NULL
-"1975","Nicole","Et bonjour à toi l'artiste",3,4,4,NULL,NULL,91,91,NULL,NULL
-"1975","Joy Fleming","Ein Lied kann eine Brücke sein",4,16,16,NULL,NULL,15,15,NULL,NULL
-"1975","The Swarbriggs","That's What Friends Are For",2,9,9,NULL,NULL,68,68,NULL,NULL
-"1975","Shlomo Artzi","At Ve'Ani",12,11,11,NULL,NULL,40,40,NULL,NULL
-"1975","Wess and Dori Ghezzi","Era",19,3,3,NULL,NULL,115,115,NULL,NULL
-"1975","Géraldine","Toi",5,5,5,NULL,NULL,84,84,NULL,NULL
-"1975","Renato","Singing This Song",10,12,12,NULL,NULL,32,32,NULL,NULL
-"1975","Sophie","Une chanson c'est une lettre",14,13,13,NULL,NULL,22,22,NULL,NULL
-"1975","Teach-In","Ding-a-dong",1,1,1,NULL,NULL,152,152,NULL,NULL
-"1975","Ellen Nikolaysen","Touch My Life with Summer",6,17,17,NULL,NULL,11,11,NULL,NULL
-"1975","Duarte Mendes","Madrugada",16,15,15,NULL,NULL,16,16,NULL,NULL
-"1975","Sergio and Estíbaliz","Tú volverás",17,10,10,NULL,NULL,53,53,NULL,NULL
-"1975","Lars Berghagen","Jennie, Jennie",18,8,8,NULL,NULL,72,72,NULL,NULL
-"1975","Simone Drexel","Mikado",7,6,6,NULL,NULL,77,77,NULL,NULL
-"1975","Semiha Yankı","Seninle Bir Dakika",13,18,18,NULL,NULL,3,3,NULL,NULL
-"1975","The Shadows","Let Me Be the One",9,2,2,NULL,NULL,138,138,NULL,NULL
-"1975","Pepel in kri","Dan ljubezni",8,13,13,NULL,NULL,22,22,NULL,NULL
-"1976","Waterloo and Robinson","My Little World",14,5,5,NULL,NULL,80,80,NULL,NULL
-"1976","Pierre Rapsat","Judy et Cie",6,8,8,NULL,NULL,68,68,NULL,NULL
-"1976","Fredi and the Friends","Pump-Pump",11,11,11,NULL,NULL,44,44,NULL,NULL
-"1976","Catherine Ferry","Un, deux, trois",17,2,2,NULL,NULL,147,147,NULL,NULL
-"1976","Les Humphries Singers","Sing, Sang, Song",3,15,15,NULL,NULL,12,12,NULL,NULL
-"1976","Mariza Koch","Panaghia mou, panaghia mou",10,13,13,NULL,NULL,20,20,NULL,NULL
-"1976","Red Hurley","When",7,10,10,NULL,NULL,54,54,NULL,NULL
-"1976","Chocolate, Menta, Mastik","Emor Shalom",4,6,6,NULL,NULL,77,77,NULL,NULL
-"1976","Romina and Al Bano","We'll Live It All Again",13,7,7,NULL,NULL,69,69,NULL,NULL
-"1976","Jürgen Marcus","Chansons pour ceux qui s'aiment",5,14,14,NULL,NULL,17,17,NULL,NULL
-"1976","Mary Christy","Toi, la musique et moi",16,3,3,NULL,NULL,93,93,NULL,NULL
-"1976","Sandra Reemer","The Party Is Over Now",8,9,9,NULL,NULL,56,56,NULL,NULL
-"1976","Anne-Karine Strøm","Mata Hari",9,18,18,NULL,NULL,7,7,NULL,NULL
-"1976","Carlos do Carmo","Uma flor de verde pinho",15,12,12,NULL,NULL,24,24,NULL,NULL
-"1976","Braulio","Sobran las palabras",12,16,16,NULL,NULL,11,11,NULL,NULL
-"1976","Peter, Sue and Marc","Djambo Djambo",2,4,4,NULL,NULL,91,91,NULL,NULL
-"1976","Brotherhood of Man","Save Your Kisses for Me",1,1,1,NULL,NULL,164,164,NULL,NULL
-"1976","Ambasadori","Ne mogu skriti svoju bol",18,17,17,NULL,NULL,10,10,NULL,NULL
-"1977","Schmetterlinge","Boom Boom Boomerang",4,16,16,NULL,NULL,11,11,NULL,NULL
-"1977","Dream Express","A Million in One, Two, Three",17,7,7,NULL,NULL,69,69,NULL,NULL
-"1977","Monica Aspelund","Lapponia",16,10,10,NULL,NULL,50,50,NULL,NULL
-"1977","Marie Myriam","L'Oiseau et l'Enfant",18,1,1,NULL,NULL,136,136,NULL,NULL
-"1977","Silver Convention","Telegram",6,8,8,NULL,NULL,55,55,NULL,NULL
-"1977","Pascalis, Marianna, Robert and Bessy","Mathema solfege (Μάθημα σολφέζ)",10,5,5,NULL,NULL,92,92,NULL,NULL
-"1977","The Swarbriggs Plus Two","It's Nice to Be in Love Again",1,3,3,NULL,NULL,119,119,NULL,NULL
-"1977","Ilanit","Ahava Hi Shir Lishnayim (אהבה היא שיר לשניים)",11,11,11,NULL,NULL,49,49,NULL,NULL
-"1977","Mia Martini","Libera",15,13,13,NULL,NULL,33,33,NULL,NULL
-"1977","Anne-Marie B","Frère Jacques",7,15,15,NULL,NULL,17,17,NULL,NULL
-"1977","Michèle Torr","Une petite française",2,4,4,NULL,NULL,96,96,NULL,NULL
-"1977","Heddy Lester","De mallemolen",3,12,12,NULL,NULL,35,35,NULL,NULL
-"1977","Anita Skorgan","Casanova",5,14,14,NULL,NULL,18,18,NULL,NULL
-"1977","Os Amigos","Portugal no coração",8,14,14,NULL,NULL,18,18,NULL,NULL
-"1977","Micky","Enséñame a cantar",14,9,9,NULL,NULL,52,52,NULL,NULL
-"1977","Forbes","Beatles",13,17,17,NULL,NULL,2,2,NULL,NULL
-"1977","Pepe Lienhard Band","Swiss Lady",12,6,6,NULL,NULL,71,71,NULL,NULL
-"1977","Lynsey de Paul and Mike Moran","Rock Bottom",9,2,2,NULL,NULL,121,121,NULL,NULL
-"1978","Springtime","Mrs. Caroline Robinson",19,14,14,NULL,NULL,14,14,NULL,NULL
-"1978","Jean Vallée","L'amour ça fait chanter la vie",10,2,2,NULL,NULL,125,125,NULL,NULL
-"1978","Mabel","Boom Boom",16,15,15,NULL,NULL,13,13,NULL,NULL
-"1978","Seija Simola","Anna rakkaudelle tilaisuus",4,17,17,NULL,NULL,2,2,NULL,NULL
-"1978","Joël Prévost","Il y aura toujours des violons",6,3,3,NULL,NULL,119,119,NULL,NULL
-"1978","Ireen Sheer","Feuer",13,6,6,NULL,NULL,84,84,NULL,NULL
-"1978","Tania Tsanaklidou","Charlie Chaplin (Τσάρλυ Τσάπλιν)",15,8,8,NULL,NULL,66,66,NULL,NULL
-"1978","Colm C. T. Wilkinson","Born to Sing",1,5,5,NULL,NULL,86,86,NULL,NULL
-"1978","Izhar Cohen and the Alphabeta","A-Ba-Ni-Bi (א-ב-ני-בי)",18,1,1,NULL,NULL,157,157,NULL,NULL
-"1978","Ricchi e Poveri","Questo amore",3,11,11,NULL,NULL,53,53,NULL,NULL
-"1978","Baccara","Parlez-vous français ?",17,7,7,NULL,NULL,73,73,NULL,NULL
-"1978","Caline and Olivier Toussaint","Les Jardins de Monaco",14,4,4,NULL,NULL,107,107,NULL,NULL
-"1978","Harmony","'t Is OK",11,12,12,NULL,NULL,37,37,NULL,NULL
-"1978","Jahn Teigen","Mil etter mil",2,18,18,NULL,NULL,0,0,NULL,NULL
-"1978","Gemini","Dai li dou",5,16,16,NULL,NULL,5,5,NULL,NULL
-"1978","José Vélez","Bailemos un vals",7,9,9,NULL,NULL,65,65,NULL,NULL
-"1978","Björn Skifs","Det blir alltid värre framåt natten",20,13,13,NULL,NULL,26,26,NULL,NULL
-"1978","Carole Vinci","Vivre",9,9,9,NULL,NULL,65,65,NULL,NULL
-"1978","Nilüfer and Nazar","Sevince",12,17,17,NULL,NULL,2,2,NULL,NULL
-"1978","Co-Co","The Bad Old Days",8,10,10,NULL,NULL,61,61,NULL,NULL
-"1979","Christina Simon","Heute in Jerusalem",18,18,18,NULL,NULL,5,5,NULL,NULL
-"1979","Micha Marah","Hey Nana",12,18,18,NULL,NULL,5,5,NULL,NULL
-"1979","Tommy Seebach","Disco Tango",3,6,6,NULL,NULL,76,76,NULL,NULL
-"1979","Katri Helena","Katson sineen taivaan",5,14,14,NULL,NULL,38,38,NULL,NULL
-"1979","Anne-Marie David","Je suis l'enfant soleil",11,3,3,NULL,NULL,106,106,NULL,NULL
-"1979","Dschinghis Khan","Dschinghis Khan",9,4,4,NULL,NULL,86,86,NULL,NULL
-"1979","Elpida","Socrates (Σωκράτη)",7,8,8,NULL,NULL,69,69,NULL,NULL
-"1979","Cathal Dunne","Happy Man",4,5,5,NULL,NULL,80,80,NULL,NULL
-"1979","Milk and Honey","Hallelujah (הללויה)",10,1,1,NULL,NULL,125,125,NULL,NULL
-"1979","Matia Bazar","Raggio di luna",2,15,15,NULL,NULL,27,27,NULL,NULL
-"1979","Jeane Manson","J'ai déjà vu ça dans tes yeux",13,13,13,NULL,NULL,44,44,NULL,NULL
-"1979","Laurent Vaguener","Notre vie c'est la musique",6,16,16,NULL,NULL,12,12,NULL,NULL
-"1979","Xandra","Colorado",14,12,12,NULL,NULL,51,51,NULL,NULL
-"1979","Anita Skorgan","Oliver",16,11,11,NULL,NULL,57,57,NULL,NULL
-"1979","Manuela Bravo","Sobe, sobe, balão sobe",1,9,9,NULL,NULL,64,64,NULL,NULL
-"1979","Betty Missiego","Su canción",19,2,2,NULL,NULL,116,116,NULL,NULL
-"1979","Ted Gärdestad","Satellit",15,17,17,NULL,NULL,8,8,NULL,NULL
-"1979","Peter, Sue and Marc, Pfuri, Gorps and Kniri","Trödler und Co.",8,10,10,NULL,NULL,60,60,NULL,NULL
-"1979","Black Lace","Mary Ann",17,7,7,NULL,NULL,73,73,NULL,NULL
-"1980","Blue Danube","Du bist Musik",1,8,8,NULL,NULL,64,64,NULL,NULL
-"1980","Telex","Euro-Vision",19,17,17,NULL,NULL,14,14,NULL,NULL
-"1980","Bamses Venner","Tænker altid på dig",7,14,14,NULL,NULL,25,25,NULL,NULL
-"1980","Vesa-Matti Loiri","Huilumies",10,19,19,NULL,NULL,6,6,NULL,NULL
-"1980","Profil","Hé, hé m'sieurs dames",16,11,11,NULL,NULL,45,45,NULL,NULL
-"1980","Katja Ebstein","Theater",12,2,2,NULL,NULL,128,128,NULL,NULL
-"1980","Anna Vissi and the Epikouri","Autostop",3,13,13,NULL,NULL,30,30,NULL,NULL
-"1980","Johnny Logan","What's Another Year",17,1,1,NULL,NULL,143,143,NULL,NULL
-"1980","Alan Sorrenti","Non so che darei",6,6,6,NULL,NULL,87,87,NULL,NULL
-"1980","Sophie and Magaly","Papa Pingouin",4,9,9,NULL,NULL,56,56,NULL,NULL
-"1980","Samira Bensaïd","Bitakat Hob",5,18,18,NULL,NULL,7,7,NULL,NULL
-"1980","Maggie MacNeal","Amsterdam",15,5,5,NULL,NULL,93,93,NULL,NULL
-"1980","Sverre Kjelsberg and Mattis Hætta","Sámiid ædnan",11,16,16,NULL,NULL,15,15,NULL,NULL
-"1980","José Cid","Um grande, grande amor",14,7,7,NULL,NULL,71,71,NULL,NULL
-"1980","Trigo Limpio","Quédate esta noche",18,12,12,NULL,NULL,38,38,NULL,NULL
-"1980","Tomas Ledin","Just nu",8,10,10,NULL,NULL,47,47,NULL,NULL
-"1980","Paola","Cinéma",9,4,4,NULL,NULL,104,104,NULL,NULL
-"1980","Ajda Pekkan","Pet'r Oil",2,15,15,NULL,NULL,23,23,NULL,NULL
-"1980","Prima Donna","Love Enough for Two",13,3,3,NULL,NULL,106,106,NULL,NULL
-"1981","Marty Brem","Wenn du da bist",1,15,15,NULL,NULL,20,20,NULL,NULL
-"1981","Emly Starr","Samson",16,17,17,NULL,NULL,0,0,NULL,NULL
-"1981","Island","Monika",18,6,6,NULL,NULL,69,69,NULL,NULL
-"1981","Tommy Seebach and Debbie Cameron","Krøller eller ej",6,11,11,NULL,NULL,41,41,NULL,NULL
-"1981","Riki Sorsa","Reggae O.K.",8,14,14,NULL,NULL,27,27,NULL,NULL
-"1981","Jean Gabilou","Humanahum",9,3,3,NULL,NULL,125,125,NULL,NULL
-"1981","Lena Valaitis","Johnny Blue",3,2,2,NULL,NULL,132,132,NULL,NULL
-"1981","Yiannis Dimitras","Feggari kalokerino",17,8,8,NULL,NULL,55,55,NULL,NULL
-"1981","Sheeba","Horoscopes",12,5,5,NULL,NULL,105,105,NULL,NULL
-"1981","Habibi","Halayla",5,7,7,NULL,NULL,56,56,NULL,NULL
-"1981","Jean-Claude Pascal","C'est peut-être pas l'Amérique",4,11,11,NULL,NULL,41,41,NULL,NULL
-"1981","Linda Williams","Het is een wonder",11,9,9,NULL,NULL,51,51,NULL,NULL
-"1981","Finn Kalvik","Aldri i livet",13,17,17,NULL,NULL,0,0,NULL,NULL
-"1981","Carlos Paião","Playback",15,16,16,NULL,NULL,9,9,NULL,NULL
-"1981","Bacchelli","Y sólo tú",10,12,12,NULL,NULL,38,38,NULL,NULL
-"1981","Björn Skifs","Fångad i en dröm",20,10,10,NULL,NULL,50,50,NULL,NULL
-"1981","Peter, Sue and Marc","Io senza te",19,4,4,NULL,NULL,121,121,NULL,NULL
-"1981","Modern Folk Trio and Ayşegül","Dönme Dolap",2,16,16,NULL,NULL,9,9,NULL,NULL
-"1981","Bucks Fizz","Making Your Mind Up",14,1,1,NULL,NULL,136,136,NULL,NULL
-"1981","Seid Memić Vajta","Lejla",7,13,13,NULL,NULL,35,35,NULL,NULL
-"1982","Mess","Sonntag",10,9,9,NULL,NULL,57,57,NULL,NULL
-"1982","Stella","Si tu aimes ma musique",11,4,4,NULL,NULL,96,96,NULL,NULL
-"1982","Anna Vissi","Mono i agapi",8,5,5,NULL,NULL,85,85,NULL,NULL
-"1982","Brixx","Video-Video",13,17,17,NULL,NULL,5,5,NULL,NULL
-"1982","Kojo","Nuku pommiin",6,18,18,NULL,NULL,0,0,NULL,NULL
-"1982","Nicole","Ein bißchen Frieden",18,1,1,NULL,NULL,161,161,NULL,NULL
-"1982","The Duskeys","Here Today, Gone Tomorrow",17,11,11,NULL,NULL,49,49,NULL,NULL
-"1982","Avi Toledano","Hora",15,2,2,NULL,NULL,100,100,NULL,NULL
-"1982","Svetlana","Cours après le temps",2,6,6,NULL,NULL,78,78,NULL,NULL
-"1982","Bill van Dijk","Jij en ik",16,16,16,NULL,NULL,8,8,NULL,NULL
-"1982","Jahn Teigen and Anita Skorgan","Adieu",3,12,12,NULL,NULL,40,40,NULL,NULL
-"1982","Doce","Bem bom",1,13,13,NULL,NULL,32,32,NULL,NULL
-"1982","Lucía","Él",12,10,10,NULL,NULL,52,52,NULL,NULL
-"1982","Chips","Dag efter dag",9,8,8,NULL,NULL,67,67,NULL,NULL
-"1982","Arlette Zola","Amour on t'aime",7,3,3,NULL,NULL,97,97,NULL,NULL
-"1982","Neco","Hani?",5,15,15,NULL,NULL,20,20,NULL,NULL
-"1982","Bardo","One Step Further",4,7,7,NULL,NULL,76,76,NULL,NULL
-"1982","Aska","Halo, halo",14,14,14,NULL,NULL,21,21,NULL,NULL
-"1983","Westend","Hurricane",18,9,9,NULL,NULL,53,53,NULL,NULL
-"1983","Pas de Deux","Rendez-vous",19,16,16,NULL,NULL,13,13,NULL,NULL
-"1983","Stavros and Constantina","I agapi akoma zi",13,14,14,NULL,NULL,26,26,NULL,NULL
-"1983","Gry Johansen","Kloden drejer",15,15,15,NULL,NULL,16,16,NULL,NULL
-"1983","Ami Aspelund","Fantasiaa",9,10,10,NULL,NULL,41,41,NULL,NULL
-"1983","Guy Bonnet","Vivre",1,8,8,NULL,NULL,56,56,NULL,NULL
-"1983","Hoffmann and Hoffmann","Rücksicht",14,5,5,NULL,NULL,94,94,NULL,NULL
-"1983","Christie","Mou les",10,12,12,NULL,NULL,32,32,NULL,NULL
-"1983","Ofra Haza","Hi",16,2,2,NULL,NULL,136,136,NULL,NULL
-"1983","Riccardo Fogli","Per Lucia",5,10,10,NULL,NULL,41,41,NULL,NULL
-"1983","Corinne Hermès","Si la vie est cadeau",20,1,1,NULL,NULL,142,142,NULL,NULL
-"1983","Bernadette","Sing Me a Song",11,7,7,NULL,NULL,66,66,NULL,NULL
-"1983","Jahn Teigen","Do Re Mi",2,9,9,NULL,NULL,53,53,NULL,NULL
-"1983","Armando Gama","Esta balada que te dou",17,11,11,NULL,NULL,33,33,NULL,NULL
-"1983","Remedios Amaya","Quién maneja mi barca",7,17,17,NULL,NULL,0,0,NULL,NULL
-"1983","Carola Häggkvist","Främling",4,3,3,NULL,NULL,126,126,NULL,NULL
-"1983","Mariella Farré","Io così non ci sto",8,13,13,NULL,NULL,28,28,NULL,NULL
-"1983","Çetin Alp and the Short Wave","Opera",6,17,17,NULL,NULL,0,0,NULL,NULL
-"1983","Sweet Dreams","I'm Never Giving Up",3,6,6,NULL,NULL,79,79,NULL,NULL
-"1983","Daniel","Džuli",12,4,4,NULL,NULL,125,125,NULL,NULL
-"1984","Anita","Einfach weg",13,17,17,NULL,NULL,5,5,NULL,NULL
-"1984","Jacques Zegers","Avanti la vie",8,5,5,NULL,NULL,70,70,NULL,NULL
-"1984","Andy Paul","Anna Mari-Elena",7,13,13,NULL,NULL,31,31,NULL,NULL
-"1984","Hot Eyes","Det' lige det",10,4,4,NULL,NULL,101,101,NULL,NULL
-"1984","Kirka","Hengaillaan",16,8,8,NULL,NULL,46,46,NULL,NULL
-"1984","Annick Thoumazeau","Autant d'amoureux que d'étoiles",3,7,7,NULL,NULL,61,61,NULL,NULL
-"1984","Mary Roos","Aufrecht geh'n",14,12,12,NULL,NULL,34,34,NULL,NULL
-"1984","Linda Martin","Terminal 3",9,2,2,NULL,NULL,137,137,NULL,NULL
-"1984","Alice and Franco Battiato","I treni di Tozeur",18,5,5,NULL,NULL,70,70,NULL,NULL
-"1984","Sophie Carle","100% d'amour",2,9,9,NULL,NULL,39,39,NULL,NULL
-"1984","Maribelle","Ik hou van jou",11,12,12,NULL,NULL,34,34,NULL,NULL
-"1984","Dollie de Luxe","Lenge leve livet",5,15,15,NULL,NULL,29,29,NULL,NULL
-"1984","Maria Guinot","Silêncio e tanta gente",19,10,10,NULL,NULL,38,38,NULL,NULL
-"1984","Bravo","Lady, Lady",4,3,3,NULL,NULL,106,106,NULL,NULL
-"1984","Herreys","Diggi-Loo Diggi-Ley",1,1,1,NULL,NULL,145,145,NULL,NULL
-"1984","Rainy Day","Welche Farbe hat der Sonnenschein",17,14,14,NULL,NULL,30,30,NULL,NULL
-"1984","Beş Yıl Önce, On Yıl Sonra","Halay",15,11,11,NULL,NULL,37,37,NULL,NULL
-"1984","Belle and the Devotions","Love Games",6,6,6,NULL,NULL,63,63,NULL,NULL
-"1984","Ida and Vlado","Ciao, amore",12,16,16,NULL,NULL,26,26,NULL,NULL
-"1985","Gary Lux","Kinder dieser Welt",17,8,8,NULL,NULL,60,60,NULL,NULL
-"1985","Linda Lepomme","Laat me nu gaan",8,17,17,NULL,NULL,7,7,NULL,NULL
-"1985","Lia Vissi","To katalava arga",3,15,15,NULL,NULL,15,15,NULL,NULL
-"1985","Hot Eyes","Sku' du spørg' fra no'en",4,11,11,NULL,NULL,41,41,NULL,NULL
-"1985","Sonja Lumme","Eläköön elämä",2,9,9,NULL,NULL,58,58,NULL,NULL
-"1985","Roger Bens","Femme dans ses rêves aussi",6,10,10,NULL,NULL,56,56,NULL,NULL
-"1985","Wind","Für alle",10,2,2,NULL,NULL,105,105,NULL,NULL
-"1985","Takis Biniaris","Miazoume",19,15,15,NULL,NULL,15,15,NULL,NULL
-"1985","Maria Christian","Wait Until the Weekend Comes",1,6,6,NULL,NULL,91,91,NULL,NULL
-"1985","Izhar Cohen","Olé, Olé",11,5,5,NULL,NULL,93,93,NULL,NULL
-"1985","Al Bano and Romina Power","Magic, Oh Magic",12,7,7,NULL,NULL,79,79,NULL,NULL
-"1985","Margo, Franck Olivier, Chris Roberts, Malcolm Roberts, Ireen Sheer and Diane Solomon","Children, Kinder, Enfants",18,13,13,NULL,NULL,37,37,NULL,NULL
-"1985","Bobbysocks!","La det swinge",13,1,1,NULL,NULL,123,123,NULL,NULL
-"1985","Adelaide","Penso em ti, eu sei",9,16,16,NULL,NULL,9,9,NULL,NULL
-"1985","Paloma San Basilio","La fiesta terminó",5,14,14,NULL,NULL,36,36,NULL,NULL
-"1985","Kikki Danielsson","Bra vibrationer",16,3,3,NULL,NULL,103,103,NULL,NULL
-"1985","Mariella Farré and Pino Gasparini","Piano, piano",15,12,12,NULL,NULL,39,39,NULL,NULL
-"1985","MFÖ","Didai didai dai",7,14,14,NULL,NULL,36,36,NULL,NULL
-"1985","Vikki","Love Is",14,4,4,NULL,NULL,100,100,NULL,NULL
-"1986","Timna Brauer","Die Zeit ist einsam",16,18,18,NULL,NULL,12,12,NULL,NULL
-"1986","Sandra Kim","J'aime la vie",13,1,1,NULL,NULL,176,176,NULL,NULL
-"1986","Elpida","Tora zo",15,20,20,NULL,NULL,4,4,NULL,NULL
-"1986","Lise Haavik","Du er fuld af løgn",18,6,6,NULL,NULL,77,77,NULL,NULL
-"1986","Kari","Never the End",19,15,15,NULL,NULL,22,22,NULL,NULL
-"1986","Cocktail Chic","Européennes",3,17,17,NULL,NULL,13,13,NULL,NULL
-"1986","Ingrid Peters","Über die Brücke geh'n",14,8,8,NULL,NULL,62,62,NULL,NULL
-"1986","ICY","Gleðibankinn",6,16,16,NULL,NULL,19,19,NULL,NULL
-"1986","Luv Bug","You Can Count On Me",12,4,4,NULL,NULL,96,96,NULL,NULL
-"1986","Moti Giladi and Sarai Tzuriel","Yavo Yom",11,19,19,NULL,NULL,7,7,NULL,NULL
-"1986","Sherisse Laurence","L'Amour de ma vie",1,3,3,NULL,NULL,117,117,NULL,NULL
-"1986","Frizzle Sizzle","Alles heeft ritme",7,13,13,NULL,NULL,40,40,NULL,NULL
-"1986","Ketil Stokkan","Romeo",4,12,12,NULL,NULL,44,44,NULL,NULL
-"1986","Dora","Não sejas mau p'ra mim",20,14,14,NULL,NULL,28,28,NULL,NULL
-"1986","Cadillac","Valentino",9,10,10,NULL,NULL,51,51,NULL,NULL
-"1986","Lasse Holm and Monica Törnell","E' de' det här du kallar kärlek",17,5,5,NULL,NULL,78,78,NULL,NULL
-"1986","Daniela Simons","Pas pour moi",10,2,2,NULL,NULL,140,140,NULL,NULL
-"1986","Klips ve Onlar","Halley",8,9,9,NULL,NULL,53,53,NULL,NULL
-"1986","Ryder","Runner in the Night",5,7,7,NULL,NULL,72,72,NULL,NULL
-"1986","Doris Dragović","Željo moja",2,11,11,NULL,NULL,49,49,NULL,NULL
-"1987","Gary Lux","Nur noch Gefühl",3,19,19,NULL,NULL,8,8,NULL,NULL
-"1987","Liliane Saint-Pierre","Soldiers of Love",5,10,10,NULL,NULL,56,56,NULL,NULL
-"1987","Alexia","Aspro mavro",17,6,6,NULL,NULL,80,80,NULL,NULL
-"1987","Bandjo with Anne-Cathrine Herdorf","En lille melodi",19,5,5,NULL,NULL,83,83,NULL,NULL
-"1987","Vicky Rosti","Sata salamaa",18,14,14,NULL,NULL,32,32,NULL,NULL
-"1987","Christine Minier","Les mots d'amour n'ont pas de dimanche",15,13,13,NULL,NULL,44,44,NULL,NULL
-"1987","Wind","Laß die Sonne in dein Herz",16,2,2,NULL,NULL,141,141,NULL,NULL
-"1987","Bang","Stop",11,9,9,NULL,NULL,64,64,NULL,NULL
-"1987","Halla Margrét","Hægt og hljótt",4,15,15,NULL,NULL,28,28,NULL,NULL
-"1987","Johnny Logan","Hold Me Now",20,1,1,NULL,NULL,172,172,NULL,NULL
-"1987","Datner and Kushnir","Shir Habatlanim",2,7,7,NULL,NULL,73,73,NULL,NULL
-"1987","Umberto Tozzi and Raf","Gente di mare",7,3,3,NULL,NULL,103,103,NULL,NULL
-"1987","Plastic Bertrand","Amour amour",13,20,20,NULL,NULL,4,4,NULL,NULL
-"1987","Marcha","Rechtop in de wind",12,5,5,NULL,NULL,83,83,NULL,NULL
-"1987","Kate Gulbrandsen","Mitt liv",1,8,8,NULL,NULL,65,65,NULL,NULL
-"1987","Nevada","Neste barco à vela",8,17,17,NULL,NULL,15,15,NULL,NULL
-"1987","Patricia Kraus","No estás solo",9,18,18,NULL,NULL,10,10,NULL,NULL
-"1987","Lotta Engberg","Boogaloo",6,11,11,NULL,NULL,50,50,NULL,NULL
-"1987","Carol Rich","Moitié moitié",22,16,16,NULL,NULL,26,26,NULL,NULL
-"1987","Seyyal Taner and Grup Lokomotif","Şarkım Sevgi Üstüne",10,21,21,NULL,NULL,0,0,NULL,NULL
-"1987","Rikki","Only the Light",14,12,12,NULL,NULL,47,47,NULL,NULL
-"1987","Novi fosili","Ja sam za ples",21,4,4,NULL,NULL,92,92,NULL,NULL
-"1988","Wilfried","Lisa Mona Lisa",12,19,19,NULL,NULL,0,0,NULL,NULL
-"1988","Reynaert","Laissez briller le soleil",16,17,17,NULL,NULL,5,5,NULL,NULL
-"1988","Hot Eyes","Ka' du se hva' jeg sa'",13,3,3,NULL,NULL,92,92,NULL,NULL
-"1988","Boulevard","Nauravat silmät muistetaan",3,18,18,NULL,NULL,3,3,NULL,NULL
-"1988","Gérard Lenorman","Chanteur de charme",19,10,10,NULL,NULL,64,64,NULL,NULL
-"1988","Maxi and Chris Garden","Lied für einen Freund",11,13,13,NULL,NULL,48,48,NULL,NULL
-"1988","Afroditi Fryda","Clown",14,16,16,NULL,NULL,10,10,NULL,NULL
-"1988","Beathoven","Sókrates",1,15,15,NULL,NULL,20,20,NULL,NULL
-"1988","Jump the Gun","Take Him Home",10,8,8,NULL,NULL,79,79,NULL,NULL
-"1988","Yardena Arazi","Ben Adam",8,7,7,NULL,NULL,85,85,NULL,NULL
-"1988","Luca Barbarossa","Ti scrivo",18,12,12,NULL,NULL,52,52,NULL,NULL
-"1988","Lara Fabian","Croire",17,4,4,NULL,NULL,90,90,NULL,NULL
-"1988","Gerard Joling","Shangri-La",7,9,9,NULL,NULL,70,70,NULL,NULL
-"1988","Karoline Krüger","For vår jord",15,5,5,NULL,NULL,88,88,NULL,NULL
-"1988","Dora","Voltarei",20,17,17,NULL,NULL,5,5,NULL,NULL
-"1988","La Década","La chica que yo quiero (Made in Spain)",6,11,11,NULL,NULL,58,58,NULL,NULL
-"1988","Tommy Körberg","Stad i ljus",2,12,12,NULL,NULL,52,52,NULL,NULL
-"1988","Céline Dion","Ne partez pas sans moi",9,1,1,NULL,NULL,137,137,NULL,NULL
-"1988","MFÖ","Sufi (Hey Ya Hey)",5,14,14,NULL,NULL,37,37,NULL,NULL
-"1988","Scott Fitzgerald","Go",4,2,2,NULL,NULL,136,136,NULL,NULL
-"1988","Srebrna krila","Mangup",21,6,6,NULL,NULL,87,87,NULL,NULL
-"1989","Thomas Forstner","Nur ein Lied",13,5,5,NULL,NULL,97,97,NULL,NULL
-"1989","Ingeborg","Door de wind",6,18,18,NULL,NULL,13,13,NULL,NULL
-"1989","Fanny Polymeri and Yiannis Savvidakis","Apopse as vrethoume",17,10,10,NULL,NULL,51,51,NULL,NULL
-"1989","Birthe Kjær","Vi maler byen rød",12,3,3,NULL,NULL,111,111,NULL,NULL
-"1989","Anneli Saaristo","La dolce vita",14,7,7,NULL,NULL,76,76,NULL,NULL
-"1989","Nathalie Pâque","J'ai volé la vie",15,8,8,NULL,NULL,60,60,NULL,NULL
-"1989","Nino de Angelo","Flieger",21,13,13,NULL,NULL,46,46,NULL,NULL
-"1989","Marianna","To diko sou asteri",19,9,9,NULL,NULL,56,56,NULL,NULL
-"1989","Daníel","Það sem enginn sér",20,21,21,NULL,NULL,0,0,NULL,NULL
-"1989","Kiev Connolly and the Missing Passengers","The Real Me",3,17,17,NULL,NULL,21,21,NULL,NULL
-"1989","Gili and Galit","Derekh Hamelekh",2,11,11,NULL,NULL,50,50,NULL,NULL
-"1989","Anna Oxa and Fausto Leali","Avrei voluto",1,9,9,NULL,NULL,56,56,NULL,NULL
-"1989","Park Café","Monsieur",11,19,19,NULL,NULL,8,8,NULL,NULL
-"1989","Justine Pelmelay","Blijf zoals je bent",4,14,14,NULL,NULL,45,45,NULL,NULL
-"1989","Britt Synnøve Johansen","Venners nærhet",8,16,16,NULL,NULL,30,30,NULL,NULL
-"1989","Da Vinci","Conquistador",9,15,15,NULL,NULL,39,39,NULL,NULL
-"1989","Nina","Nacida para amar",16,6,6,NULL,NULL,88,88,NULL,NULL
-"1989","Tommy Nilsson","En dag",10,4,4,NULL,NULL,110,110,NULL,NULL
-"1989","Furbaz","Viver senza tei",18,12,12,NULL,NULL,47,47,NULL,NULL
-"1989","Pan","Bana Bana",5,20,20,NULL,NULL,5,5,NULL,NULL
-"1989","Live Report","Why Do I Always Get It Wrong",7,2,2,NULL,NULL,130,130,NULL,NULL
-"1989","Riva","Rock Me",22,1,1,NULL,NULL,137,137,NULL,NULL
-"1990","Simone","Keine Mauern mehr",20,9,9,NULL,NULL,58,58,NULL,NULL
-"1990","Philippe Lafontaine","Macédomienne",3,11,11,NULL,NULL,46,46,NULL,NULL
-"1990","Anastasiou","Milas poli (Μιλάς πολύ)",21,13,13,NULL,NULL,36,36,NULL,NULL
-"1990","Lonnie Devantier","Hallo Hallo",11,7,7,NULL,NULL,64,64,NULL,NULL
-"1990","Beat","Fri?",22,20,20,NULL,NULL,8,8,NULL,NULL
-"1990","Joëlle Ursull","White and Black Blues",14,2,2,NULL,NULL,132,132,NULL,NULL
-"1990","Chris Kempers and Daniel Kovac","Frei zu leben",13,8,8,NULL,NULL,60,60,NULL,NULL
-"1990","Christos Callow","Horis skopo (Χωρίς σκοπό)",2,18,18,NULL,NULL,11,11,NULL,NULL
-"1990","Stjórnin","Eitt lag enn",8,3,3,NULL,NULL,124,124,NULL,NULL
-"1990","Liam Reilly","Somewhere in Europe",17,2,2,NULL,NULL,132,132,NULL,NULL
-"1990","Rita","Shara Barkhovot (שרה ברחובות)",10,17,17,NULL,NULL,16,16,NULL,NULL
-"1990","Toto Cutugno","Insieme: 1992",19,1,1,NULL,NULL,149,149,NULL,NULL
-"1990","Céline Carzo","Quand je te rêve",6,12,12,NULL,NULL,38,38,NULL,NULL
-"1990","Maywood","Ik wil alles met je delen",5,14,14,NULL,NULL,25,25,NULL,NULL
-"1990","Ketil Stokkan","Brandenburger Tor",9,20,20,NULL,NULL,8,8,NULL,NULL
-"1990","Nucha","Há sempre alguém",16,19,19,NULL,NULL,9,9,NULL,NULL
-"1990","Azúcar Moreno","Bandido",1,4,4,NULL,NULL,96,96,NULL,NULL
-"1990","Edin-Ådahl","Som en vind",18,15,15,NULL,NULL,24,24,NULL,NULL
-"1990","Egon Egemann","Musik klingt in die Welt hinaus",12,10,10,NULL,NULL,51,51,NULL,NULL
-"1990","Kayahan","Gözlerinin Hapsindeyim",4,16,16,NULL,NULL,21,21,NULL,NULL
-"1990","Emma","Give a Little Love Back to the World",7,5,5,NULL,NULL,87,87,NULL,NULL
-"1990","Tajči","Hajde da ludujemo (Хајде да лудујемо)",15,6,6,NULL,NULL,81,81,NULL,NULL
-"1991","Thomas Forstner","Venedig im Regen",6,20,20,NULL,NULL,0,0,NULL,NULL
-"1991","Clouseau","Geef het op",18,14,14,NULL,NULL,23,23,NULL,NULL
-"1991","Elena Patroklou","S.O.S.",21,8,8,NULL,NULL,60,60,NULL,NULL
-"1991","Anders Frandsen","Lige der hvor hjertet slår",13,17,17,NULL,NULL,8,8,NULL,NULL
-"1991","Kaija","Hullu yö",16,18,18,NULL,NULL,6,6,NULL,NULL
-"1991","Amina","C'est le dernier qui a parlé qui a raison",9,2,2,NULL,NULL,146,146,NULL,NULL
-"1991","Atlantis 2000","Dieser Traum darf niemals sterben",17,16,16,NULL,NULL,10,10,NULL,NULL
-"1991","Sophia Vossou","Anixi (Άνοιξη)",4,11,11,NULL,NULL,36,36,NULL,NULL
-"1991","Stefán and Eyfi","Nína",2,13,13,NULL,NULL,26,26,NULL,NULL
-"1991","Kim Jackson","Could It Be That I'm in Love",11,9,9,NULL,NULL,47,47,NULL,NULL
-"1991","Duo Datz","Kan (כאן)",15,3,3,NULL,NULL,139,139,NULL,NULL
-"1991","Peppino di Capri","Comme è ddoce 'o mare",22,6,6,NULL,NULL,89,89,NULL,NULL
-"1991","Sarah Bray","Un baiser volé",7,12,12,NULL,NULL,29,29,NULL,NULL
-"1991","Paul Giordimaina and Georgina","Could It Be",3,5,5,NULL,NULL,106,106,NULL,NULL
-"1991","Just 4 Fun","Mrs. Thompson",14,15,15,NULL,NULL,14,14,NULL,NULL
-"1991","Dulce","Lusitana paixão",12,7,7,NULL,NULL,62,62,NULL,NULL
-"1991","Sergio Dalma","Bailar pegados",19,4,4,NULL,NULL,119,119,NULL,NULL
-"1991","Carola","Fångad av en stormvind",8,1,1,NULL,NULL,146,146,NULL,NULL
-"1991","Sandra Simó","Canzone per te",5,9,9,NULL,NULL,118,118,NULL,NULL
-"1991","Can Uğurluer, İzel Çeliköz, Reyhan Karaca","İki Dakika",10,10,10,NULL,NULL,44,44,NULL,NULL
-"1991","Samantha Janus","A Message to Your Heart",20,19,19,NULL,NULL,47,47,NULL,NULL
-"1991","Baby Doll","Brazil (Бразил)",1,21,21,NULL,NULL,1,1,NULL,NULL
-"1992","Tony Wegas","Zusammen geh'n",15,10,10,NULL,NULL,63,63,NULL,NULL
-"1992","Morgane","Nous on veut des violons",2,20,20,NULL,NULL,11,11,NULL,NULL
-"1992","Evridiki","Teriazoume (Ταιριάζουμε)",9,11,11,NULL,NULL,57,57,NULL,NULL
-"1992","Lotte Nilsson and Kenny Lübcke","Alt det som ingen ser",18,12,12,NULL,NULL,47,47,NULL,NULL
-"1992","Pave","Yamma Yamma",12,23,23,NULL,NULL,4,4,NULL,NULL
-"1992","Kali","Monté la riviè",6,8,8,NULL,NULL,73,73,NULL,NULL
-"1992","Wind","Träume sind für alle da",22,16,16,NULL,NULL,27,27,NULL,NULL
-"1992","Cleopatra","Olou tou kosmou i elpida (Όλου του κόσμου η ελπίδα)",5,5,5,NULL,NULL,94,94,NULL,NULL
-"1992","Heart 2 Heart","Nei eða já",11,7,7,NULL,NULL,80,80,NULL,NULL
-"1992","Linda Martin","Why Me",17,1,1,NULL,NULL,155,155,NULL,NULL
-"1992","Dafna","Ze Rak Sport (זה רק ספורט)",3,6,6,NULL,NULL,85,85,NULL,NULL
-"1992","Mia Martini","Rapsodia",19,4,4,NULL,NULL,111,111,NULL,NULL
-"1992","Marion Welter and Kontinent","Sou fräi",14,21,21,NULL,NULL,10,10,NULL,NULL
-"1992","Mary Spiteri","Little Child",10,3,3,NULL,NULL,123,123,NULL,NULL
-"1992","Humphrey Campbell","Wijs me de weg",23,9,9,NULL,NULL,67,67,NULL,NULL
-"1992","Merethe Trøan","Visjoner",21,18,18,NULL,NULL,23,23,NULL,NULL
-"1992","Dina","Amor d'água fresca",8,17,17,NULL,NULL,26,26,NULL,NULL
-"1992","Serafín","Todo esto es la música",1,14,14,NULL,NULL,37,37,NULL,NULL
-"1992","Christer Björkman","I morgon är en annan dag",7,22,22,NULL,NULL,9,9,NULL,NULL
-"1992","Daisy Auvray","Mister Music Man",13,15,15,NULL,NULL,32,32,NULL,NULL
-"1992","Aylin Vatankoş","Yaz Bitti",4,19,19,NULL,NULL,17,17,NULL,NULL
-"1992","Michael Ball","One Step Out of Time",16,2,2,NULL,NULL,139,139,NULL,NULL
-"1992","Extra Nena","Ljubim te pesmama (Љубим те песмама)",20,13,13,NULL,NULL,44,44,NULL,NULL
-"1993","Tony Wegas","Maria Magdalena",10,14,14,NULL,NULL,32,32,NULL,NULL
-"1993","Barbara","Iemand als jij",7,24,24,NULL,NULL,3,3,NULL,NULL
-"1993","Fazla","Sva bol svijeta",18,16,16,NULL,NULL,27,27,NULL,NULL
-"1993","Put","Don't Ever Cry",21,15,15,NULL,NULL,31,31,NULL,NULL
-"1993","Zymboulakis and Van Beke","Mi stamatas (Μη σταματάς)",23,19,19,NULL,NULL,17,17,NULL,NULL
-"1993","Seebach Band","Under stjernerne på himlen",5,22,22,NULL,NULL,9,9,NULL,NULL
-"1993","Katri Helena","Tule luo",17,17,17,NULL,NULL,20,20,NULL,NULL
-"1993","Patrick Fiori","Mama Corsica",12,4,4,NULL,NULL,121,121,NULL,NULL
-"1993","Münchener Freiheit","Viel zu weit",3,18,18,NULL,NULL,18,18,NULL,NULL
-"1993","Katerina Garbi","Ellada, hora tou fotos (Ελλάδα, χώρα του φωτός)",6,9,9,NULL,NULL,64,64,NULL,NULL
-"1993","Inga","Þá veistu svarið",9,13,13,NULL,NULL,42,42,NULL,NULL
-"1993","Niamh Kavanagh","In Your Eyes",14,1,1,NULL,NULL,187,187,NULL,NULL
-"1993","Lehakat Shiru","Shiru (שירו)",24,23,23,NULL,NULL,4,4,NULL,NULL
-"1993","Enrico Ruggeri","Sole d'Europa",1,12,12,NULL,NULL,45,45,NULL,NULL
-"1993","Modern Times","Donne-moi une chance",15,20,20,NULL,NULL,11,11,NULL,NULL
-"1993","William Mangion","This Time",8,8,8,NULL,NULL,69,69,NULL,NULL
-"1993","Ruth Jacott","Vrede",20,6,6,NULL,NULL,92,92,NULL,NULL
-"1993","Silje Vige","Alle mine tankar",25,5,5,NULL,NULL,120,120,NULL,NULL
-"1993","Anabela","A cidade até ser dia",11,10,10,NULL,NULL,60,60,NULL,NULL
-"1993","1X Band","Tih deževen dan",16,22,22,NULL,NULL,9,9,NULL,NULL
-"1993","Eva Santamaría","Hombres",22,11,11,NULL,NULL,58,58,NULL,NULL
-"1993","Arvingarna","Eloise",13,7,7,NULL,NULL,89,89,NULL,NULL
-"1993","Annie Cotton","Moi, tout simplement",4,3,3,NULL,NULL,148,148,NULL,NULL
-"1993","Burak Aydos, Öztürk Baybora and Serter","Esmer Yarim",2,21,21,NULL,NULL,10,10,NULL,NULL
-"1993","Sonia","Better the Devil You Know",19,2,2,NULL,NULL,164,164,NULL,NULL
-"1994","Petra Frey","Für den Frieden der Welt",20,17,17,NULL,NULL,19,19,NULL,NULL
-"1994","Alma and Dejan","Ostani kraj mene",18,15,15,NULL,NULL,39,39,NULL,NULL
-"1994","Tony Cetinski","Nek' ti bude ljubav sva",7,16,16,NULL,NULL,27,27,NULL,NULL
-"1994","Evridiki","Ime anthropos ki ego (Είμαι άνθρωπος κι εγώ)",4,11,11,NULL,NULL,51,51,NULL,NULL
-"1994","Silvi Vrait","Nagu merelaine",10,23,23,NULL,NULL,2,2,NULL,NULL
-"1994","CatCat","Bye Bye Baby",2,21,21,NULL,NULL,11,11,NULL,NULL
-"1994","Nina Morato","Je suis un vrai garçon",25,7,7,NULL,NULL,74,74,NULL,NULL
-"1994","Mekado","Wir geben 'ne Party",14,3,3,NULL,NULL,128,128,NULL,NULL
-"1994","Kostas Bigalis and the Sea Lovers","To trehandiri (Diri Diri) (Το τρεχαντήρι (Ντίρι Ντίρι))",19,14,14,NULL,NULL,44,44,NULL,NULL
-"1994","Friderika","Kinek mondjam el vétkeimet?",22,4,4,NULL,NULL,122,122,NULL,NULL
-"1994","Sigga","Nætur",5,12,12,NULL,NULL,49,49,NULL,NULL
-"1994","Paul Harrington and Charlie McGettigan","Rock 'n' Roll Kids",3,1,1,NULL,NULL,226,226,NULL,NULL
-"1994","Ovidijus Vyšniauskas","Lopšinė mylimai",16,24,24,NULL,NULL,0,0,NULL,NULL
-"1994","Moira Stafrace and Christopher Scicluna","More than Love",12,5,5,NULL,NULL,97,97,NULL,NULL
-"1994","Willeke Alberti","Waar is de zon",13,22,22,NULL,NULL,4,4,NULL,NULL
-"1994","Elisabeth Andreasson and Jan Werner Danielsen","Duett",17,6,6,NULL,NULL,76,76,NULL,NULL
-"1994","Edyta Górniak","To nie ja!",24,2,2,NULL,NULL,166,166,NULL,NULL
-"1994","Sara","Chamar a música",8,8,8,NULL,NULL,73,73,NULL,NULL
-"1994","Dan Bittman","Dincolo de nori",11,20,20,NULL,NULL,14,14,NULL,NULL
-"1994","Youddiph","Vechny strannik (Вечный странник)",23,9,9,NULL,NULL,70,70,NULL,NULL
-"1994","Martin Ďurinda and Tublatanka","Nekonečná pieseň",15,19,19,NULL,NULL,15,15,NULL,NULL
-"1994","Alejandro Abad","Ella no es ella",21,18,18,NULL,NULL,17,17,NULL,NULL
-"1994","Marie Bergman and Roger Pontare","Stjärnorna",1,13,13,NULL,NULL,48,48,NULL,NULL
-"1994","Duilio","Sto pregando",9,19,19,NULL,NULL,15,15,NULL,NULL
-"1994","Frances Ruffelle","We Will Be Free (Lonely Symphony)",6,10,10,NULL,NULL,63,63,NULL,NULL
-"1995","Stella Jones","Die Welt dreht sich verkehrt",8,12,12,NULL,NULL,67,67,NULL,NULL
-"1995","Frédéric Etherlinck","La voix est libre",14,19,19,NULL,NULL,8,8,NULL,NULL
-"1995","Davor Popović","Dvadeset prvi vijek",4,18,18,NULL,NULL,14,14,NULL,NULL
-"1995","Magazin and Lidija","Nostalgija",11,6,6,NULL,NULL,91,91,NULL,NULL
-"1995","Alexandros Panayi","Sti fotia (Στη φωτιά)",17,9,9,NULL,NULL,79,79,NULL,NULL
-"1995","Aud Wilken","Fra Mols til Skagen",19,5,5,NULL,NULL,92,92,NULL,NULL
-"1995","Nathalie Santamaria","Il me donne rendez-vous",12,4,4,NULL,NULL,94,94,NULL,NULL
-"1995","Stone and Stone","Verliebt in Dich",3,22,22,NULL,NULL,1,1,NULL,NULL
-"1995","Elina Konstantopoulou","Pia prosefhi (Ποιά προσευχή)",23,11,11,NULL,NULL,68,68,NULL,NULL
-"1995","Csaba Szigeti","Új név egy régi ház falán",13,21,21,NULL,NULL,3,3,NULL,NULL
-"1995","Bo Halldórsson","Núna",7,14,14,NULL,NULL,31,31,NULL,NULL
-"1995","Eddie Friel","Dreamin'",2,13,13,NULL,NULL,44,44,NULL,NULL
-"1995","Liora","Amen (אמן)",21,8,8,NULL,NULL,81,81,NULL,NULL
-"1995","Mike Spiteri","Keep Me in Mind",22,10,10,NULL,NULL,76,76,NULL,NULL
-"1995","Secret Garden","Nocturne",5,1,1,NULL,NULL,148,148,NULL,NULL
-"1995","Justyna","Sama",1,17,17,NULL,NULL,15,15,NULL,NULL
-"1995","Tó Cruz","Baunilha e chocolate",16,20,20,NULL,NULL,5,5,NULL,NULL
-"1995","Philipp Kirkorov","Kolybelnaya dlya vulkana (Колыбельная для вулкана)",6,16,16,NULL,NULL,17,17,NULL,NULL
-"1995","Darja Švajger","Prisluhni mi",20,7,7,NULL,NULL,84,84,NULL,NULL
-"1995","Anabel Conde","Vuelve conmigo",9,2,2,NULL,NULL,119,119,NULL,NULL
-"1995","Jan Johansen","Se på mej",18,3,3,NULL,NULL,100,100,NULL,NULL
-"1995","Arzu Ece","Sev!",10,15,15,NULL,NULL,21,21,NULL,NULL
-"1995","Love City Groove","Love City Groove",15,10,10,NULL,NULL,76,76,NULL,NULL
-"1996","George Nussbaumer","Weil's dr guat got",8,10,10,NULL,NULL,68,68,NULL,NULL
-"1996","Lisa del Bo","Liefde is een kaartspel",16,15,15,NULL,NULL,22,22,NULL,NULL
-"1996","Amila Glamočak","Za našu ljubav",21,20,20,NULL,NULL,13,13,NULL,NULL
-"1996","Maja Blagdan","Sveta ljubav",7,4,4,NULL,NULL,98,98,NULL,NULL
-"1996","Constantinos","Mono gia mas (Μόνο για μας)",5,9,9,NULL,NULL,72,72,NULL,NULL
-"1996","Maarja-Liis Ilus and Ivo Linna","Kaelakee hääl",11,5,5,NULL,NULL,94,94,NULL,NULL
-"1996","Jasmine","Niin kaunis on taivas",18,21,21,NULL,NULL,9,9,NULL,NULL
-"1996","Dan Ar Braz and l'Héritage des Celtes","Diwanit bugale",13,17,17,NULL,NULL,18,18,NULL,NULL
-"1996","Marianna Efstratiou","Emis forame to himona anixiatika",10,13,13,NULL,NULL,36,36,NULL,NULL
-"1996","Anna Mjöll","Sjúbídú",19,12,12,NULL,NULL,51,51,NULL,NULL
-"1996","Eimear Quinn","The Voice",17,1,1,NULL,NULL,162,162,NULL,NULL
-"1996","Miriam Christine","In a Woman's Heart",6,10,10,NULL,NULL,68,68,NULL,NULL
-"1996","Maxine and Franklin Brown","De eerste keer",15,7,7,NULL,NULL,78,78,NULL,NULL
-"1996","Elisabeth Andreassen","I evighet",12,2,2,NULL,NULL,114,114,NULL,NULL
-"1996","Kasia Kowalska","Chcę znać swój grzech",20,14,14,NULL,NULL,31,31,NULL,NULL
-"1996","Lúcia Moniz","O meu coração não tem cor",4,6,6,NULL,NULL,92,92,NULL,NULL
-"1996","Marcel Palonder","Kým nás máš",22,16,16,NULL,NULL,19,19,NULL,NULL
-"1996","Regina","Dan najlepših sanj",14,19,19,NULL,NULL,16,16,NULL,NULL
-"1996","Antonio Carbonell","Ay, qué deseo",3,18,18,NULL,NULL,17,17,NULL,NULL
-"1996","One More Time","Den vilda",23,3,3,NULL,NULL,100,100,NULL,NULL
-"1996","Kathy Leander","Mon cœur l'aime",9,15,15,NULL,NULL,22,22,NULL,NULL
-"1996","Şebnem Paker","Beşinci Mevsim",1,11,11,NULL,NULL,57,57,NULL,NULL
-"1996","Gina G","Ooh Aah... Just a Little Bit",2,8,8,NULL,NULL,77,77,NULL,NULL
+"1956","Fud Leclerc","Messieurs les noyés de la Seine",3,,,,,,,,
+"1956","Mony Marc","Le Plus Beau Jour de ma vie",10,,,,,,,,
+"1956","Mathé Altéry","Le Temps perdu",5,,,,,,,,
+"1956","Dany Dauberson","Il est là",12,,,,,,,,
+"1956","Freddy Quinn","So geht das jede Nacht",11,,,,,,,,
+"1956","Walter Andreas Schwarz","Im Wartesaal zum großen Glück",4,,,,,,,,
+"1956","Franca Raimondi","Aprite le finestre",7,,,,,,,,
+"1956","Tonina Torrielli","Amami se vuoi",14,,,,,,,,
+"1956","Michèle Arnaud","Les Amants de minuit",13,,,,,,,,
+"1956","Michèle Arnaud","Ne Crois Pas",6,,,,,,,,
+"1956","Corry Brokken","Voorgoed voorbij",8,,,,,,,,
+"1956","Jetty Paerl","De vogels van Holland",1,,,,,,,,
+"1956","Lys Assia","Das alte Karussell",2,,,,,,,,
+"1956","Lys Assia","Refrain",9,1,1,,,,,,
+"1957","Bob Martin","Wohin, kleines Pony?",5,8,8,,,3,3,,
+"1957","Bobbejaan Schoepen","Straatdeuntje",1,7,7,,,5,5,,
+"1957","Birthe Wilke and Gustav Winckler","Skibet skal sejle i nat",9,3,3,,,10,10,,
+"1957","Paule Desjardins","La Belle amour",8,2,2,,,17,17,,
+"1957","Margot Hielscher","Telefon, Telefon",7,4,4,,,8,8,,
+"1957","Nunzio Gallo","Corde della mia chitarra",4,5,5,,,7,7,,
+"1957","Danièle Dupré","Tant de peine",2,4,4,,,8,8,,
+"1957","Corry Brokken","Net als toen",6,1,1,,,31,31,,
+"1957","Lys Assia","L'Enfant que j'étais",10,7,7,,,5,5,,
+"1957","Patricia Bredin","All",3,6,6,,,6,6,,
+"1958","Liane Augustin","Die ganze Welt braucht Liebe",9,5,5,,,8,8,,
+"1958","Fud Leclerc","Ma petite chatte",7,5,5,,,8,8,,
+"1958","Raquel Rastenni","Jeg rev et blad ud af min dagbog",6,7,7,,,3,3,,
+"1958","André Claveau","Dors mon amour",3,1,1,,,27,27,,
+"1958","Margot Hielscher","Für zwei Groschen Musik",8,6,6,,,5,5,,
+"1958","Domenico Modugno","Nel blu, dipinto di blu",1,3,3,,,13,13,,
+"1958","Solange Berry","Un grand amour",4,8,8,,,1,1,,
+"1958","Corry Brokken","Heel de wereld",2,8,8,,,1,1,,
+"1958","Alice Babs","Lilla stjärna",5,4,4,,,10,10,,
+"1958","Lys Assia","Giorgio",10,2,2,,,24,24,,
+"1959","Ferry Graf","Der K. und K. Kalypso aus Wien",9,8,8,,,4,4,,
+"1959","Bob Benny","Hou toch van mij",11,6,6,,,9,9,,
+"1959","Birthe Wilke","Uh, jeg ville ønske, jeg var dig",2,5,5,,,12,12,,
+"1959","Jean Philippe","Oui oui oui oui",1,3,3,,,15,15,,
+"1959","Alice and Ellen Kessler","Heut' woll'n wir tanzen geh'n",6,7,7,,,5,5,,
+"1959","Domenico Modugno","Piove",3,6,6,,,9,9,,
+"1959","Jacques Pills","Mon ami Pierrot",4,9,9,,,1,1,,
+"1959","Teddy Scholten","Een beetje",5,1,1,,,21,21,,
+"1959","Brita Borg","Augustin",7,8,8,,,4,4,,
+"1959","Christa Williams","Irgendwoher",8,4,4,,,14,14,,
+"1959","Pearl Carr and Teddy Johnson","Sing Little Birdie",10,2,2,,,16,16,,
+"1960","Harry Winter","Du hast mich so fasziniert",7,6,6,,,6,6,,
+"1960","Fud Leclerc","Mon amour pour toi",5,5,5,,,9,9,,
+"1960","Katy Bødtger","Det var en yndig tid",4,8,8,,,4,4,,
+"1960","Jacqueline Boyer","Tom Pillibi",13,1,1,,,32,32,,
+"1960","Wyn Hoop","Bonne nuit ma chérie",11,4,4,,,11,11,,
+"1960","Renato Rascel","Romantica",12,7,7,,,5,5,,
+"1960","Camillo Felgen","So laang we's du do bast",3,10,10,,,1,1,,
+"1960","François Deguelt","Ce soir-là",8,3,3,,,15,15,,
+"1960","Rudi Carrell","Wat een geluk",10,9,9,,,2,2,,
+"1960","Nora Brockstedt","Voi-voi",6,4,4,,,11,11,,
+"1960","Siw Malmkvist","Alla andra får varann",2,8,8,,,4,4,,
+"1960","Anita Traversi","Cielo e terra",9,7,7,,,5,5,,
+"1960","Bryan Johnson","Looking High, High, High",1,2,2,,,25,25,,
+"1961","Jimmy Makulis","Sehnsucht",3,12,12,,,1,1,,
+"1961","Bob Benny","September, gouden roos",11,12,12,,,1,1,,
+"1961","Dario Campeotto","Angelique",13,5,5,,,12,12,,
+"1961","Laila Kinnunen","Valoa ikkunassa",4,9,9,,,6,6,,
+"1961","Jean-Paul Mauric","Printemps (avril carillonne)",9,4,4,,,13,13,,
+"1961","Lale Andersen","Einmal sehen wir uns wieder",8,10,10,,,3,3,,
+"1961","Betty Curtis","Al di là",16,5,5,,,12,12,,
+"1961","Jean-Claude Pascal","Nous les amoureux",14,1,1,,,31,31,,
+"1961","Colette Deréal","Allons, allons les enfants",2,9,9,,,6,6,,
+"1961","Greetje Kauffeld","Wat een dag",6,9,9,,,6,6,,
+"1961","Nora Brockstedt","Sommer i Palma",12,6,6,,,10,10,,
+"1961","Conchita Bautista","Estando contigo",1,8,8,,,8,8,,
+"1961","Lill-Babs","April, april",7,11,11,,,2,2,,
+"1961","Franca di Rienzo","Nous aurons demain",10,3,3,,,16,16,,
+"1961","The Allisons","Are You Sure?",15,2,2,,,24,24,,
+"1961","Ljiljana Petrović","Neke davne zvezde",5,7,7,,,9,9,,
+"1962","Eleonore Schwarz","Nur in der Wiener Luft",4,9,9,,,0,0,,
+"1962","Fud Leclerc","Ton nom",2,9,9,,,0,0,,
+"1962","Ellen Winther","Vuggevise",5,8,8,,,2,2,,
+"1962","Marion Rung","Tipi-tii",1,6,6,,,4,4,,
+"1962","Isabelle Aubret","Un premier amour",9,1,1,,,26,26,,
+"1962","Conny Froboess","Zwei kleine Italiener",7,5,5,,,9,9,,
+"1962","Claudio Villa","Addio, addio",15,7,7,,,3,3,,
+"1962","Camillo Felgen","Petit bonhomme",14,3,3,,,11,11,,
+"1962","François Deguelt","Dis rien",16,2,2,,,13,13,,
+"1962","De Spelbrekers","Katinka",8,9,9,,,0,0,,
+"1962","Inger Jacobsen","Kom sol, kom regn",10,8,8,,,2,2,,
+"1962","Víctor Balaguer","Llámame",3,9,9,,,0,0,,
+"1962","Inger Berggren","Sol och vår",6,6,6,,,4,4,,
+"1962","Jean Philippe","Le Retour",11,8,8,,,2,2,,
+"1962","Ronnie Carroll","Ring-A-Ding Girl",13,4,4,,,10,10,,
+"1962","Lola Novaković","Ne pali svetla u sumrak",12,4,4,,,10,10,,
+"1963","Carmela Corren","Vielleicht geschieht ein Wunder",4,6,6,,,16,16,,
+"1963","Jacques Raymond","Waarom?",14,9,9,,,4,4,,
+"1963","Grethe and Jørgen Ingmann","Dansevise",8,1,1,,,42,42,,
+"1963","Laila Halme","Muistojeni laulu",7,12,12,,,0,0,,
+"1963","Alain Barrière","Elle était si jolie",11,5,5,,,25,25,,
+"1963","Heidi Brühl","Marcel",3,8,8,,,5,5,,
+"1963","Emilio Pericoli","Uno per tutte",6,3,3,,,37,37,,
+"1963","Nana Mouskouri","À force de prier",16,7,7,,,13,13,,
+"1963","Françoise Hardy","L'amour s'en va",15,5,5,,,25,25,,
+"1963","Annie Palmen","Een speeldoos",2,12,12,,,0,0,,
+"1963","Anita Thallaug","Solhverv",5,12,12,,,0,0,,
+"1963","José Guardiola","Algo prodigioso",12,11,11,,,2,2,,
+"1963","Monica Zetterlund","En gång i Stockholm",13,12,12,,,0,0,,
+"1963","Esther Ofarim","T'en va pas",10,2,2,,,40,40,,
+"1963","Ronnie Carroll","Say Wonderful Things",1,4,4,,,28,28,,
+"1963","Vice Vukov","Brodovi",9,10,10,,,3,3,,
+"1964","Udo Jürgens","Warum nur, warum?",6,5,5,,,11,11,,
+"1964","Robert Cogoi","Près de ma rivière",15,9,9,,,2,2,,
+"1964","Bjørn Tidmand","Sangen om dig",4,8,8,,,4,4,,
+"1964","Lasse Mårtenson","Laiskotellen",5,6,6,,,9,9,,
+"1964","Rachel","Le Chant de Mallory",7,4,4,,,14,14,,
+"1964","Nora Nova","Man gewöhnt sich so schnell an das Schöne",9,11,11,,,0,0,,
+"1964","Gigliola Cinquetti","Non ho l'età",12,1,1,,,49,49,,
+"1964","Hugues Aufray","Dès que le printemps revient",1,4,4,,,14,14,,
+"1964","Romuald","Où sont-elles passées",10,3,3,,,15,15,,
+"1964","Anneke Grönloh","Jij bent mijn leven",2,9,9,,,2,2,,
+"1964","Arne Bendiksen","Spiral",3,7,7,,,6,6,,
+"1964","António Calvário","Oração",11,11,11,,,0,0,,
+"1964","Nelly with Tim and Tony","Caracola",16,10,10,,,1,1,,
+"1964","Anita Traversi","I miei pensieri",14,11,11,,,0,0,,
+"1964","Matt Monro","I Love the Little Things",8,2,2,,,17,17,,
+"1964","Sabahudin Kurt","Život je sklopio krug",13,11,11,,,0,0,,
+"1965","Udo Jürgens","Sag ihr, ich lass sie grüßen",6,4,4,,,16,16,,
+"1965","Lize Marke","Als het weer lente is",8,14,14,,,0,0,,
+"1965","Birgit Brüel","For din skyld",14,7,7,,,10,10,,
+"1965","Viktor Klimenko","Aurinko laskee länteen",16,14,14,,,0,0,,
+"1965","Guy Mardel","N'avoue jamais",11,3,3,,,22,22,,
+"1965","Ulla Wiesner","Paradies, wo bist du?",5,14,14,,,0,0,,
+"1965","Butch Moore","I'm Walking the Streets in the Rain",4,6,6,,,11,11,,
+"1965","Bobby Solo","Se piangi, se ridi",13,5,5,,,15,15,,
+"1965","France Gall","Poupée de cire, poupée de son",15,1,1,,,32,32,,
+"1965","Marjorie Noël","Va dire à l'amour",9,9,9,,,7,7,,
+"1965","Conny Vandenbos","Het is genoeg",1,11,11,,,5,5,,
+"1965","Kirsti Sparboe","Karusell",7,13,13,,,1,1,,
+"1965","Simone de Oliveira","Sol de inverno",12,13,13,,,1,1,,
+"1965","Conchita Bautista","Qué bueno, qué bueno",3,14,14,,,0,0,,
+"1965","Ingvar Wixell","Absent Friend",10,10,10,,,6,6,,
+"1965","Yovanna","Non, à jamais sans toi",18,8,8,,,8,8,,
+"1965","Kathy Kirby","I Belong",2,2,2,,,26,26,,
+"1965","Vice Vukov","Čežnja",17,12,12,,,2,2,,
+"1966","Udo Jürgens","Merci, Chérie",9,1,1,,,31,31,,
+"1966","Tonia","Un peu de poivre, un peu de sel",3,4,4,,,14,14,,
+"1966","Ulla Pia","Stop – mens legen er go'",2,10,10,,,4,4,,
+"1966","Ann-Christine","Playboy",7,8,8,,,7,7,,
+"1966","Dominique Walter","Chez nous",15,12,12,,,1,1,,
+"1966","Margot Eskens","Die Zeiger der Uhr",1,8,8,,,7,7,,
+"1966","Dickie Rock","Come Back to Stay",17,4,4,,,14,14,,
+"1966","Domenico Modugno","Dio, come ti amo",14,13,13,,,0,0,,
+"1966","Michèle Torr","Ce soir je t'attendais",4,8,8,,,7,7,,
+"1966","Téréza","Bien plus fort",13,13,13,,,0,0,,
+"1966","Milly Scott","Fernando en Philippo",16,11,11,,,2,2,,
+"1966","Åse Kleveland","Intet er nytt under solen",6,3,3,,,15,15,,
+"1966","Madalena Iglésias","Ele e ela",8,9,9,,,6,6,,
+"1966","Raphael","Yo soy aquél",11,6,6,,,9,9,,
+"1966","Lill Lindfors and Svante Thuresson","Nygammal vals",10,2,2,,,16,16,,
+"1966","Madeleine Pascal","Ne vois-tu pas ?",12,5,5,,,12,12,,
+"1966","Kenneth McKellar","A Man Without Love",18,7,7,,,8,8,,
+"1966","Berta Ambrož","Brez besed",5,6,6,,,9,9,,
+"1967","Peter Horton","Warum es hunderttausend Sterne gibt",3,11,11,,,2,2,,
+"1967","Louis Neefs","Ik heb zorgen",10,7,7,,,8,8,,
+"1967","Fredi","Varjoon – suojaan",8,10,10,,,3,3,,
+"1967","Noëlle Cordier","Il doit faire beau là-bas",4,3,3,,,20,20,,
+"1967","Inge Brück","Anouschka",9,8,8,,,7,7,,
+"1967","Sean Dunphy","If I Could Choose",17,2,2,,,22,22,,
+"1967","Claudio Villa","Non andare più lontano",16,9,9,,,4,4,,
+"1967","Vicky","L'amour est bleu",2,4,4,,,17,17,,
+"1967","Minouche Barelli","Boum-Badaboum",14,5,5,,,10,10,,
+"1967","Thérèse Steinmetz","Ringe-dinge",1,11,11,,,2,2,,
+"1967","Kirsti Sparboe","Dukkemann",13,11,11,,,2,2,,
+"1967","Eduardo Nascimento","O vento mudou",5,10,10,,,3,3,,
+"1967","Raphael","Hablemos del amor",12,6,6,,,9,9,,
+"1967","Östen Warnerbring","Som en dröm",7,8,8,,,7,7,,
+"1967","Géraldine","Quel cœur vas-tu briser ?",6,12,12,,,0,0,,
+"1967","Sandie Shaw","Puppet on a String",11,1,1,,,47,47,,
+"1967","Lado Leskovar","Vse rože sveta",15,8,8,,,7,7,,
+"1968","Karel Gott","Tausend Fenster",4,10,10,,,2,2,,
+"1968","Claude Lombard","Quand tu reviendras",3,7,7,,,8,8,,
+"1968","Kristina Hautala","Kun kello käy",9,11,11,,,1,1,,
+"1968","Isabelle Aubret","La Source",10,3,3,,,20,20,,
+"1968","Wencke Myhre","Ein Hoch der Liebe",16,6,6,,,11,11,,
+"1968","Pat McGeegan","Chance of a Lifetime",14,4,4,,,18,18,,
+"1968","Sergio Endrigo","Marianne",11,8,8,,,7,7,,
+"1968","Chris Baldo and Sophie Garel","Nous vivrons d'amour",5,9,9,,,5,5,,
+"1968","Line and Willy","À chacun sa chanson",7,7,7,,,8,8,,
+"1968","Ronnie Tober","Morgen",2,11,11,,,1,1,,
+"1968","Odd Børre","Stress",13,10,10,,,2,2,,
+"1968","Carlos Mendes","Verão",1,9,9,,,5,5,,
+"1968","Massiel","La La La",15,1,1,,,29,29,,
+"1968","Claes-Göran Hederström","Det börjar verka kärlek, banne mej",8,5,5,,,15,15,,
+"1968","Gianni Mascolo","Guardando il sole",6,10,10,,,2,2,,
+"1968","Cliff Richard","Congratulations",12,2,2,,,28,28,,
+"1968","Lući Kapurso and Hamo Hajdarhodžić","Jedan dan",17,7,7,,,8,8,,
+"1969","Louis Neefs","Jennifer Jennings",10,4,4,,,10,10,,
+"1969","Jarkko and Laura","Kuin silloin ennen",16,7,7,,,6,6,,
+"1969","Frida Boccara","Un jour, un enfant",14,1,1,,,18,18,,
+"1969","Siw Malmkvist","Primaballerina",13,5,5,,,8,8,,
+"1969","Muriel Day","The Wages of Love",5,4,4,,,10,10,,
+"1969","Iva Zanicchi","Due grosse lacrime bianche",6,8,8,,,5,5,,
+"1969","Romuald","Catherine",2,6,6,,,7,7,,
+"1969","Jean Jacques","Maman, Maman",4,3,3,,,11,11,,
+"1969","Lenny Kuhr","De troubadour",8,1,1,,,18,18,,
+"1969","Kirsti Sparboe","Oj, oj, oj, så glad jeg skal bli",12,10,10,,,1,1,,
+"1969","Simone de Oliveira","Desfolhada portuguesa",15,9,9,,,4,4,,
+"1969","Salomé","Vivo cantando",3,1,1,,,18,18,,
+"1969","Tommy Körberg","Judy, min vän",9,5,5,,,8,8,,
+"1969","Paola","Bonjour, Bonjour",11,2,2,,,13,13,,
+"1969","Lulu","Boom Bang-a-Bang",7,1,1,,,18,18,,
+"1969","Ivan","Pozdrav svijetu",1,8,8,,,5,5,,
+"1970","Jean Vallée","Viens l'oublier",5,6,6,,,5,5,,
+"1970","Guy Bonnet","Marie-Blanche",6,4,4,,,8,8,,
+"1970","Katja Ebstein","Wunder gibt es immer wieder",11,3,3,,,12,12,,
+"1970","Dana","All Kinds of Everything",12,1,1,,,32,32,,
+"1970","Gianni Morandi","Occhi di ragazza",3,6,6,,,5,5,,
+"1970","David Alexandre Winter","Je suis tombé du ciel",8,8,8,,,0,0,,
+"1970","Dominique Dussault","Marlène",10,6,6,,,5,5,,
+"1970","Patricia and Hearts of Soul","Waterman",1,5,5,,,7,7,,
+"1970","Julio Iglesias","Gwendolyne",9,4,4,,,8,8,,
+"1970","Henri Dès","Retour",2,4,4,,,8,8,,
+"1970","Mary Hopkin","Knock, Knock (Who's There?)",7,2,2,,,26,26,,
+"1970","Eva Sršen","Pridi, dala ti bom cvet",4,7,7,,,4,4,,
+"1971","Marianne Mendt","Musik",1,14,14,,,66,66,,
+"1971","Jacques Raymond and Lily Castel","Goeie morgen, morgen",10,13,13,,,68,68,,
+"1971","Markku Aro and Koivisto Sisters","Tie uuteen päivään",17,7,7,,,84,84,,
+"1971","Serge Lama","Un jardin sur la terre",7,9,9,,,82,82,,
+"1971","Katja Ebstein","Diese Welt",5,3,3,,,100,100,,
+"1971","Angela Farrell","One Day Love",13,10,10,,,79,79,,
+"1971","Massimo Ranieri","L'amore è un attimo",11,5,5,,,91,91,,
+"1971","Monique Melsen","Pomme, pomme, pomme",8,12,12,,,70,70,,
+"1971","Joe Grech","Marija l-Maltija",2,16,16,,,52,52,,
+"1971","Séverine","Un banc, un arbre, une rue",3,1,1,,,128,128,,
+"1971","Saskia and Serge","Tijd",14,6,6,,,85,85,,
+"1971","Hanne Krogh","Lykken er...",18,15,15,,,65,65,,
+"1971","Tonicha","Menina do alto da serra",15,8,8,,,83,83,,
+"1971","Karina","En un mundo nuevo",6,2,2,,,116,116,,
+"1971","The Family Four","Vita vidder",12,6,6,,,85,85,,
+"1971","Peter, Sue and Marc","Les Illusions de nos vingt ans",4,11,11,,,78,78,,
+"1971","Clodagh Rodgers","Jack in the Box",9,4,4,,,98,98,,
+"1971","Krunoslav Slabinac","Tvoj dječak je tužan",16,13,13,,,68,68,,
+"1972","The Milestones","Falter im Wind",11,5,5,,,100,100,,
+"1972","Serge and Christine Ghisoland","À la folie ou pas du tout",16,17,17,,,55,55,,
+"1972","Päivi Paunu and Kim Floor","Muistathan",10,12,12,,,78,78,,
+"1972","Betty Mars","Comé-comédie",2,11,11,,,81,81,,
+"1972","Mary Roos","Nur die Liebe läßt uns leben",1,3,3,,,107,107,,
+"1972","Sandie Jones","Ceol an Ghrá",3,15,15,,,72,72,,
+"1972","Nicola Di Bari","I giorni dell'arcobaleno",12,6,6,,,92,92,,
+"1972","Vicky Leandros","Après toi",17,1,1,,,128,128,,
+"1972","Helen and Joseph","L-imħabba",9,18,18,,,48,48,,
+"1972","Anne-Marie Godart and Peter MacLane","Comme on s'aime",15,16,16,,,65,65,,
+"1972","Sandra and Andres","Als het om de liefde gaat",18,4,4,,,106,106,,
+"1972","Grethe Kausland and Benny Borg","Småting",6,14,14,,,73,73,,
+"1972","Carlos Mendes","A festa da vida",7,7,7,,,90,90,,
+"1972","Jaime Morey","Amanece",4,10,10,,,83,83,,
+"1972","The Family Four","Härliga sommardag",14,13,13,,,75,75,,
+"1972","Véronique Müller","C'est la chanson de mon amour",8,8,8,,,88,88,,
+"1972","The New Seekers","Beg, Steal or Borrow",5,2,2,,,114,114,,
+"1972","Tereza","Muzika i ti",13,9,9,,,87,87,,
+"1973","Nicole and Hugo","Baby Baby",2,14,14,,,58,58,,
+"1973","Marion Rung","Tom Tom Tom",1,6,6,,,93,93,,
+"1973","Martine Clémenceau","Sans toi",16,13,13,,,65,65,,
+"1973","Gitte","Junger Tag",4,8,8,,,85,85,,
+"1973","Maxi","Do I Dream",14,9,9,,,80,80,,
+"1973","Ilanit","Ey Sham",17,4,4,,,97,97,,
+"1973","Massimo Ranieri","Chi sarà con te",10,11,11,,,74,74,,
+"1973","Anne-Marie David","Tu te reconnaîtras",11,1,1,,,129,129,,
+"1973","Marie","Un train qui part",6,8,8,,,85,85,,
+"1973","Ben Cramer","De oude muzikant",13,12,12,,,69,69,,
+"1973","Bendik Singers","It's Just a Game",5,7,7,,,89,89,,
+"1973","Fernando Tordo","Tourada",3,9,9,,,80,80,,
+"1973","Mocedades","Eres tú",7,2,2,,,125,125,,
+"1973","The Nova","You're Summer",12,5,5,,,94,94,,
+"1973","Patrick Juvet","Je vais me marier, Marie",8,10,10,,,79,79,,
+"1973","Cliff Richard","Power to All Our Friends",15,3,3,,,123,123,,
+"1973","Zdravko Čolić","Gori vatra",9,13,13,,,65,65,,
+"1974","Jacques Hustin","Fleur de liberté",11,6,6,,,10,10,,
+"1974","Carita","Keep Me Warm",1,9,9,,,4,4,,
+"1974","Cindy and Bert","Die Sommermelodie",14,10,10,,,3,3,,
+"1974","Marinella","Krassi, thalassa ke t' agori mou",5,7,7,,,7,7,,
+"1974","Tina Reynolds","Cross Your Heart",13,5,5,,,11,11,,
+"1974","Poogy","Natati La Khaiai",6,5,5,,,11,11,,
+"1974","Gigliola Cinquetti","Sì",17,2,2,,,18,18,,
+"1974","Ireen Sheer","Bye Bye I Love You",9,4,4,,,14,14,,
+"1974","Romuald","Celui qui reste et celui qui s'en va",10,4,4,,,14,14,,
+"1974","Mouth and MacNeal","I See a Star",12,3,3,,,15,15,,
+"1974","Anne-Karine and the Bendik Singers","The First Day of Love",4,10,10,,,3,3,,
+"1974","Paulo de Carvalho","E depois do adeus",16,10,10,,,3,3,,
+"1974","Peret","Canta y sé feliz",3,6,6,,,10,10,,
+"1974","ABBA","Waterloo",8,1,1,,,24,24,,
+"1974","Piera Martell","Mein Ruf nach dir",15,10,10,,,3,3,,
+"1974","Olivia Newton-John","Long Live Love",2,4,4,,,14,14,,
+"1974","Korni Grupa","Generacija '42",7,8,8,,,6,6,,
+"1975","Ann Christy","Gelukkig zijn",11,14,14,,,17,17,,
+"1975","Pihasoittajat","Old Man Fiddle",15,7,7,,,74,74,,
+"1975","Nicole","Et bonjour à toi l'artiste",3,4,4,,,91,91,,
+"1975","Joy Fleming","Ein Lied kann eine Brücke sein",4,16,16,,,15,15,,
+"1975","The Swarbriggs","That's What Friends Are For",2,9,9,,,68,68,,
+"1975","Shlomo Artzi","At Ve'Ani",12,11,11,,,40,40,,
+"1975","Wess and Dori Ghezzi","Era",19,3,3,,,115,115,,
+"1975","Géraldine","Toi",5,5,5,,,84,84,,
+"1975","Renato","Singing This Song",10,12,12,,,32,32,,
+"1975","Sophie","Une chanson c'est une lettre",14,13,13,,,22,22,,
+"1975","Teach-In","Ding-a-dong",1,1,1,,,152,152,,
+"1975","Ellen Nikolaysen","Touch My Life with Summer",6,17,17,,,11,11,,
+"1975","Duarte Mendes","Madrugada",16,15,15,,,16,16,,
+"1975","Sergio and Estíbaliz","Tú volverás",17,10,10,,,53,53,,
+"1975","Lars Berghagen","Jennie, Jennie",18,8,8,,,72,72,,
+"1975","Simone Drexel","Mikado",7,6,6,,,77,77,,
+"1975","Semiha Yankı","Seninle Bir Dakika",13,18,18,,,3,3,,
+"1975","The Shadows","Let Me Be the One",9,2,2,,,138,138,,
+"1975","Pepel in kri","Dan ljubezni",8,13,13,,,22,22,,
+"1976","Waterloo and Robinson","My Little World",14,5,5,,,80,80,,
+"1976","Pierre Rapsat","Judy et Cie",6,8,8,,,68,68,,
+"1976","Fredi and the Friends","Pump-Pump",11,11,11,,,44,44,,
+"1976","Catherine Ferry","Un, deux, trois",17,2,2,,,147,147,,
+"1976","Les Humphries Singers","Sing, Sang, Song",3,15,15,,,12,12,,
+"1976","Mariza Koch","Panaghia mou, panaghia mou",10,13,13,,,20,20,,
+"1976","Red Hurley","When",7,10,10,,,54,54,,
+"1976","Chocolate, Menta, Mastik","Emor Shalom",4,6,6,,,77,77,,
+"1976","Romina and Al Bano","We'll Live It All Again",13,7,7,,,69,69,,
+"1976","Jürgen Marcus","Chansons pour ceux qui s'aiment",5,14,14,,,17,17,,
+"1976","Mary Christy","Toi, la musique et moi",16,3,3,,,93,93,,
+"1976","Sandra Reemer","The Party Is Over Now",8,9,9,,,56,56,,
+"1976","Anne-Karine Strøm","Mata Hari",9,18,18,,,7,7,,
+"1976","Carlos do Carmo","Uma flor de verde pinho",15,12,12,,,24,24,,
+"1976","Braulio","Sobran las palabras",12,16,16,,,11,11,,
+"1976","Peter, Sue and Marc","Djambo Djambo",2,4,4,,,91,91,,
+"1976","Brotherhood of Man","Save Your Kisses for Me",1,1,1,,,164,164,,
+"1976","Ambasadori","Ne mogu skriti svoju bol",18,17,17,,,10,10,,
+"1977","Schmetterlinge","Boom Boom Boomerang",4,16,16,,,11,11,,
+"1977","Dream Express","A Million in One, Two, Three",17,7,7,,,69,69,,
+"1977","Monica Aspelund","Lapponia",16,10,10,,,50,50,,
+"1977","Marie Myriam","L'Oiseau et l'Enfant",18,1,1,,,136,136,,
+"1977","Silver Convention","Telegram",6,8,8,,,55,55,,
+"1977","Pascalis, Marianna, Robert and Bessy","Mathema solfege (Μάθημα σολφέζ)",10,5,5,,,92,92,,
+"1977","The Swarbriggs Plus Two","It's Nice to Be in Love Again",1,3,3,,,119,119,,
+"1977","Ilanit","Ahava Hi Shir Lishnayim (אהבה היא שיר לשניים)",11,11,11,,,49,49,,
+"1977","Mia Martini","Libera",15,13,13,,,33,33,,
+"1977","Anne-Marie B","Frère Jacques",7,15,15,,,17,17,,
+"1977","Michèle Torr","Une petite française",2,4,4,,,96,96,,
+"1977","Heddy Lester","De mallemolen",3,12,12,,,35,35,,
+"1977","Anita Skorgan","Casanova",5,14,14,,,18,18,,
+"1977","Os Amigos","Portugal no coração",8,14,14,,,18,18,,
+"1977","Micky","Enséñame a cantar",14,9,9,,,52,52,,
+"1977","Forbes","Beatles",13,17,17,,,2,2,,
+"1977","Pepe Lienhard Band","Swiss Lady",12,6,6,,,71,71,,
+"1977","Lynsey de Paul and Mike Moran","Rock Bottom",9,2,2,,,121,121,,
+"1978","Springtime","Mrs. Caroline Robinson",19,14,14,,,14,14,,
+"1978","Jean Vallée","L'amour ça fait chanter la vie",10,2,2,,,125,125,,
+"1978","Mabel","Boom Boom",16,15,15,,,13,13,,
+"1978","Seija Simola","Anna rakkaudelle tilaisuus",4,17,17,,,2,2,,
+"1978","Joël Prévost","Il y aura toujours des violons",6,3,3,,,119,119,,
+"1978","Ireen Sheer","Feuer",13,6,6,,,84,84,,
+"1978","Tania Tsanaklidou","Charlie Chaplin (Τσάρλυ Τσάπλιν)",15,8,8,,,66,66,,
+"1978","Colm C. T. Wilkinson","Born to Sing",1,5,5,,,86,86,,
+"1978","Izhar Cohen and the Alphabeta","A-Ba-Ni-Bi (א-ב-ני-בי)",18,1,1,,,157,157,,
+"1978","Ricchi e Poveri","Questo amore",3,11,11,,,53,53,,
+"1978","Baccara","Parlez-vous français ?",17,7,7,,,73,73,,
+"1978","Caline and Olivier Toussaint","Les Jardins de Monaco",14,4,4,,,107,107,,
+"1978","Harmony","'t Is OK",11,12,12,,,37,37,,
+"1978","Jahn Teigen","Mil etter mil",2,18,18,,,0,0,,
+"1978","Gemini","Dai li dou",5,16,16,,,5,5,,
+"1978","José Vélez","Bailemos un vals",7,9,9,,,65,65,,
+"1978","Björn Skifs","Det blir alltid värre framåt natten",20,13,13,,,26,26,,
+"1978","Carole Vinci","Vivre",9,9,9,,,65,65,,
+"1978","Nilüfer and Nazar","Sevince",12,17,17,,,2,2,,
+"1978","Co-Co","The Bad Old Days",8,10,10,,,61,61,,
+"1979","Christina Simon","Heute in Jerusalem",18,18,18,,,5,5,,
+"1979","Micha Marah","Hey Nana",12,18,18,,,5,5,,
+"1979","Tommy Seebach","Disco Tango",3,6,6,,,76,76,,
+"1979","Katri Helena","Katson sineen taivaan",5,14,14,,,38,38,,
+"1979","Anne-Marie David","Je suis l'enfant soleil",11,3,3,,,106,106,,
+"1979","Dschinghis Khan","Dschinghis Khan",9,4,4,,,86,86,,
+"1979","Elpida","Socrates (Σωκράτη)",7,8,8,,,69,69,,
+"1979","Cathal Dunne","Happy Man",4,5,5,,,80,80,,
+"1979","Milk and Honey","Hallelujah (הללויה)",10,1,1,,,125,125,,
+"1979","Matia Bazar","Raggio di luna",2,15,15,,,27,27,,
+"1979","Jeane Manson","J'ai déjà vu ça dans tes yeux",13,13,13,,,44,44,,
+"1979","Laurent Vaguener","Notre vie c'est la musique",6,16,16,,,12,12,,
+"1979","Xandra","Colorado",14,12,12,,,51,51,,
+"1979","Anita Skorgan","Oliver",16,11,11,,,57,57,,
+"1979","Manuela Bravo","Sobe, sobe, balão sobe",1,9,9,,,64,64,,
+"1979","Betty Missiego","Su canción",19,2,2,,,116,116,,
+"1979","Ted Gärdestad","Satellit",15,17,17,,,8,8,,
+"1979","Peter, Sue and Marc, Pfuri, Gorps and Kniri","Trödler und Co.",8,10,10,,,60,60,,
+"1979","Black Lace","Mary Ann",17,7,7,,,73,73,,
+"1980","Blue Danube","Du bist Musik",1,8,8,,,64,64,,
+"1980","Telex","Euro-Vision",19,17,17,,,14,14,,
+"1980","Bamses Venner","Tænker altid på dig",7,14,14,,,25,25,,
+"1980","Vesa-Matti Loiri","Huilumies",10,19,19,,,6,6,,
+"1980","Profil","Hé, hé m'sieurs dames",16,11,11,,,45,45,,
+"1980","Katja Ebstein","Theater",12,2,2,,,128,128,,
+"1980","Anna Vissi and the Epikouri","Autostop",3,13,13,,,30,30,,
+"1980","Johnny Logan","What's Another Year",17,1,1,,,143,143,,
+"1980","Alan Sorrenti","Non so che darei",6,6,6,,,87,87,,
+"1980","Sophie and Magaly","Papa Pingouin",4,9,9,,,56,56,,
+"1980","Samira Bensaïd","Bitakat Hob",5,18,18,,,7,7,,
+"1980","Maggie MacNeal","Amsterdam",15,5,5,,,93,93,,
+"1980","Sverre Kjelsberg and Mattis Hætta","Sámiid ædnan",11,16,16,,,15,15,,
+"1980","José Cid","Um grande, grande amor",14,7,7,,,71,71,,
+"1980","Trigo Limpio","Quédate esta noche",18,12,12,,,38,38,,
+"1980","Tomas Ledin","Just nu",8,10,10,,,47,47,,
+"1980","Paola","Cinéma",9,4,4,,,104,104,,
+"1980","Ajda Pekkan","Pet'r Oil",2,15,15,,,23,23,,
+"1980","Prima Donna","Love Enough for Two",13,3,3,,,106,106,,
+"1981","Marty Brem","Wenn du da bist",1,15,15,,,20,20,,
+"1981","Emly Starr","Samson",16,17,17,,,0,0,,
+"1981","Island","Monika",18,6,6,,,69,69,,
+"1981","Tommy Seebach and Debbie Cameron","Krøller eller ej",6,11,11,,,41,41,,
+"1981","Riki Sorsa","Reggae O.K.",8,14,14,,,27,27,,
+"1981","Jean Gabilou","Humanahum",9,3,3,,,125,125,,
+"1981","Lena Valaitis","Johnny Blue",3,2,2,,,132,132,,
+"1981","Yiannis Dimitras","Feggari kalokerino",17,8,8,,,55,55,,
+"1981","Sheeba","Horoscopes",12,5,5,,,105,105,,
+"1981","Habibi","Halayla",5,7,7,,,56,56,,
+"1981","Jean-Claude Pascal","C'est peut-être pas l'Amérique",4,11,11,,,41,41,,
+"1981","Linda Williams","Het is een wonder",11,9,9,,,51,51,,
+"1981","Finn Kalvik","Aldri i livet",13,17,17,,,0,0,,
+"1981","Carlos Paião","Playback",15,16,16,,,9,9,,
+"1981","Bacchelli","Y sólo tú",10,12,12,,,38,38,,
+"1981","Björn Skifs","Fångad i en dröm",20,10,10,,,50,50,,
+"1981","Peter, Sue and Marc","Io senza te",19,4,4,,,121,121,,
+"1981","Modern Folk Trio and Ayşegül","Dönme Dolap",2,16,16,,,9,9,,
+"1981","Bucks Fizz","Making Your Mind Up",14,1,1,,,136,136,,
+"1981","Seid Memić Vajta","Lejla",7,13,13,,,35,35,,
+"1982","Mess","Sonntag",10,9,9,,,57,57,,
+"1982","Stella","Si tu aimes ma musique",11,4,4,,,96,96,,
+"1982","Anna Vissi","Mono i agapi",8,5,5,,,85,85,,
+"1982","Brixx","Video-Video",13,17,17,,,5,5,,
+"1982","Kojo","Nuku pommiin",6,18,18,,,0,0,,
+"1982","Nicole","Ein bißchen Frieden",18,1,1,,,161,161,,
+"1982","The Duskeys","Here Today, Gone Tomorrow",17,11,11,,,49,49,,
+"1982","Avi Toledano","Hora",15,2,2,,,100,100,,
+"1982","Svetlana","Cours après le temps",2,6,6,,,78,78,,
+"1982","Bill van Dijk","Jij en ik",16,16,16,,,8,8,,
+"1982","Jahn Teigen and Anita Skorgan","Adieu",3,12,12,,,40,40,,
+"1982","Doce","Bem bom",1,13,13,,,32,32,,
+"1982","Lucía","Él",12,10,10,,,52,52,,
+"1982","Chips","Dag efter dag",9,8,8,,,67,67,,
+"1982","Arlette Zola","Amour on t'aime",7,3,3,,,97,97,,
+"1982","Neco","Hani?",5,15,15,,,20,20,,
+"1982","Bardo","One Step Further",4,7,7,,,76,76,,
+"1982","Aska","Halo, halo",14,14,14,,,21,21,,
+"1983","Westend","Hurricane",18,9,9,,,53,53,,
+"1983","Pas de Deux","Rendez-vous",19,16,16,,,13,13,,
+"1983","Stavros and Constantina","I agapi akoma zi",13,14,14,,,26,26,,
+"1983","Gry Johansen","Kloden drejer",15,15,15,,,16,16,,
+"1983","Ami Aspelund","Fantasiaa",9,10,10,,,41,41,,
+"1983","Guy Bonnet","Vivre",1,8,8,,,56,56,,
+"1983","Hoffmann and Hoffmann","Rücksicht",14,5,5,,,94,94,,
+"1983","Christie","Mou les",10,12,12,,,32,32,,
+"1983","Ofra Haza","Hi",16,2,2,,,136,136,,
+"1983","Riccardo Fogli","Per Lucia",5,10,10,,,41,41,,
+"1983","Corinne Hermès","Si la vie est cadeau",20,1,1,,,142,142,,
+"1983","Bernadette","Sing Me a Song",11,7,7,,,66,66,,
+"1983","Jahn Teigen","Do Re Mi",2,9,9,,,53,53,,
+"1983","Armando Gama","Esta balada que te dou",17,11,11,,,33,33,,
+"1983","Remedios Amaya","Quién maneja mi barca",7,17,17,,,0,0,,
+"1983","Carola Häggkvist","Främling",4,3,3,,,126,126,,
+"1983","Mariella Farré","Io così non ci sto",8,13,13,,,28,28,,
+"1983","Çetin Alp and the Short Wave","Opera",6,17,17,,,0,0,,
+"1983","Sweet Dreams","I'm Never Giving Up",3,6,6,,,79,79,,
+"1983","Daniel","Džuli",12,4,4,,,125,125,,
+"1984","Anita","Einfach weg",13,17,17,,,5,5,,
+"1984","Jacques Zegers","Avanti la vie",8,5,5,,,70,70,,
+"1984","Andy Paul","Anna Mari-Elena",7,13,13,,,31,31,,
+"1984","Hot Eyes","Det' lige det",10,4,4,,,101,101,,
+"1984","Kirka","Hengaillaan",16,8,8,,,46,46,,
+"1984","Annick Thoumazeau","Autant d'amoureux que d'étoiles",3,7,7,,,61,61,,
+"1984","Mary Roos","Aufrecht geh'n",14,12,12,,,34,34,,
+"1984","Linda Martin","Terminal 3",9,2,2,,,137,137,,
+"1984","Alice and Franco Battiato","I treni di Tozeur",18,5,5,,,70,70,,
+"1984","Sophie Carle","100% d'amour",2,9,9,,,39,39,,
+"1984","Maribelle","Ik hou van jou",11,12,12,,,34,34,,
+"1984","Dollie de Luxe","Lenge leve livet",5,15,15,,,29,29,,
+"1984","Maria Guinot","Silêncio e tanta gente",19,10,10,,,38,38,,
+"1984","Bravo","Lady, Lady",4,3,3,,,106,106,,
+"1984","Herreys","Diggi-Loo Diggi-Ley",1,1,1,,,145,145,,
+"1984","Rainy Day","Welche Farbe hat der Sonnenschein",17,14,14,,,30,30,,
+"1984","Beş Yıl Önce, On Yıl Sonra","Halay",15,11,11,,,37,37,,
+"1984","Belle and the Devotions","Love Games",6,6,6,,,63,63,,
+"1984","Ida and Vlado","Ciao, amore",12,16,16,,,26,26,,
+"1985","Gary Lux","Kinder dieser Welt",17,8,8,,,60,60,,
+"1985","Linda Lepomme","Laat me nu gaan",8,17,17,,,7,7,,
+"1985","Lia Vissi","To katalava arga",3,15,15,,,15,15,,
+"1985","Hot Eyes","Sku' du spørg' fra no'en",4,11,11,,,41,41,,
+"1985","Sonja Lumme","Eläköön elämä",2,9,9,,,58,58,,
+"1985","Roger Bens","Femme dans ses rêves aussi",6,10,10,,,56,56,,
+"1985","Wind","Für alle",10,2,2,,,105,105,,
+"1985","Takis Biniaris","Miazoume",19,15,15,,,15,15,,
+"1985","Maria Christian","Wait Until the Weekend Comes",1,6,6,,,91,91,,
+"1985","Izhar Cohen","Olé, Olé",11,5,5,,,93,93,,
+"1985","Al Bano and Romina Power","Magic, Oh Magic",12,7,7,,,79,79,,
+"1985","Margo, Franck Olivier, Chris Roberts, Malcolm Roberts, Ireen Sheer and Diane Solomon","Children, Kinder, Enfants",18,13,13,,,37,37,,
+"1985","Bobbysocks!","La det swinge",13,1,1,,,123,123,,
+"1985","Adelaide","Penso em ti, eu sei",9,16,16,,,9,9,,
+"1985","Paloma San Basilio","La fiesta terminó",5,14,14,,,36,36,,
+"1985","Kikki Danielsson","Bra vibrationer",16,3,3,,,103,103,,
+"1985","Mariella Farré and Pino Gasparini","Piano, piano",15,12,12,,,39,39,,
+"1985","MFÖ","Didai didai dai",7,14,14,,,36,36,,
+"1985","Vikki","Love Is",14,4,4,,,100,100,,
+"1986","Timna Brauer","Die Zeit ist einsam",16,18,18,,,12,12,,
+"1986","Sandra Kim","J'aime la vie",13,1,1,,,176,176,,
+"1986","Elpida","Tora zo",15,20,20,,,4,4,,
+"1986","Lise Haavik","Du er fuld af løgn",18,6,6,,,77,77,,
+"1986","Kari","Never the End",19,15,15,,,22,22,,
+"1986","Cocktail Chic","Européennes",3,17,17,,,13,13,,
+"1986","Ingrid Peters","Über die Brücke geh'n",14,8,8,,,62,62,,
+"1986","ICY","Gleðibankinn",6,16,16,,,19,19,,
+"1986","Luv Bug","You Can Count On Me",12,4,4,,,96,96,,
+"1986","Moti Giladi and Sarai Tzuriel","Yavo Yom",11,19,19,,,7,7,,
+"1986","Sherisse Laurence","L'Amour de ma vie",1,3,3,,,117,117,,
+"1986","Frizzle Sizzle","Alles heeft ritme",7,13,13,,,40,40,,
+"1986","Ketil Stokkan","Romeo",4,12,12,,,44,44,,
+"1986","Dora","Não sejas mau p'ra mim",20,14,14,,,28,28,,
+"1986","Cadillac","Valentino",9,10,10,,,51,51,,
+"1986","Lasse Holm and Monica Törnell","E' de' det här du kallar kärlek",17,5,5,,,78,78,,
+"1986","Daniela Simons","Pas pour moi",10,2,2,,,140,140,,
+"1986","Klips ve Onlar","Halley",8,9,9,,,53,53,,
+"1986","Ryder","Runner in the Night",5,7,7,,,72,72,,
+"1986","Doris Dragović","Željo moja",2,11,11,,,49,49,,
+"1987","Gary Lux","Nur noch Gefühl",3,19,19,,,8,8,,
+"1987","Liliane Saint-Pierre","Soldiers of Love",5,10,10,,,56,56,,
+"1987","Alexia","Aspro mavro",17,6,6,,,80,80,,
+"1987","Bandjo with Anne-Cathrine Herdorf","En lille melodi",19,5,5,,,83,83,,
+"1987","Vicky Rosti","Sata salamaa",18,14,14,,,32,32,,
+"1987","Christine Minier","Les mots d'amour n'ont pas de dimanche",15,13,13,,,44,44,,
+"1987","Wind","Laß die Sonne in dein Herz",16,2,2,,,141,141,,
+"1987","Bang","Stop",11,9,9,,,64,64,,
+"1987","Halla Margrét","Hægt og hljótt",4,15,15,,,28,28,,
+"1987","Johnny Logan","Hold Me Now",20,1,1,,,172,172,,
+"1987","Datner and Kushnir","Shir Habatlanim",2,7,7,,,73,73,,
+"1987","Umberto Tozzi and Raf","Gente di mare",7,3,3,,,103,103,,
+"1987","Plastic Bertrand","Amour amour",13,20,20,,,4,4,,
+"1987","Marcha","Rechtop in de wind",12,5,5,,,83,83,,
+"1987","Kate Gulbrandsen","Mitt liv",1,8,8,,,65,65,,
+"1987","Nevada","Neste barco à vela",8,17,17,,,15,15,,
+"1987","Patricia Kraus","No estás solo",9,18,18,,,10,10,,
+"1987","Lotta Engberg","Boogaloo",6,11,11,,,50,50,,
+"1987","Carol Rich","Moitié moitié",22,16,16,,,26,26,,
+"1987","Seyyal Taner and Grup Lokomotif","Şarkım Sevgi Üstüne",10,21,21,,,0,0,,
+"1987","Rikki","Only the Light",14,12,12,,,47,47,,
+"1987","Novi fosili","Ja sam za ples",21,4,4,,,92,92,,
+"1988","Wilfried","Lisa Mona Lisa",12,19,19,,,0,0,,
+"1988","Reynaert","Laissez briller le soleil",16,17,17,,,5,5,,
+"1988","Hot Eyes","Ka' du se hva' jeg sa'",13,3,3,,,92,92,,
+"1988","Boulevard","Nauravat silmät muistetaan",3,18,18,,,3,3,,
+"1988","Gérard Lenorman","Chanteur de charme",19,10,10,,,64,64,,
+"1988","Maxi and Chris Garden","Lied für einen Freund",11,13,13,,,48,48,,
+"1988","Afroditi Fryda","Clown",14,16,16,,,10,10,,
+"1988","Beathoven","Sókrates",1,15,15,,,20,20,,
+"1988","Jump the Gun","Take Him Home",10,8,8,,,79,79,,
+"1988","Yardena Arazi","Ben Adam",8,7,7,,,85,85,,
+"1988","Luca Barbarossa","Ti scrivo",18,12,12,,,52,52,,
+"1988","Lara Fabian","Croire",17,4,4,,,90,90,,
+"1988","Gerard Joling","Shangri-La",7,9,9,,,70,70,,
+"1988","Karoline Krüger","For vår jord",15,5,5,,,88,88,,
+"1988","Dora","Voltarei",20,17,17,,,5,5,,
+"1988","La Década","La chica que yo quiero (Made in Spain)",6,11,11,,,58,58,,
+"1988","Tommy Körberg","Stad i ljus",2,12,12,,,52,52,,
+"1988","Céline Dion","Ne partez pas sans moi",9,1,1,,,137,137,,
+"1988","MFÖ","Sufi (Hey Ya Hey)",5,14,14,,,37,37,,
+"1988","Scott Fitzgerald","Go",4,2,2,,,136,136,,
+"1988","Srebrna krila","Mangup",21,6,6,,,87,87,,
+"1989","Thomas Forstner","Nur ein Lied",13,5,5,,,97,97,,
+"1989","Ingeborg","Door de wind",6,18,18,,,13,13,,
+"1989","Fanny Polymeri and Yiannis Savvidakis","Apopse as vrethoume",17,10,10,,,51,51,,
+"1989","Birthe Kjær","Vi maler byen rød",12,3,3,,,111,111,,
+"1989","Anneli Saaristo","La dolce vita",14,7,7,,,76,76,,
+"1989","Nathalie Pâque","J'ai volé la vie",15,8,8,,,60,60,,
+"1989","Nino de Angelo","Flieger",21,13,13,,,46,46,,
+"1989","Marianna","To diko sou asteri",19,9,9,,,56,56,,
+"1989","Daníel","Það sem enginn sér",20,21,21,,,0,0,,
+"1989","Kiev Connolly and the Missing Passengers","The Real Me",3,17,17,,,21,21,,
+"1989","Gili and Galit","Derekh Hamelekh",2,11,11,,,50,50,,
+"1989","Anna Oxa and Fausto Leali","Avrei voluto",1,9,9,,,56,56,,
+"1989","Park Café","Monsieur",11,19,19,,,8,8,,
+"1989","Justine Pelmelay","Blijf zoals je bent",4,14,14,,,45,45,,
+"1989","Britt Synnøve Johansen","Venners nærhet",8,16,16,,,30,30,,
+"1989","Da Vinci","Conquistador",9,15,15,,,39,39,,
+"1989","Nina","Nacida para amar",16,6,6,,,88,88,,
+"1989","Tommy Nilsson","En dag",10,4,4,,,110,110,,
+"1989","Furbaz","Viver senza tei",18,12,12,,,47,47,,
+"1989","Pan","Bana Bana",5,20,20,,,5,5,,
+"1989","Live Report","Why Do I Always Get It Wrong",7,2,2,,,130,130,,
+"1989","Riva","Rock Me",22,1,1,,,137,137,,
+"1990","Simone","Keine Mauern mehr",20,9,9,,,58,58,,
+"1990","Philippe Lafontaine","Macédomienne",3,11,11,,,46,46,,
+"1990","Anastasiou","Milas poli (Μιλάς πολύ)",21,13,13,,,36,36,,
+"1990","Lonnie Devantier","Hallo Hallo",11,7,7,,,64,64,,
+"1990","Beat","Fri?",22,20,20,,,8,8,,
+"1990","Joëlle Ursull","White and Black Blues",14,2,2,,,132,132,,
+"1990","Chris Kempers and Daniel Kovac","Frei zu leben",13,8,8,,,60,60,,
+"1990","Christos Callow","Horis skopo (Χωρίς σκοπό)",2,18,18,,,11,11,,
+"1990","Stjórnin","Eitt lag enn",8,3,3,,,124,124,,
+"1990","Liam Reilly","Somewhere in Europe",17,2,2,,,132,132,,
+"1990","Rita","Shara Barkhovot (שרה ברחובות)",10,17,17,,,16,16,,
+"1990","Toto Cutugno","Insieme: 1992",19,1,1,,,149,149,,
+"1990","Céline Carzo","Quand je te rêve",6,12,12,,,38,38,,
+"1990","Maywood","Ik wil alles met je delen",5,14,14,,,25,25,,
+"1990","Ketil Stokkan","Brandenburger Tor",9,20,20,,,8,8,,
+"1990","Nucha","Há sempre alguém",16,19,19,,,9,9,,
+"1990","Azúcar Moreno","Bandido",1,4,4,,,96,96,,
+"1990","Edin-Ådahl","Som en vind",18,15,15,,,24,24,,
+"1990","Egon Egemann","Musik klingt in die Welt hinaus",12,10,10,,,51,51,,
+"1990","Kayahan","Gözlerinin Hapsindeyim",4,16,16,,,21,21,,
+"1990","Emma","Give a Little Love Back to the World",7,5,5,,,87,87,,
+"1990","Tajči","Hajde da ludujemo (Хајде да лудујемо)",15,6,6,,,81,81,,
+"1991","Thomas Forstner","Venedig im Regen",6,20,20,,,0,0,,
+"1991","Clouseau","Geef het op",18,14,14,,,23,23,,
+"1991","Elena Patroklou","S.O.S.",21,8,8,,,60,60,,
+"1991","Anders Frandsen","Lige der hvor hjertet slår",13,17,17,,,8,8,,
+"1991","Kaija","Hullu yö",16,18,18,,,6,6,,
+"1991","Amina","C'est le dernier qui a parlé qui a raison",9,2,2,,,146,146,,
+"1991","Atlantis 2000","Dieser Traum darf niemals sterben",17,16,16,,,10,10,,
+"1991","Sophia Vossou","Anixi (Άνοιξη)",4,11,11,,,36,36,,
+"1991","Stefán and Eyfi","Nína",2,13,13,,,26,26,,
+"1991","Kim Jackson","Could It Be That I'm in Love",11,9,9,,,47,47,,
+"1991","Duo Datz","Kan (כאן)",15,3,3,,,139,139,,
+"1991","Peppino di Capri","Comme è ddoce 'o mare",22,6,6,,,89,89,,
+"1991","Sarah Bray","Un baiser volé",7,12,12,,,29,29,,
+"1991","Paul Giordimaina and Georgina","Could It Be",3,5,5,,,106,106,,
+"1991","Just 4 Fun","Mrs. Thompson",14,15,15,,,14,14,,
+"1991","Dulce","Lusitana paixão",12,7,7,,,62,62,,
+"1991","Sergio Dalma","Bailar pegados",19,4,4,,,119,119,,
+"1991","Carola","Fångad av en stormvind",8,1,1,,,146,146,,
+"1991","Sandra Simó","Canzone per te",5,9,9,,,118,118,,
+"1991","Can Uğurluer, İzel Çeliköz, Reyhan Karaca","İki Dakika",10,10,10,,,44,44,,
+"1991","Samantha Janus","A Message to Your Heart",20,19,19,,,47,47,,
+"1991","Baby Doll","Brazil (Бразил)",1,21,21,,,1,1,,
+"1992","Tony Wegas","Zusammen geh'n",15,10,10,,,63,63,,
+"1992","Morgane","Nous on veut des violons",2,20,20,,,11,11,,
+"1992","Evridiki","Teriazoume (Ταιριάζουμε)",9,11,11,,,57,57,,
+"1992","Lotte Nilsson and Kenny Lübcke","Alt det som ingen ser",18,12,12,,,47,47,,
+"1992","Pave","Yamma Yamma",12,23,23,,,4,4,,
+"1992","Kali","Monté la riviè",6,8,8,,,73,73,,
+"1992","Wind","Träume sind für alle da",22,16,16,,,27,27,,
+"1992","Cleopatra","Olou tou kosmou i elpida (Όλου του κόσμου η ελπίδα)",5,5,5,,,94,94,,
+"1992","Heart 2 Heart","Nei eða já",11,7,7,,,80,80,,
+"1992","Linda Martin","Why Me",17,1,1,,,155,155,,
+"1992","Dafna","Ze Rak Sport (זה רק ספורט)",3,6,6,,,85,85,,
+"1992","Mia Martini","Rapsodia",19,4,4,,,111,111,,
+"1992","Marion Welter and Kontinent","Sou fräi",14,21,21,,,10,10,,
+"1992","Mary Spiteri","Little Child",10,3,3,,,123,123,,
+"1992","Humphrey Campbell","Wijs me de weg",23,9,9,,,67,67,,
+"1992","Merethe Trøan","Visjoner",21,18,18,,,23,23,,
+"1992","Dina","Amor d'água fresca",8,17,17,,,26,26,,
+"1992","Serafín","Todo esto es la música",1,14,14,,,37,37,,
+"1992","Christer Björkman","I morgon är en annan dag",7,22,22,,,9,9,,
+"1992","Daisy Auvray","Mister Music Man",13,15,15,,,32,32,,
+"1992","Aylin Vatankoş","Yaz Bitti",4,19,19,,,17,17,,
+"1992","Michael Ball","One Step Out of Time",16,2,2,,,139,139,,
+"1992","Extra Nena","Ljubim te pesmama (Љубим те песмама)",20,13,13,,,44,44,,
+"1993","Tony Wegas","Maria Magdalena",10,14,14,,,32,32,,
+"1993","Barbara","Iemand als jij",7,24,24,,,3,3,,
+"1993","Fazla","Sva bol svijeta",18,16,16,,,27,27,,
+"1993","Put","Don't Ever Cry",21,15,15,,,31,31,,
+"1993","Zymboulakis and Van Beke","Mi stamatas (Μη σταματάς)",23,19,19,,,17,17,,
+"1993","Seebach Band","Under stjernerne på himlen",5,22,22,,,9,9,,
+"1993","Katri Helena","Tule luo",17,17,17,,,20,20,,
+"1993","Patrick Fiori","Mama Corsica",12,4,4,,,121,121,,
+"1993","Münchener Freiheit","Viel zu weit",3,18,18,,,18,18,,
+"1993","Katerina Garbi","Ellada, hora tou fotos (Ελλάδα, χώρα του φωτός)",6,9,9,,,64,64,,
+"1993","Inga","Þá veistu svarið",9,13,13,,,42,42,,
+"1993","Niamh Kavanagh","In Your Eyes",14,1,1,,,187,187,,
+"1993","Lehakat Shiru","Shiru (שירו)",24,23,23,,,4,4,,
+"1993","Enrico Ruggeri","Sole d'Europa",1,12,12,,,45,45,,
+"1993","Modern Times","Donne-moi une chance",15,20,20,,,11,11,,
+"1993","William Mangion","This Time",8,8,8,,,69,69,,
+"1993","Ruth Jacott","Vrede",20,6,6,,,92,92,,
+"1993","Silje Vige","Alle mine tankar",25,5,5,,,120,120,,
+"1993","Anabela","A cidade até ser dia",11,10,10,,,60,60,,
+"1993","1X Band","Tih deževen dan",16,22,22,,,9,9,,
+"1993","Eva Santamaría","Hombres",22,11,11,,,58,58,,
+"1993","Arvingarna","Eloise",13,7,7,,,89,89,,
+"1993","Annie Cotton","Moi, tout simplement",4,3,3,,,148,148,,
+"1993","Burak Aydos, Öztürk Baybora and Serter","Esmer Yarim",2,21,21,,,10,10,,
+"1993","Sonia","Better the Devil You Know",19,2,2,,,164,164,,
+"1994","Petra Frey","Für den Frieden der Welt",20,17,17,,,19,19,,
+"1994","Alma and Dejan","Ostani kraj mene",18,15,15,,,39,39,,
+"1994","Tony Cetinski","Nek' ti bude ljubav sva",7,16,16,,,27,27,,
+"1994","Evridiki","Ime anthropos ki ego (Είμαι άνθρωπος κι εγώ)",4,11,11,,,51,51,,
+"1994","Silvi Vrait","Nagu merelaine",10,23,23,,,2,2,,
+"1994","CatCat","Bye Bye Baby",2,21,21,,,11,11,,
+"1994","Nina Morato","Je suis un vrai garçon",25,7,7,,,74,74,,
+"1994","Mekado","Wir geben 'ne Party",14,3,3,,,128,128,,
+"1994","Kostas Bigalis and the Sea Lovers","To trehandiri (Diri Diri) (Το τρεχαντήρι (Ντίρι Ντίρι))",19,14,14,,,44,44,,
+"1994","Friderika","Kinek mondjam el vétkeimet?",22,4,4,,,122,122,,
+"1994","Sigga","Nætur",5,12,12,,,49,49,,
+"1994","Paul Harrington and Charlie McGettigan","Rock 'n' Roll Kids",3,1,1,,,226,226,,
+"1994","Ovidijus Vyšniauskas","Lopšinė mylimai",16,24,24,,,0,0,,
+"1994","Moira Stafrace and Christopher Scicluna","More than Love",12,5,5,,,97,97,,
+"1994","Willeke Alberti","Waar is de zon",13,22,22,,,4,4,,
+"1994","Elisabeth Andreasson and Jan Werner Danielsen","Duett",17,6,6,,,76,76,,
+"1994","Edyta Górniak","To nie ja!",24,2,2,,,166,166,,
+"1994","Sara","Chamar a música",8,8,8,,,73,73,,
+"1994","Dan Bittman","Dincolo de nori",11,20,20,,,14,14,,
+"1994","Youddiph","Vechny strannik (Вечный странник)",23,9,9,,,70,70,,
+"1994","Martin Ďurinda and Tublatanka","Nekonečná pieseň",15,19,19,,,15,15,,
+"1994","Alejandro Abad","Ella no es ella",21,18,18,,,17,17,,
+"1994","Marie Bergman and Roger Pontare","Stjärnorna",1,13,13,,,48,48,,
+"1994","Duilio","Sto pregando",9,19,19,,,15,15,,
+"1994","Frances Ruffelle","We Will Be Free (Lonely Symphony)",6,10,10,,,63,63,,
+"1995","Stella Jones","Die Welt dreht sich verkehrt",8,12,12,,,67,67,,
+"1995","Frédéric Etherlinck","La voix est libre",14,19,19,,,8,8,,
+"1995","Davor Popović","Dvadeset prvi vijek",4,18,18,,,14,14,,
+"1995","Magazin and Lidija","Nostalgija",11,6,6,,,91,91,,
+"1995","Alexandros Panayi","Sti fotia (Στη φωτιά)",17,9,9,,,79,79,,
+"1995","Aud Wilken","Fra Mols til Skagen",19,5,5,,,92,92,,
+"1995","Nathalie Santamaria","Il me donne rendez-vous",12,4,4,,,94,94,,
+"1995","Stone and Stone","Verliebt in Dich",3,22,22,,,1,1,,
+"1995","Elina Konstantopoulou","Pia prosefhi (Ποιά προσευχή)",23,11,11,,,68,68,,
+"1995","Csaba Szigeti","Új név egy régi ház falán",13,21,21,,,3,3,,
+"1995","Bo Halldórsson","Núna",7,14,14,,,31,31,,
+"1995","Eddie Friel","Dreamin'",2,13,13,,,44,44,,
+"1995","Liora","Amen (אמן)",21,8,8,,,81,81,,
+"1995","Mike Spiteri","Keep Me in Mind",22,10,10,,,76,76,,
+"1995","Secret Garden","Nocturne",5,1,1,,,148,148,,
+"1995","Justyna","Sama",1,17,17,,,15,15,,
+"1995","Tó Cruz","Baunilha e chocolate",16,20,20,,,5,5,,
+"1995","Philipp Kirkorov","Kolybelnaya dlya vulkana (Колыбельная для вулкана)",6,16,16,,,17,17,,
+"1995","Darja Švajger","Prisluhni mi",20,7,7,,,84,84,,
+"1995","Anabel Conde","Vuelve conmigo",9,2,2,,,119,119,,
+"1995","Jan Johansen","Se på mej",18,3,3,,,100,100,,
+"1995","Arzu Ece","Sev!",10,15,15,,,21,21,,
+"1995","Love City Groove","Love City Groove",15,10,10,,,76,76,,
+"1996","George Nussbaumer","Weil's dr guat got",8,10,10,,,68,68,,
+"1996","Lisa del Bo","Liefde is een kaartspel",16,15,15,,,22,22,,
+"1996","Amila Glamočak","Za našu ljubav",21,20,20,,,13,13,,
+"1996","Maja Blagdan","Sveta ljubav",7,4,4,,,98,98,,
+"1996","Constantinos","Mono gia mas (Μόνο για μας)",5,9,9,,,72,72,,
+"1996","Maarja-Liis Ilus and Ivo Linna","Kaelakee hääl",11,5,5,,,94,94,,
+"1996","Jasmine","Niin kaunis on taivas",18,21,21,,,9,9,,
+"1996","Dan Ar Braz and l'Héritage des Celtes","Diwanit bugale",13,17,17,,,18,18,,
+"1996","Marianna Efstratiou","Emis forame to himona anixiatika",10,13,13,,,36,36,,
+"1996","Anna Mjöll","Sjúbídú",19,12,12,,,51,51,,
+"1996","Eimear Quinn","The Voice",17,1,1,,,162,162,,
+"1996","Miriam Christine","In a Woman's Heart",6,10,10,,,68,68,,
+"1996","Maxine and Franklin Brown","De eerste keer",15,7,7,,,78,78,,
+"1996","Elisabeth Andreassen","I evighet",12,2,2,,,114,114,,
+"1996","Kasia Kowalska","Chcę znać swój grzech",20,14,14,,,31,31,,
+"1996","Lúcia Moniz","O meu coração não tem cor",4,6,6,,,92,92,,
+"1996","Marcel Palonder","Kým nás máš",22,16,16,,,19,19,,
+"1996","Regina","Dan najlepših sanj",14,19,19,,,16,16,,
+"1996","Antonio Carbonell","Ay, qué deseo",3,18,18,,,17,17,,
+"1996","One More Time","Den vilda",23,3,3,,,100,100,,
+"1996","Kathy Leander","Mon cœur l'aime",9,15,15,,,22,22,,
+"1996","Şebnem Paker","Beşinci Mevsim",1,11,11,,,57,57,,
+"1996","Gina G","Ooh Aah... Just a Little Bit",2,8,8,,,77,77,,
 "1997","Bettina Soriat","One Step",4,19,18,13,5,12,12,0,12
 "1997","Alma Čardžić","Goodbye",14,17,19,8,11,22,9,13,4
 "1997","E.N.I.","Probudi me",23,16,15,11,4,24,17,7,10
@@ -916,242 +916,242 @@
 "2003","Sertab Erener","Everyway That I Can",4,1,5,2,3,167,12,155,143
 "2003","Olexandr","Hasta la vista",16,12,8,16,8,30,8,22,14
 "2003","Jemini","Cry Baby",15,24,16,25,9,0,0,0,0
-"2004","Anjeza Shahini","The Image of You",9,6,NULL,6,NULL,106,NULL,106,NULL
-"2004","Marta Roure","Jugarem a estimar-nos",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2004","Tie Break","Du bist",2,19,NULL,19,NULL,9,NULL,9,NULL
-"2004","Aleksandra and Konstantin","My Galileo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2004","Xandee","1 Life",13,20,NULL,20,NULL,7,NULL,7,NULL
-"2004","Deen","In the Disco",12,8,NULL,8,NULL,91,NULL,91,NULL
-"2004","Ivan Mikulić","You Are the Only One",11,11,NULL,11,NULL,50,NULL,50,NULL
-"2004","Lisa Andreas","Stronger Every Minute",21,5,NULL,5,NULL,170,NULL,170,NULL
-"2004","Tomas Thordarson","Shame on You",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2004","Neiokõsõ","Tii",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2004","Jari Sillanpää","Takes 2 to Tango",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2004","Jonatan Cerrada","À chaque pas",4,13,NULL,13,NULL,40,NULL,40,NULL
-"2004","Max","Can't Wait Until Tonight",8,7,NULL,7,NULL,93,NULL,93,NULL
-"2004","Sakis Rouvas","Shake It",16,3,NULL,3,NULL,252,NULL,252,NULL
-"2004","Jónsi","Heaven",17,17,NULL,17,NULL,16,NULL,16,NULL
-"2004","Chris Doran","If My World Stopped Turning",18,20,NULL,20,NULL,7,NULL,7,NULL
-"2004","David D'Or","Leha'amin",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2004","Fomins and Kleins","Dziesma par laimi",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2004","Linas and Simona","What's Happened to Your Love",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2004","Toše Proeski","Life",15,12,NULL,12,NULL,47,NULL,47,NULL
-"2004","Julie and Ludwig","On Again... Off Again",6,11,NULL,11,NULL,50,NULL,50,NULL
-"2004","Maryon","Notre planète",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2004","Re-union","Without You",7,18,NULL,18,NULL,11,NULL,11,NULL
-"2004","Knut Anders Sørum","High",3,21,NULL,21,NULL,3,NULL,3,NULL
-"2004","Blue Café","Love Song",19,15,NULL,15,NULL,27,NULL,27,NULL
-"2004","Sofia Vitória","Foi magia",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2004","Sanda","I Admit",23,16,NULL,16,NULL,18,NULL,18,NULL
-"2004","Julia Savicheva","Believe Me",14,10,NULL,10,NULL,67,NULL,67,NULL
-"2004","Željko Joksimović and Ad-Hoc Orchestra","Lane moje",5,2,NULL,2,NULL,263,NULL,263,NULL
-"2004","Platin","Stay Forever",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2004","Ramón","Para llenarme de ti",1,9,NULL,9,NULL,87,NULL,87,NULL
-"2004","Lena Philipsson","It Hurts",24,5,NULL,5,NULL,170,NULL,170,NULL
-"2004","Piero and the MusicStars","Celebrate",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2004","Athena","For Real",22,4,NULL,4,NULL,195,NULL,195,NULL
-"2004","Ruslana","Wild Dances",10,1,NULL,1,NULL,280,NULL,280,NULL
-"2004","James Fox","Hold On to Our Love",20,14,NULL,14,NULL,29,NULL,29,NULL
+"2004","Anjeza Shahini","The Image of You",9,6,,6,,106,,106,
+"2004","Marta Roure","Jugarem a estimar-nos",,,,,,,,,
+"2004","Tie Break","Du bist",2,19,,19,,9,,9,
+"2004","Aleksandra and Konstantin","My Galileo",,,,,,,,,
+"2004","Xandee","1 Life",13,20,,20,,7,,7,
+"2004","Deen","In the Disco",12,8,,8,,91,,91,
+"2004","Ivan Mikulić","You Are the Only One",11,11,,11,,50,,50,
+"2004","Lisa Andreas","Stronger Every Minute",21,5,,5,,170,,170,
+"2004","Tomas Thordarson","Shame on You",,,,,,,,,
+"2004","Neiokõsõ","Tii",,,,,,,,,
+"2004","Jari Sillanpää","Takes 2 to Tango",,,,,,,,,
+"2004","Jonatan Cerrada","À chaque pas",4,13,,13,,40,,40,
+"2004","Max","Can't Wait Until Tonight",8,7,,7,,93,,93,
+"2004","Sakis Rouvas","Shake It",16,3,,3,,252,,252,
+"2004","Jónsi","Heaven",17,17,,17,,16,,16,
+"2004","Chris Doran","If My World Stopped Turning",18,20,,20,,7,,7,
+"2004","David D'Or","Leha'amin",,,,,,,,,
+"2004","Fomins and Kleins","Dziesma par laimi",,,,,,,,,
+"2004","Linas and Simona","What's Happened to Your Love",,,,,,,,,
+"2004","Toše Proeski","Life",15,12,,12,,47,,47,
+"2004","Julie and Ludwig","On Again... Off Again",6,11,,11,,50,,50,
+"2004","Maryon","Notre planète",,,,,,,,,
+"2004","Re-union","Without You",7,18,,18,,11,,11,
+"2004","Knut Anders Sørum","High",3,21,,21,,3,,3,
+"2004","Blue Café","Love Song",19,15,,15,,27,,27,
+"2004","Sofia Vitória","Foi magia",,,,,,,,,
+"2004","Sanda","I Admit",23,16,,16,,18,,18,
+"2004","Julia Savicheva","Believe Me",14,10,,10,,67,,67,
+"2004","Željko Joksimović and Ad-Hoc Orchestra","Lane moje",5,2,,2,,263,,263,
+"2004","Platin","Stay Forever",,,,,,,,,
+"2004","Ramón","Para llenarme de ti",1,9,,9,,87,,87,
+"2004","Lena Philipsson","It Hurts",24,5,,5,,170,,170,
+"2004","Piero and the MusicStars","Celebrate",,,,,,,,,
+"2004","Athena","For Real",22,4,,4,,195,,195,
+"2004","Ruslana","Wild Dances",10,1,,1,,280,,280,
+"2004","James Fox","Hold On to Our Love",20,14,,14,,29,,29,
 "2005","Ledina Çelo","Tomorrow I Go",8,15,14,13,1,53,0,53,53
-"2005","Marian van de Wal","La mirada interior",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2005","Global.Kryner","Y así",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2005","Angelica Agurbash","Love Me Tonight",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2005","Nuno Resende","Le Grand Soir",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2005","Marian van de Wal","La mirada interior",,,,,,,,,
+"2005","Global.Kryner","Y así",,,,,,,,,
+"2005","Angelica Agurbash","Love Me Tonight",,,,,,,,,
+"2005","Nuno Resende","Le Grand Soir",,,,,,,,,
 "2005","Feminnem","Call Me",21,13,14,12,2,79,0,79,79
-"2005","Kaffe","Lorraine",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2005","Kaffe","Lorraine",,,,,,,,,
 "2005","Boris Novković feat. Lado Members","Vukovi umiru sami",18,10,9,9,0,108,7,101,94
 "2005","Constantinos Christoforou","Ela Ela",9,17,14,16,2,46,0,46,46
 "2005","Jakob Sveistrup","Talking to You",13,9,4,8,4,119,13,106,93
-"2005","Suntribe","Let's Get Loud",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2005","Geir Rönning","Why",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2005","Suntribe","Let's Get Loud",,,,,,,,,
+"2005","Geir Rönning","Why",,,,,,,,,
 "2005","Ortal","Chacun pense à soi",24,21,11,20,9,11,5,6,1
 "2005","Gracia","Run & Hide",17,22,12,21,9,4,4,0,4
 "2005","Helena Paparizou","My Number One",19,1,8,1,7,218,8,210,202
 "2005","Nox","Forogj, világ",1,11,10,11,1,97,6,91,85
-"2005","Selma","If I Had Your Love",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2005","Donna and Joe","Love?",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2005","Selma","If I Had Your Love",,,,,,,,,
+"2005","Donna and Joe","Love?",,,,,,,,,
 "2005","Shiri Maimon","HaSheket SheNish'ar",11,5,1,6,5,146,26,120,94
 "2005","Walters and Kazha","The War Is Not Over",23,3,2,4,2,152,22,130,108
-"2005","Laura and the Lovers","Little by Little",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2005","Laura and the Lovers","Little by Little",,,,,,,,,
 "2005","Martin Vučić","Make My Day",15,16,13,14,1,52,1,51,50
 "2005","Chiara","Angel",3,2,11,2,9,187,5,182,177
-"2005","Lise Darly","Tout de moi",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2005","Lise Darly","Tout de moi",,,,,,,,,
 "2005","Zdob și Zdub","Boonika bate doba",7,6,14,3,11,144,0,144,144
-"2005","Glennis Grace","My Impossible Dream",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2005","Glennis Grace","My Impossible Dream",,,,,,,,,
 "2005","Wig Wam","In My Dreams",5,8,11,6,5,125,5,120,115
-"2005","Ivan and Delfin","Czarna dziewczyna",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2005","2B","Amar",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2005","Ivan and Delfin","Czarna dziewczyna",,,,,,,,,
+"2005","2B","Amar",,,,,,,,,
 "2005","Luminița Anghel and Sistem","Let Me Try",4,4,3,4,1,148,18,130,112
 "2005","Natalia Podolskaya","Nobody Hurt No One",20,14,6,15,9,57,10,47,37
 "2005","No Name","Zauvijek moja",12,7,9,5,4,135,7,128,121
-"2005","Omar Naber","Stop",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2005","Omar Naber","Stop",,,,,,,,,
 "2005","Son de Sol","Brujería",10,19,5,19,14,28,12,16,4
 "2005","Martin Stenmarck","Las Vegas",14,18,8,17,9,30,8,22,14
 "2005","Vanilla Ninja","Cool Vibes",22,8,7,7,0,125,9,116,107
 "2005","Gülseren","Rimi Rimi Ley",6,12,14,10,4,92,0,92,92
 "2005","GreenJolly","Razom nas bahato",16,18,8,17,9,30,8,22,14
 "2005","Javine","Touch My Fire",2,20,14,18,4,18,0,18,18
-"2006","Luiz Ejlli","Zjarr e ftohtë",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2006","Jenny","Sense tu",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2006","Luiz Ejlli","Zjarr e ftohtë",,,,,,,,,
+"2006","Jenny","Sense tu",,,,,,,,,
 "2006","André","Without Your Love",24,8,12,7,5,129,0,129,129
-"2006","Polina Smolova","Mum",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2006","Kate Ryan","Je t'adore",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2006","Polina Smolova","Mum",,,,,,,,,
+"2006","Kate Ryan","Je t'adore",,,,,,,,,
 "2006","Hari Mata Hari","Lejla",13,3,1,3,2,229,24,205,181
-"2006","Mariana Popova","Let Me Cry",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2006","Mariana Popova","Let Me Cry",,,,,,,,,
 "2006","Severina","Moja štikla",20,12,8,12,4,56,4,52,48
-"2006","Annet Artani","Why Angels Cry",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2006","Annet Artani","Why Angels Cry",,,,,,,,,
 "2006","Sidsel Ben Semmane","Twist of Love",9,15,12,15,3,26,0,26,26
-"2006","Sandra","Through My Window",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2006","Sandra","Through My Window",,,,,,,,,
 "2006","Lordi","Hard Rock Hallelujah",17,1,12,1,11,292,0,292,292
 "2006","Virginie Pouchain","Il était temps",19,19,9,21,12,5,3,2,1
 "2006","Texas Lightning","No No Never",8,13,7,14,7,36,5,31,26
 "2006","Anna Vissi","Everything",16,9,4,8,4,128,8,120,112
-"2006","Silvía Night","Congratulations",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2006","Silvía Night","Congratulations",,,,,,,,,
 "2006","Brian Kennedy","Every Song Is a Cry for Love",21,10,3,10,7,93,10,83,73
 "2006","Eddie Butler","Together We Are One",3,20,12,20,8,4,0,4,4
 "2006","Vocal Group Cosmos","I Hear Your Heart",4,14,4,18,14,30,8,22,14
 "2006","LT United","We Are the Winners",14,6,5,5,0,162,7,155,148
 "2006","Elena Risteska","Ninanajna",11,12,9,11,2,56,3,53,50
 "2006","Fabrizio Faniello","I Do",7,21,11,22,11,1,1,0,1
-"2006","Séverine Ferrer","La Coco-Dance",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2006","Séverine Ferrer","La Coco-Dance",,,,,,,,,
 "2006","Arsenium feat. Natalia Gordienko and Connect-R","Loca",2,17,12,18,6,22,0,22,22
-"2006","Treble","Amambanda",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2006","Treble","Amambanda",,,,,,,,,
 "2006","Christine Guldbrandsen","Alvedansen",5,13,11,13,2,36,1,35,34
-"2006","Ich Troje","Follow My Heart",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2006","Nonstop","Coisas de nada",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2006","Ich Troje","Follow My Heart",,,,,,,,,
+"2006","Nonstop","Coisas de nada",,,,,,,,,
 "2006","Mihai Trăistariu","Tornerò",12,4,10,4,6,172,2,170,168
 "2006","Dima Bilan","Never Let You Go",10,2,8,2,6,248,4,244,240
-"2006","Anžej Dežan","Mr. Nobody",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2006","Anžej Dežan","Mr. Nobody",,,,,,,,,
 "2006","Las Ketchup","Bloody Mary",6,18,6,19,13,18,6,12,6
 "2006","Carola","Invincible",22,5,2,5,3,170,15,155,140
 "2006","six4one","If We All Give a Little",1,14,6,17,11,30,6,24,18
 "2006","Sibel Tüzün","Süper Star",23,11,5,9,4,91,7,84,77
 "2006","Tina Karol","Show Me Your Love",18,7,10,6,4,145,2,143,141
 "2006","Daz Sampson","Teenage Life",15,16,12,16,4,25,0,25,25
-"2007","Frederik Ndoci","Hear My Plea",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2007","Anonymous","Salvem el món",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2007","Frederik Ndoci","Hear My Plea",,,,,,,,,
+"2007","Anonymous","Salvem el món",,,,,,,,,
 "2007","Hayko","Anytime You Need",23,8,12,7,5,138,0,138,138
-"2007","Eric Papilaya","Get a Life – Get Alive",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2007","Eric Papilaya","Get a Life – Get Alive",,,,,,,,,
 "2007","Koldun","Work Your Magic",3,6,10,6,4,145,2,143,141
-"2007","The KMG's","LovePower",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2007","The KMG's","LovePower",,,,,,,,,
 "2007","Marija Šestić","Rijeka bez imena",1,11,4,11,7,106,8,98,90
 "2007","Elitsa Todorova and Stoyan Yankoulov","Water",21,5,12,4,8,157,0,157,157
-"2007","Dragonfly feat. Dado Topić","Vjerujem u ljubav",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2007","Evridiki","Comme ci, comme ça",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2007","Kabát","Malá dáma",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2007","DQ","Drama Queen",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2007","Gerli Padar","Partners in Crime",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2007","Dragonfly feat. Dado Topić","Vjerujem u ljubav",,,,,,,,,
+"2007","Evridiki","Comme ci, comme ça",,,,,,,,,
+"2007","Kabát","Malá dáma",,,,,,,,,
+"2007","DQ","Drama Queen",,,,,,,,,
+"2007","Gerli Padar","Partners in Crime",,,,,,,,,
 "2007","Hanna Pakarinen","Leave Me Alone",5,17,5,18,13,53,7,46,39
 "2007","Les Fatals Picards","L'Amour à la française",13,22,1,23,22,19,12,7,5
 "2007","Sopho","Visionary Dream",11,12,12,12,0,97,0,97,97
 "2007","Roger Cicero","Frauen regier'n die Welt",16,19,2,19,17,49,11,38,27
 "2007","Sarbel","Yassou Maria",10,7,5,8,3,139,7,132,125
 "2007","Magdi Rúzsa","Unsubstantial Blues",8,9,6,9,3,128,6,122,116
-"2007","Eiríkur Hauksson","Valentine Lost",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2007","Eiríkur Hauksson","Valentine Lost",,,,,,,,,
 "2007","Dervish","They Can't Stop the Spring",4,23,7,24,17,5,5,0,5
-"2007","Teapacks","Push the Button",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2007","Teapacks","Push the Button",,,,,,,,,
 "2007","Bonaparti.lv","Questa notte",14,16,12,16,4,54,0,54,54
 "2007","4Fun","Love or Leave",9,21,11,21,10,28,1,27,26
 "2007","Karolina","Mojot svet",6,14,9,14,5,73,3,70,67
-"2007","Olivia Lewis","Vertigo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2007","Olivia Lewis","Vertigo",,,,,,,,,
 "2007","Natalia Barbu","Fight",24,10,8,10,2,109,4,105,101
-"2007","Stevan Faddy","'Ajde, kroči",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2007","Edsilia Rombley","On Top of the World",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2007","Guri Schanke","Ven a bailar conmigo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2007","The Jet Set","Time to Party",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2007","Sabrina","Dança comigo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2007","Stevan Faddy","'Ajde, kroči",,,,,,,,,
+"2007","Edsilia Rombley","On Top of the World",,,,,,,,,
+"2007","Guri Schanke","Ven a bailar conmigo",,,,,,,,,
+"2007","The Jet Set","Time to Party",,,,,,,,,
+"2007","Sabrina","Dança comigo",,,,,,,,,
 "2007","Todomondo","Liubi, Liubi, I Love You",20,13,3,13,10,84,10,74,64
 "2007","Serebro","Song #1",15,3,9,3,6,207,3,204,201
 "2007","Marija Šerifović","Molitva",17,1,11,1,10,268,1,267,266
 "2007","Alenka Gotar","Cvet z juga",7,15,12,15,3,66,0,66,66
 "2007","D'Nash","I Love You Mi Vida",2,20,1,20,19,43,12,31,19
 "2007","The Ark","The Worrying Kind",12,18,10,17,7,51,2,49,47
-"2007","DJ BoBo","Vampires Are Alive",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2007","DJ BoBo","Vampires Are Alive",,,,,,,,,
 "2007","Kenan Doğulu","Shake It Up Şekerim",22,4,3,5,2,163,10,153,143
 "2007","Verka Serduchka","Dancing Lasha Tumbai",18,2,1,2,1,235,12,223,211
 "2007","Scooch","Flying the Flag (For You)",19,22,12,22,10,19,0,19,19
 "2008","Olta Boka","Zemrën e lamë peng",3,15,8,15,7,55,3,52,49
-"2008","Gisela","Casanova",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2008","Gisela","Casanova",,,,,,,,,
 "2008","Sirusho","Qélé, Qélé",5,4,3,4,1,199,8,191,183
 "2008","Elnur and Samir","Day After Day",20,8,11,8,3,132,0,132,132
-"2008","Ruslan Alehno","Hasta la vista",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2008","Ishtar","O Julissi",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2008","Ruslan Alehno","Hasta la vista",,,,,,,,,
+"2008","Ishtar","O Julissi",,,,,,,,,
 "2008","Laka","Pokušaj",6,10,11,10,1,110,0,110,110
-"2008","Deep Zone and Balthazar","DJ, Take Me Away",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2008","Deep Zone and Balthazar","DJ, Take Me Away",,,,,,,,,
 "2008","Kraljevi ulice and 75 Cents","Romanca",9,18,11,17,6,44,0,44,44
-"2008","Evdokia Kadi","Femme Fatale",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2008","Tereza Kerndlová","Have Some Fun",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2008","Evdokia Kadi","Femme Fatale",,,,,,,,,
+"2008","Tereza Kerndlová","Have Some Fun",,,,,,,,,
 "2008","Simon Mathew","All Night Long",16,14,9,13,4,60,2,58,56
-"2008","Kreisiraadio","Leto svet",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2008","Kreisiraadio","Leto svet",,,,,,,,,
 "2008","Teräsbetoni","Missä miehet ratsastaa",8,19,11,18,7,35,0,35,35
 "2008","Sébastien Tellier","Divine",19,16,11,16,5,47,0,47,47
 "2008","Diana Gurtskaya","Peace Will Come",17,11,11,11,0,83,0,83,83
 "2008","No Angels","Disappear",4,20,11,19,8,14,0,14,14
 "2008","Kalomira","Secret Combination",21,3,1,3,2,218,12,206,194
-"2008","Csézy","Candlelight",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2008","Csézy","Candlelight",,,,,,,,,
 "2008","Euroband","This Is My Life",11,13,11,12,1,64,0,64,64
-"2008","Dustin the Turkey","Irelande Douze Pointe",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2008","Dustin the Turkey","Irelande Douze Pointe",,,,,,,,,
 "2008","Boaz","The Fire in Your Eyes",7,9,2,9,7,124,10,114,104
 "2008","Pirates of the Sea","Wolves of the Sea",14,11,11,11,0,83,0,83,83
-"2008","Jeronimas Milius","Nomads in the Night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2008","Tamara, Vrčak and Adrijan","Let Me Love You",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2008","Morena","Vodka",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2008","Geta Burlacu","A Century of Love",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2008","Stefan Filipović","Zauvijek volim te",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2008","Hind","Your Heart Belongs to Me",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2008","Jeronimas Milius","Nomads in the Night",,,,,,,,,
+"2008","Tamara, Vrčak and Adrijan","Let Me Love You",,,,,,,,,
+"2008","Morena","Vodka",,,,,,,,,
+"2008","Geta Burlacu","A Century of Love",,,,,,,,,
+"2008","Stefan Filipović","Zauvijek volim te",,,,,,,,,
+"2008","Hind","Your Heart Belongs to Me",,,,,,,,,
 "2008","Maria","Hold On Be Strong",25,5,4,5,1,182,7,175,168
 "2008","Isis Gee","For Life",10,20,11,19,8,14,0,14,14
 "2008","Vânia Fernandes","Senhora do mar (Negras águas)",13,12,6,12,6,69,5,64,59
 "2008","Nico and Vlad","Pe-o margine de lume",1,17,10,17,7,45,1,44,43
 "2008","Dima Bilan","Believe",24,1,11,1,10,272,0,272,272
-"2008","Miodio","Complice",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2008","Miodio","Complice",,,,,,,,,
 "2008","Jelena Tomašević feat. Bora Dugić","Oro",23,6,11,6,5,160,0,160,160
-"2008","Rebeka Dremelj","Vrag naj vzame",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2008","Rebeka Dremelj","Vrag naj vzame",,,,,,,,,
 "2008","Rodolfo Chikilicuatre","Baila el Chiki Chiki",22,15,11,14,3,55,0,55,55
 "2008","Charlotte Perrelli","Hero",15,16,11,16,5,47,0,47,47
-"2008","Paolo Meneguzzi","Era stupendo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2008","Paolo Meneguzzi","Era stupendo",,,,,,,,,
 "2008","Mor ve Ötesi","Deli",12,7,7,7,0,138,4,134,130
 "2008","Ani Lorak","Shady Lady",18,2,11,2,9,230,0,230,230
 "2008","Andy Abraham","Even If",2,20,5,20,15,14,6,8,2
 "2009","Kejsi Tola","Carry Me in Your Dreams",19,18,21,11,10,107,26,81,55
-"2009","Susanne Georgi","La teva decisió (Get a Life)",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2009","Susanne Georgi","La teva decisió (Get a Life)",,,,,,,,,
 "2009","Inga and Anush","Jan Jan",9,11,14,9,5,182,71,111,40
 "2009","Aysel and Arash","Always",11,3,8,2,6,365,112,253,141
-"2009","Petr Elfimov","Eyes That Never Lie",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2009","Copycat","Copycat",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2009","Petr Elfimov","Eyes That Never Lie",,,,,,,,,
+"2009","Copycat","Copycat",,,,,,,,,
 "2009","Regina","Bistra voda",12,9,11,7,4,214,90,124,34
-"2009","Krassimir Avramov","Illusion",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2009","Krassimir Avramov","Illusion",,,,,,,,,
 "2009","Igor Cukrov feat. Andrea","Lijepa Tena",5,16,18,16,2,113,58,55,3
-"2009","Christina Metaxa","Firefly",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2009","Gipsy.cz","Aven Romale",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2009","Christina Metaxa","Firefly",,,,,,,,,
+"2009","Gipsy.cz","Aven Romale",,,,,,,,,
 "2009","Brinck","Believe Again",16,12,6,19,13,160,120,40,80
 "2009","Urban Symphony","Rändajad",15,6,5,6,1,253,124,129,5
 "2009","Waldo's People","Lose Control",24,25,22,21,1,42,12,30,18
 "2009","Patricia Kaas","Et s'il fallait le faire",3,8,4,17,13,218,164,54,110
 "2009","Alex Swings Oscar Sings!","Miss Kiss Kiss Bang",17,21,13,22,9,91,73,18,55
 "2009","Sakis Rouvas","This Is Our Night",8,13,10,13,3,159,93,66,27
-"2009","Zoli Ádok","Dance with Me",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2009","Zoli Ádok","Dance with Me",,,,,,,,,
 "2009","Yohanna","Is It True?",7,2,2,4,2,433,260,173,87
-"2009","Sinéad Mulvey and Black Daisy","Et Cetera",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2009","Sinéad Mulvey and Black Daisy","Et Cetera",,,,,,,,,
 "2009","Noa and Mira Awad","There Must Be Another Way",2,15,9,23,14,122,107,15,92
-"2009","Intars Busulis","Probka",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2009","Intars Busulis","Probka",,,,,,,,,
 "2009","Sasha Son","Love",1,20,19,14,5,95,31,64,33
-"2009","Next Time","Nešto što kje ostane",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2009","Next Time","Nešto što kje ostane",,,,,,,,,
 "2009","Chiara","What If We",14,19,12,22,10,105,87,18,69
 "2009","Nelly Ciobanu","Hora din Moldova",13,7,10,5,5,244,93,151,58
-"2009","Andrea Demirović","Just Get Out of My Life",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2009","The Toppers","Shine",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2009","Andrea Demirović","Just Get Out of My Life",,,,,,,,,
+"2009","The Toppers","Shine",,,,,,,,,
 "2009","Alexander Rybak","Fairytale",20,1,1,1,0,690,312,378,66
-"2009","Lidia Kopania","I Don't Wanna Leave",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2009","Lidia Kopania","I Don't Wanna Leave",,,,,,,,,
 "2009","Flor-de-Lis","Todas as ruas do amor",6,17,17,18,1,109,64,45,19
 "2009","Elena","The Balkan Girls",22,23,19,20,1,69,31,38,7
 "2009","Anastasia Prikhodko","Mamo",10,10,16,8,8,185,67,118,51
-"2009","Marko Kon and Milaan","Cipela",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2009","Kamil Mikulčík and Nela Pocisková","Leť tmou",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2009","Quartissimo feat. Martina","Love Symphony",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2009","Marko Kon and Milaan","Cipela",,,,,,,,,
+"2009","Kamil Mikulčík and Nela Pocisková","Leť tmou",,,,,,,,,
+"2009","Quartissimo feat. Martina","Love Symphony",,,,,,,,,
 "2009","Soraya Arnelas","La noche es para mí",25,24,23,20,3,47,9,38,29
 "2009","Malena Ernman","La Voix",4,22,20,15,5,86,27,59,32
-"2009","Lovebugs","The Highest Heights",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2009","Lovebugs","The Highest Heights",,,,,,,,,
 "2009","Hadise","Düm Tek Tek",18,5,7,3,4,317,114,203,89
 "2009","Svetlana Loboda","Be My Valentine! (Anti-Crisis Girl)",21,14,15,12,3,138,68,70,2
 "2009","Jade Ewen","It's My Time",23,4,3,10,7,328,223,105,118
@@ -1161,12 +1161,12 @@
 "2010","3+2 feat. Robert Wells","Butterflies",9,24,22,20,2,40,22,18,4
 "2010","Tom Dice","Me and My Guitar",7,9,2,14,12,261,185,76,109
 "2010","Vukašin Brajić","Thunder and Lightning",6,17,13,16,3,100,65,35,30
-"2010","Miro","Angel si ti",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2010","Feminnem","Lako je sve",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2010","Miro","Angel si ti",,,,,,,,,
+"2010","Feminnem","Lako je sve",,,,,,,,,
 "2010","Jon Lilygreen and the Islanders","Life Looks Better in Spring",5,22,17,21,4,73,57,16,41
 "2010","Chanée and N'evergreen","In a Moment like This",25,4,7,3,4,295,121,174,53
-"2010","Malcolm Lincoln","Siren",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2010","Kuunkuiskaajat","Työlki ellää",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2010","Malcolm Lincoln","Siren",,,,,,,,,
+"2010","Kuunkuiskaajat","Työlki ellää",,,,,,,,,
 "2010","Jessy Matador","Allez Ola Olé",18,11,20,8,12,185,34,151,117
 "2010","Sofia Nizharadze","Shine",13,5,4,9,5,287,160,127,33
 "2010","Lena","Satellite",22,1,1,1,0,430,187,243,56
@@ -1174,36 +1174,36 @@
 "2010","Hera Björk","Je ne sais quoi",16,18,17,15,2,97,57,40,17
 "2010","Niamh Kavanagh","It's for You",10,21,15,22,7,77,62,15,47
 "2010","Harel Skaat","Milim",24,13,5,18,13,161,134,27,107
-"2010","Aisha","What For?",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2010","InCulto","Eastern European Funk",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2010","Gjoko Taneski[b]","Jas ja imam silata",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2010","Thea Garrett","My Dream",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2010","Aisha","What For?",,,,,,,,,
+"2010","InCulto","Eastern European Funk",,,,,,,,,
+"2010","Gjoko Taneski[b]","Jas ja imam silata",,,,,,,,,
+"2010","Thea Garrett","My Dream",,,,,,,,,
 "2010","SunStroke Project and Olia Tira","Run Away",4,23,21,17,4,61,33,28,5
-"2010","Sieneke","Ik ben verliefd (Sha-la-lie)",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2010","Sieneke","Ik ben verliefd (Sha-la-lie)",,,,,,,,,
 "2010","Didrik Solli-Tangen","My Heart Is Yours",3,20,16,20,4,79,61,18,43
-"2010","Marcin Mroziński","Legenda",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2010","Marcin Mroziński","Legenda",,,,,,,,,
 "2010","Filipa Azevedo","Há dias assim",23,19,12,19,7,93,69,24,45
 "2010","Paula Seling and Ovi","Playing with Fire",19,2,3,6,3,322,167,155,12
 "2010","Peter Nalitch and Friends","Lost and Forgotten",20,12,14,11,3,170,63,107,44
 "2010","Milan Stanković","Ovo je Balkan",8,15,19,10,9,147,37,110,73
-"2010","Kristína","Horehronie",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2010","Ansambel Žlindra and Kalamari","Narodnozabavni rock",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2010","Kristína","Horehronie",,,,,,,,,
+"2010","Ansambel Žlindra and Kalamari","Narodnozabavni rock",,,,,,,,,
 "2010","Daniel Diges","Algo pequeñito",2,14,18,12,6,149,43,106,63
-"2010","Anna Bergendahl","This Is My Life",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2010","Michael von der Heide","Il pleut de l'or",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2010","Anna Bergendahl","This Is My Life",,,,,,,,,
+"2010","Michael von der Heide","Il pleut de l'or",,,,,,,,,
 "2010","Manga","We Could Be the Same",14,3,8,2,6,296,119,177,58
 "2010","Alyosha","Sweet People",17,10,6,13,7,223,129,94,35
 "2010","Josh Dubovie","That Sounds Good to Me",12,25,23,23,0,25,18,7,11
-"2011","Aurela Gaçe","Feel the Passion",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2011","Emmy","Boom Boom",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2011","Aurela Gaçe","Feel the Passion",,,,,,,,,
+"2011","Emmy","Boom Boom",,,,,,,,,
 "2011","Nadine Beiler","The Secret is Love",18,14,5,23,18,170,145,25,120
 "2011","Ell and Nikki","Running Scared",19,1,2,1,1,405,182,223,41
-"2011","Anastasia Vinnikova","I Love Belarus",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2011","Witloof Bay","With Love Baby",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2011","Anastasia Vinnikova","I Love Belarus",,,,,,,,,
+"2011","Witloof Bay","With Love Baby",,,,,,,,,
 "2011","Dino Merlin","Love in Rewind",2,6,11,6,5,241,90,151,61
-"2011","Poli Genova","Na inat",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2011","Daria","Celebrate",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2011","Christos Mylordos","San aggelos s'agapisa",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2011","Poli Genova","Na inat",,,,,,,,,
+"2011","Daria","Celebrate",,,,,,,,,
+"2011","Christos Mylordos","San aggelos s'agapisa",,,,,,,,,
 "2011","A Friend in London","New Tomorrow",3,7,3,17,14,229,168,61,107
 "2011","Getter Jaani","Rockefeller Street",8,23,17,22,5,106,74,32,42
 "2011","Paradise Oskar","Da Da Dam",1,20,16,20,4,122,75,47,28
@@ -1214,138 +1214,138 @@
 "2011","Kati Wolf","What About My Dreams?",5,19,20,16,4,124,60,64,4
 "2011","Sjonni's Friends","Coming Home",21,18,18,18,0,132,72,60,12
 "2011","Jedward","Lipstick",6,9,6,9,3,220,119,101,18
-"2011","Dana International","Ding Dong",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2011","Dana International","Ding Dong",,,,,,,,,
 "2011","Raphael Gualazzi","Madness of Love",12,2,1,10,9,350,251,99,152
-"2011","Musiqq","Angel in Disguise",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2011","Musiqq","Angel in Disguise",,,,,,,,,
 "2011","Evelina Sašenko","C'est ma vie",4,21,19,19,0,121,66,55,11
-"2011","Vlatko Ilievski","Rusinka",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2011","Glen Vella","One Life",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2011","Vlatko Ilievski","Rusinka",,,,,,,,,
+"2011","Glen Vella","One Life",,,,,,,,,
 "2011","Zdob şi Zdub","So Lucky",15,13,14,11,3,180,82,98,16
-"2011","3JS","Never Alone",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2011","Stella Mwangi","Haba Haba",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2011","Magdalena Tul","Jestem",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2011","Homens da Luta","A luta é alegria",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2011","3JS","Never Alone",,,,,,,,,
+"2011","Stella Mwangi","Haba Haba",,,,,,,,,
+"2011","Magdalena Tul","Jestem",,,,,,,,,
+"2011","Homens da Luta","A luta é alegria",,,,,,,,,
 "2011","Hotel FM","Change",17,16,12,13,1,165,86,79,7
 "2011","Alexey Vorobyov","Get You",10,17,24,7,17,163,25,138,113
-"2011","Senit","Stand By",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2011","Senit","Stand By",,,,,,,,,
 "2011","Nina","Čaroban",24,11,8,12,4,200,111,89,22
 "2011","Twiins","I'm Still Alive",20,12,4,21,17,199,160,39,121
-"2011","Maja Keuc","No One",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2011","Maja Keuc","No One",,,,,,,,,
 "2011","Lucía Pérez","Que me quiten lo bailao",22,22,23,15,8,111,38,73,35
 "2011","Eric Saade","Popular",7,3,9,2,7,327,106,221,115
 "2011","Anna Rossinelli","In Love for a While",13,24,22,24,2,55,53,2,51
-"2011","Yüksek Sadakat","Live It Up",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2011","Yüksek Sadakat","Live It Up",,,,,,,,,
 "2011","Mika Newton","Angel",23,4,7,4,3,285,117,168,51
 "2011","Blue","I Can",14,8,21,5,16,223,57,166,109
 "2012","Rona Nishliu","Suus",3,5,3,8,5,263,157,106,51
-"2012","Trackshittaz","Woki mit deim Popo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2012","Trackshittaz","Woki mit deim Popo",,,,,,,,,
 "2012","Sabina Babayeva","When the Music Dies",13,4,7,5,2,269,118,151,33
-"2012","Litesound","We Are the Heroes",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2012","Iris","Would You?",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2012","Litesound","We Are the Heroes",,,,,,,,,
+"2012","Iris","Would You?",,,,,,,,,
 "2012","Maya Sar","Korake ti znam",5,17,13,15,2,128,71,57,14
-"2012","Sofi Marinova","Love Unlimited",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2012","Nina Badrić","Nebo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2012","Sofi Marinova","Love Unlimited",,,,,,,,,
+"2012","Nina Badrić","Nebo",,,,,,,,,
 "2012","Ivi Adamou","La La Love",8,16,11,14,3,148,85,63,22
 "2012","Soluna Samay","Should've Known Better",15,22,18,22,4,69,51,18,33
 "2012","Ott Lepland","Kuula",11,6,5,11,6,230,152,78,74
-"2012","Pernilla","När jag blundar",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2012","Pernilla","När jag blundar",,,,,,,,,
 "2012","Anggun","Echo (You and I)",9,20,11,25,14,85,85,0,85
-"2012","Anri Jokhadze","I'm a Joker",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2012","Anri Jokhadze","I'm a Joker",,,,,,,,,
 "2012","Roman Lob","Standing Still",20,8,9,6,3,223,98,125,27
 "2012","Eleftheria Eleftheriou","Aphrodisiac",16,15,16,9,7,149,60,89,29
 "2012","Compact Disco","Sound of Our Hearts",2,23,20,21,1,50,30,20,10
 "2012","Greta Salóme and Jónsi","Never Forget",7,12,17,7,10,170,53,117,64
 "2012","Jedward","Waterline",23,18,22,9,13,103,14,89,75
-"2012","Izabo","Time",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2012","Izabo","Time",,,,,,,,,
 "2012","Nina Zilli","L'amore è femmina (Out of Love)",10,9,3,16,13,213,157,56,101
-"2012","Anmary","Beautiful Song",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2012","Anmary","Beautiful Song",,,,,,,,,
 "2012","Donny Montell","Love Is Blind",4,14,12,13,1,150,82,68,14
 "2012","Kaliopi","Crno i belo",22,16,15,10,5,148,69,79,10
 "2012","Kurt Calleja","This Is the Night",21,21,14,24,10,80,70,10,60
 "2012","Pasha Parfeny","Lăutar",26,11,8,12,4,179,104,75,29
-"2012","Rambo Amadeus","Euro Neuro",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2012","Joan Franka","You and Me",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2012","Rambo Amadeus","Euro Neuro",,,,,,,,,
+"2012","Joan Franka","You and Me",,,,,,,,,
 "2012","Tooji","Stay",12,25,21,23,2,40,24,16,8
-"2012","Filipa Sousa","Vida minha",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2012","Filipa Sousa","Vida minha",,,,,,,,,
 "2012","Mandinga","Zaleilah",14,19,17,18,1,92,53,39,14
 "2012","Buranovskiye Babushki","Party for Everybody",6,3,10,2,8,426,94,332,238
-"2012","Valentina Monetta","The Social Network Song (Oh Oh – Uh – Oh Oh)",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2012","Valentina Monetta","The Social Network Song (Oh Oh – Uh – Oh Oh)",,,,,,,,,
 "2012","Željko Joksimović","Nije ljubav stvar",24,2,2,3,1,484,173,311,138
-"2012","Max Jason Mai","Don't Close Your Eyes",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2012","Eva Boto","Verjamem",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2012","Max Jason Mai","Don't Close Your Eyes",,,,,,,,,
+"2012","Eva Boto","Verjamem",,,,,,,,,
 "2012","Pastora Soler","Quédate conmigo",19,10,4,17,13,199,154,45,109
 "2012","Loreen","Euphoria",17,1,1,1,0,639,296,343,47
-"2012","Sinplus","Unbreakable",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2012","Sinplus","Unbreakable",,,,,,,,,
 "2012","Can Bonomo","Love Me Back",18,7,19,4,15,226,50,176,126
 "2012","Gaitana","Be My Guest",25,13,6,19,13,162,125,37,88
 "2012","Engelbert Humperdinck","Love Will Set You Free",1,24,23,20,3,47,11,36,25
-"2013","Adrian Lulgjuraj and Bledar Sejko","Identitet",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Dorians","Lonely Planet",12,17,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Natália Kelly","Shine",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Farid Mammadov","Hold Me",20,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Alyona Lanskaya","Solayoh",8,15,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Roberto Bellarosa","Love Kills",6,8,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Elitsa Todorova and Stoyan Yankoulov","Samo shampioni",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Klapa s Mora","Mižerja",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Despina Olympiou","An me thimasai",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Emmelie de Forest","Only Teardrops",18,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Birgit","Et uus saaks alguse",7,19,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Krista Siegfrids","Marry Me",4,23,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Amandine Bourgeois","L'enfer et moi",1,22,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Nodi Tatishvili and Sophie Gelovani","Waterfall",25,14,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Cascada","Glorious",11,20,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Koza Mostra feat. Agathon Iakovidis","Alcohol Is Free",21,6,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","ByeAlex","Kedvesem",17,10,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Eythor Ingi","Ég á líf",19,16,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Ryan Dolan","Only Love Survives",26,25,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Moran Mazor","Rak Bishvilo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Marco Mengoni","L'essenziale",23,7,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","PeR","Here We Go",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Andrius Pojavis","Something",2,21,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Esma and Lozano","Pred da se razdeni",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Gianluca","Tomorrow",9,8,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Aliona Moon","O mie",3,11,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Who See","Igranka",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Anouk","Birds",13,9,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Margaret Berger","I Feed You My Love",24,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Cezar","It's My Life",14,12,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Dina Garipova","What If",10,5,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Valentina Monetta","Crisalide (Vola)",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Moje 3","Ljubav je svuda",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Hannah","Straight into Love",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","ESDM","Contigo hasta el final",5,24,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Robin Stjernberg","You",16,13,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Takasa","You and Me",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Zlata Ognevich","Gravity",22,3,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Bonnie Tyler","Believe in Me",15,18,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2014","Hersi","One Night's Anger",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2013","Adrian Lulgjuraj and Bledar Sejko","Identitet",,,,,,,,,
+"2013","Dorians","Lonely Planet",12,17,,,,,,,
+"2013","Natália Kelly","Shine",,,,,,,,,
+"2013","Farid Mammadov","Hold Me",20,2,,,,,,,
+"2013","Alyona Lanskaya","Solayoh",8,15,,,,,,,
+"2013","Roberto Bellarosa","Love Kills",6,8,,,,,,,
+"2013","Elitsa Todorova and Stoyan Yankoulov","Samo shampioni",,,,,,,,,
+"2013","Klapa s Mora","Mižerja",,,,,,,,,
+"2013","Despina Olympiou","An me thimasai",,,,,,,,,
+"2013","Emmelie de Forest","Only Teardrops",18,1,,,,,,,
+"2013","Birgit","Et uus saaks alguse",7,19,,,,,,,
+"2013","Krista Siegfrids","Marry Me",4,23,,,,,,,
+"2013","Amandine Bourgeois","L'enfer et moi",1,22,,,,,,,
+"2013","Nodi Tatishvili and Sophie Gelovani","Waterfall",25,14,,,,,,,
+"2013","Cascada","Glorious",11,20,,,,,,,
+"2013","Koza Mostra feat. Agathon Iakovidis","Alcohol Is Free",21,6,,,,,,,
+"2013","ByeAlex","Kedvesem",17,10,,,,,,,
+"2013","Eythor Ingi","Ég á líf",19,16,,,,,,,
+"2013","Ryan Dolan","Only Love Survives",26,25,,,,,,,
+"2013","Moran Mazor","Rak Bishvilo",,,,,,,,,
+"2013","Marco Mengoni","L'essenziale",23,7,,,,,,,
+"2013","PeR","Here We Go",,,,,,,,,
+"2013","Andrius Pojavis","Something",2,21,,,,,,,
+"2013","Esma and Lozano","Pred da se razdeni",,,,,,,,,
+"2013","Gianluca","Tomorrow",9,8,,,,,,,
+"2013","Aliona Moon","O mie",3,11,,,,,,,
+"2013","Who See","Igranka",,,,,,,,,
+"2013","Anouk","Birds",13,9,,,,,,,
+"2013","Margaret Berger","I Feed You My Love",24,4,,,,,,,
+"2013","Cezar","It's My Life",14,12,,,,,,,
+"2013","Dina Garipova","What If",10,5,,,,,,,
+"2013","Valentina Monetta","Crisalide (Vola)",,,,,,,,,
+"2013","Moje 3","Ljubav je svuda",,,,,,,,,
+"2013","Hannah","Straight into Love",,,,,,,,,
+"2013","ESDM","Contigo hasta el final",5,24,,,,,,,
+"2013","Robin Stjernberg","You",16,13,,,,,,,
+"2013","Takasa","You and Me",,,,,,,,,
+"2013","Zlata Ognevich","Gravity",22,3,,,,,,,
+"2013","Bonnie Tyler","Believe in Me",15,18,,,,,,,
+"2014","Hersi","One Night's Anger",,,,,,,,,
 "2014","Aram Mp3","Not Alone",7,4,5,3,2,318,125,193,68
 "2014","Conchita Wurst","Rise Like a Phoenix",11,1,1,1,0,535,224,311,87
 "2014","Dilara Kazimova","Start a Fire",3,13,8,20,12,134,108,26,82
 "2014","Teo","Cheesecake",2,16,18,11,7,106,50,56,6
-"2014","Axel Hirsoux","Mother",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2014","Axel Hirsoux","Mother",,,,,,,,,
 "2014","Basim","Cliche Love Song",23,14,10,13,3,128,85,43,42
-"2014","Tanja","Amazing",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2014","Tanja","Amazing",,,,,,,,,
 "2014","Softengine","Something Better",18,10,7,15,8,153,114,39,75
 "2014","Twin Twin","Moustache",14,23,26,24,2,6,5,1,4
-"2014","The Shin and Mariko","Three Minutes to Earth",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2014","The Shin and Mariko","Three Minutes to Earth",,,,,,,,,
 "2014","Elaiza","Is It Right",12,18,14,18,4,92,61,31,30
 "2014","Freaky Fortune feat. RiskyKidd","Rise Up",10,18,19,13,6,92,49,43,6
 "2014","András Kállay-Saunders","Running",21,5,4,10,6,236,138,98,40
 "2014","Pollapönk","No Prejudice",4,17,15,12,3,105,59,46,13
-"2014","Can-linn feat. Kasey Smith","Heartbeat",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2014","Mei Finegold","Same Heart",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2014","Can-linn feat. Kasey Smith","Heartbeat",,,,,,,,,
+"2014","Mei Finegold","Same Heart",,,,,,,,,
 "2014","Emma","La mia città",16,20,21,17,4,69,37,32,5
-"2014","Aarzemnieki","Cake to Bake",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2014","Vilija","Attention",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2014","Tijana","To the Sky",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2014","Aarzemnieki","Cake to Bake",,,,,,,,,
+"2014","Vilija","Attention",,,,,,,,,
+"2014","Tijana","To the Sky",,,,,,,,,
 "2014","Firelight","Coming Home",22,12,6,22,16,136,119,17,102
-"2014","Cristina Scarlat","Wild Soul",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2014","Cristina Scarlat","Wild Soul",,,,,,,,,
 "2014","Sergej Ćetković","Moj svijet",8,19,20,16,4,81,48,33,15
 "2014","The Common Linnets","Calm After the Storm",24,2,3,2,1,422,200,222,22
 "2014","Carl Espen","Silent Storm",5,11,9,15,6,141,102,39,63
 "2014","Donatan and Cleo","My Słowianie – We Are Slavic",9,8,23,5,18,185,23,162,139
-"2014","Suzy","Quero ser tua",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2014","Suzy","Quero ser tua",,,,,,,,,
 "2014","Paula Seling and Ovi","Miracle",6,9,17,9,8,154,51,103,52
 "2014","Tolmachevy Sisters","Shine",15,6,13,6,7,202,70,132,62
 "2014","Valentina Monetta","Maybe",25,22,25,21,4,34,16,18,2
@@ -1360,84 +1360,84 @@
 "2015","Guy Sebastian","Tonight Again",12,5,4,6,2,356,224,132,92
 "2015","The Makemakes","I Am Yours",14,22,13,27,14,40,40,0,40
 "2015","Elnur Hüseynov","Hour of the Wolf",24,17,12,19,7,75,48,27,21
-"2015","Uzari and Maimuna","Time",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2015","Uzari and Maimuna","Time",,,,,,,,,
 "2015","Loïc Nottet","Rhythm Inside",13,4,5,4,1,382,187,195,8
 "2015","John Karayiannis","One Thing I Should Have Done",11,18,9,23,14,71,63,8,55
-"2015","Marta Jandová and Václav Noid Bárta","Hope Never Dies",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2015","Anti Social Media","The Way You Are",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2015","Marta Jandová and Václav Noid Bárta","Hope Never Dies",,,,,,,,,
+"2015","Anti Social Media","The Way You Are",,,,,,,,,
 "2015","Elina Born and Stig Rästa","Goodbye to Yesterday",4,8,11,5,6,200,56,144,88
-"2015","Pertti Kurikan Nimipäivät","Aina mun pitää",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2015","Pertti Kurikan Nimipäivät","Aina mun pitää",,,,,,,,,
 "2015","Lisa Angell","N'oubliez pas",2,24,18,25,7,29,24,5,19
 "2015","Nina Sublatti","Warrior",23,12,10,13,3,113,62,51,11
 "2015","Ann Sophie","Black Smoke",17,25,18,26,8,28,24,4,20
 "2015","Maria Elena Kyriakou","One Last Breath",15,20,16,22,6,50,29,21,8
 "2015","Boggie","Wars for Nothing",22,19,16,21,5,53,29,24,5
-"2015","Maria Olafs","Unbroken",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2015","Molly Sterling","Playing with Numbers",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2015","Maria Olafs","Unbroken",,,,,,,,,
+"2015","Molly Sterling","Playing with Numbers",,,,,,,,,
 "2015","Nadav Guedj","Golden Boy",3,9,8,7,1,184,80,104,24
 "2015","Il Volo","Grande Amore",27,2,6,1,5,550,184,366,182
 "2015","Aminata","Love Injected",19,6,2,8,6,349,249,100,149
 "2015","Monika Linkytė and Vaidas Baumila","This Time",7,17,15,16,1,75,31,44,13
-"2015","Daniel Kajmakoski","Autumn Leaves",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2015","Amber","Warrior",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2015","Eduard Romanyuta","I Want Your Love",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2015","Daniel Kajmakoski","Autumn Leaves",,,,,,,,,
+"2015","Amber","Warrior",,,,,,,,,
+"2015","Eduard Romanyuta","I Want Your Love",,,,,,,,,
 "2015","Knez","Adio",16,13,12,14,2,96,48,48,0
-"2015","Trijntje Oosterhuis","Walk Along",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2015","Trijntje Oosterhuis","Walk Along",,,,,,,,,
 "2015","Mørland and Debrah Scarlett","A Monster Like Me",9,7,7,17,10,206,163,43,120
 "2015","Monika Kuszyńska","In the Name of Love",18,21,23,15,8,49,2,47,45
-"2015","Leonor Andrade","Há um mar que nos separa",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2015","Leonor Andrade","Há um mar que nos separa",,,,,,,,,
 "2015","Voltaj","De la capăt",20,15,19,12,7,90,21,69,48
 "2015","Polina Gagarina","A Million Voices",25,3,3,2,1,533,247,286,39
-"2015","Anita Simoncini and Michele Perniola","Chain of Lights",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2015","Anita Simoncini and Michele Perniola","Chain of Lights",,,,,,,,,
 "2015","Bojana Stamenov","Beauty Never Lies",8,10,14,10,4,120,34,86,52
 "2015","Maraaya","Here for You",1,16,12,18,6,82,48,34,14
 "2015","Edurne","Amanecer",21,23,22,20,2,34,8,26,18
 "2015","Måns Zelmerlöw","Heroes",10,1,1,3,2,642,363,279,84
-"2015","Mélanie René","Time to Shine",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2015","Mélanie René","Time to Shine",,,,,,,,,
 "2015","Electro Velvet","Still in Love with You",5,26,21,24,3,19,12,7,5
-"2016","Eneda Tarifa","Fairytale",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2016","Eneda Tarifa","Fairytale",,,,,,,,,
 "2016","Iveta Mukuchyan","LoveWave",26,7,9,7,2,249,115,134,19
 "2016","Dami Im","Sound of Silence",13,2,1,4,3,511,320,191,129
 "2016","Zoë","Loin d'ici",24,12,23,8,15,151,31,120,89
 "2016","Samra","Miracle",4,16,18,12,6,117,44,73,29
-"2016","Ivan","Help You Fly",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2016","Ivan","Help You Fly",,,,,,,,,
 "2016","Laura Tesoro","What's the Pressure",1,3,5,1,4,491,130,361,231
-"2016","Dalal and Deen feat. Ana Rucner and Jala","Ljubav je",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2016","Dalal and Deen feat. Ana Rucner and Jala","Ljubav je",,,,,,,,,
 "2016","Poli Genova","If Love Was a Crime",8,4,6,5,1,307,127,180,53
 "2016","Nina Kraljić","Lighthouse",17,22,21,19,2,73,40,33,7
 "2016","Minus One","Alter Ego",14,20,19,15,4,96,43,53,10
 "2016","Gabriela Gunčíková","I Stand",2,24,20,25,5,41,41,0,41
-"2016","Lighthouse X","Soldiers of Love",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2016","Jüri Pootsmann","Play",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2016","Sandhja","Sing It Away",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2016","Lighthouse X","Soldiers of Love",,,,,,,,,
+"2016","Jüri Pootsmann","Play",,,,,,,,,
+"2016","Sandhja","Sing It Away",,,,,,,,,
 "2016","Amir","J'ai cherché",11,6,3,9,6,257,148,109,39
 "2016","Nika Kocharov and Young Georgian Lolitaz","Midnight Gold",23,19,13,20,7,104,80,24,56
 "2016","Jamie-Lee","Ghost",10,25,25,23,2,11,1,10,9
-"2016","Argo","Utopian Land",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2016","Argo","Utopian Land",,,,,,,,,
 "2016","Freddie","Pioneer",5,18,17,14,3,108,52,56,4
-"2016","Greta Salóme","Hear Them Calling",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2016","Nicky Byrne","Sunlight",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2016","Greta Salóme","Hear Them Calling",,,,,,,,,
+"2016","Nicky Byrne","Sunlight",,,,,,,,,
 "2016","Hovi Star","Made of Stars",7,13,7,22,15,135,124,11,113
 "2016","Francesca Michielin","No Degree of Separation",6,15,12,18,6,124,90,34,56
 "2016","Justs","Heartbeat",20,14,14,13,1,132,69,63,6
 "2016","Donny Montell","I've Been Waiting for This Night",16,9,11,10,1,200,104,96,8
-"2016","Kaliopi","Dona",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2016","Kaliopi","Dona",,,,,,,,,
 "2016","Ira Losco","Walk on Water",22,11,4,21,17,153,137,16,121
-"2016","Lidia Isac","Falling Stars",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2016","Highway","The Real Thing",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2016","Lidia Isac","Falling Stars",,,,,,,,,
+"2016","Highway","The Real Thing",,,,,,,,,
 "2016","Douwe Bob","Slow Down",3,11,10,17,7,153,114,39,75
-"2016","Agnete","Icebreaker",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2016","Agnete","Icebreaker",,,,,,,,,
 "2016","Michał Szpak","Color of Your Life",12,8,24,3,21,229,7,222,215
 "2016","Sergey Lazarev","You Are the Only One",18,10,5,16,11,181,130,51,79
-"2016","Serhat","I Didn't Know",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2016","Serhat","I Didn't Know",,,,,,,,,
 "2016","Sanja Vučić Zaa","Goodbye (Shelter)",15,17,22,11,11,115,35,80,45
-"2016","ManuElla","Blue and Red",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2016","ManuElla","Blue and Red",,,,,,,,,
 "2016","Barei","Say Yay!",19,21,15,23,8,77,67,10,57
 "2016","Frans","If I Were Sorry",9,5,8,6,2,261,122,139,17
-"2016","Rykka","The Last of Our Kind",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2016","Rykka","The Last of Our Kind",,,,,,,,,
 "2016","Jamala","1944",21,1,2,2,0,534,211,323,112
 "2016","Joe and Jake","You're Not Alone",25,23,16,24,8,62,54,8,46
-"2017","Lindita","World",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2017","Lindita","World",,,,,,,,,
 "2017","Artsvik","Fly with Me",5,7,14,5,9,282,58,224,166
 "2017","Isaiah","Don't Come Easy",14,9,4,23,19,173,171,2,169
 "2017","Nathan Trent","Running on Air",4,16,11,24,13,93,93,0,93
@@ -1447,237 +1447,237 @@
 "2017","Kristian Kostov","Beautiful Mess",25,2,2,2,0,615,278,337,59
 "2017","Jacques Houdek","My Friend",13,13,20,9,11,128,25,103,78
 "2017","Hovig","Gravity",19,20,18,14,4,68,36,32,4
-"2017","Martina Bárta","My Turn",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2017","Martina Bárta","My Turn",,,,,,,,,
 "2017","Anja","Where I Am",10,19,13,20,7,77,69,8,61
-"2017","Koit Toome and Laura","Verona",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2017","Norma John","Blackbird",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2017","Koit Toome and Laura","Verona",,,,,,,,,
+"2017","Norma John","Blackbird",,,,,,,,,
 "2017","Alma","Requiem",26,12,17,10,7,135,45,90,45
-"2017","Tamara Gachechiladze","Keep the Faith",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2017","Tamara Gachechiladze","Keep the Faith",,,,,,,,,
 "2017","Levina","Perfect Life",21,24,23,22,1,6,3,3,0
 "2017","Demy","This Is Love",15,8,16,7,9,200,48,152,104
 "2017","Joci Pápai","Origo",8,19,16,15,1,77,48,29,19
-"2017","Svala","Paper",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2017","Brendan Murray","Dying to Try",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2017","Svala","Paper",,,,,,,,,
+"2017","Brendan Murray","Dying to Try",,,,,,,,,
 "2017","Imri","I Feel Alive",1,22,19,21,2,39,34,5,29
 "2017","Francesco Gabbani","Occidentali's Karma",9,6,7,6,1,334,126,208,82
-"2017","Triana Park","Line",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2017","Fusedmarc","Rain of Revolution",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2017","Jana Burčeska","Dance Alone",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2017","Claudia Faniello","Breathlessly",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2017","Triana Park","Line",,,,,,,,,
+"2017","Fusedmarc","Rain of Revolution",,,,,,,,,
+"2017","Jana Burčeska","Dance Alone",,,,,,,,,
+"2017","Claudia Faniello","Breathlessly",,,,,,,,,
 "2017","SunStroke Project","Hey Mamma",7,3,8,3,5,374,110,264,154
-"2017","Slavko Kalezić","Space",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2017","Slavko Kalezić","Space",,,,,,,,,
 "2017","OG3NE","Lights and Shadows",6,11,5,18,13,150,135,15,120
 "2017","Jowst","Grab the Moment",17,10,6,15,9,158,129,29,100
 "2017","Kasia Moś","Flashlight",2,21,21,12,9,64,23,41,18
 "2017","Salvador Sobral","Amar pelos dois",11,1,1,1,0,758,382,376,6
 "2017","Ilinca feat. Alex Florea","Yodel It!",20,18,14,17,3,79,58,21,37
-"2017","Valentina Monetta and Jimmie Wilson","Spirit of the Night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2017","Tijana Bogićević","In Too Deep",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2017","Omar Naber","On My Way",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2017","Valentina Monetta and Jimmie Wilson","Spirit of the Night",,,,,,,,,
+"2017","Tijana Bogićević","In Too Deep",,,,,,,,,
+"2017","Omar Naber","On My Way",,,,,,,,,
 "2017","Manel Navarro","Do It for Your Lover",16,25,24,21,3,5,0,5,5
 "2017","Robin Bengtsson","I Can't Go On",24,5,3,8,5,344,218,126,92
-"2017","Timebelle","Apollo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2017","Timebelle","Apollo",,,,,,,,,
 "2017","O.Torvald","Time",22,23,22,16,6,36,12,24,12
 "2017","Lucie Jones","Never Give Up on You",18,15,10,19,9,111,99,12,87
 "2018","Eugent Bushpepa","Mall",12,11,7,18,11,184,126,58,68
-"2018","Sevak Khanagyan","Qami (Քամի)",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2018","Sevak Khanagyan","Qami (Քամի)",,,,,,,,,
 "2018","Jessica Mauboy","We Got Love",16,12,11,10,1,181,90,91,1
 "2018","Cesár Sampson","Nobody but You",5,3,1,13,12,342,271,71,200
-"2018","Aisel","X My Heart",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2018","Alekseev","Forever",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2018","Sennek","A Matter of Time",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2018","Aisel","X My Heart",,,,,,,,,
+"2018","Alekseev","Forever",,,,,,,,,
+"2018","Sennek","A Matter of Time",,,,,,,,,
 "2018","Equinox","Bones",18,14,9,14,5,166,100,66,34
-"2018","Franka","Crazy",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2018","Franka","Crazy",,,,,,,,,
 "2018","Eleni Foureira","Fuego",25,2,5,2,3,436,183,253,70
 "2018","Mikolas Josef","Lie to Me",14,6,14,4,10,281,66,215,149
 "2018","Rasmussen","Higher Ground",15,19,19,12,7,113,38,75,37
 "2018","Elina Nechayeva","La forza",6,8,6,9,3,245,143,102,41
 "2018","Saara Aalto","Monsters",17,25,21,21,0,46,23,23,0
 "2018","Madame Monsieur","Mercy",13,13,8,17,9,173,114,59,55
-"2018","Ethno-Jazz Band Iriao","For You",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2018","Ethno-Jazz Band Iriao","For You",,,,,,,,,
 "2018","Michael Schulte","You Let Me Walk Alone",11,4,4,6,2,340,204,136,68
-"2018","Yianna Terzi","Oniro mou (Όνειρό μου)",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2018","Yianna Terzi","Oniro mou (Όνειρό μου)",,,,,,,,,
 "2018","AWS","Viszlát nyár",21,21,20,15,5,93,28,65,37
-"2018","Ari Ólafsson","Our Choice",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2018","Ari Ólafsson","Our Choice",,,,,,,,,
 "2018","Ryan O'Shaughnessy","Together",24,16,13,16,3,136,74,62,12
 "2018","Netta","Toy",22,1,3,1,2,529,212,317,105
 "2018","Ermal Meta and Fabrizio Moro","Non mi avete fatto niente",26,5,16,3,13,308,59,249,190
-"2018","Laura Rizzotto","Funny Girl",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2018","Laura Rizzotto","Funny Girl",,,,,,,,,
 "2018","Ieva Zasimauskaitė","When We're Old",4,20,11,24,13,99,90,9,81
-"2018","Eye Cue","Lost and Found",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2018","Christabelle","Taboo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2018","Eye Cue","Lost and Found",,,,,,,,,
+"2018","Christabelle","Taboo",,,,,,,,,
 "2018","DoReDoS","My Lucky Day",19,10,10,8,2,209,94,115,21
-"2018","Vanja Radovanović","Inje (Иње)",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2018","Vanja Radovanović","Inje (Иње)",,,,,,,,,
 "2018","Waylon","Outlaw in 'Em",23,18,12,19,7,121,89,32,57
 "2018","Alexander Rybak","That's How You Write a Song",7,15,15,11,4,144,60,84,24
-"2018","Gromee feat. Lukas Meijer","Light Me Up",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2018","Gromee feat. Lukas Meijer","Light Me Up",,,,,,,,,
 "2018","Cláudia Pascoal","O jardim",8,26,22,23,1,39,21,18,3
-"2018","The Humans","Goodbye",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2018","Julia Samoylova","I Won't Break",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2018","Jessika feat. Jenifer Brening","Who We Are",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2018","The Humans","Goodbye",,,,,,,,,
+"2018","Julia Samoylova","I Won't Break",,,,,,,,,
+"2018","Jessika feat. Jenifer Brening","Who We Are",,,,,,,,,
 "2018","Sanja Ilić and Balkanika","Nova deca (Нова деца)",10,9,19,5,14,226,38,188,150
 "2018","Lea Sirk","Hvala, ne!",3,22,18,21,3,64,41,23,18
 "2018","Amaia and Alfred","Tu canción",2,23,17,23,6,61,43,18,25
 "2018","Benjamin Ingrosso","Dance You Off",20,7,2,22,20,274,253,21,232
-"2018","Zibbz","Stones",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2018","Zibbz","Stones",,,,,,,,,
 "2018","Mélovin","Under the Ladder",1,17,23,7,16,130,11,119,108
 "2018","SuRie","Storm",9,24,21,20,1,48,23,25,2
 "2019","Jonida Maliqi","Ktheju tokës",2,16,16,17,1,90,43,47,4
-"2019","Srbuk","Walking Out",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2019","Srbuk","Walking Out",,,,,,,,,
 "2019","Kate Miller-Heidke","Zero Gravity",25,9,6,7,1,284,153,131,22
-"2019","Paenda","Limits",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2019","Pænda","Limits",,,,,,,,,
 "2019","Chingiz","Truth",20,8,5,8,3,302,202,100,102
 "2019","Zena","Like It",19,23,21,23,2,31,18,13,5
-"2019","Eliot","Wake Up",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2019","Roko","The Dream",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2019","Eliot","Wake Up",,,,,,,,,
+"2019","Roko","The Dream",,,,,,,,,
 "2019","Tamta","Replay",11,13,11,20,9,109,77,32,45
 "2019","Lake Malawi","Friend of a Friend",3,11,8,24,16,157,150,7,143
 "2019","Leonora","Love Is Forever",6,12,12,15,3,120,69,51,18
 "2019","Victor Crone","Storm",18,19,19,16,3,76,28,48,20
-"2019","Darude feat. Sebastian Rejman","Look Away",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2019","Darude feat. Sebastian Rejman","Look Away",,,,,,,,,
 "2019","Bilal Hassani","Roi",21,15,13,18,5,105,67,38,29
-"2019","Oto Nemsadze","Keep On Going",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2019","Sisters","Sister",4,24,20,26,6,24,24,0,24
+"2019","Oto Nemsadze","Keep On Going",,,,,,,,,
+"2019","S!sters","Sister",4,24,20,26,6,24,24,0,24
 "2019","Katerine Duska","Better Love",13,20,14,21,7,74,50,24,26
-"2019","Joci Pápai","Az én apám",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2019","Joci Pápai","Az én apám",,,,,,,,,
 "2019","Hatari","Hatrið mun sigra",17,10,15,6,9,232,46,186,140
-"2019","Sarah McTernan","22",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2019","Sarah McTernan","22",,,,,,,,,
 "2019","Kobi Marimi","Home",14,22,25,19,6,35,0,35,35
 "2019","Mahmood","Soldi",22,2,4,3,1,472,219,253,34
-"2019","Carousel","That Night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2019","Jurij Veklenko","Run with the Lions",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2019","Carousel","That Night",,,,,,,,,
+"2019","Jurij Veklenko","Run with the Lions",,,,,,,,,
 "2019","Michela","Chameleon",1,14,10,22,12,107,87,20,67
-"2019","Anna Odobescu","Stay",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2019","D mol","Heaven",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2019","Anna Odobescu","Stay",,,,,,,,,
+"2019","D mol","Heaven",,,,,,,,,
 "2019","Duncan Laurence","Arcade",12,1,3,2,1,498,237,261,24
 "2019","Tamara Todevska","Proud",8,7,1,12,11,305,247,58,189
 "2019","Keiino","Spirit in the Sky",15,6,17,1,16,331,40,291,251
-"2019","Tulia","Fire of Love (Pali się)",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2019","Conan Osíris","Telemóveis",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2019","Ester Peony","On a Sunday",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2019","Tulia","Fire of Love (Pali się)",,,,,,,,,
+"2019","Conan Osíris","Telemóveis",,,,,,,,,
+"2019","Ester Peony","On a Sunday",,,,,,,,,
 "2019","Sergey Lazarev","Scream",5,3,9,4,5,370,126,244,118
 "2019","Serhat","Say Na Na Na",7,18,22,10,12,77,12,65,53
-"2019","Nevena Božović","Kruna (Круна)",23,17,18,13,5,89,35,54,19
+"2019","Nevena Božović","Kruna",23,17,18,13,5,89,35,54,19
 "2019","Zala Kralj and Gašper Šantl","Sebi",10,15,15,11,4,105,46,59,13
 "2019","Miki","La venda",26,21,24,14,10,54,1,53,52
 "2019","John Lundvik","Too Late for Love",9,5,2,9,7,334,241,93,148
 "2019","Luca Hänni","She Got Me",24,4,7,5,2,364,152,212,60
 "2019","Michael Rice","Bigger than Us",16,25,23,25,2,11,8,3,5
-"2020","Arilena Ara","Fall from the Sky",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Athena Manoukian","Chains on You",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Montaigne","Don't Break Me",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Vincent Bueno","Alive",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Efendi","Cleopatra",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","VAL","Da vidna",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Hooverphonic","Release Me",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Victoria","Tears Getting Sober",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Damir Kedžo","Divlji vjetre",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Sandro","Running",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Benny Cristo","Kemama",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Ben and Tan","Yes",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Uku Suviste","What Love Is",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Aksel","Looking Back",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Tom Leeb","Mon alliée (The Best in Me)",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Tornike Kipiani","Take Me as I Am",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Ben Dolic","Violent Thing",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Stefania","Supergirl",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Daði og Gagnamagnið","Think About Things",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Lesley Roy","Story of My Life",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Eden Alene","Feker Libi",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Diodato","Fai rumore",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Samanta Tīna","Still Breathing",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","The Roop","On Fire",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Destiny","All of My Love",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Natalia Gordienko","Prison",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Jeangu Macrooy","Grow",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Vasil","You",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Ulrikke","Attention",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Alicja","Empires",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Elisa","Medo de sentir",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Roxen","Alcohol You",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Little Big","Uno",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Senhit","Freaky!",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Hurricane","Hasta la vista",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Ana Soklič","Voda",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Blas Cantó","Universo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","The Mamas","Move",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Gjon's Tears","Répondez-moi",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","Go_A","Solovey",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2020","James Newman","My Last Breath",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2020","Arilena Ara","Fall from the Sky",,,,,,,,,
+"2020","Athena Manoukian","Chains on You",,,,,,,,,
+"2020","Montaigne","Don't Break Me",,,,,,,,,
+"2020","Vincent Bueno","Alive",,,,,,,,,
+"2020","Efendi","Cleopatra",,,,,,,,,
+"2020","VAL","Da vidna",,,,,,,,,
+"2020","Hooverphonic","Release Me",,,,,,,,,
+"2020","Victoria","Tears Getting Sober",,,,,,,,,
+"2020","Damir Kedžo","Divlji vjetre",,,,,,,,,
+"2020","Sandro","Running",,,,,,,,,
+"2020","Benny Cristo","Kemama",,,,,,,,,
+"2020","Ben and Tan","Yes",,,,,,,,,
+"2020","Uku Suviste","What Love Is",,,,,,,,,
+"2020","Aksel","Looking Back",,,,,,,,,
+"2020","Tom Leeb","Mon alliée (The Best in Me)",,,,,,,,,
+"2020","Tornike Kipiani","Take Me as I Am",,,,,,,,,
+"2020","Ben Dolic","Violent Thing",,,,,,,,,
+"2020","Stefania","Supergirl",,,,,,,,,
+"2020","Daði og Gagnamagnið","Think About Things",,,,,,,,,
+"2020","Lesley Roy","Story of My Life",,,,,,,,,
+"2020","Eden Alene","Feker Libi",,,,,,,,,
+"2020","Diodato","Fai rumore",,,,,,,,,
+"2020","Samanta Tīna","Still Breathing",,,,,,,,,
+"2020","The Roop","On Fire",,,,,,,,,
+"2020","Destiny","All of My Love",,,,,,,,,
+"2020","Natalia Gordienko","Prison",,,,,,,,,
+"2020","Jeangu Macrooy","Grow",,,,,,,,,
+"2020","Vasil","You",,,,,,,,,
+"2020","Ulrikke","Attention",,,,,,,,,
+"2020","Alicja","Empires",,,,,,,,,
+"2020","Elisa","Medo de sentir",,,,,,,,,
+"2020","Roxen","Alcohol You",,,,,,,,,
+"2020","Little Big","Uno",,,,,,,,,
+"2020","Senhit","Freaky!",,,,,,,,,
+"2020","Hurricane","Hasta la vista",,,,,,,,,
+"2020","Ana Soklič","Voda",,,,,,,,,
+"2020","Blas Cantó","Universo",,,,,,,,,
+"2020","The Mamas","Move",,,,,,,,,
+"2020","Gjon's Tears","Répondez-moi",,,,,,,,,
+"2020","Go_A","Solovey",,,,,,,,,
+"2020","James Newman","My Last Breath",,,,,,,,,
 "2021","Anxhela Peristeri","Karma",2,20,20,15,5,57,22,35,13
-"2021","Montaigne","Technicolour",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2021","Vincent Bueno","Amen",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Montaigne","Technicolour",,,,,,,,,
+"2021","Vincent Bueno","Amen",,,,,,,,,
 "2021","Efendi","Mata Hari",21,19,19,16,3,65,32,33,1
 "2021","Hooverphonic","The Wrong Place",4,18,13,21,8,74,71,3,68
 "2021","Victoria","Growing Up Is Getting Old",17,10,6,17,11,170,140,30,110
-"2021","Albina","Tick-Tock",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Albina","Tick-Tock",,,,,,,,,
 "2021","Elena Tsagrinou","El Diablo",1,15,16,14,2,94,50,44,6
-"2021","Benny Cristo","Omaga",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2021","Fyr og Flamme","Øve os på hinanden",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2021","Uku Suviste","The Lucky One",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Benny Cristo","Omaga",,,,,,,,,
+"2021","Fyr og Flamme","Øve os på hinanden",,,,,,,,,
+"2021","Uku Suviste","The Lucky One",,,,,,,,,
 "2021","Blind Channel","Dark Side",16,6,11,4,7,301,83,218,135
 "2021","Barbara Pravi","Voilà",20,2,2,3,1,499,248,251,3
-"2021","Tornike Kipiani","You",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Tornike Kipiani","You",,,,,,,,,
 "2021","Jendrik","I Don't Feel Hate",15,24,25,22,3,3,3,0,3
 "2021","Stefania","Last Dance",10,10,10,9,1,170,91,79,12
 "2021","Daði og Gagnamagnið","10 Years",12,4,5,5,0,378,198,180,18
-"2021","Lesley Roy","Maps",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Lesley Roy","Maps",,,,,,,,,
 "2021","Eden Alene","Set Me Free",3,16,12,19,7,93,73,20,53
 "2021","Måneskin","Zitti e buoni",24,1,4,1,3,524,206,318,112
-"2021","Samanta Tīna","The Moon Is Rising",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Samanta Tīna","The Moon Is Rising",,,,,,,,,
 "2021","The Roop","Discoteque",18,8,14,6,8,220,55,165,110
 "2021","Destiny","Je me casse",6,7,3,13,10,255,208,47,161
 "2021","Natalia Gordienko","Sugar",14,12,15,11,4,115,53,62,9
 "2021","Jeangu Macrooy","Birth of a New Age",23,22,23,22,1,11,11,0,11
-"2021","Vasil","Here I Stand",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Vasil","Here I Stand",,,,,,,,,
 "2021","Tix","Fallen Angel",22,17,22,12,10,75,15,60,45
-"2021","Rafał","The Ride",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Rafał","The Ride",,,,,,,,,
 "2021","The Black Mamba","Love Is on My Side",7,11,7,18,11,153,126,27,99
-"2021","Roxen","Amnesia",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Roxen","Amnesia",,,,,,,,,
 "2021","Manizha","Russian Woman",6,9,8,7,1,204,104,100,4
 "2021","Senhit feat. Flo Rida","Adrenalina",26,21,18,20,2,50,37,13,24
 "2021","Hurricane","Loco loco",8,14,21,8,13,102,20,82,62
-"2021","Ana Soklič","Amen",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2021","Ana Soklič","Amen",,,,,,,,,
 "2021","Blas Cantó","Voy a quedarme",13,23,24,22,2,6,6,0,6
 "2021","Tusse","Voices",25,13,17,10,7,109,46,63,17
 "2021","Gjon's Tears","Tout l'univers",11,3,1,6,5,432,267,165,102
 "2021","Go_A","Shum",19,5,9,2,7,364,97,267,170
 "2021","James Newman","Embers",9,25,26,22,4,0,0,0,0
-"2022","Ronela Hajati","Sekret",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2022","Ronela Hajati","Sekret",,,,,,,,,
 "2022","Rosa Linn","Snap",8,20,15,17,2,61,40,21,19
 "2022","Sheldon Riley","Not the Same",21,15,8,23,15,125,123,2,121
-"2022","Lumix feat. Pia Maria","Halo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2022","Lumix feat. Pia Maria","Halo",,,,,,,,,
 "2022","Nadir Rustamli","Fade to Black",15,16,9,22,13,106,103,3,100
 "2022","Jérémie Makiese","Miss You",16,19,12,21,9,64,59,5,54
-"2022","Intelligent Music Project","Intention",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2022","Mia Dimšić","Guilty Pleasure",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2022","Andromache","Ela",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2022","Intelligent Music Project","Intention",,,,,,,,,
+"2022","Mia Dimšić","Guilty Pleasure",,,,,,,,,
+"2022","Andromache","Ela",,,,,,,,,
 "2022","We Are Domi","Lights Off",1,21,18,21,3,38,33,5,28
-"2022","Reddi","The Show",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2022","Reddi","The Show",,,,,,,,,
 "2022","Stefan","Hope",25,13,14,10,4,141,43,98,55
 "2022","The Rasmus","Jezebel",4,18,20,13,7,65,12,53,41
 "2022","Alvan and Ahez","Fulenn",6,23,22,19,3,17,9,8,1
-"2022","Circus Mircus","Lock Me In",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2022","Circus Mircus","Lock Me In",,,,,,,,,
 "2022","Malik Harris","Rockstars",13,24,23,20,3,6,0,6,6
 "2022","Amanda Georgiadi Tenfjord","Die Together",17,8,6,12,6,215,158,57,101
 "2022","Systur","Með hækkandi sól",18,22,21,18,3,20,10,10,0
-"2022","Brooke","That's Rich",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2022","Michael Ben David","I.M",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2022","Brooke","That's Rich",,,,,,,,,
+"2022","Michael Ben David","I.M",,,,,,,,,
 "2022","Mahmood and Blanco","Brividi",9,6,6,8,2,268,158,110,48
-"2022","Citi Zēni","Eat Your Salad",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2022","Citi Zēni","Eat Your Salad",,,,,,,,,
 "2022","Monika Liu","Sentimentai",14,14,17,11,6,128,35,93,58
-"2022","Emma Muscat","I Am What I Am",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2022","Emma Muscat","I Am What I Am",,,,,,,,,
 "2022","Zdob și Zdub and Advahov Brothers","Trenulețul",19,7,19,2,17,253,14,239,225
-"2022","Vladana","Breathe",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2022","Vladana","Breathe",,,,,,,,,
 "2022","S10","De diepte",11,11,7,14,7,171,129,42,87
-"2022","Andrea","Circles",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2022","Andrea","Circles",,,,,,,,,
 "2022","Subwoolfer","Give That Wolf a Banana",7,10,16,7,9,182,36,146,110
 "2022","Ochman","River",23,12,13,9,4,151,46,105,59
 "2022","Maro","Saudade, saudade",3,9,5,15,10,207,171,36,135
 "2022","Wrs","Llámame",2,21,20,16,4,38,12,26,14
-"2022","Achille Lauro","Stripper",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2022","Achille Lauro","Stripper",,,,,,,,,
 "2022","Konstrakta","In corpore sano",24,5,10,4,6,312,87,225,138
-"2022","LPS","Disko",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2022","LPS","Disko",,,,,,,,,
 "2022","Chanel","SloMo",10,3,3,3,0,459,231,228,3
 "2022","Cornelia Jakobs","Hold Me Closer",20,4,2,6,4,438,258,180,78
 "2022","Marius Bear","Boys Do Cry",5,17,11,24,13,78,78,0,78
@@ -1687,32 +1687,32 @@
 "2023","Brunette","Future Lover",17,14,12,13,1,122,69,53,16
 "2023","Voyager","Promise",15,9,6,20,14,151,130,21,109
 "2023","Teya and Salena","Who the Hell Is Edgar?",1,15,8,21,13,120,104,16,88
-"2023","TuralTuranX","Tell Me More",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2023","TuralTuranX","Tell Me More",,,,,,,,,
 "2023","Gustaph","Because of You",16,7,7,12,5,182,127,55,72
 "2023","Let 3","Mama ŠČ!",25,13,24,7,17,123,11,112,101
 "2023","Andrew Lambrou","Break a Broken Heart",7,12,13,11,2,126,68,58,10
 "2023","Vesna","My Sister's Crown",14,10,10,17,7,129,94,35,59
-"2023","Reiley","Breaking My Heart",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2023","Reiley","Breaking My Heart",,,,,,,,,
 "2023","Alika","Bridges",12,8,5,19,14,168,146,22,124
 "2023","Käärijä","Cha Cha Cha",13,2,4,1,3,526,150,376,226
 "2023","La Zarra","Évidemment",6,16,15,14,1,104,54,50,4
-"2023","Iru","Echo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2023","Iru","Echo",,,,,,,,,
 "2023","Lord of the Lost","Blood & Glitter",21,26,25,22,3,18,3,15,12
-"2023","Victor Vernicos","What They Say",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2023","Diljá","Power",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2023","Wild Youth","We Are One",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2023","Victor Vernicos","What They Say",,,,,,,,,
+"2023","Diljá","Power",,,,,,,,,
+"2023","Wild Youth","We Are One",,,,,,,,,
 "2023","Noa Kirel","Unicorn",23,3,2,5,3,362,177,185,8
 "2023","Marco Mengoni","Due vite",11,4,3,6,3,350,176,174,2
-"2023","Sudden Lights","Aijā",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2023","Sudden Lights","Aijā",,,,,,,,,
 "2023","Monika Linkytė","Stay",22,11,11,15,4,127,81,46,35
-"2023","The Busker","Dance (Our Own Party)",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2023","The Busker","Dance (Our Own Party)",,,,,,,,,
 "2023","Pasha Parfeni","Soarele și luna",18,18,19,9,10,96,20,76,56
-"2023","Mia Nicolai and Dion Cooper","Burning Daylight",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2023","Mia Nicolai and Dion Cooper","Burning Daylight",,,,,,,,,
 "2023","Alessandra","Queen of Kings",20,5,16,3,13,268,52,216,164
 "2023","Blanka","Solo",4,19,23,8,15,93,12,81,69
 "2023","Mimicat","Ai coração",2,23,17,21,4,59,43,16,27
-"2023","Theodor Andrei","D.G.T. (Off and On)",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2023","Piqued Jacks","Like an Animal",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2023","Theodor Andrei","D.G.T. (Off and On)",,,,,,,,,
+"2023","Piqued Jacks","Like an Animal",,,,,,,,,
 "2023","Luke Black","Samo mi se spava",5,24,22,21,1,30,14,16,2
 "2023","Joker Out","Carpe Diem",24,21,18,16,2,78,33,45,12
 "2023","Blanca Paloma","Eaea",8,17,9,24,15,100,95,5,90
@@ -1720,40 +1720,40 @@
 "2023","Remo Forrer","Watergun",3,20,14,18,4,92,61,31,30
 "2023","Tvorchi","Heart of Steel",19,6,15,4,11,243,54,189,135
 "2023","Mae Muller","I Wrote a Song",26,25,21,23,2,24,15,9,6
-"2024","Besa","Titan",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Ladaniva","Jako",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Electric Fields","One Milkali (One Blood)",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Kaleen","We Will Rave",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Fahree feat. Ilkin Dovlatov","Özünlə Apar",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Mustii","Before the Party's Over",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Baby Lasagna","Rim Tim Tagi Dim",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Silia Kapsis","Liar",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Aiko","Pedestal",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Saba","Sand",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","5miinust and Puuluup","(Nendest) narkootikumidest ei tea me (küll) midagi",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Windows95man","No Rules!",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Slimane","Mon amour",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Nutsa Buzaladze","Firefighter",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Isaak","Always on the Run",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Marina Satti","ZARI",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Hera Björk","Scared of Heights",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Bambie Thug","Doomsday Blue",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Eden Golan","Hurricane",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Angelina Mango","La noia",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Dons","Hollow",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Silvester Belt","Luktelk",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Tali","Fighter",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Sarah Bonnici","Loop",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Natalia Barbu","In the Middle",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Joost Klein","Europapa",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Gåte","Ulveham",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Luna","The Tower",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Iolanda","Grito",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Megara","11:11",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Teya Dora","Ramonda",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Raiven","Veronika",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Nebulossa","Zorra",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Marcus & Martinus","Unforgettable",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Nemo","The Code",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Alyona Alyona and Jerry Heil","Teresa & Maria",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2024","Olly Alexander","Dizzy",0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"2024","Besa","Titan",,,,,,,,,
+"2024","Ladaniva","Jako",,,,,,,,,
+"2024","Electric Fields","One Milkali (One Blood)",,,,,,,,,
+"2024","Kaleen","We Will Rave",,,,,,,,,
+"2024","Fahree feat. Ilkin Dovlatov","Özünlə Apar",,,,,,,,,
+"2024","Mustii","Before the Party's Over",,,,,,,,,
+"2024","Baby Lasagna","Rim Tim Tagi Dim",,,,,,,,,
+"2024","Silia Kapsis","Liar",,,,,,,,,
+"2024","Aiko","Pedestal",,,,,,,,,
+"2024","Saba","Sand",,,,,,,,,
+"2024","5miinust and Puuluup","(Nendest) narkootikumidest ei tea me (küll) midagi",,,,,,,,,
+"2024","Windows95man","No Rules!",,,,,,,,,
+"2024","Slimane","Mon amour",0,,,,,,,,
+"2024","Nutsa Buzaladze","Firefighter",,,,,,,,,
+"2024","Isaak","Always on the Run",0,,,,,,,,
+"2024","Marina Satti","ZARI",,,,,,,,,
+"2024","Hera Björk","Scared of Heights",,,,,,,,,
+"2024","Bambie Thug","Doomsday Blue",,,,,,,,,
+"2024","Eden Golan","Hurricane",,,,,,,,,
+"2024","Angelina Mango","La noia",0,,,,,,,,
+"2024","Dons","Hollow",,,,,,,,,
+"2024","Silvester Belt","Luktelk",,,,,,,,,
+"2024","Tali","Fighter",,,,,,,,,
+"2024","Sarah Bonnici","Loop",,,,,,,,,
+"2024","Natalia Barbu","In the Middle",,,,,,,,,
+"2024","Joost Klein","Europapa",,,,,,,,,
+"2024","Gåte","Ulveham",,,,,,,,,
+"2024","Luna","The Tower",,,,,,,,,
+"2024","Iolanda","Grito",,,,,,,,,
+"2024","Megara","11:11",,,,,,,,,
+"2024","Teya Dora","Ramonda",,,,,,,,,
+"2024","Raiven","Veronika",,,,,,,,,
+"2024","Nebulossa","Zorra",0,,,,,,,,
+"2024","Marcus & Martinus","Unforgettable",0,,,,,,,,
+"2024","Nemo","The Code",,,,,,,,,
+"2024","Alyona Alyona and Jerry Heil","Teresa & Maria",,,,,,,,,
+"2024","Olly Alexander","Dizzy",0,,,,,,,,

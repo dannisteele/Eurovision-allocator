@@ -1,25 +1,25 @@
 "sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-"1959","Jacques Pills","Mon ami Pierrot",4,9,9,NULL,NULL,1,1,NULL,NULL,NULL,NULL,NULL
-"1960","François Deguelt","Ce soir-là",8,3,3,NULL,NULL,15,15,NULL,NULL,NULL,NULL,NULL
-"1961","Colette Deréal","Allons, allons les enfants",2,9,9,NULL,NULL,6,6,NULL,NULL,NULL,NULL,NULL
-"1962","François Deguelt","Dis rien",16,2,2,NULL,NULL,13,13,NULL,NULL,NULL,NULL,NULL
-"1963","Françoise Hardy","L'amour s'en va",15,5,5,NULL,NULL,25,25,NULL,NULL,NULL,NULL,NULL
-"1964","Romuald","Où sont-elles passées",10,3,3,NULL,NULL,15,15,NULL,NULL,NULL,NULL,NULL
-"1965","Marjorie Noël","Va dire à l'amour",9,9,9,NULL,NULL,7,7,NULL,NULL,NULL,NULL,NULL
-"1966","Téréza","Bien plus fort",13,13,13,NULL,NULL,0,0,NULL,NULL,NULL,NULL,NULL
-"1967","Minouche Barelli","Boum-Badaboum",14,5,5,NULL,NULL,10,10,NULL,NULL,NULL,NULL,NULL
-"1968","Line and Willy","À chacun sa chanson",7,7,7,NULL,NULL,8,8,NULL,NULL,NULL,NULL,NULL
-"1969","Jean Jacques","Maman, Maman",4,3,3,NULL,NULL,11,11,NULL,NULL,NULL,NULL,NULL
-"1970","Dominique Dussault","Marlène",10,6,6,NULL,NULL,5,5,NULL,NULL,NULL,NULL,NULL
-"1971","Séverine","Un banc, un arbre, une rue",3,1,1,NULL,NULL,128,128,NULL,NULL,NULL,NULL,NULL
-"1972","Anne-Marie Godart and Peter MacLane","Comme on s'aime",15,16,16,NULL,NULL,65,65,NULL,NULL,NULL,NULL,NULL
-"1973","Marie","Un train qui part",6,8,8,NULL,NULL,85,85,NULL,NULL,NULL,NULL,NULL
-"1974","Romuald","Celui qui reste et celui qui s'en va",10,4,4,NULL,NULL,14,14,NULL,NULL,NULL,NULL,NULL
-"1975","Sophie","Une chanson c'est une lettre",14,13,13,NULL,NULL,22,22,NULL,NULL,NULL,NULL,NULL
-"1976","Mary Christy","Toi, la musique et moi",16,3,3,NULL,NULL,93,93,NULL,NULL,NULL,NULL,NULL
-"1977","Michèle Torr","Une petite française",2,4,4,NULL,NULL,96,96,NULL,NULL,NULL,NULL,NULL
-"1978","Caline and Olivier Toussaint","Les Jardins de Monaco",14,4,4,NULL,NULL,107,107,NULL,NULL,NULL,NULL,NULL
-"1979","Laurent Vaguener","Notre vie c'est la musique",6,16,16,NULL,NULL,12,12,NULL,NULL,NULL,NULL,NULL
-"2004","Maryon","Notre planète",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2005","Lise Darly","Tout de moi",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2006","Séverine Ferrer","La Coco-Dance",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"1959","Jacques Pills","Mon ami Pierrot",4,9,9,,,1,1,,,,,
+"1960","François Deguelt","Ce soir-là",8,3,3,,,15,15,,,,,
+"1961","Colette Deréal","Allons, allons les enfants",2,9,9,,,6,6,,,,,
+"1962","François Deguelt","Dis rien",16,2,2,,,13,13,,,,,
+"1963","Françoise Hardy","L'amour s'en va",15,5,5,,,25,25,,,,,
+"1964","Romuald","Où sont-elles passées",10,3,3,,,15,15,,,,,
+"1965","Marjorie Noël","Va dire à l'amour",9,9,9,,,7,7,,,,,
+"1966","Téréza","Bien plus fort",13,13,13,,,0,0,,,,,
+"1967","Minouche Barelli","Boum-Badaboum",14,5,5,,,10,10,,,,,
+"1968","Line and Willy","À chacun sa chanson",7,7,7,,,8,8,,,,,
+"1969","Jean Jacques","Maman, Maman",4,3,3,,,11,11,,,,,
+"1970","Dominique Dussault","Marlène",10,6,6,,,5,5,,,,,
+"1971","Séverine","Un banc, un arbre, une rue",3,1,1,,,128,128,,,,,
+"1972","Anne-Marie Godart and Peter MacLane","Comme on s'aime",15,16,16,,,65,65,,,,,
+"1973","Marie","Un train qui part",6,8,8,,,85,85,,,,,
+"1974","Romuald","Celui qui reste et celui qui s'en va",10,4,4,,,14,14,,,,,
+"1975","Sophie","Une chanson c'est une lettre",14,13,13,,,22,22,,,,,
+"1976","Mary Christy","Toi, la musique et moi",16,3,3,,,93,93,,,,,
+"1977","Michèle Torr","Une petite française",2,4,4,,,96,96,,,,,
+"1978","Caline and Olivier Toussaint","Les Jardins de Monaco",14,4,4,,,107,107,,,,,
+"1979","Laurent Vaguener","Notre vie c'est la musique",6,16,16,,,12,12,,,,,
+"2004","Maryon","Notre planète",,,,,,,,,,,,
+"2005","Lise Darly","Tout de moi",,,,,,,,,,,,
+"2006","Séverine Ferrer","La Coco-Dance",,,,,,,,,,,,

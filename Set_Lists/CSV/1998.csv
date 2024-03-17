@@ -1,26 +1,26 @@
 "id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-1,"Belgium","Mélanie Cohl","Dis oui",1,20,6,11,6,5,122,4,118,114,NULL,NULL,NULL
-2,"Croatia","Danijela","Neka mi ne svane",27,1,5,11,5,6,131,4,127,123,NULL,NULL,NULL
-3,"Cyprus","Michael Hajiyanni","Genesis (Γένεσις)",24,17,11,10,11,1,37,5,32,27,NULL,NULL,NULL
-4,"Estonia","Koit Toome","Mere lapsed",29,23,12,11,11,0,36,4,32,28,NULL,NULL,NULL
-5,"Finland","Edea","Aava",14,21,14,15,14,1,22,0,22,22,NULL,NULL,NULL
-6,"France","Marie Line","Où aller",2,3,23,15,22,7,3,0,3,3,NULL,NULL,NULL
-7,"Germany","Guildo Horn","Guildo hat euch lieb",3,9,7,6,7,1,86,11,75,64,NULL,NULL,NULL
-8,"Greece","Thalassa","Mia krifi evaisthisia (Μια κρυφή ευαισθησία)",21,2,19,15,17,2,12,0,12,12,NULL,NULL,NULL
-9,"Hungary","Charlie","A holnap már nem lesz szomorú",30,11,22,14,22,8,4,1,3,2,NULL,NULL,NULL
-10,"Ireland","Dawn Martin","Is Always Over Now",18,13,9,2,10,8,64,22,42,20,NULL,NULL,NULL
-11,"Israel","Dana International","Diva (דיווה)",20,8,1,5,1,4,172,12,160,148,NULL,NULL,NULL
-12,"Macedonia","Vlado Janevski","Ne zori, zoro (Не зори, зоро)",36,10,3,4,2,2,165,17,148,131,NULL,NULL,NULL
-13,"Malta","Chiara","The One That I Love",19,18,4,3,4,1,150,19,131,112,NULL,NULL,NULL
-14,"Netherlands","Edsilia","Hemel en aarde",6,25,18,12,16,4,16,3,13,10,NULL,NULL,NULL
-15,"Norway","Lars A. Fredriksen","Alltid sommer",13,22,8,10,8,2,79,5,74,69,NULL,NULL,NULL
-16,"Poland","Sixteen","To takie proste",32,7,16,5,20,15,19,12,7,5,NULL,NULL,NULL
-17,"Portugal","Alma Lusa","Se eu te pudesse abraçar",17,14,12,9,12,3,36,6,30,24,NULL,NULL,NULL
-18,"Romania","Mălina Olinescu","Eu cred",33,15,21,15,21,6,6,0,6,6,NULL,NULL,NULL
-19,"Slovakia","Katarína Hasprová","Modlitba",35,6,20,15,19,4,8,0,8,8,NULL,NULL,NULL
-20,"Slovenia","Vili Resnik","Naj bogovi slišijo",28,12,17,8,18,10,17,8,9,1,NULL,NULL,NULL
-21,"Spain","Mikel Herzog","¿Qué voy a hacer sin ti?",15,4,15,15,15,0,21,0,21,21,NULL,NULL,NULL
-22,"Sweden","Jill Johnson","Kärleken är",11,19,10,7,9,2,53,10,43,33,NULL,NULL,NULL
-23,"Switzerland","Gunvor","Lass ihn",7,5,24,15,23,8,0,0,0,0,NULL,NULL,NULL
-24,"Turkey","Tüzmen","Unutamazsın",22,24,13,13,13,0,25,2,23,21,NULL,NULL,NULL
-25,"United Kingdom","Imaani","Where Are You?",10,16,2,1,3,2,166,34,132,98,NULL,NULL,NULL
+1,"Belgium","Mélanie Cohl","Dis oui",1,20,6,11,6,5,122,4,118,114,,,
+2,"Croatia","Danijela","Neka mi ne svane",27,1,5,11,5,6,131,4,127,123,,,
+3,"Cyprus","Michael Hajiyanni","Genesis (Γένεσις)",24,17,11,10,11,1,37,5,32,27,,,
+4,"Estonia","Koit Toome","Mere lapsed",29,23,12,11,11,0,36,4,32,28,,,
+5,"Finland","Edea","Aava",14,21,14,15,14,1,22,0,22,22,,,
+6,"France","Marie Line","Où aller",2,3,23,15,22,7,3,0,3,3,,,
+7,"Germany","Guildo Horn","Guildo hat euch lieb",3,9,7,6,7,1,86,11,75,64,,,
+8,"Greece","Thalassa","Mia krifi evaisthisia (Μια κρυφή ευαισθησία)",21,2,19,15,17,2,12,0,12,12,,,
+9,"Hungary","Charlie","A holnap már nem lesz szomorú",30,11,22,14,22,8,4,1,3,2,,,
+10,"Ireland","Dawn Martin","Is Always Over Now",18,13,9,2,10,8,64,22,42,20,,,
+11,"Israel","Dana International","Diva (דיווה)",20,8,1,5,1,4,172,12,160,148,,,
+12,"Macedonia","Vlado Janevski","Ne zori, zoro (Не зори, зоро)",36,10,3,4,2,2,165,17,148,131,,,
+13,"Malta","Chiara","The One That I Love",19,18,4,3,4,1,150,19,131,112,,,
+14,"Netherlands","Edsilia","Hemel en aarde",6,25,18,12,16,4,16,3,13,10,,,
+15,"Norway","Lars A. Fredriksen","Alltid sommer",13,22,8,10,8,2,79,5,74,69,,,
+16,"Poland","Sixteen","To takie proste",32,7,16,5,20,15,19,12,7,5,,,
+17,"Portugal","Alma Lusa","Se eu te pudesse abraçar",17,14,12,9,12,3,36,6,30,24,,,
+18,"Romania","Mălina Olinescu","Eu cred",33,15,21,15,21,6,6,0,6,6,,,
+19,"Slovakia","Katarína Hasprová","Modlitba",35,6,20,15,19,4,8,0,8,8,,,
+20,"Slovenia","Vili Resnik","Naj bogovi slišijo",28,12,17,8,18,10,17,8,9,1,,,
+21,"Spain","Mikel Herzog","¿Qué voy a hacer sin ti?",15,4,15,15,15,0,21,0,21,21,,,
+22,"Sweden","Jill Johnson","Kärleken är",11,19,10,7,9,2,53,10,43,33,,,
+23,"Switzerland","Gunvor","Lass ihn",7,5,24,15,23,8,0,0,0,0,,,
+24,"Turkey","Tüzmen","Unutamazsın",22,24,13,13,13,0,25,2,23,21,,,
+25,"United Kingdom","Imaani","Where Are You?",10,16,2,1,3,2,166,34,132,98,,,

@@ -1,38 +1,38 @@
 "sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-"1971","Joe Grech","Marija l-Maltija",2,16,16,NULL,NULL,52,52,NULL,NULL,NULL,NULL,NULL
-"1972","Helen and Joseph","L-imħabba",9,18,18,NULL,NULL,48,48,NULL,NULL,NULL,NULL,NULL
-"1975","Renato","Singing This Song",10,12,12,NULL,NULL,32,32,NULL,NULL,NULL,NULL,NULL
-"1991","Paul Giordimaina and Georgina","Could It Be",3,5,5,NULL,NULL,106,106,NULL,NULL,NULL,NULL,NULL
-"1992","Mary Spiteri","Little Child",10,3,3,NULL,NULL,123,123,NULL,NULL,NULL,NULL,NULL
-"1993","William Mangion","This Time",8,8,8,NULL,NULL,69,69,NULL,NULL,NULL,NULL,NULL
-"1994","Moira Stafrace and Christopher Scicluna","More than Love",12,5,5,NULL,NULL,97,97,NULL,NULL,NULL,NULL,NULL
-"1995","Mike Spiteri","Keep Me in Mind",22,10,10,NULL,NULL,76,76,NULL,NULL,NULL,NULL,NULL
-"1996","Miriam Christine","In a Woman's Heart",6,10,10,NULL,NULL,68,68,NULL,NULL,NULL,NULL,NULL
-"1997","Debbie Scerri","Let Me Fly",18,9,7,13,6,66,66,0,66,NULL,NULL,NULL
-"1998","Chiara","The One That I Love",18,4,3,4,1,150,19,131,112,NULL,NULL,NULL
-"1999","Times Three","Believe 'n Peace",20,13,9,13,4,32,7,25,18,NULL,NULL,NULL
-"2000","Claudette Pace","Desire",2,8,2,10,8,73,33,40,7,NULL,NULL,NULL
-"2001","Fabrizio Faniello","Another Summer Night",21,9,10,9,1,48,12,36,24,NULL,NULL,NULL
-"2002","Ira Losco","7th Wonder",9,16,11,20,9,25,19,6,13,NULL,NULL,NULL
-"2003","Lynn Chircop","To Dream Again",5,23,13,24,11,4,3,1,2,NULL,NULL,NULL
-"2004","Julie and Ludwig","On Again... Off Again",6,11,NULL,11,NULL,50,NULL,50,NULL,NULL,NULL,NULL
-"2005","Chiara","Angel",3,2,11,2,9,187,5,182,177,NULL,NULL,NULL
-"2006","Fabrizio Faniello","I Do",7,21,11,22,11,1,1,0,1,NULL,NULL,NULL
-"2007","Olivia Lewis","Vertigo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2008","Morena","Vodka",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2009","Chiara","What If We",14,19,12,22,10,105,87,18,69,NULL,NULL,NULL
-"2010","Thea Garrett","My Dream",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2011","Glen Vella","One Life",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2012","Kurt Calleja","This Is the Night",21,21,14,24,10,80,70,10,60,NULL,NULL,NULL
-"2013","Gianluca","Tomorrow",9,8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2014","Firelight","Coming Home",22,12,6,22,16,136,119,17,102,NULL,NULL,NULL
-"2015","Amber","Warrior",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2016","Ira Losco","Walk on Water",22,11,4,21,17,153,137,16,121,NULL,NULL,NULL
-"2017","Claudia Faniello","Breathlessly",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2018","Christabelle","Taboo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2019","Michela","Chameleon",1,14,10,22,12,107,87,20,67,NULL,NULL,NULL
-"2020","Destiny","All of My Love",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/CFCn_8oViRw?si=P16a3GvWht_nKTC0","https://music.apple.com/gb/album/all-of-my-love/1658293894?i=1658293896","https://open.spotify.com/track/15E0nttOxOjP8ukMCtIm5A?si=80c5dd3b46114fc8"
+"1971","Joe Grech","Marija l-Maltija",2,16,16,,,52,52,,,,,
+"1972","Helen and Joseph","L-imħabba",9,18,18,,,48,48,,,,,
+"1975","Renato","Singing This Song",10,12,12,,,32,32,,,,,
+"1991","Paul Giordimaina and Georgina","Could It Be",3,5,5,,,106,106,,,,,
+"1992","Mary Spiteri","Little Child",10,3,3,,,123,123,,,,,
+"1993","William Mangion","This Time",8,8,8,,,69,69,,,,,
+"1994","Moira Stafrace and Christopher Scicluna","More than Love",12,5,5,,,97,97,,,,,
+"1995","Mike Spiteri","Keep Me in Mind",22,10,10,,,76,76,,,,,
+"1996","Miriam Christine","In a Woman's Heart",6,10,10,,,68,68,,,,,
+"1997","Debbie Scerri","Let Me Fly",18,9,7,13,6,66,66,0,66,,,
+"1998","Chiara","The One That I Love",18,4,3,4,1,150,19,131,112,,,
+"1999","Times Three","Believe 'n Peace",20,13,9,13,4,32,7,25,18,,,
+"2000","Claudette Pace","Desire",2,8,2,10,8,73,33,40,7,,,
+"2001","Fabrizio Faniello","Another Summer Night",21,9,10,9,1,48,12,36,24,,,
+"2002","Ira Losco","7th Wonder",9,16,11,20,9,25,19,6,13,,,
+"2003","Lynn Chircop","To Dream Again",5,23,13,24,11,4,3,1,2,,,
+"2004","Julie and Ludwig","On Again... Off Again",6,11,,11,,50,,50,,,,
+"2005","Chiara","Angel",3,2,11,2,9,187,5,182,177,,,
+"2006","Fabrizio Faniello","I Do",7,21,11,22,11,1,1,0,1,,,
+"2007","Olivia Lewis","Vertigo",,,,,,,,,,,,
+"2008","Morena","Vodka",,,,,,,,,,,,
+"2009","Chiara","What If We",14,19,12,22,10,105,87,18,69,,,
+"2010","Thea Garrett","My Dream",,,,,,,,,,,,
+"2011","Glen Vella","One Life",,,,,,,,,,,,
+"2012","Kurt Calleja","This Is the Night",21,21,14,24,10,80,70,10,60,,,
+"2013","Gianluca","Tomorrow",9,8,,,,,,,,,,
+"2014","Firelight","Coming Home",22,12,6,22,16,136,119,17,102,,,
+"2015","Amber","Warrior",,,,,,,,,,,,
+"2016","Ira Losco","Walk on Water",22,11,4,21,17,153,137,16,121,,,
+"2017","Claudia Faniello","Breathlessly",,,,,,,,,,,,
+"2018","Christabelle","Taboo",,,,,,,,,,,,
+"2019","Michela","Chameleon",1,14,10,22,12,107,87,20,67,"https://youtu.be/H-byNyainRA?si=tP9GuyhIUYprr0u0","https://music.apple.com/gb/album/chameleon/1658531860?i=1658531861","https://open.spotify.com/track/3f2A1yImyhIh63zVioggr5?si=03bebb679d8944a8"
+"2020","Destiny","All of My Love",,,,,,,,,,"https://youtu.be/CFCn_8oViRw?si=P16a3GvWht_nKTC0","https://music.apple.com/gb/album/all-of-my-love/1658293894?i=1658293896","https://open.spotify.com/track/15E0nttOxOjP8ukMCtIm5A?si=80c5dd3b46114fc8"
 "2021","Destiny","Je me casse",6,7,3,13,10,255,208,47,161,"https://youtu.be/jbbc2yKnv0M?si=kFQoJdKtz4pOYrMZ","https://music.apple.com/gb/album/je-me-casse/1560824795?i=1560824891","https://open.spotify.com/track/0NbGUXzlqYkSKlGiduwo84?si=98d33d2cc0b44f43"
-"2022","Emma Muscat","I Am What I Am",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/DFCFM5qtvms?si=ud94OKaVDLcJV-W-","https://music.apple.com/gb/album/i-am-what-i-am/1613374827?i=1613374828","https://open.spotify.com/track/1FtqYazfNvsqR4CQvzrrD3?si=6b9c8c4157d04840"
-"2023","The Busker","Dance (Our Own Party)",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/zVmVt9qmg9g?si=YUQfl7gzlEEh6VuS","https://music.apple.com/gb/album/dance-our-own-party/1675580677?i=1675580678","https://open.spotify.com/track/3natKRDYwMSPsLO9nX8y02?si=ff89ac3730614b21"
-"2024","Sarah Bonnici","Loop",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/l6eS60n4wg8?si=yRbndxttYodiL3wz","https://music.apple.com/gb/album/zari/1734215972?i=1734216111","https://open.spotify.com/track/3DlWvRuHXQ3iQicBauinOd?si=7c4d043945804e30"
+"2022","Emma Muscat","I Am What I Am",,,,,,,,,,"https://youtu.be/DFCFM5qtvms?si=ud94OKaVDLcJV-W-","https://music.apple.com/gb/album/i-am-what-i-am/1613374827?i=1613374828","https://open.spotify.com/track/1FtqYazfNvsqR4CQvzrrD3?si=6b9c8c4157d04840"
+"2023","The Busker","Dance (Our Own Party)",,,,,,,,,,"https://youtu.be/zVmVt9qmg9g?si=YUQfl7gzlEEh6VuS","https://music.apple.com/gb/album/dance-our-own-party/1675580677?i=1675580678","https://open.spotify.com/track/3natKRDYwMSPsLO9nX8y02?si=ff89ac3730614b21"
+"2024","Sarah Bonnici","Loop",,,,,,,,,,"https://youtu.be/l6eS60n4wg8?si=yRbndxttYodiL3wz","https://music.apple.com/gb/album/zari/1734215972?i=1734216111","https://open.spotify.com/track/3DlWvRuHXQ3iQicBauinOd?si=7c4d043945804e30"

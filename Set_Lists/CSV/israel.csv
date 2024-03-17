@@ -1,48 +1,48 @@
 "sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-"1973","Ilanit","Ey Sham",17,4,4,NULL,NULL,97,97,NULL,NULL,NULL,NULL,NULL
-"1974","Poogy","Natati La Khaiai",6,5,5,NULL,NULL,11,11,NULL,NULL,NULL,NULL,NULL
-"1975","Shlomo Artzi","At Ve'Ani",12,11,11,NULL,NULL,40,40,NULL,NULL,NULL,NULL,NULL
-"1976","Chocolate, Menta, Mastik","Emor Shalom",4,6,6,NULL,NULL,77,77,NULL,NULL,NULL,NULL,NULL
-"1977","Ilanit","Ahava Hi Shir Lishnayim (אהבה היא שיר לשניים)",11,11,11,NULL,NULL,49,49,NULL,NULL,NULL,NULL,NULL
-"1978","Izhar Cohen and the Alphabeta","A-Ba-Ni-Bi (א-ב-ני-בי)",18,1,1,NULL,NULL,157,157,NULL,NULL,NULL,NULL,NULL
-"1979","Milk and Honey","Hallelujah (הללויה)",10,1,1,NULL,NULL,125,125,NULL,NULL,NULL,NULL,NULL
-"1981","Habibi","Halayla",5,7,7,NULL,NULL,56,56,NULL,NULL,NULL,NULL,NULL
-"1982","Avi Toledano","Hora",15,2,2,NULL,NULL,100,100,NULL,NULL,NULL,NULL,NULL
-"1983","Ofra Haza","Hi",16,2,2,NULL,NULL,136,136,NULL,NULL,NULL,NULL,NULL
-"1985","Izhar Cohen","Olé, Olé",11,5,5,NULL,NULL,93,93,NULL,NULL,NULL,NULL,NULL
-"1986","Moti Giladi and Sarai Tzuriel","Yavo Yom",11,19,19,NULL,NULL,7,7,NULL,NULL,NULL,NULL,NULL
-"1987","Datner and Kushnir","Shir Habatlanim",2,7,7,NULL,NULL,73,73,NULL,NULL,NULL,NULL,NULL
-"1988","Yardena Arazi","Ben Adam",8,7,7,NULL,NULL,85,85,NULL,NULL,NULL,NULL,NULL
-"1989","Gili and Galit","Derekh Hamelekh",2,11,11,NULL,NULL,50,50,NULL,NULL,NULL,NULL,NULL
-"1990","Rita","Shara Barkhovot (שרה ברחובות)",10,17,17,NULL,NULL,16,16,NULL,NULL,NULL,NULL,NULL
-"1991","Duo Datz","Kan (כאן)",15,3,3,NULL,NULL,139,139,NULL,NULL,NULL,NULL,NULL
-"1992","Dafna","Ze Rak Sport (זה רק ספורט)",3,6,6,NULL,NULL,85,85,NULL,NULL,NULL,NULL,NULL
-"1993","Lehakat Shiru","Shiru (שירו)",24,23,23,NULL,NULL,4,4,NULL,NULL,NULL,NULL,NULL
-"1995","Liora","Amen (אמן)",21,8,8,NULL,NULL,81,81,NULL,NULL,NULL,NULL,NULL
-"1998","Dana International","Diva (דיווה)",8,1,5,1,4,172,12,160,148,NULL,NULL,NULL
-"1999","Eden","Happy Birthday",19,5,11,4,7,104,5,99,94,NULL,NULL,NULL
-"2000","PingPong","Sameach",1,21,18,20,2,7,1,6,5,NULL,NULL,NULL
-"2001","Tal Sondak","Ein Davar",5,16,9,17,8,25,14,11,3,NULL,NULL,NULL
-"2002","Sarit Hadad","Light a Candle",10,11,16,10,6,37,8,29,21,NULL,NULL,NULL
-"2003","Lior Narkis","Words for Love",13,17,11,19,8,17,5,12,7,NULL,NULL,NULL
-"2004","David D'Or","Leha'amin",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2005","Shiri Maimon","HaSheket SheNish'ar",11,5,1,6,5,146,26,120,94,NULL,NULL,NULL
-"2006","Eddie Butler","Together We Are One",3,20,12,20,8,4,0,4,4,NULL,NULL,NULL
-"2007","Teapacks","Push the Button",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2008","Boaz","The Fire in Your Eyes",7,9,2,9,7,124,10,114,104,NULL,NULL,NULL
-"2009","Noa and Mira Awad","There Must Be Another Way",2,15,9,23,14,122,107,15,92,NULL,NULL,NULL
-"2010","Harel Skaat","Milim",24,13,5,18,13,161,134,27,107,NULL,NULL,NULL
-"2011","Dana International","Ding Dong",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2012","Izabo","Time",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2013","Moran Mazor","Rak Bishvilo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2014","Mei Finegold","Same Heart",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-"2015","Nadav Guedj","Golden Boy",3,9,8,7,1,184,80,104,24,NULL,NULL,NULL
-"2016","Hovi Star","Made of Stars",7,13,7,22,15,135,124,11,113,NULL,NULL,NULL
-"2017","Imri","I Feel Alive",1,22,19,21,2,39,34,5,29,NULL,NULL,NULL
-"2018","Netta","Toy",22,1,3,1,2,529,212,317,105,NULL,NULL,NULL
-"2019","Kobi Marimi","Home",14,22,25,19,6,35,0,35,35,NULL,NULL,NULL
-"2020","Eden Alene","Feker Libi",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/YjzyZZ-oidc?si=fJ1kZl6EumpSat_1","https://music.apple.com/gb/album/feker-libi/1500768378?i=1500768382","https://open.spotify.com/track/6g1dQ1aA2LLFHU27Su9SYu?si=6a960bc858604622"
+"1973","Ilanit","Ey Sham",17,4,4,,,97,97,,,,,
+"1974","Poogy","Natati La Khaiai",6,5,5,,,11,11,,,,,
+"1975","Shlomo Artzi","At Ve'Ani",12,11,11,,,40,40,,,,,
+"1976","Chocolate, Menta, Mastik","Emor Shalom",4,6,6,,,77,77,,,,,
+"1977","Ilanit","Ahava Hi Shir Lishnayim (אהבה היא שיר לשניים)",11,11,11,,,49,49,,,,,
+"1978","Izhar Cohen and the Alphabeta","A-Ba-Ni-Bi (א-ב-ני-בי)",18,1,1,,,157,157,,,,,
+"1979","Milk and Honey","Hallelujah (הללויה)",10,1,1,,,125,125,,,,,
+"1981","Habibi","Halayla",5,7,7,,,56,56,,,,,
+"1982","Avi Toledano","Hora",15,2,2,,,100,100,,,,,
+"1983","Ofra Haza","Hi",16,2,2,,,136,136,,,,,
+"1985","Izhar Cohen","Olé, Olé",11,5,5,,,93,93,,,,,
+"1986","Moti Giladi and Sarai Tzuriel","Yavo Yom",11,19,19,,,7,7,,,,,
+"1987","Datner and Kushnir","Shir Habatlanim",2,7,7,,,73,73,,,,,
+"1988","Yardena Arazi","Ben Adam",8,7,7,,,85,85,,,,,
+"1989","Gili and Galit","Derekh Hamelekh",2,11,11,,,50,50,,,,,
+"1990","Rita","Shara Barkhovot (שרה ברחובות)",10,17,17,,,16,16,,,,,
+"1991","Duo Datz","Kan (כאן)",15,3,3,,,139,139,,,,,
+"1992","Dafna","Ze Rak Sport (זה רק ספורט)",3,6,6,,,85,85,,,,,
+"1993","Lehakat Shiru","Shiru (שירו)",24,23,23,,,4,4,,,,,
+"1995","Liora","Amen (אמן)",21,8,8,,,81,81,,,,,
+"1998","Dana International","Diva (דיווה)",8,1,5,1,4,172,12,160,148,,,
+"1999","Eden","Happy Birthday",19,5,11,4,7,104,5,99,94,,,
+"2000","PingPong","Sameach",1,21,18,20,2,7,1,6,5,,,
+"2001","Tal Sondak","Ein Davar",5,16,9,17,8,25,14,11,3,,,
+"2002","Sarit Hadad","Light a Candle",10,11,16,10,6,37,8,29,21,,,
+"2003","Lior Narkis","Words for Love",13,17,11,19,8,17,5,12,7,,,
+"2004","David D'Or","Leha'amin",,,,,,,,,,,,
+"2005","Shiri Maimon","HaSheket SheNish'ar",11,5,1,6,5,146,26,120,94,,,
+"2006","Eddie Butler","Together We Are One",3,20,12,20,8,4,0,4,4,,,
+"2007","Teapacks","Push the Button",,,,,,,,,,,,
+"2008","Boaz","The Fire in Your Eyes",7,9,2,9,7,124,10,114,104,,,
+"2009","Noa and Mira Awad","There Must Be Another Way",2,15,9,23,14,122,107,15,92,,,
+"2010","Harel Skaat","Milim",24,13,5,18,13,161,134,27,107,,,
+"2011","Dana International","Ding Dong",,,,,,,,,,,,
+"2012","Izabo","Time",,,,,,,,,,,,
+"2013","Moran Mazor","Rak Bishvilo",,,,,,,,,,,,
+"2014","Mei Finegold","Same Heart",,,,,,,,,,,,
+"2015","Nadav Guedj","Golden Boy",3,9,8,7,1,184,80,104,24,,,
+"2016","Hovi Star","Made of Stars",7,13,7,22,15,135,124,11,113,,,
+"2017","Imri","I Feel Alive",1,22,19,21,2,39,34,5,29,,,
+"2018","Netta","Toy",22,1,3,1,2,529,212,317,105,,,
+"2019","Kobi Marimi","Home",14,22,25,19,6,35,0,35,35,"https://youtu.be/uCdS42uCqP0?si=9NMqXEA3FpGfCYEA","https://music.apple.com/gb/album/home/1546245494?i=1546245495","https://open.spotify.com/track/4UOObTxA2DDroKBthkiENG?si=bc24b3cadd354f8d"
+"2020","Eden Alene","Feker Libi",,,,,,,,,,"https://youtu.be/YjzyZZ-oidc?si=fJ1kZl6EumpSat_1","https://music.apple.com/gb/album/feker-libi/1500768378?i=1500768382","https://open.spotify.com/track/6g1dQ1aA2LLFHU27Su9SYu?si=6a960bc858604622"
 "2021","Eden Alene","Set Me Free",3,16,12,19,7,93,73,20,53,"https://youtu.be/5Y-blG5ptwo?si=xxWZ6FSbSTyUIoCp","https://music.apple.com/gb/album/set-me-free/1559069052?i=1559069053","https://open.spotify.com/track/76TRCnbYfo9GU5DPsZ1uI9?si=f23809872ee44749"
-"2022","Michael Ben David","I.M",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/XgXjPUsjx4Y?si=NQNZgthsdXhzp5bt","https://music.apple.com/gb/album/i-m/1614234899?i=1614234901","https://open.spotify.com/track/4Bpz4FBsoe9lhuiCWZv21x?si=8f88b6a32c894556"
+"2022","Michael Ben David","I.M",,,,,,,,,,"https://youtu.be/XgXjPUsjx4Y?si=NQNZgthsdXhzp5bt","https://music.apple.com/gb/album/i-m/1614234899?i=1614234901","https://open.spotify.com/track/4Bpz4FBsoe9lhuiCWZv21x?si=8f88b6a32c894556"
 "2023","Noa Kirel","Unicorn",23,3,2,5,3,362,177,185,8,"https://youtu.be/Z3mIcCllJXY?si=oBEgRon0sR2rSDKI","https://music.apple.com/gb/album/unicorn/1674396877?i=1674396878","https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK?si=1162a0aee75c4b02"
-"2024","Eden Golan","Hurricane",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/lJYn09tuPw4?si=q7iCSEQRcxcoleVo","https://music.apple.com/gb/album/zari/1734215972?i=1734216111","https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw?si=d758a018cf724d58"
+"2024","Eden Golan","Hurricane",,,,,,,,,,"https://youtu.be/lJYn09tuPw4?si=q7iCSEQRcxcoleVo","https://music.apple.com/gb/album/zari/1734215972?i=1734216111","https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw?si=d758a018cf724d58"

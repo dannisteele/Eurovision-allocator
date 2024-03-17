@@ -1,24 +1,24 @@
 "id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-1,"Austria","Stella Jones","Die Welt dreht sich verkehrt",8,8,12,12,NULL,NULL,67,67,NULL,NULL,NULL,NULL,NULL
-2,"Belgium","Frédéric Etherlinck","La voix est libre",1,14,19,19,NULL,NULL,8,8,NULL,NULL,NULL,NULL,NULL
-3,"Bosnia and Herzegovina","Davor Popović","Dvadeset prvi vijek",26,4,18,18,NULL,NULL,14,14,NULL,NULL,NULL,NULL,NULL
-4,"Croatia","Magazin and Lidija","Nostalgija",27,11,6,6,NULL,NULL,91,91,NULL,NULL,NULL,NULL,NULL
-5,"Cyprus","Alexandros Panayi","Sti fotia (Στη φωτιά)",24,17,9,9,NULL,NULL,79,79,NULL,NULL,NULL,NULL,NULL
-6,"Denmark","Aud Wilken","Fra Mols til Skagen",9,19,5,5,NULL,NULL,92,92,NULL,NULL,NULL,NULL,NULL
-7,"France","Nathalie Santamaria","Il me donne rendez-vous",2,12,4,4,NULL,NULL,94,94,NULL,NULL,NULL,NULL,NULL
-8,"Germany","Stone and Stone","Verliebt in Dich",3,3,22,22,NULL,NULL,1,1,NULL,NULL,NULL,NULL,NULL
-9,"Greece","Elina Konstantopoulou","Pia prosefhi (Ποιά προσευχή)",21,23,11,11,NULL,NULL,68,68,NULL,NULL,NULL,NULL,NULL
-10,"Hungary","Csaba Szigeti","Új név egy régi ház falán",30,13,21,21,NULL,NULL,3,3,NULL,NULL,NULL,NULL,NULL
-11,"Iceland","Bo Halldórsson","Núna",25,7,14,14,NULL,NULL,31,31,NULL,NULL,NULL,NULL,NULL
-12,"Ireland","Eddie Friel","Dreamin'",18,2,13,13,NULL,NULL,44,44,NULL,NULL,NULL,NULL,NULL
-13,"Israel","Liora","Amen (אמן)",20,21,8,8,NULL,NULL,81,81,NULL,NULL,NULL,NULL,NULL
-14,"Malta","Mike Spiteri","Keep Me in Mind",19,22,10,10,NULL,NULL,76,76,NULL,NULL,NULL,NULL,NULL
-15,"Norway","Secret Garden","Nocturne",13,5,1,1,NULL,NULL,148,148,NULL,NULL,NULL,NULL,NULL
-16,"Poland","Justyna","Sama",32,1,17,17,NULL,NULL,15,15,NULL,NULL,NULL,NULL,NULL
-17,"Portugal","Tó Cruz","Baunilha e chocolate",17,16,20,20,NULL,NULL,5,5,NULL,NULL,NULL,NULL,NULL
-18,"Russia","Philipp Kirkorov","Kolybelnaya dlya vulkana (Колыбельная для вулкана)",34,6,16,16,NULL,NULL,17,17,NULL,NULL,NULL,NULL,NULL
-19,"Slovenia","Darja Švajger","Prisluhni mi",28,20,7,7,NULL,NULL,84,84,NULL,NULL,NULL,NULL,NULL
-20,"Spain","Anabel Conde","Vuelve conmigo",15,9,2,2,NULL,NULL,119,119,NULL,NULL,NULL,NULL,NULL
-21,"Sweden","Jan Johansen","Se på mej",11,18,3,3,NULL,NULL,100,100,NULL,NULL,NULL,NULL,NULL
-22,"Turkey","Arzu Ece","Sev!",22,10,15,15,NULL,NULL,21,21,NULL,NULL,NULL,NULL,NULL
-23,"United Kingdom","Love City Groove","Love City Groove",10,15,10,10,NULL,NULL,76,76,NULL,NULL,NULL,NULL,NULL
+1,"Austria","Stella Jones","Die Welt dreht sich verkehrt",8,8,12,12,,,67,67,,,,,
+2,"Belgium","Frédéric Etherlinck","La voix est libre",1,14,19,19,,,8,8,,,,,
+3,"Bosnia and Herzegovina","Davor Popović","Dvadeset prvi vijek",26,4,18,18,,,14,14,,,,,
+4,"Croatia","Magazin and Lidija","Nostalgija",27,11,6,6,,,91,91,,,,,
+5,"Cyprus","Alexandros Panayi","Sti fotia (Στη φωτιά)",24,17,9,9,,,79,79,,,,,
+6,"Denmark","Aud Wilken","Fra Mols til Skagen",9,19,5,5,,,92,92,,,,,
+7,"France","Nathalie Santamaria","Il me donne rendez-vous",2,12,4,4,,,94,94,,,,,
+8,"Germany","Stone and Stone","Verliebt in Dich",3,3,22,22,,,1,1,,,,,
+9,"Greece","Elina Konstantopoulou","Pia prosefhi (Ποιά προσευχή)",21,23,11,11,,,68,68,,,,,
+10,"Hungary","Csaba Szigeti","Új név egy régi ház falán",30,13,21,21,,,3,3,,,,,
+11,"Iceland","Bo Halldórsson","Núna",25,7,14,14,,,31,31,,,,,
+12,"Ireland","Eddie Friel","Dreamin'",18,2,13,13,,,44,44,,,,,
+13,"Israel","Liora","Amen (אמן)",20,21,8,8,,,81,81,,,,,
+14,"Malta","Mike Spiteri","Keep Me in Mind",19,22,10,10,,,76,76,,,,,
+15,"Norway","Secret Garden","Nocturne",13,5,1,1,,,148,148,,,,,
+16,"Poland","Justyna","Sama",32,1,17,17,,,15,15,,,,,
+17,"Portugal","Tó Cruz","Baunilha e chocolate",17,16,20,20,,,5,5,,,,,
+18,"Russia","Philipp Kirkorov","Kolybelnaya dlya vulkana (Колыбельная для вулкана)",34,6,16,16,,,17,17,,,,,
+19,"Slovenia","Darja Švajger","Prisluhni mi",28,20,7,7,,,84,84,,,,,
+20,"Spain","Anabel Conde","Vuelve conmigo",15,9,2,2,,,119,119,,,,,
+21,"Sweden","Jan Johansen","Se på mej",11,18,3,3,,,100,100,,,,,
+22,"Turkey","Arzu Ece","Sev!",22,10,15,15,,,21,21,,,,,
+23,"United Kingdom","Love City Groove","Love City Groove",10,15,10,10,,,76,76,,,,,

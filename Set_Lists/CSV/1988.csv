@@ -1,22 +1,22 @@
 "id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-1,"Austria","Wilfried","Lisa Mona Lisa",8,12,19,19,NULL,NULL,0,0,NULL,NULL,NULL,NULL,NULL
-2,"Belgium","Reynaert","Laissez briller le soleil",1,16,17,17,NULL,NULL,5,5,NULL,NULL,NULL,NULL,NULL
-3,"Denmark","Hot Eyes","Ka' du se hva' jeg sa'",9,13,3,3,NULL,NULL,92,92,NULL,NULL,NULL,NULL,NULL
-4,"Finland","Boulevard","Nauravat silmät muistetaan",14,3,18,18,NULL,NULL,3,3,NULL,NULL,NULL,NULL,NULL
-5,"France","Gérard Lenorman","Chanteur de charme",2,19,10,10,NULL,NULL,64,64,NULL,NULL,NULL,NULL,NULL
-6,"Germany","Maxi and Chris Garden","Lied für einen Freund",3,11,13,13,NULL,NULL,48,48,NULL,NULL,NULL,NULL,NULL
-7,"Greece","Afroditi Fryda","Clown",21,14,16,16,NULL,NULL,10,10,NULL,NULL,NULL,NULL,NULL
-8,"Iceland","Beathoven","Sókrates",25,1,15,15,NULL,NULL,20,20,NULL,NULL,NULL,NULL,NULL
-9,"Ireland","Jump the Gun","Take Him Home",18,10,8,8,NULL,NULL,79,79,NULL,NULL,NULL,NULL,NULL
-10,"Israel","Yardena Arazi","Ben Adam",20,8,7,7,NULL,NULL,85,85,NULL,NULL,NULL,NULL,NULL
-11,"Italy","Luca Barbarossa","Ti scrivo",4,18,12,12,NULL,NULL,52,52,NULL,NULL,NULL,NULL,NULL
-12,"Luxembourg","Lara Fabian","Croire",5,17,4,4,NULL,NULL,90,90,NULL,NULL,NULL,NULL,NULL
-13,"Netherlands","Gerard Joling","Shangri-La",6,7,9,9,NULL,NULL,70,70,NULL,NULL,NULL,NULL,NULL
-14,"Norway","Karoline Krüger","For vår jord",13,15,5,5,NULL,NULL,88,88,NULL,NULL,NULL,NULL,NULL
-15,"Portugal","Dora","Voltarei",17,20,17,17,NULL,NULL,5,5,NULL,NULL,NULL,NULL,NULL
-16,"Spain","La Década","La chica que yo quiero (Made in Spain)",15,6,11,11,NULL,NULL,58,58,NULL,NULL,NULL,NULL,NULL
-17,"Sweden","Tommy Körberg","Stad i ljus",11,2,12,12,NULL,NULL,52,52,NULL,NULL,NULL,NULL,NULL
-18,"Switzerland","Céline Dion","Ne partez pas sans moi",7,9,1,1,NULL,NULL,137,137,NULL,NULL,NULL,NULL,NULL
-19,"Turkey","MFÖ","Sufi (Hey Ya Hey)",22,5,14,14,NULL,NULL,37,37,NULL,NULL,NULL,NULL,NULL
-20,"United Kingdom","Scott Fitzgerald","Go",10,4,2,2,NULL,NULL,136,136,NULL,NULL,NULL,NULL,NULL
-21,"Yugoslavia","Srebrna krila","Mangup",16,21,6,6,NULL,NULL,87,87,NULL,NULL,NULL,NULL,NULL
+1,"Austria","Wilfried","Lisa Mona Lisa",8,12,19,19,,,0,0,,,,,
+2,"Belgium","Reynaert","Laissez briller le soleil",1,16,17,17,,,5,5,,,,,
+3,"Denmark","Hot Eyes","Ka' du se hva' jeg sa'",9,13,3,3,,,92,92,,,,,
+4,"Finland","Boulevard","Nauravat silmät muistetaan",14,3,18,18,,,3,3,,,,,
+5,"France","Gérard Lenorman","Chanteur de charme",2,19,10,10,,,64,64,,,,,
+6,"Germany","Maxi and Chris Garden","Lied für einen Freund",3,11,13,13,,,48,48,,,,,
+7,"Greece","Afroditi Fryda","Clown",21,14,16,16,,,10,10,,,,,
+8,"Iceland","Beathoven","Sókrates",25,1,15,15,,,20,20,,,,,
+9,"Ireland","Jump the Gun","Take Him Home",18,10,8,8,,,79,79,,,,,
+10,"Israel","Yardena Arazi","Ben Adam",20,8,7,7,,,85,85,,,,,
+11,"Italy","Luca Barbarossa","Ti scrivo",4,18,12,12,,,52,52,,,,,
+12,"Luxembourg","Lara Fabian","Croire",5,17,4,4,,,90,90,,,,,
+13,"Netherlands","Gerard Joling","Shangri-La",6,7,9,9,,,70,70,,,,,
+14,"Norway","Karoline Krüger","For vår jord",13,15,5,5,,,88,88,,,,,
+15,"Portugal","Dora","Voltarei",17,20,17,17,,,5,5,,,,,
+16,"Spain","La Década","La chica que yo quiero (Made in Spain)",15,6,11,11,,,58,58,,,,,
+17,"Sweden","Tommy Körberg","Stad i ljus",11,2,12,12,,,52,52,,,,,
+18,"Switzerland","Céline Dion","Ne partez pas sans moi",7,9,1,1,,,137,137,,,,,
+19,"Turkey","MFÖ","Sufi (Hey Ya Hey)",22,5,14,14,,,37,37,,,,,
+20,"United Kingdom","Scott Fitzgerald","Go",10,4,2,2,,,136,136,,,,,
+21,"Yugoslavia","Srebrna krila","Mangup",16,21,6,6,,,87,87,,,,,

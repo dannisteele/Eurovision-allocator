@@ -1,17 +1,17 @@
 "id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-1,"Austria","Jimmy Makulis","Sehnsucht",8,3,12,12,NULL,NULL,1,1,NULL,NULL,NULL,NULL,NULL
-2,"Belgium","Bob Benny","September, gouden roos",1,11,12,12,NULL,NULL,1,1,NULL,NULL,NULL,NULL,NULL
-3,"Denmark","Dario Campeotto","Angelique",9,13,5,5,NULL,NULL,12,12,NULL,NULL,NULL,NULL,NULL
-4,"Finland","Laila Kinnunen","Valoa ikkunassa",14,4,9,9,NULL,NULL,6,6,NULL,NULL,NULL,NULL,NULL
-5,"France","Jean-Paul Mauric","Printemps (avril carillonne)",2,9,4,4,NULL,NULL,13,13,NULL,NULL,NULL,NULL,NULL
-6,"Germany","Lale Andersen","Einmal sehen wir uns wieder",3,8,10,10,NULL,NULL,3,3,NULL,NULL,NULL,NULL,NULL
-7,"Italy","Betty Curtis","Al di là",4,16,5,5,NULL,NULL,12,12,NULL,NULL,NULL,NULL,NULL
-8,"Luxembourg","Jean-Claude Pascal","Nous les amoureux",5,14,1,1,NULL,NULL,31,31,NULL,NULL,NULL,NULL,NULL
-9,"Monaco","Colette Deréal","Allons, allons les enfants",12,2,9,9,NULL,NULL,6,6,NULL,NULL,NULL,NULL,NULL
-10,"Netherlands","Greetje Kauffeld","Wat een dag",6,6,9,9,NULL,NULL,6,6,NULL,NULL,NULL,NULL,NULL
-11,"Norway","Nora Brockstedt","Sommer i Palma",13,12,6,6,NULL,NULL,10,10,NULL,NULL,NULL,NULL,NULL
-12,"Spain","Conchita Bautista","Estando contigo",15,1,8,8,NULL,NULL,8,8,NULL,NULL,NULL,NULL,NULL
-13,"Sweden","Lill-Babs","April, april",11,7,11,11,NULL,NULL,2,2,NULL,NULL,NULL,NULL,NULL
-14,"Switzerland","Franca di Rienzo","Nous aurons demain",7,10,3,3,NULL,NULL,16,16,NULL,NULL,NULL,NULL,NULL
-15,"United Kingdom","The Allisons","Are You Sure?",10,15,2,2,NULL,NULL,24,24,NULL,NULL,NULL,NULL,NULL
-16,"Yugoslavia","Ljiljana Petrović","Neke davne zvezde",16,5,7,7,NULL,NULL,9,9,NULL,NULL,NULL,NULL,NULL
+1,"Austria","Jimmy Makulis","Sehnsucht",8,3,12,12,,,1,1,,,,,
+2,"Belgium","Bob Benny","September, gouden roos",1,11,12,12,,,1,1,,,,,
+3,"Denmark","Dario Campeotto","Angelique",9,13,5,5,,,12,12,,,,,
+4,"Finland","Laila Kinnunen","Valoa ikkunassa",14,4,9,9,,,6,6,,,,,
+5,"France","Jean-Paul Mauric","Printemps (avril carillonne)",2,9,4,4,,,13,13,,,,,
+6,"Germany","Lale Andersen","Einmal sehen wir uns wieder",3,8,10,10,,,3,3,,,,,
+7,"Italy","Betty Curtis","Al di là",4,16,5,5,,,12,12,,,,,
+8,"Luxembourg","Jean-Claude Pascal","Nous les amoureux",5,14,1,1,,,31,31,,,,,
+9,"Monaco","Colette Deréal","Allons, allons les enfants",12,2,9,9,,,6,6,,,,,
+10,"Netherlands","Greetje Kauffeld","Wat een dag",6,6,9,9,,,6,6,,,,,
+11,"Norway","Nora Brockstedt","Sommer i Palma",13,12,6,6,,,10,10,,,,,
+12,"Spain","Conchita Bautista","Estando contigo",15,1,8,8,,,8,8,,,,,
+13,"Sweden","Lill-Babs","April, april",11,7,11,11,,,2,2,,,,,
+14,"Switzerland","Franca di Rienzo","Nous aurons demain",7,10,3,3,,,16,16,,,,,
+15,"United Kingdom","The Allisons","Are You Sure?",10,15,2,2,,,24,24,,,,,
+16,"Yugoslavia","Ljiljana Petrović","Neke davne zvezde",16,5,7,7,,,9,9,,,,,

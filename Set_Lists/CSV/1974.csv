@@ -1,18 +1,18 @@
 "id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-1,"Belgium","Jacques Hustin","Fleur de liberté",1,11,6,6,NULL,NULL,10,10,NULL,NULL,NULL,NULL,NULL
-2,"Finland","Carita","Keep Me Warm",14,1,9,9,NULL,NULL,4,4,NULL,NULL,NULL,NULL,NULL
-3,"Germany","Cindy and Bert","Die Sommermelodie",3,14,10,10,NULL,NULL,3,3,NULL,NULL,NULL,NULL,NULL
-4,"Greece","Marinella","Krassi, thalassa ke t' agori mou",21,5,7,7,NULL,NULL,7,7,NULL,NULL,NULL,NULL,NULL
-5,"Ireland","Tina Reynolds","Cross Your Heart",18,13,5,5,NULL,NULL,11,11,NULL,NULL,NULL,NULL,NULL
-6,"Israel","Poogy","Natati La Khaiai",20,6,5,5,NULL,NULL,11,11,NULL,NULL,NULL,NULL,NULL
-7,"Italy","Gigliola Cinquetti","Sì",4,17,2,2,NULL,NULL,18,18,NULL,NULL,NULL,NULL,NULL
-8,"Luxembourg","Ireen Sheer","Bye Bye I Love You",5,9,4,4,NULL,NULL,14,14,NULL,NULL,NULL,NULL,NULL
-9,"Monaco","Romuald","Celui qui reste et celui qui s'en va",12,10,4,4,NULL,NULL,14,14,NULL,NULL,NULL,NULL,NULL
-10,"Netherlands","Mouth and MacNeal","I See a Star",6,12,3,3,NULL,NULL,15,15,NULL,NULL,NULL,NULL,NULL
-11,"Norway","Anne-Karine and the Bendik Singers","The First Day of Love",13,4,10,10,NULL,NULL,3,3,NULL,NULL,NULL,NULL,NULL
-12,"Portugal","Paulo de Carvalho","E depois do adeus",17,16,10,10,NULL,NULL,3,3,NULL,NULL,NULL,NULL,NULL
-13,"Spain","Peret","Canta y sé feliz",15,3,6,6,NULL,NULL,10,10,NULL,NULL,NULL,NULL,NULL
-14,"Sweden","ABBA","Waterloo",11,8,1,1,NULL,NULL,24,24,NULL,NULL,NULL,NULL,NULL
-15,"Switzerland","Piera Martell","Mein Ruf nach dir",7,15,10,10,NULL,NULL,3,3,NULL,NULL,NULL,NULL,NULL
-16,"United Kingdom","Olivia Newton-John","Long Live Love",10,2,4,4,NULL,NULL,14,14,NULL,NULL,NULL,NULL,NULL
-17,"Yugoslavia","Korni Grupa","Generacija '42",16,7,8,8,NULL,NULL,6,6,NULL,NULL,NULL,NULL,NULL
+1,"Belgium","Jacques Hustin","Fleur de liberté",1,11,6,6,,,10,10,,,,,
+2,"Finland","Carita","Keep Me Warm",14,1,9,9,,,4,4,,,,,
+3,"Germany","Cindy and Bert","Die Sommermelodie",3,14,10,10,,,3,3,,,,,
+4,"Greece","Marinella","Krassi, thalassa ke t' agori mou",21,5,7,7,,,7,7,,,,,
+5,"Ireland","Tina Reynolds","Cross Your Heart",18,13,5,5,,,11,11,,,,,
+6,"Israel","Poogy","Natati La Khaiai",20,6,5,5,,,11,11,,,,,
+7,"Italy","Gigliola Cinquetti","Sì",4,17,2,2,,,18,18,,,,,
+8,"Luxembourg","Ireen Sheer","Bye Bye I Love You",5,9,4,4,,,14,14,,,,,
+9,"Monaco","Romuald","Celui qui reste et celui qui s'en va",12,10,4,4,,,14,14,,,,,
+10,"Netherlands","Mouth and MacNeal","I See a Star",6,12,3,3,,,15,15,,,,,
+11,"Norway","Anne-Karine and the Bendik Singers","The First Day of Love",13,4,10,10,,,3,3,,,,,
+12,"Portugal","Paulo de Carvalho","E depois do adeus",17,16,10,10,,,3,3,,,,,
+13,"Spain","Peret","Canta y sé feliz",15,3,6,6,,,10,10,,,,,
+14,"Sweden","ABBA","Waterloo",11,8,1,1,,,24,24,,,,,
+15,"Switzerland","Piera Martell","Mein Ruf nach dir",7,15,10,10,,,3,3,,,,,
+16,"United Kingdom","Olivia Newton-John","Long Live Love",10,2,4,4,,,14,14,,,,,
+17,"Yugoslavia","Korni Grupa","Generacija '42",16,7,8,8,,,6,6,,,,,
