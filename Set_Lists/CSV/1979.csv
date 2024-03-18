@@ -1,20 +1,20 @@
 "id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-1,"Austria","Christina Simon","Heute in Jerusalem",8,18,18,18,,,5,5,,,,,
-2,"Belgium","Micha Marah","Hey Nana",1,12,18,18,,,5,5,,,,,
-3,"Denmark","Tommy Seebach","Disco Tango",9,3,6,6,,,76,76,,,,,
-4,"Finland","Katri Helena","Katson sineen taivaan",14,5,14,14,,,38,38,,,,,
-5,"France","Anne-Marie David","Je suis l'enfant soleil",2,11,3,3,,,106,106,,,,,
-6,"Germany","Dschinghis Khan","Dschinghis Khan",3,9,4,4,,,86,86,,,,,
-7,"Greece","Elpida","Socrates (Σωκράτη)",21,7,8,8,,,69,69,,,,,
-8,"Ireland","Cathal Dunne","Happy Man",18,4,5,5,,,80,80,,,,,
-9,"Israel","Milk and Honey","Hallelujah (הללויה)",20,10,1,1,,,125,125,,,,,
-10,"Italy","Matia Bazar","Raggio di luna",4,2,15,15,,,27,27,,,,,
-11,"Luxembourg","Jeane Manson","J'ai déjà vu ça dans tes yeux",5,13,13,13,,,44,44,,,,,
-12,"Monaco","Laurent Vaguener","Notre vie c'est la musique",12,6,16,16,,,12,12,,,,,
-13,"Netherlands","Xandra","Colorado",6,14,12,12,,,51,51,,,,,
-14,"Norway","Anita Skorgan","Oliver",13,16,11,11,,,57,57,,,,,
-15,"Portugal","Manuela Bravo","Sobe, sobe, balão sobe",17,1,9,9,,,64,64,,,,,
-16,"Spain","Betty Missiego","Su canción",15,19,2,2,,,116,116,,,,,
-17,"Sweden","Ted Gärdestad","Satellit",11,15,17,17,,,8,8,,,,,
-18,"Switzerland","Peter, Sue and Marc, Pfuri, Gorps and Kniri","Trödler und Co.",7,8,10,10,,,60,60,,,,,
-19,"United Kingdom","Black Lace","Mary Ann",10,17,7,7,,,73,73,,,,,
+1,"Austria","Christina Simon","Heute in Jerusalem",8,18,18,18,,,5,5,,,"https://youtu.be/EHD1t5K4aLY?si=_QgSIGuJiJuO643x",,
+2,"Belgium","Micha Marah","Hey Nana",1,12,18,18,,,5,5,,,"https://youtu.be/kHKjdkduPNI?si=TEFcN_2f9pb8qsTg","https://music.apple.com/gb/album/hey-nana/1694200754?i=1694200966","https://open.spotify.com/track/5QM7S1zXH2wj3YqPT2QTnF?si=cc44a8aa08be4a5e"
+3,"Denmark","Tommy Seebach","Disco Tango",9,3,6,6,,,76,76,,,"https://youtu.be/3osUz0OZEQE?si=6g0rz4nTZtgM-Nja","https://music.apple.com/gb/album/disco-tango-engelsk-version/688483780?i=688485107","https://open.spotify.com/track/5JpYM0yLDfKfoPWqydsqgj?si=154dbf3c5e41481d"
+4,"Finland","Katri Helena","Katson sineen taivaan",14,5,14,14,,,38,38,,,"https://youtu.be/pBiBN5tbuXk?si=OIyTiR8yiWCeLS-M","https://music.apple.com/gb/album/katson-sineen-taivaan/211162907?i=211162924","https://open.spotify.com/track/1n2GKZLR0OwIoEsXzJx40U?si=a266599408ca4b31"
+5,"France","Anne-Marie David","Je suis l'enfant soleil",2,11,3,3,,,106,106,,,"https://youtu.be/AtYql_qR0cg?si=KptmuaKK0TYlMHMC","https://music.apple.com/gb/album/je-suis-lenfant-soleil/986431359?i=986431368","https://open.spotify.com/track/0DmO7vmzpWybDWJ51mIPFZ?si=bc21a373af874771"
+6,"Germany","Dschinghis Khan","Dschinghis Khan",3,9,4,4,,,86,86,,,"https://youtu.be/xE2Z6eTOIRk?si=L_IKsRT3U_6sGqBR","https://music.apple.com/gb/album/dschinghis-khan/253921720?i=253921794","https://open.spotify.com/track/0ksebE6LrZocf2L5f4N1q7?si=46a603a1a5af4dbf"
+7,"Greece","Elpida","Socrates",21,7,8,8,,,69,69,,,"https://youtu.be/vx4Odfzrrzk?si=bHDZ9C9wZih97FHi",,"https://open.spotify.com/track/0Jd0462vatmBiMP1D0PeJA?si=28e6637f5f0f428d"
+8,"Ireland","Cathal Dunne","Happy Man",18,4,5,5,,,80,80,,,"https://youtu.be/f-z_gZFRptI?si=axCJrCgriNxS_DwJ","https://music.apple.com/gb/album/happy-man/1322526290?i=1322526303",
+9,"Israel","Milk and Honey","Hallelujah",20,10,1,1,,,125,125,,,"https://youtu.be/jKbvuYRR35E?si=T0nFKSkSq4iuiKC-","https://music.apple.com/gb/album/hallelujah/1450822998?i=1450823222","https://open.spotify.com/track/0MSj3prJSpFXSAE7sq0us7?si=ab546571eaa0423a"
+10,"Italy","Matia Bazar","Raggio di luna",4,2,15,15,,,27,27,,,"https://youtu.be/2vCistw4URM?si=Pum2oZDOvxFkHyZd","https://music.apple.com/gb/album/raggio-di-luna/712943003?i=712943585","https://open.spotify.com/track/4YB2mfnJ9juGvdDXUq6ieW?si=611590ae25e04056"
+11,"Luxembourg","Jeane Manson","J'ai déjà vu ça dans tes yeux",5,13,13,13,,,44,44,,,"https://youtu.be/mznCPsr9oCs?si=tB9apkV9kVYtwcin",,
+12,"Monaco","Laurent Vaguener","Notre vie c'est la musique",12,6,16,16,,,12,12,,,"https://youtu.be/53OdfcR1eVo?si=2cLrWqEFbWBgDOu7",,
+13,"Netherlands","Xandra","Colorado",6,14,12,12,,,51,51,,,"https://youtu.be/1TykShpnQFM?si=_ktmzglaa0g6OeRM","https://music.apple.com/gb/album/colorado-german-version-bonus-track/1575202578?i=1575202983","https://open.spotify.com/track/4FrrYRVQ6w4059ibhrApaL?si=09a8683174e44183"
+14,"Norway","Anita Skorgan","Oliver",13,16,11,11,,,57,57,,,"https://youtu.be/A4xUtThueC4?si=p3lgodGtOwQz1ILF","https://music.apple.com/gb/album/oliver/1442665035?i=1442665267","https://open.spotify.com/track/0MOgrbohfnHA8ISdeveRf5?si=cf1f0911d1a4410e"
+15,"Portugal","Manuela Bravo","Sobe, sobe, balão sobe",17,1,9,9,,,64,64,,,"https://youtu.be/wz-ECty_Fbk?si=0l2ylOeMJNyV-qQQ","https://music.apple.com/gb/album/sobe-sobe-bal%C3%A3o-sobe-eurovis%C3%A3o-79-portugal/1497682220?i=1497682222","https://open.spotify.com/track/6aa2qMVf8S5cdRIzJjTGhN?si=52a459343bc844ce"
+16,"Spain","Betty Missiego","Su canción",15,19,2,2,,,116,116,,,"https://youtu.be/21pLt9ymYMc?si=IhmbvmLlaUsRj3ip","https://music.apple.com/gb/album/su-canci%C3%B3n/1050805789?i=1050806230","https://open.spotify.com/track/2YDMHFV05yjkhAbh2gDm6B?si=d2e6c16c4ee44d55"
+17,"Sweden","Ted Gärdestad","Satellit",11,15,17,17,,,8,8,,,"https://youtu.be/0mAbxrfUHnI?si=dPF4TL2Xeq19_MUP","https://music.apple.com/gb/album/satellit/1504680108?i=1504680111","https://open.spotify.com/track/3YwVIeeplBj3YSWT7vCr79?si=1779fbc87c52429f"
+18,"Switzerland","Peter, Sue and Marc, Pfuri, Gorps and Kniri","Trödler und Co.",7,8,10,10,,,60,60,,,"https://youtu.be/C146vwTKLOE?si=tfcR0Shf9DlSZVWJ","https://music.apple.com/gb/album/tr%C3%B6dler-co-remastered-2015/1444045141?i=1444045485","https://open.spotify.com/track/5HW3cbxWJvQtrWTNO41pdk?si=1ac2eab836034409"
+19,"United Kingdom","Black Lace","Mary Ann",10,17,7,7,,,73,73,,,"https://youtu.be/IHlmtWpFMd8?si=I3O-KpnBt-t1lEFp",,
