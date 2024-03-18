@@ -1,11 +1,11 @@
 "sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-"1973","Ilanit","Ey Sham",17,4,4,,,97,97,,,,,
-"1974","Poogy","Natati La Khaiai",6,5,5,,,11,11,,,,,
-"1975","Shlomo Artzi","At Ve'Ani",12,11,11,,,40,40,,,,,
-"1976","Chocolate, Menta, Mastik","Emor Shalom",4,6,6,,,77,77,,,,,
-"1977","Ilanit","Ahava Hi Shir Lishnayim (אהבה היא שיר לשניים)",11,11,11,,,49,49,,,,,
-"1978","Izhar Cohen and the Alphabeta","A-Ba-Ni-Bi (א-ב-ני-בי)",18,1,1,,,157,157,,,,,
-"1979","Milk and Honey","Hallelujah (הללויה)",10,1,1,,,125,125,,,,,
+"1973","Ilanit","Ey Sham",17,4,4,,,97,97,,,"https://youtu.be/6N8SwfYRGWU?si=VED08nUPQ-pA1UzB","https://music.apple.com/gb/album/ey-sham/1227895070?i=1227895088","https://open.spotify.com/track/6XTFPBCx1F8q9V2CgXnUWO?si=ab9762edf33f4ff3"
+"1974","Poogy","Natati La Khaiai",6,5,5,,,11,11,,,"https://youtu.be/dCjTzgaiW7Y?si=rqaiy9h7ZOm-3NgQ",,
+"1975","Shlomo Artzi","At Ve'Ani",12,11,11,,,40,40,,,"https://youtu.be/N3R_TMUK80A?si=GjBIIbi2nKMETrW1","https://music.apple.com/gb/album/%D7%90%D7%AA-%D7%95%D7%90%D7%A0%D7%99/486194289?i=486194300","https://open.spotify.com/track/6PnmAOXm7mExJKvz93iOaW?si=0b76dad0c6c4422d"
+"1976","Chocolate, Menta, Mastik","Emor Shalom",4,6,6,,,77,77,,,"https://youtu.be/TG4TRrNA_5I?si=xTwUGJXnm1zHMh5N",,"https://open.spotify.com/track/0fcOqKU62cV5zQcAR6znt2?si=6631b7cec2524f38"
+"1977","Ilanit","Ahava Hi Shir Lishnayim",11,11,11,,,49,49,,,"https://youtu.be/jOKFCAL9ilc?si=HHO30iiuIfXM1O3E",,
+"1978","Izhar Cohen and the Alphabeta","A-Ba-Ni-Bi",18,1,1,,,157,157,,,"https://youtu.be/pOH-sojmLJY?si=pOFmFu3vnxK3kmCk",,
+"1979","Milk and Honey","Hallelujah",10,1,1,,,125,125,,,"https://youtu.be/jKbvuYRR35E?si=T0nFKSkSq4iuiKC-","https://music.apple.com/gb/album/hallelujah/1450822998?i=1450823222","https://open.spotify.com/track/0MSj3prJSpFXSAE7sq0us7?si=ab546571eaa0423a"
 "1981","Habibi","Halayla",5,7,7,,,56,56,,,,,
 "1982","Avi Toledano","Hora",15,2,2,,,100,100,,,,,
 "1983","Ofra Haza","Hi",16,2,2,,,136,136,,,,,
