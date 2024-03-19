@@ -1,23 +1,23 @@
 "id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-1,"Austria","Gary Lux","Nur noch Gefühl",8,3,19,19,,,8,8,,,,,
-2,"Belgium","Liliane Saint-Pierre","Soldiers of Love",1,5,10,10,,,56,56,,,,,
-3,"Cyprus","Alexia","Aspro mavro",24,17,6,6,,,80,80,,,,,
-4,"Denmark","Bandjo with Anne-Cathrine Herdorf","En lille melodi",9,19,5,5,,,83,83,,,,,
-5,"Finland","Vicky Rosti","Sata salamaa",14,18,14,14,,,32,32,,,,,
-6,"France","Christine Minier","Les mots d'amour n'ont pas de dimanche",2,15,13,13,,,44,44,,,,,
-7,"Germany","Wind","Laß die Sonne in dein Herz",3,16,2,2,,,141,141,,,,,
-8,"Greece","Bang","Stop",21,11,9,9,,,64,64,,,,,
-9,"Iceland","Halla Margrét","Hægt og hljótt",25,4,15,15,,,28,28,,,,,
-10,"Ireland","Johnny Logan","Hold Me Now",18,20,1,1,,,172,172,,,,,
-11,"Israel","Datner and Kushnir","Shir Habatlanim",20,2,7,7,,,73,73,,,,,
-12,"Italy","Umberto Tozzi and Raf","Gente di mare",4,7,3,3,,,103,103,,,,,
-13,"Luxembourg","Plastic Bertrand","Amour amour",5,13,20,20,,,4,4,,,,,
-14,"Netherlands","Marcha","Rechtop in de wind",6,12,5,5,,,83,83,,,,,
-15,"Norway","Kate Gulbrandsen","Mitt liv",13,1,8,8,,,65,65,,,,,
-16,"Portugal","Nevada","Neste barco à vela",17,8,17,17,,,15,15,,,,,
-17,"Spain","Patricia Kraus","No estás solo",15,9,18,18,,,10,10,,,,,
-18,"Sweden","Lotta Engberg","Boogaloo",11,6,11,11,,,50,50,,,,,
-19,"Switzerland","Carol Rich","Moitié moitié",7,22,16,16,,,26,26,,,,,
-20,"Turkey","Seyyal Taner and Grup Lokomotif","Şarkım Sevgi Üstüne",22,10,21,21,,,0,0,,,,,
-21,"United Kingdom","Rikki","Only the Light",10,14,12,12,,,47,47,,,,,
-22,"Yugoslavia","Novi fosili","Ja sam za ples",16,21,4,4,,,92,92,,,,,
+1,"Austria","Gary Lux","Nur noch Gefühl",8,3,19,19,,,8,8,,,"https://youtu.be/voJZ4t-rxX0?si=zzdO6S60SwrMmAUR",,
+2,"Belgium","Liliane Saint-Pierre","Soldiers of Love",1,5,10,10,,,56,56,,,"https://youtu.be/b6zTCaIXoPE?si=Fy_v3Bd9UvOIchVs","https://music.apple.com/gb/album/soldiers-of-love/1247382357?i=1247382358","https://open.spotify.com/track/6s6kTSOh76tC2litBaxcCx?si=315a039b58564157"
+3,"Cyprus","Alexia","Aspro mavro",24,17,6,6,,,80,80,,,"https://youtu.be/Zjrv_LTG6OA?si=LzTiJfOWy95xkWlJ","https://music.apple.com/gb/album/aspro-mavro/1568648123?i=1568648131","https://open.spotify.com/track/3728WeTA8WJdqMhNamcWlD?si=6a815960d5664849"
+4,"Denmark","Bandjo with Anne-Cathrine Herdorf","En lille melodi",9,19,5,5,,,83,83,,,"https://youtu.be/hp0IMZKMZlM?si=rloMgi4S7fVsHrJ_",,
+5,"Finland","Vicky Rosti","Sata salamaa",14,18,14,14,,,32,32,,,"https://youtu.be/6nzinzAMxtI?si=-B5TCYC9etrFFAd5",,"https://open.spotify.com/track/0iFuOh7le9rmJVCR1jmgFu?si=c24db2f37dc14bef"
+6,"France","Christine Minier","Les mots d'amour n'ont pas de dimanche",2,15,13,13,,,44,44,,,"https://youtu.be/sjJ9IQT8OYw?si=EDJYGLONgUhJaoUE",,
+7,"Germany","Wind","Laß die Sonne in dein Herz",3,16,2,2,,,141,141,,,"https://youtu.be/1gaVdPccL3k?si=upx56dyQgRAikMJq","https://music.apple.com/gb/album/la%C3%9F-die-sonne-in-dein-herz/1443427258?i=1443427391","https://open.spotify.com/track/4QQm4aNOns2R0RMX85UfMK?si=2fadacf7561a49f4"
+8,"Greece","Bang","Stop",21,11,9,9,,,64,64,,,"https://youtu.be/IC_avvTCizY?si=5Q6f5NOCOFTjfOrV",,"https://open.spotify.com/track/4g4kkEPeUIMYplFu63Zg5D?si=d66cee6224634f5a"
+9,"Iceland","Halla Margrét","Hægt og hljótt",25,4,15,15,,,28,28,,,"https://youtu.be/0VIv1kJ6BLk?si=vnDFt9zsIR1Qvfws","https://music.apple.com/gb/album/h%C3%A6gt-og-hlj%C3%B3tt/1628041692?i=1628041714","https://open.spotify.com/track/6n5qutFEbYRum5az62qL9C?si=7f61b073256044a8"
+10,"Ireland","Johnny Logan","Hold Me Now",18,20,1,1,,,172,172,,,"https://youtu.be/WJy9ZiliwwU?si=XoOmyo0SDXwB5nA6","https://music.apple.com/gb/album/hold-me-now/312639157?i=312639372","https://open.spotify.com/track/7KG1uA3O9cqahhVt5atWnB?si=673e7cb992884f0c"
+11,"Israel","Datner and Kushnir","Shir Habatlanim",20,2,7,7,,,73,73,,,"https://youtu.be/ppCLepvHMcs?si=Pg_MhIT3ClKuBPFn",,"https://open.spotify.com/track/4cmj2fpbZQxdeulun5bo6E?si=f2f556aa55bb417c"
+12,"Italy","Umberto Tozzi and Raf","Gente di mare",4,7,3,3,,,103,103,,,"https://youtu.be/Z5zN_e02IgM?si=6ELxOEhOTGxu_Jr3","https://music.apple.com/gb/album/gente-di-mare/1572245455?i=1572245746","https://open.spotify.com/track/79ncJXSGJWqLXUxRXgvfLC?si=491205725a884370"
+13,"Luxembourg","Plastic Bertrand","Amour amour",5,13,20,20,,,4,4,,,"https://youtu.be/Ur_Trf4glRo?si=U55uwmDl-_6pauGP",,
+14,"Netherlands","Marcha","Rechtop in de wind",6,12,5,5,,,83,83,,,"https://youtu.be/yXL6yOEzr9Q?si=dPomR_o1e-dycaUO","https://music.apple.com/gb/album/rechtop-in-de-wind/641485786?i=641486454","https://open.spotify.com/track/4rFhc427aocb0JIGGHeAO2?si=f639336e7b034620"
+15,"Norway","Kate Gulbrandsen","Mitt liv",13,1,8,8,,,65,65,,,"https://youtu.be/pSvYltrdjQk?si=f8DaL4aN3L5M33rQ","https://music.apple.com/gb/album/mitt-liv/1673601057?i=1673601074","https://open.spotify.com/track/3k5OROWCO1y95A0kbzB1U3?si=1b6bb8f497b44bc7"
+16,"Portugal","Nevada","Neste barco à vela",17,8,17,17,,,15,15,,,"https://youtu.be/fv3Fi0CJE38?si=UXqJvloMwG5pqMdv",,
+17,"Spain","Patricia Kraus","No estás solo",15,9,18,18,,,10,10,,,"https://youtu.be/wXVXgd9ls3s?si=cGgdSzi04QHnTcCL","https://music.apple.com/gb/album/no-est%C3%A1s-solo/1372134877?i=1372139327","https://open.spotify.com/track/7iytRdbLcFtiL8ZvR9CMKK?si=722346d5af9a4860"
+18,"Sweden","Lotta Engberg","Boogaloo",11,6,11,11,,,50,50,,,"https://youtu.be/k4fathO9jYE?si=2LZNi_d-baAf9Bdo","https://music.apple.com/gb/album/boogaloo-english-version/1559575413?i=1559575639","https://open.spotify.com/track/3MObXOuLvbU0HT4CI0LpA3?si=73a860c8c6194830"
+19,"Switzerland","Carol Rich","Moitié moitié",7,22,16,16,,,26,26,,,"https://youtu.be/PxuiJNAkhOo?si=skqZTe6Gx0BPnFcq","https://music.apple.com/gb/album/moiti%C3%A9-moiti%C3%A9/613367482?i=613368315","https://open.spotify.com/track/675NrQENjFFJd1Pa0HCxk1?si=83dc9d1b3eee4cb2"
+20,"Turkey","Seyyal Taner and Grup Lokomotif","Şarkım Sevgi Üstüne",22,10,21,21,,,0,0,,,"https://youtu.be/7H9YMkVyauY?si=QDfVyVw3A91ydXk5","https://music.apple.com/gb/album/%C5%9Fark%C4%B1m-sevgi-%C3%BCst%C3%BCne-feat-grup-lokomotif/1526645323?i=1526645765","https://open.spotify.com/track/6EGc2WQjPtWHofcPK9CoYd?si=5618e24b92294cd9"
+21,"United Kingdom","Rikki","Only the Light",10,14,12,12,,,47,47,,,"https://youtu.be/e4vLgNDsLw4?si=nDlaYNV6Mp_hEeF_","https://music.apple.com/gb/album/only-the-light/277445921?i=277445926","https://open.spotify.com/track/1vveT4yOynCgcmITK3im4Z?si=746df8394d7f4503"
+22,"Yugoslavia","Novi fosili","Ja sam za ples",16,21,4,4,,,92,92,,,"https://youtu.be/yvOPsKnKNIQ?si=8gPIIdqqbKfsPzb8","https://music.apple.com/gb/album/ja-sam-za-ples/381148121?i=381148659","https://open.spotify.com/track/0HFcEtXnxZMxCDleJ9FcA0?si=5f498e482ec2410f"
