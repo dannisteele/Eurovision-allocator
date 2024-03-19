@@ -1,21 +1,21 @@
 "id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-1,"Austria","Timna Brauer","Die Zeit ist einsam",8,16,18,18,,,12,12,,,,,
-2,"Belgium","Sandra Kim","J'aime la vie",1,13,1,1,,,176,176,,,,,
-3,"Cyprus","Elpida","Tora zo",24,15,20,20,,,4,4,,,,,
-4,"Denmark","Lise Haavik","Du er fuld af løgn",9,18,6,6,,,77,77,,,,,
-5,"Finland","Kari","Never the End",14,19,15,15,,,22,22,,,,,
-6,"France","Cocktail Chic","Européennes",2,3,17,17,,,13,13,,,,,
-7,"Germany","Ingrid Peters","Über die Brücke geh'n",3,14,8,8,,,62,62,,,,,
-8,"Iceland","ICY","Gleðibankinn",25,6,16,16,,,19,19,,,,,
-9,"Ireland","Luv Bug","You Can Count On Me",18,12,4,4,,,96,96,,,,,
-10,"Israel","Moti Giladi and Sarai Tzuriel","Yavo Yom",20,11,19,19,,,7,7,,,,,
-11,"Luxembourg","Sherisse Laurence","L'Amour de ma vie",5,1,3,3,,,117,117,,,,,
-12,"Netherlands","Frizzle Sizzle","Alles heeft ritme",6,7,13,13,,,40,40,,,,,
-13,"Norway","Ketil Stokkan","Romeo",13,4,12,12,,,44,44,,,,,
-14,"Portugal","Dora","Não sejas mau p'ra mim",17,20,14,14,,,28,28,,,,,
-15,"Spain","Cadillac","Valentino",15,9,10,10,,,51,51,,,,,
-16,"Sweden","Lasse Holm and Monica Törnell","E' de' det här du kallar kärlek",11,17,5,5,,,78,78,,,,,
-17,"Switzerland","Daniela Simons","Pas pour moi",7,10,2,2,,,140,140,,,,,
-18,"Turkey","Klips ve Onlar","Halley",22,8,9,9,,,53,53,,,,,
-19,"United Kingdom","Ryder","Runner in the Night",10,5,7,7,,,72,72,,,,,
-20,"Yugoslavia","Doris Dragović","Željo moja",16,2,11,11,,,49,49,,,,,
+1,"Austria","Timna Brauer","Die Zeit ist einsam",8,16,18,18,,,12,12,,,"https://youtu.be/jhuFooQhaAA?si=sUqSsaP4DPbARP8r",,
+2,"Belgium","Sandra Kim","J'aime la vie",1,13,1,1,,,176,176,,,"https://youtu.be/7NH6SYRgp1s?si=rIq1bu33IwpNUvAx","https://music.apple.com/gb/album/jaime-la-vie-no-1-eurovision-song-contest-1986/490312723?i=490312851","https://open.spotify.com/track/5opXus6JIe9UD94Qk24RYB?si=40de2978b3d24b63"
+3,"Cyprus","Elpida","Tora zo",24,15,20,20,,,4,4,,,"https://youtu.be/lE20VvqYi88?si=kI-oAtp6m2lrsKXT",,
+4,"Denmark","Lise Haavik","Du er fuld af løgn",9,18,6,6,,,77,77,,,"https://youtu.be/ojyuEnhJEYY?si=ZtqV9KR0AKkMnV9M",,
+5,"Finland","Kari","Never the End",14,19,15,15,,,22,22,,,"https://youtu.be/9rDGsBQLVUY?si=Jv8G5rNaK8hxmRI8",,
+6,"France","Cocktail Chic","Européennes",2,3,17,17,,,13,13,,,"https://youtu.be/5GFoORlUMzA?si=F9u1DZABI00o4Ijz",,
+7,"Germany","Ingrid Peters","Über die Brücke geh'n",3,14,8,8,,,62,62,,,"https://youtu.be/zV6UazeDW-Y?si=xMUdlUJQgxo1m8H9","https://music.apple.com/gb/album/%C3%BCber-die-br%C3%BCcke-gehn/255640263?i=255641125","https://open.spotify.com/track/5PqEpMztatLoNhi9zKzaH2?si=90f044ec3a6d4abd"
+8,"Iceland","ICY","Gleðibankinn",25,6,16,16,,,19,19,,,"https://youtu.be/yliSZDpIx0g?si=GOldlB1ji1xuO7QZ","https://music.apple.com/gb/album/gle%C3%B0ibankinn/1631600117?i=1631600548","https://open.spotify.com/track/7EZ5O1RfLabnP2aN0eE2KG?si=5d49cd05fdf749db"
+9,"Ireland","Luv Bug","You Can Count On Me",18,12,4,4,,,96,96,,,"https://youtu.be/hUrojFMBvlI?si=QiYTzEvgqR1uR45b",,
+10,"Israel","Moti Giladi and Sarai Tzuriel","Yavo Yom",20,11,19,19,,,7,7,,,"https://youtu.be/q7578MnlCTU?si=ikMqiQK20PXLu_P3",,
+11,"Luxembourg","Sherisse Laurence","L'Amour de ma vie",5,1,3,3,,,117,117,,,"https://youtu.be/B_4Jpemcr0U?si=JlvdiZqbyFlCDgBz",,
+12,"Netherlands","Frizzle Sizzle","Alles heeft ritme",6,7,13,13,,,40,40,,,"https://youtu.be/TwdO6F6sRJs?si=7-K0Nz21oBnANUpH","https://music.apple.com/gb/album/alles-heeft-ritme/1462347768?i=1462347770","https://open.spotify.com/track/7hAURct0R4epbUylPxNB0N?si=6ebb24cc99244c6a"
+13,"Norway","Ketil Stokkan","Romeo",13,4,12,12,,,44,44,,,"https://youtu.be/NUbWiay_BSc?si=DDY1KsvzjsIUBidj","https://music.apple.com/gb/album/romeo-2011-mgp-1986/470904916?i=470904927","https://open.spotify.com/track/429qQ4xFguviC9zv2BH2Wj?si=76f3b8a6ac244f68"
+14,"Portugal","Dora","Não sejas mau p'ra mim",17,20,14,14,,,28,28,,,"https://youtu.be/cLC5vwPgXCs?si=Zq2N3-czYwz7teZl","https://music.apple.com/gb/album/n%C3%A3o-sejas-mau-pra-mim/910912729?i=910912738","https://open.spotify.com/track/5wkiisYIU6gHErmsfbdgI5?si=2a2510aa1beb43c5"
+15,"Spain","Cadillac","Valentino",15,9,10,10,,,51,51,,,"https://youtu.be/oUeSKjfrJVs?si=TTzRHHKKcN-FVkEG","https://music.apple.com/gb/album/valentino-remasterizado/1557947235?i=1557947247","https://open.spotify.com/track/4Lxk7GjCqM6cT1msw1Ex3L?si=cc5898a1f6114413"
+16,"Sweden","Lasse Holm and Monica Törnell","E' de' det här du kallar kärlek",11,17,5,5,,,78,78,,,"https://youtu.be/um-g3YSQIwQ?si=qYzubjnGKYG1iGUw","https://music.apple.com/gb/album/e-de-det-h%C3%A4r-du-kallar-k%C3%A4rlek/272488713?i=272488768","https://open.spotify.com/track/5MBBQ7P9AozcQ8lF7So1B3?si=8c5b63c87e57405c"
+17,"Switzerland","Daniela Simons","Pas pour moi",7,10,2,2,,,140,140,,,"https://youtu.be/av1mEh-Iuyc?si=ZsqIDIuwD4x7y2O0","https://music.apple.com/gb/album/pas-pour-moi/1477358418?i=1477358422","https://open.spotify.com/track/7yipL2ExEHgodu2hZ8fKbc?si=8af1707755ea427d"
+18,"Turkey","Klips ve Onlar","Halley",22,8,9,9,,,53,53,,,"https://youtu.be/WIJuwwpuQy0?si=H1aYN9U0l5ruvrid","https://music.apple.com/gb/album/halley/1700437974?i=1700437980","https://open.spotify.com/track/3yFtRPcsdilNmts8FpPcsg?si=1e2d85d8228740c9"
+19,"United Kingdom","Ryder","Runner in the Night",10,5,7,7,,,72,72,,,"https://youtu.be/cgSYlBqlMRg?si=rCDvhNo0MHuucsoc",,
+20,"Yugoslavia","Doris Dragović","Željo moja",16,2,11,11,,,49,49,,,"https://youtu.be/i2FF7C2g2R4?si=GKu4fkkTAXrc0_JC","https://music.apple.com/gb/album/%C5%BEeljo-moja/381924210?i=381924212","https://open.spotify.com/track/4Snbcg4pZHX6xMi0gU5wU6?si=b1fa641379ad4dd0"

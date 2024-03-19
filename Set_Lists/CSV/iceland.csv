@@ -1,8 +1,8 @@
 "sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-"1986","ICY","Gleðibankinn",6,16,16,,,19,19,,,,,
-"1987","Halla Margrét","Hægt og hljótt",4,15,15,,,28,28,,,,,
-"1988","Beathoven","Sókrates",1,15,15,,,20,20,,,,,
-"1989","Daníel","Það sem enginn sér",20,21,21,,,0,0,,,,,
+"1986","ICY","Gleðibankinn",6,16,16,,,19,19,,,"https://youtu.be/yliSZDpIx0g?si=GOldlB1ji1xuO7QZ","https://music.apple.com/gb/album/gle%C3%B0ibankinn/1631600117?i=1631600548","https://open.spotify.com/track/7EZ5O1RfLabnP2aN0eE2KG?si=5d49cd05fdf749db"
+"1987","Halla Margrét","Hægt og hljótt",4,15,15,,,28,28,,,"https://youtu.be/0VIv1kJ6BLk?si=vnDFt9zsIR1Qvfws","https://music.apple.com/gb/album/h%C3%A6gt-og-hlj%C3%B3tt/1628041692?i=1628041714","https://open.spotify.com/track/6n5qutFEbYRum5az62qL9C?si=7f61b073256044a8"
+"1988","Beathoven","Sókrates",1,15,15,,,20,20,,,"https://youtu.be/ANeD88VG6UI?si=-RTLQ7N1NCcYAxYT","https://music.apple.com/gb/album/%C3%BE%C3%BA-og-%C3%BEeir-s%C3%B3krates/1631600117?i=1631601803","https://open.spotify.com/track/3m2syeQ72Sk5xQmpAadHDp?si=cd178e3a68194f4c"
+"1989","Daníel","Það sem enginn sér",20,21,21,,,0,0,,,"https://youtu.be/0UQfCtIxn_s?si=X_6rvqExkM_9qWCW","https://music.apple.com/gb/album/%C3%BEa%C3%B0-sem-enginn-s%C3%A9r/1628041692?i=1628041850","https://open.spotify.com/track/0W77ehkEm29QLqUyUqUdZX?si=3b95209e704f442a"
 "1990","Stjórnin","Eitt lag enn",8,3,3,,,124,124,,,,,
 "1991","Stefán and Eyfi","Nína",2,13,13,,,26,26,,,,,
 "1992","Heart 2 Heart","Nei eða já",11,7,7,,,80,80,,,,,
