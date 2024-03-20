@@ -1,26 +1,26 @@
 "id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-1,"Austria","Tony Wegas","Maria Magdalena",8,10,14,14,,,32,32,,,,,
-2,"Belgium","Barbara","Iemand als jij",1,7,24,24,,,3,3,,,,,
-3,"Bosnia and Herzegovina","Fazla","Sva bol svijeta",26,18,16,16,,,27,27,,,,,
-4,"Croatia","Put","Don't Ever Cry",27,21,15,15,,,31,31,,,,,
-5,"Cyprus","Zymboulakis and Van Beke","Mi stamatas (Μη σταματάς)",24,23,19,19,,,17,17,,,,,
-6,"Denmark","Seebach Band","Under stjernerne på himlen",9,5,22,22,,,9,9,,,,,
-7,"Finland","Katri Helena","Tule luo",14,17,17,17,,,20,20,,,,,
-8,"France","Patrick Fiori","Mama Corsica",2,12,4,4,,,121,121,,,,,
-9,"Germany","Münchener Freiheit","Viel zu weit",3,3,18,18,,,18,18,,,,,
-10,"Greece","Katerina Garbi","Ellada, hora tou fotos (Ελλάδα, χώρα του φωτός)",21,6,9,9,,,64,64,,,,,
-11,"Iceland","Inga","Þá veistu svarið",25,9,13,13,,,42,42,,,,,
-12,"Ireland","Niamh Kavanagh","In Your Eyes",18,14,1,1,,,187,187,,,,,
-13,"Israel","Lehakat Shiru","Shiru (שירו)",20,24,23,23,,,4,4,,,,,
-14,"Italy","Enrico Ruggeri","Sole d'Europa",4,1,12,12,,,45,45,,,,,
-15,"Luxembourg","Modern Times","Donne-moi une chance",5,15,20,20,,,11,11,,,,,
-16,"Malta","William Mangion","This Time",19,8,8,8,,,69,69,,,,,
-17,"Netherlands","Ruth Jacott","Vrede",6,20,6,6,,,92,92,,,,,
-18,"Norway","Silje Vige","Alle mine tankar",13,25,5,5,,,120,120,,,,,
-19,"Portugal","Anabela","A cidade até ser dia",17,11,10,10,,,60,60,,,,,
-20,"Slovenia","1X Band","Tih deževen dan",28,16,22,22,,,9,9,,,,,
-21,"Spain","Eva Santamaría","Hombres",15,22,11,11,,,58,58,,,,,
-22,"Sweden","Arvingarna","Eloise",11,13,7,7,,,89,89,,,,,
-23,"Switzerland","Annie Cotton","Moi, tout simplement",7,4,3,3,,,148,148,,,,,
-24,"Turkey","Burak Aydos, Öztürk Baybora and Serter","Esmer Yarim",22,2,21,21,,,10,10,,,,,
-25,"United Kingdom","Sonia","Better the Devil You Know",10,19,2,2,,,164,164,,,,,
+1,"Austria","Tony Wegas","Maria Magdalena",8,10,14,14,,,32,32,,,"https://youtu.be/d7jZwYC1WsY?si=Vkg64okbU8NXjuju",,
+2,"Belgium","Barbara","Iemand als jij",1,7,24,24,,,3,3,,,"https://youtu.be/RsDkQqjVP0I?si=a8WeBVsC8iQLNOqA","https://music.apple.com/gb/album/iemand-als-jij/1673764248?i=1673764260","https://open.spotify.com/track/55nhHjKI51viFnJoL955Wj?si=675b0ec3c49d41d6"
+3,"Bosnia and Herzegovina","Fazla","Sva bol svijeta",26,18,16,16,,,27,27,,,"https://youtu.be/DREeDXs9ijc?si=WJ4YIp1fZRZRljyZ","https://music.apple.com/gb/album/sva-bol-svijeta-eurosong-1993/286503323?i=286503822","https://open.spotify.com/track/6phethNfdodlInhpLHxiWH?si=bf0f3feab0a0404f"
+4,"Croatia","Put","Don't Ever Cry",27,21,15,15,,,31,31,,,"https://youtu.be/NqBcDIzfID8?si=qqSnDkohTCHb7ct7","https://music.apple.com/gb/album/dont-ever-cry/531615641?i=531615967","https://open.spotify.com/track/0qbGlaru5Byq9mB8anuEK0?si=cdad663828684848"
+5,"Cyprus","Zymboulakis and Van Beke","Mi stamatas",24,23,19,19,,,17,17,,,"https://youtu.be/UfzBpo0exAQ?si=y3D-wTy7KQ4XaoCs",,
+6,"Denmark","Seebach Band","Under stjernerne på himlen",9,5,22,22,,,9,9,,,"https://youtu.be/EB5YJlVcI-s?si=d7qKiV_9OUa5PET1","https://music.apple.com/gb/album/under-stjernerne-p%C3%A5-himlen/1475895826?i=1475896420","https://open.spotify.com/track/6gZIsCm2cTlVX6bXcmkRUT?si=d291f46b37fd4063"
+7,"Finland","Katri Helena","Tule luo",14,17,17,17,,,20,20,,,"https://youtu.be/OwT_130lIYU?si=Z0V9kuz0xHH5aLkU","https://music.apple.com/gb/album/tule-luo/267559685?i=267561104","https://open.spotify.com/track/0lnNpz7n8XTZi2CeWbDu32?si=703205df8a9a4dc4"
+8,"France","Patrick Fiori","Mama Corsica",2,12,4,4,,,121,121,,,"https://youtu.be/fseF8OrrlMY?si=YCekSTO69Ud8fBb_",,
+9,"Germany","Münchener Freiheit","Viel zu weit",3,3,18,18,,,18,18,,,"https://youtu.be/2bxJgcEFfDw?si=QVw9nmFyiS9kH2sg","https://music.apple.com/gb/album/viel-zu-weit/268481400?i=268481701","https://open.spotify.com/track/1QNTz8wqlkeIOy5iNi80pT?si=55d339fcf27c4598"
+10,"Greece","Katerina Garbi","Ellada, hora tou fotos",21,6,9,9,,,64,64,,,"https://youtu.be/0aKWP2vs26M?si=UV6fNPdxa-ZitYXm","https://music.apple.com/gb/album/ellada-hora-tou-fotos/459513730?i=459513765","https://open.spotify.com/track/1LdcPlnSrcFVH7BLZK2bZe?si=86fab583ff1b47e1"
+11,"Iceland","Inga","Þá veistu svarið",25,9,13,13,,,42,42,,,"https://youtu.be/ENXdVLVyW8k?si=T6tHkdDwzzTVrpqq","https://music.apple.com/gb/album/%C3%BE%C3%A1-veistu-svari%C3%B0/1653899082?i=1653899085","https://open.spotify.com/track/5Ca1nvUuOrpW0XB3KBszAa?si=ddc4dd1265034e27"
+12,"Ireland","Niamh Kavanagh","In Your Eyes",18,14,1,1,,,187,187,,,"https://youtu.be/ysLHYx0c80s?si=y7_fvs1NRweORyKG","https://music.apple.com/gb/album/in-your-eyes/348923947?i=348924038","https://open.spotify.com/track/7LBBL20GLOtjBJwxgVmzPK?si=3d21b4a662cf49a6"
+13,"Israel","Lehakat Shiru","Shiru",20,24,23,23,,,4,4,,,"https://youtu.be/cEeDeY6NgfU?si=ict5aCxZwNEn2fCy",,
+14,"Italy","Enrico Ruggeri","Sole d'Europa",4,1,12,12,,,45,45,,,"https://youtu.be/c031tXnbdms?si=xCVYoWR8Ni7LQzyX","https://music.apple.com/gb/album/sole-deuropa/297988327?i=297988503","https://open.spotify.com/track/7IpYeJWyTuqpw3VVfA9dck?si=72b5eba683a24823"
+15,"Luxembourg","Modern Times","Donne-moi une chance",5,15,20,20,,,11,11,,,"https://youtu.be/6NmMFSeel0I?si=gUhAJaDS9_n84R3C",,
+16,"Malta","William Mangion","This Time",19,8,8,8,,,69,69,,,"https://youtu.be/B0x04L0ll1k?si=fktnJCPfRfK81vXg","https://music.apple.com/gb/album/this-time-esc-1993/843614305?i=843614333","https://open.spotify.com/track/2vNnY9vB5JIV4o5I8Edf04?si=72052884bed34820"
+17,"Netherlands","Ruth Jacott","Vrede",6,20,6,6,,,92,92,,,"https://youtu.be/UaO0kAI6LGY?si=Cy3o5khmMRjcoQj8","https://music.apple.com/gb/album/vrede-single-mix/723534493?i=723534676","https://open.spotify.com/track/1ijSg7COGeKN7Cu9ejnPet?si=2ef1ad32059d46b8"
+18,"Norway","Silje Vige","Alle mine tankar",13,25,5,5,,,120,120,,,"https://youtu.be/QrX98Kf1w-E?si=EG8EA__wzlhXaEPv","https://music.apple.com/gb/album/alle-mine-tankar/296207041?i=296207062","https://open.spotify.com/track/5VTuKkNF4MRQg6VMIBLOBW?si=8b66d7d65d0949f4"
+19,"Portugal","Anabela","A cidade até ser dia",17,11,10,10,,,60,60,,,"https://youtu.be/iF1tlzwODJM?si=CQW69LT7-VL_cUn9",,
+20,"Slovenia","1X Band","Tih deževen dan",28,16,22,22,,,9,9,,,"https://youtu.be/ZJKnD9k3soU?si=8PGE0nf38pu1tGtj",,
+21,"Spain","Eva Santamaría","Hombres",15,22,11,11,,,58,58,,,"https://youtu.be/u0RquEz8HLk?si=Os74uRCNTnZTlv7x","https://music.apple.com/gb/album/hombres/1266046742?i=1266046996","https://open.spotify.com/track/1IZdKOyO6pWEu4Wwq7cGrA?si=56596a951d0d4ce7"
+22,"Sweden","Arvingarna","Eloise",11,13,7,7,,,89,89,,,"https://youtu.be/KD4gdEHtS-E?si=2nDjbfFFr6vA5pcl","https://music.apple.com/gb/album/eloise/986766996?i=986766998","https://open.spotify.com/track/5Ws6u3a6SibPmJazXdEAHB?si=04772068424d4f5f"
+23,"Switzerland","Annie Cotton","Moi, tout simplement",7,4,3,3,,,148,148,,,"https://youtu.be/_VvuvHK8PTA?si=WpoXVfam-f-PP0LY",,
+24,"Turkey","Burak Aydos, Öztürk Baybora and Serter","Esmer Yarim",22,2,21,21,,,10,10,,,"https://youtu.be/k3QddyzaY4U?si=zl95ZiLhmXaGokik","https://music.apple.com/gb/album/esmer-yarim/587246616?i=587246801","https://open.spotify.com/track/5ZBKZN6h23M1LqFa0sKWzv?si=22a4af31c1424cd4"
+25,"United Kingdom","Sonia","Better the Devil You Know",10,19,2,2,,,164,164,,,"https://youtu.be/qqWOSycDMv4?si=NIusqdPmnj7csvbA","https://music.apple.com/gb/album/better-the-devil-you-know/259111543?i=259111585","https://open.spotify.com/track/4z5d0yurzA3sM4wmwbEa5f?si=80949afd50eb4d08"

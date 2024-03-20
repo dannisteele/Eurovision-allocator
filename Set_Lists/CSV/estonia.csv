@@ -1,9 +1,9 @@
 "sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-"1994","Silvi Vrait","Nagu merelaine",10,23,23,,,2,2,,,,,
-"1996","Maarja-Liis Ilus and Ivo Linna","Kaelakee hääl",11,5,5,,,94,94,,,,,
-"1997","Maarja","Keelatud maa",13,8,9,4,5,82,58,24,34,,,
-"1998","Koit Toome","Mere lapsed",23,12,11,11,0,36,4,32,28,,,
-"1999","Evelin Samuel and Camille","Diamond of Night",23,6,7,7,0,90,12,78,66,,,
+"1994","Silvi Vrait","Nagu merelaine",10,23,23,,,2,2,,,"https://youtu.be/6kcB60LSXj0?si=4wYt6TKSVLmx2PKr",,
+"1996","Maarja-Liis Ilus and Ivo Linna","Kaelakee hääl",11,5,5,,,94,94,,,"https://youtu.be/0rRMOaZ_RpA?si=UcZRcCi6LJqxJULw",,
+"1997","Maarja","Keelatud maa",13,8,9,4,5,82,58,24,34,"https://youtu.be/3Ry_q3ZrlHk?si=HfRJqlihBLVehWMv","https://music.apple.com/gb/album/keelatud-maa/736088135?i=736088407","https://open.spotify.com/track/5y4iUZqghKCbLCLwPNNVIm?si=6598bdbe7f1443f4"
+"1998","Koit Toome","Mere lapsed",23,12,11,11,0,36,4,32,28,"https://youtu.be/OwgyoRn9jQc?si=tg_TybBYb6PGgULc",,
+"1999","Evelin Samuel and Camille","Diamond of Night",23,6,7,7,0,90,12,78,66,"https://youtu.be/GY4Vh-ROPu8?si=1lzenroAUwhdiy3p",,
 "2000","Ines","Once in a Lifetime",4,4,3,6,3,98,25,73,48,,,
 "2001","Tanel Padar, Dave Benton and 2XL","Everybody",20,1,1,1,0,198,35,163,128,,,
 "2002","Sahlene","Runaway",8,3,4,5,1,111,44,67,23,,,

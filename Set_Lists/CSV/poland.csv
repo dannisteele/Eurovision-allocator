@@ -1,10 +1,10 @@
 "sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-"1994","Edyta Górniak","To nie ja!",24,2,2,,,166,166,,,,,
-"1995","Justyna","Sama",1,17,17,,,15,15,,,,,
-"1996","Kasia Kowalska","Chcę znać swój grzech",20,14,14,,,31,31,,,,,
-"1997","Anna Maria Jopek","Ale jestem",12,11,10,7,3,54,40,14,26,,,
-"1998","Sixteen","To takie proste",7,16,5,20,15,19,12,7,5,,,
-"1999","Mietek Szcześniak","Przytul mnie mocno",12,16,6,20,14,17,13,4,9,,,
+"1994","Edyta Górniak","To nie ja!",24,2,2,,,166,166,,,"https://youtu.be/PrRJcZ7f6O8?si=XqafS1WnjihJS_Sj","https://music.apple.com/gb/album/to-nie-ja-2020-remaster/1511028566?i=1511028617","https://open.spotify.com/track/25zN3HNnNrhA3fXqsauv4g?si=3f23afefaee741e3"
+"1995","Justyna","Sama",1,17,17,,,15,15,,,"https://youtu.be/neM37hUsVDo?si=zJzP4t8nnNELGGtB","https://music.apple.com/gb/album/sama-noc%C4%85/1389797504?i=1389797506",
+"1996","Kasia Kowalska","Chcę znać swój grzech",20,14,14,,,31,31,,,"https://youtu.be/GATT2iJralY?si=X8FMhuu43gBL6qOn",,
+"1997","Anna Maria Jopek","Ale jestem",12,11,10,7,3,54,40,14,26,"https://youtu.be/m9DYL4B8OXA?si=OE0MWeYRNAtyf8Pa","https://music.apple.com/gb/album/ale-jestem-live/1442936459?i=1442937530","https://open.spotify.com/track/6uC8ZA5RPsgK5rgxbRHuRE?si=88c0e1164f8c438d"
+"1998","Sixteen","To takie proste",7,16,5,20,15,19,12,7,5,"https://youtu.be/1PLtGzUblEY?si=YCR5YxiovyRlqVRN",,
+"1999","Mietek Szcześniak","Przytul mnie mocno",12,16,6,20,14,17,13,4,9,"https://youtu.be/SrqMUhruz3I?si=04H8MZP0onB--JHB",,
 "2001","Piasek","2 Long",18,19,15,17,2,11,0,11,11,,,
 "2003","Ich Troje","Keine Grenzen – Żadnych granic",20,7,16,7,9,90,0,90,90,,,
 "2004","Blue Café","Love Song",19,15,,15,,27,,27,,,,
