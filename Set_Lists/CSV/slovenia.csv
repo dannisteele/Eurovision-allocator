@@ -1,10 +1,10 @@
 "sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-"1993","1X Band","Tih deževen dan",16,22,22,,,9,9,,,,,
-"1995","Darja Švajger","Prisluhni mi",20,7,7,,,84,84,,,,,
-"1996","Regina","Dan najlepših sanj",14,19,19,,,16,16,,,,,
-"1997","Tanja Ribič","Zbudi se",6,10,8,13,5,60,60,0,60,,,
-"1998","Vili Resnik","Naj bogovi slišijo",12,17,8,18,10,17,8,9,1,,,
-"1999","Darja Švajger","For a Thousand Years",6,10,2,14,12,50,27,23,4,,,
+"1993","1X Band","Tih deževen dan",16,22,22,,,9,9,,,"https://youtu.be/ZJKnD9k3soU?si=8PGE0nf38pu1tGtj",,
+"1995","Darja Švajger","Prisluhni mi",20,7,7,,,84,84,,,"https://youtu.be/jqM3mAfztU8?si=B98TvPpqtblG_Auv","https://music.apple.com/gb/album/prisluhni-mi/1572520439?i=1572520694","https://open.spotify.com/track/5hD0KuFerCg0Qnn0VXMrNS?si=0e2b807f40794690"
+"1996","Regina","Dan najlepših sanj",14,19,19,,,16,16,,,"https://youtu.be/GgNfjsrw4j4?si=YHoNy536bltyNtwY","https://music.apple.com/gb/album/dan-najlep%C5%A1ih-sanj/482068160?i=482068161","https://open.spotify.com/track/4NrbpestG8aXXePSuvrsMB?si=3babd91169714ce0"
+"1997","Tanja Ribič","Zbudi se",6,10,8,13,5,60,60,0,60,"https://youtu.be/Q62JQRWk40o?si=qTURCuc28vyOcTAL","https://music.apple.com/gb/album/zbudi-se/1647019773?i=1647020071","https://open.spotify.com/track/4RNKS61wY33tace4GNWThC?si=764b990feb7b4459"
+"1998","Vili Resnik","Naj bogovi slišijo",12,17,8,18,10,17,8,9,1,"https://youtu.be/BTED2l_S-aQ?si=I1A1oUA3wzO8QAcb",,
+"1999","Darja Švajger","For a Thousand Years",6,10,2,14,12,50,27,23,4,"https://youtu.be/kAvBKRB28Ho?si=BZDfLTiteX82kTrV","https://music.apple.com/gb/album/for-a-thousand-years/1572520439?i=1572520440","https://open.spotify.com/track/3Nun3F5Bs9F0RZwz2VifIV?si=c31197576d9e4f7c"
 "2001","Nuša Derenda","Energy",17,7,6,7,1,70,18,52,34,,,
 "2002","Sestre","Samo ljubezen",22,12,14,13,1,33,11,22,11,,,
 "2003","Karmen","Nanana",26,21,12,23,11,7,4,3,1,,,

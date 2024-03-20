@@ -1,11 +1,11 @@
 "sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-"1993","Put","Don't Ever Cry",21,15,15,,,31,31,,,,,
-"1994","Tony Cetinski","Nek' ti bude ljubav sva",7,16,16,,,27,27,,,,,
-"1995","Magazin and Lidija","Nostalgija",11,6,6,,,91,91,,,,,
-"1996","Maja Blagdan","Sveta ljubav",7,4,4,,,98,98,,,,,
-"1997","E.N.I.","Probudi me",23,16,15,11,4,24,17,7,10,,,
-"1998","Danijela","Neka mi ne svane",1,5,11,5,6,131,4,127,123,,,
-"1999","Doris","Marija Magdalena",4,4,1,5,4,118,28,90,62,,,
+"1993","Put","Don't Ever Cry",21,15,15,,,31,31,,,"https://youtu.be/NqBcDIzfID8?si=qqSnDkohTCHb7ct7","https://music.apple.com/gb/album/dont-ever-cry/531615641?i=531615967","https://open.spotify.com/track/0qbGlaru5Byq9mB8anuEK0?si=cdad663828684848"
+"1994","Tony Cetinski","Nek' ti bude ljubav sva",7,16,16,,,27,27,,,"https://youtu.be/TqAi_Bm2Z40?si=LfTFxwr4H5dOaxSB","https://music.apple.com/gb/album/nek-ti-bude-ljubav-sva/381402323?i=381402816","https://open.spotify.com/track/7ny0iVc5TzOS5tVOTc7Aze?si=9060f61b844b4258"
+"1995","Magazin and Lidija","Nostalgija",11,6,6,,,91,91,,,"https://youtu.be/r2IG1jauOfI?si=-lfAfo1iYGPWc_wF","https://music.apple.com/gb/album/nostalgija/414645708?i=414645825","https://open.spotify.com/track/5fIR9CBppScSnKykoW7Rpo?si=e46436618c8844b5"
+"1996","Maja Blagdan","Sveta ljubav",7,4,4,,,98,98,,,"https://youtu.be/Wzgful7Gl8U?si=7x8I47L3ycJNBoC6","https://music.apple.com/gb/album/sveta-ljubav/518593628?i=518593689","https://open.spotify.com/track/3U7l5TrZI2lIcjbQ5JYcvj?si=857568fd182140d4"
+"1997","E.N.I.","Probudi me",23,16,15,11,4,24,17,7,10,"https://youtu.be/qgFOLokXTwE?si=zQ4bKUPPfs3y-uAj","https://music.apple.com/gb/album/probudi-me/571598574?i=571598763","https://open.spotify.com/track/5GKs2EdeHzWS80SLuPASeZ?si=f337aaa1659140c1"
+"1998","Danijela","Neka mi ne svane",1,5,11,5,6,131,4,127,123,"https://youtu.be/ojVGmkYnFM8?si=lhnR-M6On9JDDBUi","https://music.apple.com/gb/album/neka-mi-ne-svane/930277844?i=930277850","https://open.spotify.com/track/2Y1TLTTfeiI3AhBvJ4s1YQ?si=1c8fbd34377b4985"
+"1999","Doris","Marija Magdalena",4,4,1,5,4,118,28,90,62,"https://youtu.be/pH0SpZe9pos?si=fskE2m9Z8QZ0lPq0","https://music.apple.com/gb/album/marija-magdalena/381924210?i=381924817","https://open.spotify.com/track/7Gj6Wi9ZFoIMdf9i1f9Y8P?si=b78da36e4f244fc2"
 "2000","Goran Karan","Kad zaspu anđeli",17,9,1,13,12,70,36,34,2,,,
 "2001","Vanna","Strings of My Heart",10,10,3,15,12,42,26,16,10,,,
 "2002","Vesna Pisarović","Everything I Want",6,10,11,12,1,44,19,25,6,,,

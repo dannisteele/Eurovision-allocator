@@ -1,24 +1,24 @@
 "id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-1,"Austria","Stella Jones","Die Welt dreht sich verkehrt",8,8,12,12,,,67,67,,,,,
-2,"Belgium","Frédéric Etherlinck","La voix est libre",1,14,19,19,,,8,8,,,,,
-3,"Bosnia and Herzegovina","Davor Popović","Dvadeset prvi vijek",26,4,18,18,,,14,14,,,,,
-4,"Croatia","Magazin and Lidija","Nostalgija",27,11,6,6,,,91,91,,,,,
-5,"Cyprus","Alexandros Panayi","Sti fotia (Στη φωτιά)",24,17,9,9,,,79,79,,,,,
-6,"Denmark","Aud Wilken","Fra Mols til Skagen",9,19,5,5,,,92,92,,,,,
-7,"France","Nathalie Santamaria","Il me donne rendez-vous",2,12,4,4,,,94,94,,,,,
-8,"Germany","Stone and Stone","Verliebt in Dich",3,3,22,22,,,1,1,,,,,
-9,"Greece","Elina Konstantopoulou","Pia prosefhi (Ποιά προσευχή)",21,23,11,11,,,68,68,,,,,
-10,"Hungary","Csaba Szigeti","Új név egy régi ház falán",30,13,21,21,,,3,3,,,,,
-11,"Iceland","Bo Halldórsson","Núna",25,7,14,14,,,31,31,,,,,
-12,"Ireland","Eddie Friel","Dreamin'",18,2,13,13,,,44,44,,,,,
-13,"Israel","Liora","Amen (אמן)",20,21,8,8,,,81,81,,,,,
-14,"Malta","Mike Spiteri","Keep Me in Mind",19,22,10,10,,,76,76,,,,,
-15,"Norway","Secret Garden","Nocturne",13,5,1,1,,,148,148,,,,,
-16,"Poland","Justyna","Sama",32,1,17,17,,,15,15,,,,,
-17,"Portugal","Tó Cruz","Baunilha e chocolate",17,16,20,20,,,5,5,,,,,
-18,"Russia","Philipp Kirkorov","Kolybelnaya dlya vulkana (Колыбельная для вулкана)",34,6,16,16,,,17,17,,,,,
-19,"Slovenia","Darja Švajger","Prisluhni mi",28,20,7,7,,,84,84,,,,,
-20,"Spain","Anabel Conde","Vuelve conmigo",15,9,2,2,,,119,119,,,,,
-21,"Sweden","Jan Johansen","Se på mej",11,18,3,3,,,100,100,,,,,
-22,"Turkey","Arzu Ece","Sev!",22,10,15,15,,,21,21,,,,,
-23,"United Kingdom","Love City Groove","Love City Groove",10,15,10,10,,,76,76,,,,,
+1,"Austria","Stella Jones","Die Welt dreht sich verkehrt",8,8,12,12,,,67,67,,,"https://youtu.be/Ta-dzguUpJY?si=v0wE-ltqlqfCe8GC",,
+2,"Belgium","Frédéric Etherlinck","La voix est libre",1,14,19,19,,,8,8,,,"https://youtu.be/YtcH83cV2Dg?si=VcUvm29iyIxCLbkN",,
+3,"Bosnia and Herzegovina","Davor Popović","Dvadeset prvi vijek",26,4,18,18,,,14,14,,,"https://youtu.be/fGYt_iYm4_g?si=M0NYz8NvTUKgS2Ku","https://music.apple.com/gb/album/dvadeset-i-prvi-vijek/518579287?i=518579374",
+4,"Croatia","Magazin and Lidija","Nostalgija",27,11,6,6,,,91,91,,,"https://youtu.be/r2IG1jauOfI?si=-lfAfo1iYGPWc_wF","https://music.apple.com/gb/album/nostalgija/414645708?i=414645825","https://open.spotify.com/track/5fIR9CBppScSnKykoW7Rpo?si=e46436618c8844b5"
+5,"Cyprus","Alexandros Panayi","Sti fotia",24,17,9,9,,,79,79,,,"https://youtu.be/LMfRj5stHdI?si=LUmXxClH9cjMej4d",,
+6,"Denmark","Aud Wilken","Fra Mols til Skagen",9,19,5,5,,,92,92,,,"https://youtu.be/5shX3YM3Uho?si=dbtO7AamlwQ3x4ty",,
+7,"France","Nathalie Santamaria","Il me donne rendez-vous",2,12,4,4,,,94,94,,,"https://youtu.be/1v-0pJ3Cqjc?si=HqvZ9hE6QGYKd_wQ",,
+8,"Germany","Stone and Stone","Verliebt in Dich",3,3,22,22,,,1,1,,,"https://youtu.be/3jGi32Xqg8g?si=YgD-nTrhYEdcaznI",,
+9,"Greece","Elina Konstantopoulou","Pia prosefhi",21,23,11,11,,,68,68,,,"https://youtu.be/SrTLEZZEChw?si=pV2pUX_bhwr8_ily",,
+10,"Hungary","Csaba Szigeti","Új név egy régi ház falán",30,13,21,21,,,3,3,,,"https://youtu.be/hYSS_V4w3a8?si=kkpGHEo-jij9omA6",,
+11,"Iceland","Bo Halldórsson","Núna",25,7,14,14,,,31,31,,,"https://youtu.be/2PSV5Bgot1A?si=LNmuxvgNfffvwdOi",,
+12,"Ireland","Eddie Friel","Dreamin'",18,2,13,13,,,44,44,,,"https://youtu.be/CRZxY4rLbvM?si=17Fa8MpAcFOihj3x",,
+13,"Israel","Liora","Amen",20,21,8,8,,,81,81,,,"https://youtu.be/Gui9JWHsv-M?si=6VgLUnBtQfzVtoun","https://music.apple.com/gb/album/amen-%D7%90%D7%9E%D7%9F/634909361?i=634909670","https://open.spotify.com/track/3LWYlVbqpedIbxN83qjXAI?si=519356cd96ca4857"
+14,"Malta","Mike Spiteri","Keep Me in Mind",19,22,10,10,,,76,76,,,"https://youtu.be/8aN5J2baZ3w?si=IPpiATUfrGxijice","https://music.apple.com/gb/album/keep-me-in-mind-esc-1995/843614305?i=843614337","https://open.spotify.com/track/2Khe9HyqasSBy3xwkZQCco?si=97815acdbc1e477c"
+15,"Norway","Secret Garden","Nocturne",13,5,1,1,,,148,148,,,"https://youtu.be/6qqOI04uo_c?si=X09OFu0VCh-PMhYz","https://music.apple.com/gb/album/nocturne/1388898247?i=1388899221","https://open.spotify.com/track/6bk11TH82XrT5QUC1gDw9A?si=3f9b6cbe6c374c4a"
+16,"Poland","Justyna","Sama",32,1,17,17,,,15,15,,,"https://youtu.be/neM37hUsVDo?si=zJzP4t8nnNELGGtB","https://music.apple.com/gb/album/sama-noc%C4%85/1389797504?i=1389797506",
+17,"Portugal","Tó Cruz","Baunilha e chocolate",17,16,20,20,,,5,5,,,"https://youtu.be/JcEvZSxxU0I?si=Tik2ITGHh3_vBgYN",,
+18,"Russia","Philipp Kirkorov","Kolybelnaya dlya vulkana",34,6,16,16,,,17,17,,,"https://youtu.be/mZTZPE1mV2s?si=wbapOSqt2m7IrJaZ",,
+19,"Slovenia","Darja Švajger","Prisluhni mi",28,20,7,7,,,84,84,,,"https://youtu.be/jqM3mAfztU8?si=B98TvPpqtblG_Auv","https://music.apple.com/gb/album/prisluhni-mi/1572520439?i=1572520694","https://open.spotify.com/track/5hD0KuFerCg0Qnn0VXMrNS?si=0e2b807f40794690"
+20,"Spain","Anabel Conde","Vuelve conmigo",15,9,2,2,,,119,119,,,"https://youtu.be/p8nTjiEdI2c?si=PlbZoxpZDsrYLH71","https://music.apple.com/gb/album/vuelve-conmigo/967703134?i=967703197","https://open.spotify.com/track/1oVihSjSmKTVAdaR9f97rD?si=5c8c93824a904d4c"
+21,"Sweden","Jan Johansen","Se på mej",11,18,3,3,,,100,100,,,"https://youtu.be/yyQ1k0KIDDk?si=hEgh1YHi2DFjBY-v","https://music.apple.com/gb/album/se-pa-mig/329606569?i=329606605","https://open.spotify.com/track/5E0DPn2m1oAigfof05lKmJ?si=9a505b6e1c27406a"
+22,"Turkey","Arzu Ece","Sev!",22,10,15,15,,,21,21,,,"https://youtu.be/iAjz_UUTMoo?si=ez1S_ovSEp-tsGkg",,
+23,"United Kingdom","Love City Groove","Love City Groove",10,15,10,10,,,76,76,,,"https://youtu.be/58S5HVBDXbo?si=NuETrRYrU7sTdqf2","https://music.apple.com/gb/album/love-city-groove-7-mix/1676471542?i=1676471543","https://open.spotify.com/track/1IDlvetpIE4ScAv4pYPWOX?si=7bbc2be289d84bf2"
