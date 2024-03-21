@@ -1,42 +1,42 @@
 "sourceTable";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"placedDiff";"totalPoints";"pointsJury";"pointsTelevote";"pointsDiff";"youtubeLink";"appleMusicLink";"spotifyLink"
-"1981";"Island";"Monika";18;6;6;NULL;NULL;69;69;NULL;NULL;"https://youtu.be/3I_HvhqYLHA?si=jKMhXIAWvu5x1D75";NULL;NULL
-"1982";"Anna Vissi";"Mono i agapi";8;5;5;NULL;NULL;85;85;NULL;NULL;"https://youtu.be/S8HVS1DePZk?si=UB2-ESGlnNhaWH0a";"https://music.apple.com/gb/album/mono-i-agapi/724765925?i=724766030";"https://open.spotify.com/track/2fBgBl0dSwiUAVHxG6LVat?si=069762a26c8f478c"
-"1983";"Stavros and Constantina";"I agapi akoma zi";13;14;14;NULL;NULL;26;26;NULL;NULL;"https://youtu.be/trLm7dIJPW0?si=coepBCsyy12BW_VO";NULL;NULL
-"1984";"Andy Paul";"Anna Mari-Elena";7;13;13;NULL;NULL;31;31;NULL;NULL;"https://youtu.be/DyQHM1newXs?si=YnVyjt4jlilRlh-O";NULL;NULL
-"1985";"Lia Vissi";"To katalava arga";3;15;15;NULL;NULL;15;15;NULL;NULL;"https://youtu.be/IJasI3ybsIQ?si=L1dX80Pm0v5zGdc_";"https://music.apple.com/gb/album/to-katalava-arga/1470162982?i=1470163056";"https://open.spotify.com/track/0mndNiNUJkIZ7UkaBT23tM?si=03106befd428429a"
-"1986";"Elpida";"Tora zo";15;20;20;NULL;NULL;4;4;NULL;NULL;"https://youtu.be/lE20VvqYi88?si=kI-oAtp6m2lrsKXT";NULL;NULL
-"1987";"Alexia";"Aspro mavro";17;6;6;NULL;NULL;80;80;NULL;NULL;"https://youtu.be/Zjrv_LTG6OA?si=LzTiJfOWy95xkWlJ";"https://music.apple.com/gb/album/aspro-mavro/1568648123?i=1568648131";"https://open.spotify.com/track/3728WeTA8WJdqMhNamcWlD?si=6a815960d5664849"
-"1989";"Fanny Polymeri and Yiannis Savvidakis";"Apopse as vrethoume";17;10;10;NULL;NULL;51;51;NULL;NULL;"https://youtu.be/qO-auQ5Lmas?si=5teErno11Dhbvf45";NULL;NULL
-"1990";"Anastasiou";"Milas poli";21;13;13;NULL;NULL;36;36;NULL;NULL;"https://youtu.be/B7ufFMqQ9zs?si=oZkC24OL9nqqsU6W";NULL;NULL
-"1991";"Elena Patroklou";"S.O.S.";21;8;8;NULL;NULL;60;60;NULL;NULL;"https://youtu.be/_QfknDmBXaM?si=ac-qS-FExeazX0ja";NULL;NULL
-"1992";"Evridiki";"Teriazoume";9;11;11;NULL;NULL;57;57;NULL;NULL;"https://youtu.be/2MJZhWIflEQ?si=eWp-KkGdafRZ8yQC";"https://music.apple.com/gb/album/teriazoume/713618542?i=713618711";"https://open.spotify.com/track/7JL0xREYyQICYaHOwakBHJ?si=8c02ead979534e20"
-"1993";"Zymboulakis and Van Beke";"Mi stamatas";23;19;19;NULL;NULL;17;17;NULL;NULL;"https://youtu.be/UfzBpo0exAQ?si=y3D-wTy7KQ4XaoCs";NULL;NULL
-"1994";"Evridiki";"Ime anthropos ki ego";4;11;11;NULL;NULL;51;51;NULL;NULL;"https://youtu.be/i_yif17TztQ?si=5QWgUkG40qSv-U1c";"https://music.apple.com/gb/album/ime-anthropos-ki-ego/1443270481?i=1443270670";"https://open.spotify.com/track/2H80p0x0hWWFgHve2ZBzXx?si=0d4fb128ef224e47"
-"1995";"Alexandros Panayi";"Sti fotia";17;9;9;NULL;NULL;79;79;NULL;NULL;"https://youtu.be/LMfRj5stHdI?si=LUmXxClH9cjMej4d";NULL;NULL
-"1996";"Constantinos";"Mono gia mas";5;9;9;NULL;NULL;72;72;NULL;NULL;"https://youtu.be/3mJq1-6psws?si=P6Pc--tKdtVbIdMs";NULL;NULL
+"1981";"Island";"Monika";18;6;6;;;69;69;;;"https://youtu.be/3I_HvhqYLHA?si=jKMhXIAWvu5x1D75";;
+"1982";"Anna Vissi";"Mono i agapi";8;5;5;;;85;85;;;"https://youtu.be/S8HVS1DePZk?si=UB2-ESGlnNhaWH0a";"https://music.apple.com/gb/album/mono-i-agapi/724765925?i=724766030";"https://open.spotify.com/track/2fBgBl0dSwiUAVHxG6LVat?si=069762a26c8f478c"
+"1983";"Stavros and Constantina";"I agapi akoma zi";13;14;14;;;26;26;;;"https://youtu.be/trLm7dIJPW0?si=coepBCsyy12BW_VO";;
+"1984";"Andy Paul";"Anna Mari-Elena";7;13;13;;;31;31;;;"https://youtu.be/DyQHM1newXs?si=YnVyjt4jlilRlh-O";;
+"1985";"Lia Vissi";"To katalava arga";3;15;15;;;15;15;;;"https://youtu.be/IJasI3ybsIQ?si=L1dX80Pm0v5zGdc_";"https://music.apple.com/gb/album/to-katalava-arga/1470162982?i=1470163056";"https://open.spotify.com/track/0mndNiNUJkIZ7UkaBT23tM?si=03106befd428429a"
+"1986";"Elpida";"Tora zo";15;20;20;;;4;4;;;"https://youtu.be/lE20VvqYi88?si=kI-oAtp6m2lrsKXT";;
+"1987";"Alexia";"Aspro mavro";17;6;6;;;80;80;;;"https://youtu.be/Zjrv_LTG6OA?si=LzTiJfOWy95xkWlJ";"https://music.apple.com/gb/album/aspro-mavro/1568648123?i=1568648131";"https://open.spotify.com/track/3728WeTA8WJdqMhNamcWlD?si=6a815960d5664849"
+"1989";"Fanny Polymeri and Yiannis Savvidakis";"Apopse as vrethoume";17;10;10;;;51;51;;;"https://youtu.be/qO-auQ5Lmas?si=5teErno11Dhbvf45";;
+"1990";"Anastasiou";"Milas poli";21;13;13;;;36;36;;;"https://youtu.be/B7ufFMqQ9zs?si=oZkC24OL9nqqsU6W";;
+"1991";"Elena Patroklou";"S.O.S.";21;8;8;;;60;60;;;"https://youtu.be/_QfknDmBXaM?si=ac-qS-FExeazX0ja";;
+"1992";"Evridiki";"Teriazoume";9;11;11;;;57;57;;;"https://youtu.be/2MJZhWIflEQ?si=eWp-KkGdafRZ8yQC";"https://music.apple.com/gb/album/teriazoume/713618542?i=713618711";"https://open.spotify.com/track/7JL0xREYyQICYaHOwakBHJ?si=8c02ead979534e20"
+"1993";"Zymboulakis and Van Beke";"Mi stamatas";23;19;19;;;17;17;;;"https://youtu.be/UfzBpo0exAQ?si=y3D-wTy7KQ4XaoCs";;
+"1994";"Evridiki";"Ime anthropos ki ego";4;11;11;;;51;51;;;"https://youtu.be/i_yif17TztQ?si=5QWgUkG40qSv-U1c";"https://music.apple.com/gb/album/ime-anthropos-ki-ego/1443270481?i=1443270670";"https://open.spotify.com/track/2H80p0x0hWWFgHve2ZBzXx?si=0d4fb128ef224e47"
+"1995";"Alexandros Panayi";"Sti fotia";17;9;9;;;79;79;;;"https://youtu.be/LMfRj5stHdI?si=LUmXxClH9cjMej4d";;
+"1996";"Constantinos";"Mono gia mas";5;9;9;;;72;72;;;"https://youtu.be/3mJq1-6psws?si=P6Pc--tKdtVbIdMs";;
 "1997";"Hara and Andreas Konstantinou";"Mana mou";1;5;6;7;1;98;84;14;70;"https://youtu.be/Fw6pHabuXzM?si=mB0Xrf6Rd7ion1Aj";"https://music.apple.com/gb/album/mana-mou-eurovision-1997-cyprus/1701442879?i=1701442881";"https://open.spotify.com/track/5Ucxa2nK2Xsl4EPam5lVMC?si=e179f5ccbaa04a71"
-"1998";"Michael Hajiyanni";"Genesis";17;11;10;11;1;37;5;32;27;"https://youtu.be/r-bV_c7p4u0?si=Eh8UCmwJBoNT1QJc";NULL;NULL
-"1999";"Marlain";"Tha'ne erotas";14;20;13;21;8;2;0;2;2;"https://youtu.be/ABU7gCbilS8?si=RXiEaUT-nkdwk6Pz";NULL;NULL
-"2000";"Voice";"Nomiza";11;20;15;21;6;8;4;4;0;"https://youtu.be/Un8iKEH7S_Q?si=BmNCHr6fgIxaMcTD";NULL;NULL
-"2002";"One";"Gimme";1;5;5;7;2;85;40;45;5;NULL;NULL;NULL
-"2003";"Stelios Constantas";"Feeling Alive";9;18;16;18;2;15;0;15;15;NULL;NULL;NULL
-"2004";"Lisa Andreas";"Stronger Every Minute";21;5;NULL;5;NULL;170;NULL;170;NULL;NULL;NULL;NULL
-"2005";"Constantinos Christoforou";"Ela Ela";9;17;14;16;2;46;0;46;46;NULL;NULL;NULL
-"2006";"Annet Artani";"Why Angels Cry";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2007";"Evridiki";"Comme ci, comme ça";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2008";"Evdokia Kadi";"Femme Fatale";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2009";"Christina Metaxa";"Firefly";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2010";"Jon Lilygreen and the Islanders";"Life Looks Better in Spring";5;22;17;21;4;73;57;16;41;NULL;NULL;NULL
-"2011";"Christos Mylordos";"San aggelos s'agapisa";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2012";"Ivi Adamou";"La La Love";8;16;11;14;3;148;85;63;22;NULL;NULL;NULL
-"2013";"Despina Olympiou";"An me thimasai";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2015";"John Karayiannis";"One Thing I Should Have Done";11;18;9;23;14;71;63;8;55;NULL;NULL;NULL
-"2016";"Minus One";"Alter Ego";14;20;19;15;4;96;43;53;10;NULL;NULL;NULL
-"2017";"Hovig";"Gravity";19;20;18;14;4;68;36;32;4;NULL;NULL;NULL
-"2018";"Eleni Foureira";"Fuego";25;2;5;2;3;436;183;253;70;NULL;NULL;NULL
+"1998";"Michael Hajiyanni";"Genesis";17;11;10;11;1;37;5;32;27;"https://youtu.be/r-bV_c7p4u0?si=Eh8UCmwJBoNT1QJc";;
+"1999";"Marlain";"Tha'ne erotas";14;20;13;21;8;2;0;2;2;"https://youtu.be/ABU7gCbilS8?si=RXiEaUT-nkdwk6Pz";;
+"2000";"Voice";"Nomiza";11;20;15;21;6;8;4;4;0;"https://youtu.be/Un8iKEH7S_Q?si=BmNCHr6fgIxaMcTD";;
+"2002";"One";"Gimme";1;5;5;7;2;85;40;45;5;;;
+"2003";"Stelios Constantas";"Feeling Alive";9;18;16;18;2;15;0;15;15;;;
+"2004";"Lisa Andreas";"Stronger Every Minute";21;5;;5;;170;;170;;;;
+"2005";"Constantinos Christoforou";"Ela Ela";9;17;14;16;2;46;0;46;46;;;
+"2006";"Annet Artani";"Why Angels Cry";;;;;;;;;;;;
+"2007";"Evridiki";"Comme ci, comme ça";;;;;;;;;;;;
+"2008";"Evdokia Kadi";"Femme Fatale";;;;;;;;;;;;
+"2009";"Christina Metaxa";"Firefly";;;;;;;;;;;;
+"2010";"Jon Lilygreen and the Islanders";"Life Looks Better in Spring";5;22;17;21;4;73;57;16;41;;;
+"2011";"Christos Mylordos";"San aggelos s'agapisa";;;;;;;;;;;;
+"2012";"Ivi Adamou";"La La Love";8;16;11;14;3;148;85;63;22;;;
+"2013";"Despina Olympiou";"An me thimasai";;;;;;;;;;;;
+"2015";"John Karayiannis";"One Thing I Should Have Done";11;18;9;23;14;71;63;8;55;;;
+"2016";"Minus One";"Alter Ego";14;20;19;15;4;96;43;53;10;;;
+"2017";"Hovig";"Gravity";19;20;18;14;4;68;36;32;4;;;
+"2018";"Eleni Foureira";"Fuego";25;2;5;2;3;436;183;253;70;;;
 "2019";"Tamta";"Replay";11;13;11;20;9;109;77;32;45;"https://youtu.be/wIpEI-NhRxg?si=6nTO_sP1M3iPjMKj";"https://music.apple.com/gb/album/replay/1454794993?i=1454794998";"https://open.spotify.com/track/2UOyQB26wSQzM0jiTcUg50?si=6fdb1c9cd79443ca"
-"2020";"Sandro";"Running";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/Jl_qEw_4OK0?si=fCki_kpHBBlVd71G";"https://music.apple.com/gb/album/running/1501754377?i=1501754379";"https://open.spotify.com/track/00nykIwGMkrOZ815R6V9mD?si=56185dd8fb9043e4"
+"2020";"Sandro";"Running";;;;;;;;;;"https://youtu.be/Jl_qEw_4OK0?si=fCki_kpHBBlVd71G";"https://music.apple.com/gb/album/running/1501754377?i=1501754379";"https://open.spotify.com/track/00nykIwGMkrOZ815R6V9mD?si=56185dd8fb9043e4"
 "2021";"Elena Tsagrinou";"El Diablo";1;15;16;14;2;94;50;44;6;"https://youtu.be/MgGc1F_cOE8?si=oYqLlEFXOLABt-ef";"https://music.apple.com/gb/album/el-diablo/1569831482?i=1569831485";"https://open.spotify.com/track/4TAttqXwjj56xZQVKvlX0K?si=3b6d8b56761e409f"
-"2022";"Andromache";"Ela";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/W2IUdTl-gAI?si=khOdvSJOW_efhZ1j";"https://music.apple.com/gb/album/ela/1668840685?i=1668840698";"https://open.spotify.com/track/70HQXHPuU7EyUroOYkOzdk?si=cbf4f77a94474be4"
+"2022";"Andromache";"Ela";;;;;;;;;;"https://youtu.be/W2IUdTl-gAI?si=khOdvSJOW_efhZ1j";"https://music.apple.com/gb/album/ela/1668840685?i=1668840698";"https://open.spotify.com/track/70HQXHPuU7EyUroOYkOzdk?si=cbf4f77a94474be4"
 "2023";"Andrew Lambrou";"Break a Broken Heart";7;12;13;11;2;126;68;58;10;"https://youtu.be/49YiimKeyDI?si=68N518EUdwCuHfb6";"https://music.apple.com/gb/album/break-a-broken-heart/1672649756?i=1672649758";"https://open.spotify.com/track/5dRAJ9UsR0qyMMKnonWewz?si=3a36c3443df147f5"
-"2024";"Silia Kapsis";"Liar";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/8q5QozrtEPA?si=mGpnz3z2DXjxrMb2";"https://music.apple.com/gb/album/liar/1731356760?i=1731356763";"https://open.spotify.com/track/1ssBrm3EZb20Kb19roQIcy?si=afd31ced33e44414"
+"2024";"Silia Kapsis";"Liar";;;;;;;;;;"https://youtu.be/8q5QozrtEPA?si=mGpnz3z2DXjxrMb2";"https://music.apple.com/gb/album/liar/1731356760?i=1731356763";"https://open.spotify.com/track/1ssBrm3EZb20Kb19roQIcy?si=afd31ced33e44414"

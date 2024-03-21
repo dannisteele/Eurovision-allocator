@@ -1,59 +1,59 @@
 "sourceTable";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"placedDiff";"totalPoints";"pointsJury";"pointsTelevote";"pointsDiff";"youtubeLink";"appleMusicLink";"spotifyLink"
-"1965";"Butch Moore";"I'm Walking the Streets in the Rain";4;6;6;NULL;NULL;11;11;NULL;NULL;"https://youtu.be/6RVo0MD9rB8?si=p1QKzFTo7EjiPH5P";"https://music.apple.com/gb/album/walking-the-streets-in-the-rain/1439348371?i=1439348498";"https://open.spotify.com/track/6AMp6XaDKSrUyBqhvUHpIx?si=6322fd1508454513"
-"1966";"Dickie Rock";"Come Back to Stay";17;4;4;NULL;NULL;14;14;NULL;NULL;"https://youtu.be/aRBnF58ykIQ?si=UkXWoFzsKufsRU6M";"https://music.apple.com/gb/album/come-back-to-stay/683323777?i=683324626";"https://open.spotify.com/track/6pT48pT32qKHQ8jwEwxIVQ?si=0b4e40d1f54d4799"
-"1967";"Sean Dunphy";"If I Could Choose";17;2;2;NULL;NULL;22;22;NULL;NULL;"https://youtu.be/kDFmu-klR78?si=ge5v3foI_44SfZTu";"https://music.apple.com/gb/album/if-i-could-choose/1439348371?i=1439348534";"https://open.spotify.com/track/6csPs5g5gUraKCMlf8y9LB?si=e087a45290354602"
-"1968";"Pat McGeegan";"Chance of a Lifetime";14;4;4;NULL;NULL;18;18;NULL;NULL;"https://youtu.be/P1qFcgBiWLU?si=YAKICsL1JEkkfXVi";"https://music.apple.com/gb/album/the-chance-of-a-lifetime/1148297554?i=1148297663";"https://open.spotify.com/track/3djihaaFYWdgPtNSHBHOKY?si=82c8d56ea72f46ca"
-"1969";"Muriel Day";"The Wages of Love";5;4;4;NULL;NULL;10;10;NULL;NULL;"https://youtu.be/1-lxKz2heAM?si=KSTsT3CIGOrZuQ3a";NULL;NULL
-"1970";"Dana";"All Kinds of Everything";12;1;1;NULL;NULL;32;32;NULL;NULL;"https://youtu.be/RvLPw530qoE?si=Nv3odJQezhu8AGAf";"https://music.apple.com/gb/album/all-kinds-of-everything/1078014786?i=1078014787";"https://open.spotify.com/track/3SJPRPwpF0MTFKPrshBeKM?si=a1872c78133a486e"
-"1971";"Angela Farrell";"One Day Love";13;10;10;NULL;NULL;79;79;NULL;NULL;"https://youtu.be/9Y1l8Z31r9w?si=aDKj-n22IjjGtiBn";NULL;NULL
-"1972";"Sandie Jones";"Ceol an Ghrá";3;15;15;NULL;NULL;72;72;NULL;NULL;"https://youtu.be/ZOF17vMjHxk?si=P3D9vMu6kvVFXtMN";NULL;NULL
-"1973";"Maxi";"Do I Dream";14;9;9;NULL;NULL;80;80;NULL;NULL;"https://youtu.be/PRkZdgOxjuk?si=vum_bSz6tjMfZZTk";NULL;NULL
-"1974";"Tina Reynolds";"Cross Your Heart";13;5;5;NULL;NULL;11;11;NULL;NULL;"https://youtu.be/NgQFrqPaFwc?si=sMwj67edvEUFkAAs";NULL;NULL
-"1975";"The Swarbriggs";"That's What Friends Are For";2;9;9;NULL;NULL;68;68;NULL;NULL;"https://youtu.be/LBOjF_D6Ntg?si=klor_sn-3FIMdSmg";"https://music.apple.com/gb/album/thats-what-friends-are-for/712833434?i=712833622";"https://open.spotify.com/track/1rz4rSUxJmeIF4CuYarTnp?si=1cee9c997cc74aa2"
-"1976";"Red Hurley";"When";7;10;10;NULL;NULL;54;54;NULL;NULL;"https://youtu.be/mbsFXmPHDZw?si=7-MjKgZqU9NLccoW";"https://music.apple.com/gb/album/when-remastered-2023-single/1686930861";"https://open.spotify.com/track/4wET5q7KgpBaIuKbmDhsGd?si=4ddbbf90f36b43c2"
-"1977";"The Swarbriggs Plus Two";"It's Nice to Be in Love Again";1;3;3;NULL;NULL;119;119;NULL;NULL;"https://youtu.be/aEPkEaeCBNo?si=sB09RmXcqe2u1XlL";NULL;NULL
-"1978";"Colm C. T. Wilkinson";"Born to Sing";1;5;5;NULL;NULL;86;86;NULL;NULL;"https://youtu.be/1030WPAfAiM?si=etHWjve0fbQMRuX9";NULL;NULL
-"1979";"Cathal Dunne";"Happy Man";4;5;5;NULL;NULL;80;80;NULL;NULL;"https://youtu.be/f-z_gZFRptI?si=axCJrCgriNxS_DwJ";"https://music.apple.com/gb/album/happy-man/1322526290?i=1322526303";NULL
-"1980";"Johnny Logan";"What's Another Year";17;1;1;NULL;NULL;143;143;NULL;NULL;"https://youtu.be/iCDha7yMGRE?si=4d1lD_AXC2D6wZze";"https://music.apple.com/gb/album/whats-another-year/312639157?i=312639390";"https://open.spotify.com/track/51hipIpHYmj2Qh2tyQ32h6?si=dd293881b59041ac"
-"1981";"Sheeba";"Horoscopes";12;5;5;NULL;NULL;105;105;NULL;NULL;"https://youtu.be/f-li7F7a_xc?si=swDUhDLkNaT5XuaP";"https://music.apple.com/gb/album/horoscopes/870893958?i=870894034";"https://open.spotify.com/track/1dqKwHVYD0NFiHtBspL9bw?si=25bd3bc3fc2344d0"
-"1982";"The Duskeys";"Here Today, Gone Tomorrow";17;11;11;NULL;NULL;49;49;NULL;NULL;"https://youtu.be/KSKYoxvDSZM?si=XpBouTb5gE-Z4TDi";"https://music.apple.com/gb/album/here-today-gone-tomorrow/1618441434?i=1618441747";"https://open.spotify.com/track/2DZ22AU5A4k0eBP3HPCeiU?si=e0df442aba4b4b1c"
-"1984";"Linda Martin";"Terminal 3";9;2;2;NULL;NULL;137;137;NULL;NULL;"https://youtu.be/fIBMU7hUnok?si=Q3dxxSKQ6mPhiNN-";"https://music.apple.com/gb/album/terminal-3/374505041?i=374505046";"https://open.spotify.com/track/213A3driYrjBdlYcHkCM1f?si=9ebb5cbe7c784b45"
-"1985";"Maria Christian";"Wait Until the Weekend Comes";1;6;6;NULL;NULL;91;91;NULL;NULL;"https://youtu.be/8vQPBlCDv7s?si=eaJP66GJVJbn4zdI";"https://music.apple.com/gb/album/wait-until-the-weekend-comes/1470162982?i=1470162983";"https://open.spotify.com/track/3W7fbcyAPR7RG6keSrBGGl?si=715d8305d34d4f32"
-"1986";"Luv Bug";"You Can Count On Me";12;4;4;NULL;NULL;96;96;NULL;NULL;"https://youtu.be/hUrojFMBvlI?si=QiYTzEvgqR1uR45b";NULL;NULL
-"1987";"Johnny Logan";"Hold Me Now";20;1;1;NULL;NULL;172;172;NULL;NULL;"https://youtu.be/WJy9ZiliwwU?si=XoOmyo0SDXwB5nA6";"https://music.apple.com/gb/album/hold-me-now/312639157?i=312639372";"https://open.spotify.com/track/7KG1uA3O9cqahhVt5atWnB?si=673e7cb992884f0c"
-"1988";"Jump the Gun";"Take Him Home";10;8;8;NULL;NULL;79;79;NULL;NULL;"https://youtu.be/QTWsDzJnM8Y?si=nrWQX3npkBOrF8TE";NULL;NULL
-"1989";"Kiev Connolly and the Missing Passengers";"The Real Me";3;17;17;NULL;NULL;21;21;NULL;NULL;"https://youtu.be/83dEIxjS9Ng?si=CMngVnpUlMZhMzbw";NULL;NULL
-"1990";"Liam Reilly";"Somewhere in Europe";17;2;2;NULL;NULL;132;132;NULL;NULL;"https://youtu.be/SAjFewDxTFM?si=bM9quCC5zD6TBBzr";"https://music.apple.com/gb/album/somewhere-in-europe/1149208669?i=1149209097";"https://open.spotify.com/track/6e0rsdJadvSptYAC3RLPku?si=e15674d622e44ba2"
-"1991";"Kim Jackson";"Could It Be That I'm in Love";11;9;9;NULL;NULL;47;47;NULL;NULL;"https://youtu.be/XiHvhx4o0uM?si=TG6uHi-_dtpx3FJs";NULL;NULL
-"1992";"Linda Martin";"Why Me";17;1;1;NULL;NULL;155;155;NULL;NULL;"https://youtu.be/oTPtDFxQgn4?si=h4JhACKgn9wZMbF7";"https://music.apple.com/gb/album/why-me/363155272?i=363155322";"https://open.spotify.com/track/3Y81Q8dLI74Mgi1wbXvscv?si=aa610ef790094f57"
-"1993";"Niamh Kavanagh";"In Your Eyes";14;1;1;NULL;NULL;187;187;NULL;NULL;"https://youtu.be/ysLHYx0c80s?si=y7_fvs1NRweORyKG";"https://music.apple.com/gb/album/in-your-eyes/348923947?i=348924038";"https://open.spotify.com/track/7LBBL20GLOtjBJwxgVmzPK?si=3d21b4a662cf49a6"
-"1994";"Paul Harrington and Charlie McGettigan";"Rock 'n' Roll Kids";3;1;1;NULL;NULL;226;226;NULL;NULL;"https://youtu.be/1x_9JnCGXFY?si=fepnYvACZZcfEURR";"https://music.apple.com/gb/album/rock-n-roll-kids/212118827?i=212118856";"https://open.spotify.com/track/4qVX2nHuFlVNp6AOVrDBGb?si=e8c173ffc8b347a1"
-"1995";"Eddie Friel";"Dreamin'";2;13;13;NULL;NULL;44;44;NULL;NULL;"https://youtu.be/CRZxY4rLbvM?si=17Fa8MpAcFOihj3x";NULL;NULL
-"1996";"Eimear Quinn";"The Voice";17;1;1;NULL;NULL;162;162;NULL;NULL;"https://youtu.be/2qK0tZZ-FZI?si=S-TP7nXYfCpxy6QL";"https://music.apple.com/gb/album/the-voice/74409159?i=74409108";"https://open.spotify.com/track/6SA7BxY6zh5SaxUBp3tCtb?si=06737e4a107d4582"
+"1965";"Butch Moore";"I'm Walking the Streets in the Rain";4;6;6;;;11;11;;;"https://youtu.be/6RVo0MD9rB8?si=p1QKzFTo7EjiPH5P";"https://music.apple.com/gb/album/walking-the-streets-in-the-rain/1439348371?i=1439348498";"https://open.spotify.com/track/6AMp6XaDKSrUyBqhvUHpIx?si=6322fd1508454513"
+"1966";"Dickie Rock";"Come Back to Stay";17;4;4;;;14;14;;;"https://youtu.be/aRBnF58ykIQ?si=UkXWoFzsKufsRU6M";"https://music.apple.com/gb/album/come-back-to-stay/683323777?i=683324626";"https://open.spotify.com/track/6pT48pT32qKHQ8jwEwxIVQ?si=0b4e40d1f54d4799"
+"1967";"Sean Dunphy";"If I Could Choose";17;2;2;;;22;22;;;"https://youtu.be/kDFmu-klR78?si=ge5v3foI_44SfZTu";"https://music.apple.com/gb/album/if-i-could-choose/1439348371?i=1439348534";"https://open.spotify.com/track/6csPs5g5gUraKCMlf8y9LB?si=e087a45290354602"
+"1968";"Pat McGeegan";"Chance of a Lifetime";14;4;4;;;18;18;;;"https://youtu.be/P1qFcgBiWLU?si=YAKICsL1JEkkfXVi";"https://music.apple.com/gb/album/the-chance-of-a-lifetime/1148297554?i=1148297663";"https://open.spotify.com/track/3djihaaFYWdgPtNSHBHOKY?si=82c8d56ea72f46ca"
+"1969";"Muriel Day";"The Wages of Love";5;4;4;;;10;10;;;"https://youtu.be/1-lxKz2heAM?si=KSTsT3CIGOrZuQ3a";;
+"1970";"Dana";"All Kinds of Everything";12;1;1;;;32;32;;;"https://youtu.be/RvLPw530qoE?si=Nv3odJQezhu8AGAf";"https://music.apple.com/gb/album/all-kinds-of-everything/1078014786?i=1078014787";"https://open.spotify.com/track/3SJPRPwpF0MTFKPrshBeKM?si=a1872c78133a486e"
+"1971";"Angela Farrell";"One Day Love";13;10;10;;;79;79;;;"https://youtu.be/9Y1l8Z31r9w?si=aDKj-n22IjjGtiBn";;
+"1972";"Sandie Jones";"Ceol an Ghrá";3;15;15;;;72;72;;;"https://youtu.be/ZOF17vMjHxk?si=P3D9vMu6kvVFXtMN";;
+"1973";"Maxi";"Do I Dream";14;9;9;;;80;80;;;"https://youtu.be/PRkZdgOxjuk?si=vum_bSz6tjMfZZTk";;
+"1974";"Tina Reynolds";"Cross Your Heart";13;5;5;;;11;11;;;"https://youtu.be/NgQFrqPaFwc?si=sMwj67edvEUFkAAs";;
+"1975";"The Swarbriggs";"That's What Friends Are For";2;9;9;;;68;68;;;"https://youtu.be/LBOjF_D6Ntg?si=klor_sn-3FIMdSmg";"https://music.apple.com/gb/album/thats-what-friends-are-for/712833434?i=712833622";"https://open.spotify.com/track/1rz4rSUxJmeIF4CuYarTnp?si=1cee9c997cc74aa2"
+"1976";"Red Hurley";"When";7;10;10;;;54;54;;;"https://youtu.be/mbsFXmPHDZw?si=7-MjKgZqU9NLccoW";"https://music.apple.com/gb/album/when-remastered-2023-single/1686930861";"https://open.spotify.com/track/4wET5q7KgpBaIuKbmDhsGd?si=4ddbbf90f36b43c2"
+"1977";"The Swarbriggs Plus Two";"It's Nice to Be in Love Again";1;3;3;;;119;119;;;"https://youtu.be/aEPkEaeCBNo?si=sB09RmXcqe2u1XlL";;
+"1978";"Colm C. T. Wilkinson";"Born to Sing";1;5;5;;;86;86;;;"https://youtu.be/1030WPAfAiM?si=etHWjve0fbQMRuX9";;
+"1979";"Cathal Dunne";"Happy Man";4;5;5;;;80;80;;;"https://youtu.be/f-z_gZFRptI?si=axCJrCgriNxS_DwJ";"https://music.apple.com/gb/album/happy-man/1322526290?i=1322526303";
+"1980";"Johnny Logan";"What's Another Year";17;1;1;;;143;143;;;"https://youtu.be/iCDha7yMGRE?si=4d1lD_AXC2D6wZze";"https://music.apple.com/gb/album/whats-another-year/312639157?i=312639390";"https://open.spotify.com/track/51hipIpHYmj2Qh2tyQ32h6?si=dd293881b59041ac"
+"1981";"Sheeba";"Horoscopes";12;5;5;;;105;105;;;"https://youtu.be/f-li7F7a_xc?si=swDUhDLkNaT5XuaP";"https://music.apple.com/gb/album/horoscopes/870893958?i=870894034";"https://open.spotify.com/track/1dqKwHVYD0NFiHtBspL9bw?si=25bd3bc3fc2344d0"
+"1982";"The Duskeys";"Here Today, Gone Tomorrow";17;11;11;;;49;49;;;"https://youtu.be/KSKYoxvDSZM?si=XpBouTb5gE-Z4TDi";"https://music.apple.com/gb/album/here-today-gone-tomorrow/1618441434?i=1618441747";"https://open.spotify.com/track/2DZ22AU5A4k0eBP3HPCeiU?si=e0df442aba4b4b1c"
+"1984";"Linda Martin";"Terminal 3";9;2;2;;;137;137;;;"https://youtu.be/fIBMU7hUnok?si=Q3dxxSKQ6mPhiNN-";"https://music.apple.com/gb/album/terminal-3/374505041?i=374505046";"https://open.spotify.com/track/213A3driYrjBdlYcHkCM1f?si=9ebb5cbe7c784b45"
+"1985";"Maria Christian";"Wait Until the Weekend Comes";1;6;6;;;91;91;;;"https://youtu.be/8vQPBlCDv7s?si=eaJP66GJVJbn4zdI";"https://music.apple.com/gb/album/wait-until-the-weekend-comes/1470162982?i=1470162983";"https://open.spotify.com/track/3W7fbcyAPR7RG6keSrBGGl?si=715d8305d34d4f32"
+"1986";"Luv Bug";"You Can Count On Me";12;4;4;;;96;96;;;"https://youtu.be/hUrojFMBvlI?si=QiYTzEvgqR1uR45b";;
+"1987";"Johnny Logan";"Hold Me Now";20;1;1;;;172;172;;;"https://youtu.be/WJy9ZiliwwU?si=XoOmyo0SDXwB5nA6";"https://music.apple.com/gb/album/hold-me-now/312639157?i=312639372";"https://open.spotify.com/track/7KG1uA3O9cqahhVt5atWnB?si=673e7cb992884f0c"
+"1988";"Jump the Gun";"Take Him Home";10;8;8;;;79;79;;;"https://youtu.be/QTWsDzJnM8Y?si=nrWQX3npkBOrF8TE";;
+"1989";"Kiev Connolly and the Missing Passengers";"The Real Me";3;17;17;;;21;21;;;"https://youtu.be/83dEIxjS9Ng?si=CMngVnpUlMZhMzbw";;
+"1990";"Liam Reilly";"Somewhere in Europe";17;2;2;;;132;132;;;"https://youtu.be/SAjFewDxTFM?si=bM9quCC5zD6TBBzr";"https://music.apple.com/gb/album/somewhere-in-europe/1149208669?i=1149209097";"https://open.spotify.com/track/6e0rsdJadvSptYAC3RLPku?si=e15674d622e44ba2"
+"1991";"Kim Jackson";"Could It Be That I'm in Love";11;9;9;;;47;47;;;"https://youtu.be/XiHvhx4o0uM?si=TG6uHi-_dtpx3FJs";;
+"1992";"Linda Martin";"Why Me";17;1;1;;;155;155;;;"https://youtu.be/oTPtDFxQgn4?si=h4JhACKgn9wZMbF7";"https://music.apple.com/gb/album/why-me/363155272?i=363155322";"https://open.spotify.com/track/3Y81Q8dLI74Mgi1wbXvscv?si=aa610ef790094f57"
+"1993";"Niamh Kavanagh";"In Your Eyes";14;1;1;;;187;187;;;"https://youtu.be/ysLHYx0c80s?si=y7_fvs1NRweORyKG";"https://music.apple.com/gb/album/in-your-eyes/348923947?i=348924038";"https://open.spotify.com/track/7LBBL20GLOtjBJwxgVmzPK?si=3d21b4a662cf49a6"
+"1994";"Paul Harrington and Charlie McGettigan";"Rock 'n' Roll Kids";3;1;1;;;226;226;;;"https://youtu.be/1x_9JnCGXFY?si=fepnYvACZZcfEURR";"https://music.apple.com/gb/album/rock-n-roll-kids/212118827?i=212118856";"https://open.spotify.com/track/4qVX2nHuFlVNp6AOVrDBGb?si=e8c173ffc8b347a1"
+"1995";"Eddie Friel";"Dreamin'";2;13;13;;;44;44;;;"https://youtu.be/CRZxY4rLbvM?si=17Fa8MpAcFOihj3x";;
+"1996";"Eimear Quinn";"The Voice";17;1;1;;;162;162;;;"https://youtu.be/2qK0tZZ-FZI?si=S-TP7nXYfCpxy6QL";"https://music.apple.com/gb/album/the-voice/74409159?i=74409108";"https://open.spotify.com/track/6SA7BxY6zh5SaxUBp3tCtb?si=06737e4a107d4582"
 "1997";"Marc Roberts";"Mysterious Woman";5;2;2;1;1;157;110;47;63;"https://youtu.be/GV_3B13Q3xs?si=lSWdxXxPZlQ4hTHP";"https://music.apple.com/gb/album/mysterious-woman/212118817?i=212119126";"https://open.spotify.com/track/1vogk8oxwXkl3pKKVAQmxT?si=1375563c79e843a4"
-"1998";"Dawn Martin";"Is Always Over Now";13;9;2;10;8;64;22;42;20;"https://youtu.be/bGucxzkmI-U?si=NA7LnOOvcv9SLqyP";NULL;NULL
-"1999";"The Mullans";"When You Need Me";17;15;6;19;13;18;13;5;8;"https://youtu.be/2RWGVuvCCIs?si=R59XEpPW3lGGWqxK";NULL;NULL
+"1998";"Dawn Martin";"Is Always Over Now";13;9;2;10;8;64;22;42;20;"https://youtu.be/bGucxzkmI-U?si=NA7LnOOvcv9SLqyP";;
+"1999";"The Mullans";"When You Need Me";17;15;6;19;13;18;13;5;8;"https://youtu.be/2RWGVuvCCIs?si=R59XEpPW3lGGWqxK";;
 "2000";"Eamonn Toal";"Millennium of Love";23;6;9;4;5;92;13;79;66;"https://youtu.be/XzyVv2uIa4s?si=HZhdA2GHv5Vp19e8";"https://music.apple.com/gb/album/millennium-of-love/1633555476?i=1633555477";"https://open.spotify.com/track/7kG3nv4PDzzpWtMA3kS30q?si=ac17c939062b4e23"
-"2001";"Gary O'Shaughnessy";"Without Your Love";12;20;15;18;3;6;0;6;6;"https://youtu.be/1SLEkOX9ZLY?si=HRxIivJ8xjXB1fMp";NULL;NULL
-"2003";"Mickey Harte";"We've Got the World";3;10;16;11;5;53;0;53;53;NULL;NULL;NULL
-"2004";"Chris Doran";"If My World Stopped Turning";18;20;NULL;20;NULL;7;NULL;7;NULL;NULL;NULL;NULL
-"2005";"Donna and Joe";"Love?";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2006";"Brian Kennedy";"Every Song Is a Cry for Love";21;10;3;10;7;93;10;83;73;NULL;NULL;NULL
-"2007";"Dervish";"They Can't Stop the Spring";4;23;7;24;17;5;5;0;5;NULL;NULL;NULL
-"2008";"Dustin the Turkey";"Irelande Douze Pointe";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2009";"Sinéad Mulvey and Black Daisy";"Et Cetera";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2010";"Niamh Kavanagh";"It's for You";10;21;15;22;7;77;62;15;47;NULL;NULL;NULL
-"2011";"Jedward";"Lipstick";6;9;6;9;3;220;119;101;18;NULL;NULL;NULL
-"2012";"Jedward";"Waterline";23;18;22;9;13;103;14;89;75;NULL;NULL;NULL
-"2013";"Ryan Dolan";"Only Love Survives";26;25;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2014";"Can-linn feat. Kasey Smith";"Heartbeat";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2015";"Molly Sterling";"Playing with Numbers";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2016";"Nicky Byrne";"Sunlight";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2017";"Brendan Murray";"Dying to Try";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2018";"Ryan O'Shaughnessy";"Together";24;16;13;16;3;136;74;62;12;NULL;NULL;NULL
-"2019";"Sarah McTernan";"22";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/lX7DT9GMHQM?si=AyPmLVCjruWWmTNy";"https://music.apple.com/gb/album/22/1457575481?i=1457575485";"https://open.spotify.com/track/3ZBeBPho2tpNn6vHcic9Jd?si=87b32e618cb84db4"
-"2020";"Lesley Roy";"Story of My Life";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/HLgE0Ayl5Hc?si=tkDELKTVXRbwTdTY";"https://music.apple.com/gb/album/story-of-my-life/1502388582?i=1502388600";"https://open.spotify.com/track/2yPBpQ622XzDq0BzbqpXeF?si=525a17f4bd234cba"
-"2021";"Lesley Roy";"Maps";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/FY2rxbZNvZ0?si=OGBcHnCIcc_AdqAK";"https://music.apple.com/gb/album/maps/1554533921?i=1554534049";"https://open.spotify.com/track/3OFGkaztvfjW0McKujTzdI?si=157a1bf44ad54536"
-"2022";"Brooke";"That's Rich";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/Kq2AJrWm04s?si=wN9iY8n7wpd-Nzn0";"https://music.apple.com/gb/album/thats-rich/1613375632?i=1613375635";"https://open.spotify.com/track/1oS41M8cx60aAeNe3k5Csw?si=a96e8c14382f44a3"
-"2023";"Wild Youth";"We Are One";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/80-4_rjW10U?si=sGVJvm-2hQpbQ0EN";"https://music.apple.com/gb/album/we-are-one-eurovision-song-contest-edit/1709047610?i=1709047611";"https://open.spotify.com/track/5AkEgrj433NMHrJvn7oASj?si=682ae297aea44dc6"
-"2024";"Bambie Thug";"Doomsday Blue";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/ZGRXRrlIspY?si=AcUAPel8n7w1_OvF";"https://music.apple.com/gb/album/doomsday-blue/1709266722?i=1709267030";"https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g?si=434cde945f384b14"
+"2001";"Gary O'Shaughnessy";"Without Your Love";12;20;15;18;3;6;0;6;6;"https://youtu.be/1SLEkOX9ZLY?si=HRxIivJ8xjXB1fMp";;
+"2003";"Mickey Harte";"We've Got the World";3;10;16;11;5;53;0;53;53;;;
+"2004";"Chris Doran";"If My World Stopped Turning";18;20;;20;;7;;7;;;;
+"2005";"Donna and Joe";"Love?";;;;;;;;;;;;
+"2006";"Brian Kennedy";"Every Song Is a Cry for Love";21;10;3;10;7;93;10;83;73;;;
+"2007";"Dervish";"They Can't Stop the Spring";4;23;7;24;17;5;5;0;5;;;
+"2008";"Dustin the Turkey";"Irelande Douze Pointe";;;;;;;;;;;;
+"2009";"Sinéad Mulvey and Black Daisy";"Et Cetera";;;;;;;;;;;;
+"2010";"Niamh Kavanagh";"It's for You";10;21;15;22;7;77;62;15;47;;;
+"2011";"Jedward";"Lipstick";6;9;6;9;3;220;119;101;18;;;
+"2012";"Jedward";"Waterline";23;18;22;9;13;103;14;89;75;;;
+"2013";"Ryan Dolan";"Only Love Survives";26;25;;;;;;;;;;
+"2014";"Can-linn feat. Kasey Smith";"Heartbeat";;;;;;;;;;;;
+"2015";"Molly Sterling";"Playing with Numbers";;;;;;;;;;;;
+"2016";"Nicky Byrne";"Sunlight";;;;;;;;;;;;
+"2017";"Brendan Murray";"Dying to Try";;;;;;;;;;;;
+"2018";"Ryan O'Shaughnessy";"Together";24;16;13;16;3;136;74;62;12;;;
+"2019";"Sarah McTernan";"22";;;;;;;;;;"https://youtu.be/lX7DT9GMHQM?si=AyPmLVCjruWWmTNy";"https://music.apple.com/gb/album/22/1457575481?i=1457575485";"https://open.spotify.com/track/3ZBeBPho2tpNn6vHcic9Jd?si=87b32e618cb84db4"
+"2020";"Lesley Roy";"Story of My Life";;;;;;;;;;"https://youtu.be/HLgE0Ayl5Hc?si=tkDELKTVXRbwTdTY";"https://music.apple.com/gb/album/story-of-my-life/1502388582?i=1502388600";"https://open.spotify.com/track/2yPBpQ622XzDq0BzbqpXeF?si=525a17f4bd234cba"
+"2021";"Lesley Roy";"Maps";;;;;;;;;;"https://youtu.be/FY2rxbZNvZ0?si=OGBcHnCIcc_AdqAK";"https://music.apple.com/gb/album/maps/1554533921?i=1554534049";"https://open.spotify.com/track/3OFGkaztvfjW0McKujTzdI?si=157a1bf44ad54536"
+"2022";"Brooke";"That's Rich";;;;;;;;;;"https://youtu.be/Kq2AJrWm04s?si=wN9iY8n7wpd-Nzn0";"https://music.apple.com/gb/album/thats-rich/1613375632?i=1613375635";"https://open.spotify.com/track/1oS41M8cx60aAeNe3k5Csw?si=a96e8c14382f44a3"
+"2023";"Wild Youth";"We Are One";;;;;;;;;;"https://youtu.be/80-4_rjW10U?si=sGVJvm-2hQpbQ0EN";"https://music.apple.com/gb/album/we-are-one-eurovision-song-contest-edit/1709047610?i=1709047611";"https://open.spotify.com/track/5AkEgrj433NMHrJvn7oASj?si=682ae297aea44dc6"
+"2024";"Bambie Thug";"Doomsday Blue";;;;;;;;;;"https://youtu.be/ZGRXRrlIspY?si=AcUAPel8n7w1_OvF";"https://music.apple.com/gb/album/doomsday-blue/1709266722?i=1709267030";"https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g?si=434cde945f384b14"

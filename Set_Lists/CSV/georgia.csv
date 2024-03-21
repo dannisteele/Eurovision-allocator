@@ -1,18 +1,18 @@
 "sourceTable";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"placedDiff";"totalPoints";"pointsJury";"pointsTelevote";"pointsDiff";"youtubeLink";"appleMusicLink";"spotifyLink"
-"2007";"Sopho";"Visionary Dream";11;12;12;12;0;97;0;97;97;NULL;NULL;NULL
-"2008";"Diana Gurtskaya";"Peace Will Come";17;11;11;11;0;83;0;83;83;NULL;NULL;NULL
-"2010";"Sofia Nizharadze";"Shine";13;5;4;9;5;287;160;127;33;NULL;NULL;NULL
-"2011";"Eldrine";"One More Day";25;10;15;7;8;217;79;138;59;NULL;NULL;NULL
-"2012";"Anri Jokhadze";"I'm a Joker";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2013";"Nodi Tatishvili and Sophie Gelovani";"Waterfall";25;14;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2014";"The Shin and Mariko";"Three Minutes to Earth";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2015";"Nina Sublatti";"Warrior";23;12;10;13;3;113;62;51;11;NULL;NULL;NULL
-"2016";"Nika Kocharov and Young Georgian Lolitaz";"Midnight Gold";23;19;13;20;7;104;80;24;56;NULL;NULL;NULL
-"2017";"Tamara Gachechiladze";"Keep the Faith";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2018";"Ethno-Jazz Band Iriao";"For You";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2019";"Oto Nemsadze";"Keep On Going";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/vu4nHsaAJwU?si=qFtNFRnqgMD_FLae";"https://music.apple.com/gb/album/keep-on-going/1457677963?i=1457678341";"https://open.spotify.com/track/2vs3g4jUwlyhOv12wAtu2L?si=c85e7531d36c4842"
-"2020";"Tornike Kipiani";"Take Me as I Am";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/LjNK4Xywjc4?si=Ma2INizzUHigW7q_";"https://music.apple.com/gb/album/take-me-as-i-am/1502723907?i=1502723910";"https://open.spotify.com/track/3sXZrgz3ibbszEjYe8Ovqd?si=320f01b230df4939"
-"2021";"Tornike Kipiani";"You";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/5qnogt74_F8?si=9psvL06U1ef5veMp";"https://music.apple.com/gb/album/you/1558357684?i=1558357685";"https://open.spotify.com/track/3OUWYnsRv8pDmoCyEq2SFo?si=efa0438e8e894462"
-"2022";"Circus Mircus";"Lock Me In";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/zXiZAbqETvk?si=RnOl_s5xmkCgXCdI";"https://music.apple.com/gb/album/lock-me-in/1614865625?i=1614865844";"https://open.spotify.com/track/7ed3JsAPk6u0NjRhylnKmY?si=7d8a5a89aadd49af"
-"2023";"Iru";"Echo";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/HNvGZeEQvfc?si=c35bOle3G7ynDwoM";"https://music.apple.com/gb/album/echo-eurovision-2023-georgia/1677738813?i=1677739066";"https://open.spotify.com/track/388LVXGVL3VLrd6C7lKjcp?si=44b5527c18b745f2"
-"2024";"Nutsa Buzaladze";"Firefighter";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/blMwY8Jabyk?si=iBL27IeWxfrnL41r";"https://music.apple.com/gb/album/firefighter/1735362825?i=1735362826";"https://open.spotify.com/track/5Ekw4o2ecrOCBF5rGB7KXs?si=9c5509e1261b42df"
+"2007";"Sopho";"Visionary Dream";11;12;12;12;0;97;0;97;97;;;
+"2008";"Diana Gurtskaya";"Peace Will Come";17;11;11;11;0;83;0;83;83;;;
+"2010";"Sofia Nizharadze";"Shine";13;5;4;9;5;287;160;127;33;;;
+"2011";"Eldrine";"One More Day";25;10;15;7;8;217;79;138;59;;;
+"2012";"Anri Jokhadze";"I'm a Joker";;;;;;;;;;;;
+"2013";"Nodi Tatishvili and Sophie Gelovani";"Waterfall";25;14;;;;;;;;;;
+"2014";"The Shin and Mariko";"Three Minutes to Earth";;;;;;;;;;;;
+"2015";"Nina Sublatti";"Warrior";23;12;10;13;3;113;62;51;11;;;
+"2016";"Nika Kocharov and Young Georgian Lolitaz";"Midnight Gold";23;19;13;20;7;104;80;24;56;;;
+"2017";"Tamara Gachechiladze";"Keep the Faith";;;;;;;;;;;;
+"2018";"Ethno-Jazz Band Iriao";"For You";;;;;;;;;;;;
+"2019";"Oto Nemsadze";"Keep On Going";;;;;;;;;;"https://youtu.be/vu4nHsaAJwU?si=qFtNFRnqgMD_FLae";"https://music.apple.com/gb/album/keep-on-going/1457677963?i=1457678341";"https://open.spotify.com/track/2vs3g4jUwlyhOv12wAtu2L?si=c85e7531d36c4842"
+"2020";"Tornike Kipiani";"Take Me as I Am";;;;;;;;;;"https://youtu.be/LjNK4Xywjc4?si=Ma2INizzUHigW7q_";"https://music.apple.com/gb/album/take-me-as-i-am/1502723907?i=1502723910";"https://open.spotify.com/track/3sXZrgz3ibbszEjYe8Ovqd?si=320f01b230df4939"
+"2021";"Tornike Kipiani";"You";;;;;;;;;;"https://youtu.be/5qnogt74_F8?si=9psvL06U1ef5veMp";"https://music.apple.com/gb/album/you/1558357684?i=1558357685";"https://open.spotify.com/track/3OUWYnsRv8pDmoCyEq2SFo?si=efa0438e8e894462"
+"2022";"Circus Mircus";"Lock Me In";;;;;;;;;;"https://youtu.be/zXiZAbqETvk?si=RnOl_s5xmkCgXCdI";"https://music.apple.com/gb/album/lock-me-in/1614865625?i=1614865844";"https://open.spotify.com/track/7ed3JsAPk6u0NjRhylnKmY?si=7d8a5a89aadd49af"
+"2023";"Iru";"Echo";;;;;;;;;;"https://youtu.be/HNvGZeEQvfc?si=c35bOle3G7ynDwoM";"https://music.apple.com/gb/album/echo-eurovision-2023-georgia/1677738813?i=1677739066";"https://open.spotify.com/track/388LVXGVL3VLrd6C7lKjcp?si=44b5527c18b745f2"
+"2024";"Nutsa Buzaladze";"Firefighter";;;;;;;;;;"https://youtu.be/blMwY8Jabyk?si=iBL27IeWxfrnL41r";"https://music.apple.com/gb/album/firefighter/1735362825?i=1735362826";"https://open.spotify.com/track/5Ekw4o2ecrOCBF5rGB7KXs?si=9c5509e1261b42df"

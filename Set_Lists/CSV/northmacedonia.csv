@@ -1,23 +1,23 @@
 "sourceTable";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"placedDiff";"totalPoints";"pointsJury";"pointsTelevote";"pointsDiff";"youtubeLink";"appleMusicLink";"spotifyLink"
-"1998";"Vlado Janevski";"Ne zori, zoro";10;3;4;2;2;165;17;148;131;"https://youtu.be/sqvIdZXuPjs?si=Ewbb7Pk3zBzDN_-e";NULL;NULL
+"1998";"Vlado Janevski";"Ne zori, zoro";10;3;4;2;2;165;17;148;131;"https://youtu.be/sqvIdZXuPjs?si=Ewbb7Pk3zBzDN_-e";;
 "2000";"XXL";"100% te ljubam";7;15;7;16;9;29;17;12;5;"https://youtu.be/fwb-Juuofi0?si=RkicToLffK6O2FnY";"https://music.apple.com/gb/album/100-te-ljubam/1712907820?i=1712907821";"https://open.spotify.com/track/6irXADvLUwmS13wnfHdLpO?si=5fffa76796424302"
-"2002";"Karolina";"Od nas zavisi";20;2;2;2;0;164;51;113;62;NULL;NULL;NULL
-"2004";"Toše Proeski";"Life";15;12;NULL;12;NULL;47;NULL;47;NULL;NULL;NULL;NULL
-"2005";"Martin Vučić";"Make My Day";15;16;13;14;1;52;1;51;50;NULL;NULL;NULL
-"2006";"Elena Risteska";"Ninanajna";11;12;9;11;2;56;3;53;50;NULL;NULL;NULL
-"2007";"Karolina";"Mojot svet";6;14;9;14;5;73;3;70;67;NULL;NULL;NULL
-"2008";"Tamara, Vrčak and Adrijan";"Let Me Love You";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2009";"Next Time";"Nešto što kje ostane";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2010";"Gjoko Taneski[b]";"Jas ja imam silata";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2011";"Vlatko Ilievski";"Rusinka";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2012";"Kaliopi";"Crno i belo";22;16;15;10;5;148;69;79;10;NULL;NULL;NULL
-"2013";"Esma and Lozano";"Pred da se razdeni";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2014";"Tijana";"To the Sky";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2015";"Daniel Kajmakoski";"Autumn Leaves";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2016";"Kaliopi";"Dona";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2017";"Jana Burčeska";"Dance Alone";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2018";"Eye Cue";"Lost and Found";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+"2002";"Karolina";"Od nas zavisi";20;2;2;2;0;164;51;113;62;;;
+"2004";"Toše Proeski";"Life";15;12;;12;;47;;47;;;;
+"2005";"Martin Vučić";"Make My Day";15;16;13;14;1;52;1;51;50;;;
+"2006";"Elena Risteska";"Ninanajna";11;12;9;11;2;56;3;53;50;;;
+"2007";"Karolina";"Mojot svet";6;14;9;14;5;73;3;70;67;;;
+"2008";"Tamara, Vrčak and Adrijan";"Let Me Love You";;;;;;;;;;;;
+"2009";"Next Time";"Nešto što kje ostane";;;;;;;;;;;;
+"2010";"Gjoko Taneski[b]";"Jas ja imam silata";;;;;;;;;;;;
+"2011";"Vlatko Ilievski";"Rusinka";;;;;;;;;;;;
+"2012";"Kaliopi";"Crno i belo";22;16;15;10;5;148;69;79;10;;;
+"2013";"Esma and Lozano";"Pred da se razdeni";;;;;;;;;;;;
+"2014";"Tijana";"To the Sky";;;;;;;;;;;;
+"2015";"Daniel Kajmakoski";"Autumn Leaves";;;;;;;;;;;;
+"2016";"Kaliopi";"Dona";;;;;;;;;;;;
+"2017";"Jana Burčeska";"Dance Alone";;;;;;;;;;;;
+"2018";"Eye Cue";"Lost and Found";;;;;;;;;;;;
 "2019";"Tamara Todevska";"Proud";8;7;1;12;11;305;247;58;189;"https://youtu.be/0pAURAsum4A?si=jvUu_ryWcAMK_xjb";"https://music.apple.com/gb/album/proud/1457333363?i=1457333364";"https://open.spotify.com/track/4L2YQw0JBuYcS8M1uQKQjC?si=54f86dcfa01c4644"
-"2020";"Vasil";"You";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/xPZumQQExQc?si=wJpbEDEkBM-3Yg1P";"https://music.apple.com/gb/album/you/1503105719?i=1503105722";"https://open.spotify.com/track/3Dx7BY1RKFU6v79Dbudss3?si=4425a28436774c21"
-"2021";"Vasil";"Here I Stand";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/WRcSHPb_Qwc?si=2_tEemW1etzqkAe6";"https://music.apple.com/gb/album/here-i-stand/1556355940?i=1556355942";"https://open.spotify.com/track/4yvRoOkKUZNLBRC1NUI4Za?si=b92f009b480e49de"
-"2022";"Andrea";"Circles";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/zvOihqB4eKk?si=WYeOP4dT4dFUbnUc";"https://music.apple.com/gb/album/circles/1614865982?i=1614865983";"https://open.spotify.com/track/1pIbvmEIda1T9v9Oi227mn?si=63f1582c60e642eb"
+"2020";"Vasil";"You";;;;;;;;;;"https://youtu.be/xPZumQQExQc?si=wJpbEDEkBM-3Yg1P";"https://music.apple.com/gb/album/you/1503105719?i=1503105722";"https://open.spotify.com/track/3Dx7BY1RKFU6v79Dbudss3?si=4425a28436774c21"
+"2021";"Vasil";"Here I Stand";;;;;;;;;;"https://youtu.be/WRcSHPb_Qwc?si=2_tEemW1etzqkAe6";"https://music.apple.com/gb/album/here-i-stand/1556355940?i=1556355942";"https://open.spotify.com/track/4yvRoOkKUZNLBRC1NUI4Za?si=b92f009b480e49de"
+"2022";"Andrea";"Circles";;;;;;;;;;"https://youtu.be/zvOihqB4eKk?si=WYeOP4dT4dFUbnUc";"https://music.apple.com/gb/album/circles/1614865982?i=1614865983";"https://open.spotify.com/track/1pIbvmEIda1T9v9Oi227mn?si=63f1582c60e642eb"

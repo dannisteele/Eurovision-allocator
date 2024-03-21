@@ -1,18 +1,18 @@
 "sourceTable";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"placedDiff";"totalPoints";"pointsJury";"pointsTelevote";"pointsDiff";"youtubeLink";"appleMusicLink";"spotifyLink"
-"2004";"Aleksandra and Konstantin";"My Galileo";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2005";"Angelica Agurbash";"Love Me Tonight";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2006";"Polina Smolova";"Mum";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2007";"Koldun";"Work Your Magic";3;6;10;6;4;145;2;143;141;NULL;NULL;NULL
-"2008";"Ruslan Alehno";"Hasta la vista";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2009";"Petr Elfimov";"Eyes That Never Lie";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2010";"3+2 feat. Robert Wells";"Butterflies";9;24;22;20;2;40;22;18;4;NULL;NULL;NULL
-"2011";"Anastasia Vinnikova";"I Love Belarus";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2012";"Litesound";"We Are the Heroes";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2013";"Alyona Lanskaya";"Solayoh";8;15;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2014";"Teo";"Cheesecake";2;16;18;11;7;106;50;56;6;NULL;NULL;NULL
-"2015";"Uzari and Maimuna";"Time";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2016";"Ivan";"Help You Fly";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2017";"Naviband";"Story of My Life";3;17;15;13;2;83;50;33;17;NULL;NULL;NULL
-"2018";"Alekseev";"Forever";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+"2004";"Aleksandra and Konstantin";"My Galileo";;;;;;;;;;;;
+"2005";"Angelica Agurbash";"Love Me Tonight";;;;;;;;;;;;
+"2006";"Polina Smolova";"Mum";;;;;;;;;;;;
+"2007";"Koldun";"Work Your Magic";3;6;10;6;4;145;2;143;141;;;
+"2008";"Ruslan Alehno";"Hasta la vista";;;;;;;;;;;;
+"2009";"Petr Elfimov";"Eyes That Never Lie";;;;;;;;;;;;
+"2010";"3+2 feat. Robert Wells";"Butterflies";9;24;22;20;2;40;22;18;4;;;
+"2011";"Anastasia Vinnikova";"I Love Belarus";;;;;;;;;;;;
+"2012";"Litesound";"We Are the Heroes";;;;;;;;;;;;
+"2013";"Alyona Lanskaya";"Solayoh";8;15;;;;;;;;;;
+"2014";"Teo";"Cheesecake";2;16;18;11;7;106;50;56;6;;;
+"2015";"Uzari and Maimuna";"Time";;;;;;;;;;;;
+"2016";"Ivan";"Help You Fly";;;;;;;;;;;;
+"2017";"Naviband";"Story of My Life";3;17;15;13;2;83;50;33;17;;;
+"2018";"Alekseev";"Forever";;;;;;;;;;;;
 "2019";"Zena";"Like It";19;23;21;23;2;31;18;13;5;"https://youtu.be/C1Y9LBusHzA?si=rkw_iMutWiYptwkj";"https://music.apple.com/gb/album/like-it/1457579708?i=1457579709";"https://open.spotify.com/track/6sGcFdmfVhmq09Dy1rQgAh?si=644492b70bd445a2"
-"2020";"VAL";"Da vidna";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/F0wfxz5zq04?si=c4qq3lsBCUf9HeH6";"https://music.apple.com/gb/album/da-vidna/1496538746?i=1496538747";"https://open.spotify.com/track/2S82sSBWe86mi1EwNQl7kQ?si=5efd255fe07f461a"
+"2020";"VAL";"Da vidna";;;;;;;;;;"https://youtu.be/F0wfxz5zq04?si=c4qq3lsBCUf9HeH6";"https://music.apple.com/gb/album/da-vidna/1496538746?i=1496538747";"https://open.spotify.com/track/2S82sSBWe86mi1EwNQl7kQ?si=5efd255fe07f461a"

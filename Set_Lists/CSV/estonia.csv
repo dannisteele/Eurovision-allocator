@@ -1,31 +1,31 @@
 "sourceTable";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"placedDiff";"totalPoints";"pointsJury";"pointsTelevote";"pointsDiff";"youtubeLink";"appleMusicLink";"spotifyLink"
-"1994";"Silvi Vrait";"Nagu merelaine";10;23;23;NULL;NULL;2;2;NULL;NULL;"https://youtu.be/6kcB60LSXj0?si=4wYt6TKSVLmx2PKr";NULL;NULL
-"1996";"Maarja-Liis Ilus and Ivo Linna";"Kaelakee hääl";11;5;5;NULL;NULL;94;94;NULL;NULL;"https://youtu.be/0rRMOaZ_RpA?si=UcZRcCi6LJqxJULw";NULL;NULL
+"1994";"Silvi Vrait";"Nagu merelaine";10;23;23;;;2;2;;;"https://youtu.be/6kcB60LSXj0?si=4wYt6TKSVLmx2PKr";;
+"1996";"Maarja-Liis Ilus and Ivo Linna";"Kaelakee hääl";11;5;5;;;94;94;;;"https://youtu.be/0rRMOaZ_RpA?si=UcZRcCi6LJqxJULw";;
 "1997";"Maarja";"Keelatud maa";13;8;9;4;5;82;58;24;34;"https://youtu.be/3Ry_q3ZrlHk?si=HfRJqlihBLVehWMv";"https://music.apple.com/gb/album/keelatud-maa/736088135?i=736088407";"https://open.spotify.com/track/5y4iUZqghKCbLCLwPNNVIm?si=6598bdbe7f1443f4"
-"1998";"Koit Toome";"Mere lapsed";23;12;11;11;0;36;4;32;28;"https://youtu.be/OwgyoRn9jQc?si=tg_TybBYb6PGgULc";NULL;NULL
-"1999";"Evelin Samuel and Camille";"Diamond of Night";23;6;7;7;0;90;12;78;66;"https://youtu.be/GY4Vh-ROPu8?si=1lzenroAUwhdiy3p";NULL;NULL
-"2000";"Ines";"Once in a Lifetime";4;4;3;6;3;98;25;73;48;"https://youtu.be/6JDTFuorUbA?si=wGMuCkQOJer7UaqU";NULL;"https://open.spotify.com/track/19Y42jcrqN5vAVNUo89umu?si=4387610edcce4fcd"
-"2001";"Tanel Padar, Dave Benton and 2XL";"Everybody";20;1;1;1;0;198;35;163;128;"https://youtu.be/IEQa8Q9x5Ag?si=ejAef6bONbstogbx";NULL;NULL
-"2002";"Sahlene";"Runaway";8;3;4;5;1;111;44;67;23;NULL;NULL;NULL
-"2003";"Ruffus";"Eighties Coming Back";23;19;7;22;15;14;10;4;6;NULL;NULL;NULL
-"2004";"Neiokõsõ";"Tii";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2005";"Suntribe";"Let's Get Loud";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2006";"Sandra";"Through My Window";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2007";"Gerli Padar";"Partners in Crime";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2008";"Kreisiraadio";"Leto svet";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2009";"Urban Symphony";"Rändajad";15;6;5;6;1;253;124;129;5;NULL;NULL;NULL
-"2010";"Malcolm Lincoln";"Siren";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2011";"Getter Jaani";"Rockefeller Street";8;23;17;22;5;106;74;32;42;NULL;NULL;NULL
-"2012";"Ott Lepland";"Kuula";11;6;5;11;6;230;152;78;74;NULL;NULL;NULL
-"2013";"Birgit";"Et uus saaks alguse";7;19;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2014";"Tanja";"Amazing";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2015";"Elina Born and Stig Rästa";"Goodbye to Yesterday";4;8;11;5;6;200;56;144;88;NULL;NULL;NULL
-"2016";"Jüri Pootsmann";"Play";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2017";"Koit Toome and Laura";"Verona";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2018";"Elina Nechayeva";"La forza";6;8;6;9;3;245;143;102;41;NULL;NULL;NULL
+"1998";"Koit Toome";"Mere lapsed";23;12;11;11;0;36;4;32;28;"https://youtu.be/OwgyoRn9jQc?si=tg_TybBYb6PGgULc";;
+"1999";"Evelin Samuel and Camille";"Diamond of Night";23;6;7;7;0;90;12;78;66;"https://youtu.be/GY4Vh-ROPu8?si=1lzenroAUwhdiy3p";;
+"2000";"Ines";"Once in a Lifetime";4;4;3;6;3;98;25;73;48;"https://youtu.be/6JDTFuorUbA?si=wGMuCkQOJer7UaqU";;"https://open.spotify.com/track/19Y42jcrqN5vAVNUo89umu?si=4387610edcce4fcd"
+"2001";"Tanel Padar, Dave Benton and 2XL";"Everybody";20;1;1;1;0;198;35;163;128;"https://youtu.be/IEQa8Q9x5Ag?si=ejAef6bONbstogbx";;
+"2002";"Sahlene";"Runaway";8;3;4;5;1;111;44;67;23;;;
+"2003";"Ruffus";"Eighties Coming Back";23;19;7;22;15;14;10;4;6;;;
+"2004";"Neiokõsõ";"Tii";;;;;;;;;;;;
+"2005";"Suntribe";"Let's Get Loud";;;;;;;;;;;;
+"2006";"Sandra";"Through My Window";;;;;;;;;;;;
+"2007";"Gerli Padar";"Partners in Crime";;;;;;;;;;;;
+"2008";"Kreisiraadio";"Leto svet";;;;;;;;;;;;
+"2009";"Urban Symphony";"Rändajad";15;6;5;6;1;253;124;129;5;;;
+"2010";"Malcolm Lincoln";"Siren";;;;;;;;;;;;
+"2011";"Getter Jaani";"Rockefeller Street";8;23;17;22;5;106;74;32;42;;;
+"2012";"Ott Lepland";"Kuula";11;6;5;11;6;230;152;78;74;;;
+"2013";"Birgit";"Et uus saaks alguse";7;19;;;;;;;;;;
+"2014";"Tanja";"Amazing";;;;;;;;;;;;
+"2015";"Elina Born and Stig Rästa";"Goodbye to Yesterday";4;8;11;5;6;200;56;144;88;;;
+"2016";"Jüri Pootsmann";"Play";;;;;;;;;;;;
+"2017";"Koit Toome and Laura";"Verona";;;;;;;;;;;;
+"2018";"Elina Nechayeva";"La forza";6;8;6;9;3;245;143;102;41;;;
 "2019";"Victor Crone";"Storm";18;19;19;16;3;76;28;48;20;"https://youtu.be/PppvSl3_W4E?si=9h25x0hwAz1Ca4FO";"https://music.apple.com/gb/album/storm/1446425844?i=1446426003";"https://open.spotify.com/track/5oFGpjPtk5R32LITfkkMLx?si=231e67f31ab34aa9"
-"2020";"Uku Suviste";"What Love Is";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/3EIQ6U039ms?si=T-FYAD2mW1ECPh9W";"https://music.apple.com/gb/album/what-love-is/1490662696?i=1490662698";"https://open.spotify.com/track/4UXWZHAS7DhRqLVxraGH1w?si=af314a41cf6a4a48"
-"2021";"Uku Suviste";"The Lucky One";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/mhMZQyv_Fhw?si=jsEpXHziD2cBguib";"https://music.apple.com/gb/album/the-lucky-one/1542786948?i=1542786949";"https://open.spotify.com/track/3InK5DUf12FyQVqgQ2sIfw?si=e1a2d3a141ee44e4"
+"2020";"Uku Suviste";"What Love Is";;;;;;;;;;"https://youtu.be/3EIQ6U039ms?si=T-FYAD2mW1ECPh9W";"https://music.apple.com/gb/album/what-love-is/1490662696?i=1490662698";"https://open.spotify.com/track/4UXWZHAS7DhRqLVxraGH1w?si=af314a41cf6a4a48"
+"2021";"Uku Suviste";"The Lucky One";;;;;;;;;;"https://youtu.be/mhMZQyv_Fhw?si=jsEpXHziD2cBguib";"https://music.apple.com/gb/album/the-lucky-one/1542786948?i=1542786949";"https://open.spotify.com/track/3InK5DUf12FyQVqgQ2sIfw?si=e1a2d3a141ee44e4"
 "2022";"Stefan";"Hope";25;13;14;10;4;141;43;98;55;"https://youtu.be/GdTpQmMem8U?si=UviCwToO4LKxdn16";"https://music.apple.com/gb/album/hope/1597681247?i=1597681248";"https://open.spotify.com/track/6sSq38pmQxG0YuvbipDoEi?si=37d4dc48241b44d4"
 "2023";"Alika";"Bridges";12;8;5;19;14;168;146;22;124;"https://youtu.be/HsbC-OYMA3s?si=g3OCRgh7JSIYlO18";"https://music.apple.com/gb/album/bridges/1655405318?i=1655405320";"https://open.spotify.com/track/3pvzk44kwy8u46wtglCKzd?si=65a541406ba3475b"
-"2024";"5miinust and Puuluup";"(Nendest) narkootikumidest ei tea me (küll) midagi";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/zY6RbPaTNUc?si=w7DYZ7_xKcUqEsvT";"https://music.apple.com/gb/album/nendest-narkootikumidest-ei-tea-me-k%C3%BCll-midagi/1718200614?i=1718200618";"https://open.spotify.com/track/3wdfbb4qfNmPHJRn8ILMHk?si=2509cba69a624bf0"
+"2024";"5miinust and Puuluup";"(Nendest) narkootikumidest ei tea me (küll) midagi";;;;;;;;;;"https://youtu.be/zY6RbPaTNUc?si=w7DYZ7_xKcUqEsvT";"https://music.apple.com/gb/album/nendest-narkootikumidest-ei-tea-me-k%C3%BCll-midagi/1718200614?i=1718200618";"https://open.spotify.com/track/3wdfbb4qfNmPHJRn8ILMHk?si=2509cba69a624bf0"

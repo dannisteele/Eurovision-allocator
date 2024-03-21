@@ -1,67 +1,67 @@
 "sourceTable";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"placedDiff";"totalPoints";"pointsJury";"pointsTelevote";"pointsDiff";"youtubeLink";"appleMusicLink";"spotifyLink"
-"1956";"Corry Brokken";"Voorgoed voorbij";8;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://www.youtube.com/watch?v=jD7bOZBj3Wo";"https://music.apple.com/gb/album/voorgoed-voorbij/1178864133?i=1178864692";"https://open.spotify.com/track/6wNxi3cb38lwlkgrOAJ9cc?si=8b20aa1bec0f4603"
-"1956";"Jetty Paerl";"De vogels van Holland";1;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://www.youtube.com/watch?v=u45UQVGRVPA";NULL;"https://open.spotify.com/track/0TwQ2TgfJxZbyeQvCzeMKY?si=ba3b5c7863c24b82"
-"1957";"Corry Brokken";"Net als toen";6;1;1;NULL;NULL;31;31;NULL;NULL;"https://www.youtube.com/watch?v=gTQtjqotFAg";"https://music.apple.com/gb/album/net-als-toen/1124428655?i=1124428783";"https://open.spotify.com/track/1I9fugKDEYETuxJME3aesv?si=f0ab64909db641bd"
-"1958";"Corry Brokken";"Heel de wereld";2;8;8;NULL;NULL;1;1;NULL;NULL;"https://youtu.be/yoiVXVA8fs8?si=qd-x0fY9d6EAM3kC";"https://music.apple.com/gb/album/heel-de-wereld/1553208117?i=1553208734";"https://open.spotify.com/track/6I0G0fiXZ81FgHTiXxPe2V?si=ea285ab1482b4fd8"
-"1959";"Teddy Scholten";"Een beetje";5;1;1;NULL;NULL;21;21;NULL;NULL;"https://youtu.be/nGAupVJSO0k?si=Qo4xwDZ0jltb3dBN";"https://music.apple.com/gb/album/n-beetje-remastered/541699279?i=541699670";"https://open.spotify.com/track/6fQfOgajFEdUTOvAQNoinK?si=10629f9d2e544976"
-"1960";"Rudi Carrell";"Wat een geluk";10;9;9;NULL;NULL;2;2;NULL;NULL;"https://youtu.be/eLx8spP9XwE?si=hvywbecCKEP85TBo";"https://music.apple.com/gb/album/wat-een-geluk/631134643?i=631136187";"https://open.spotify.com/track/5sGXjyFzCaXVr3hveCpq2O?si=bdb3331dd05043eb"
-"1961";"Greetje Kauffeld";"Wat een dag";6;9;9;NULL;NULL;6;6;NULL;NULL;"https://youtu.be/eBnIF9gQxkg?si=6i1qNJay-vZTZ5qv";NULL;"https://open.spotify.com/track/6U0jLB9NlF9DdvHaV2Pi6O?si=091255f28f3b4ae4"
-"1962";"De Spelbrekers";"Katinka";8;9;9;NULL;NULL;0;0;NULL;NULL;"https://youtu.be/1lkUnankIuQ?si=rzdHdGNv8CKktxUL";"https://music.apple.com/gb/album/katinka/512737890?i=512737907";"https://open.spotify.com/track/13grDYFiVgr7JZYh5H1JvB?si=cc486645a1cc4b35"
-"1963";"Annie Palmen";"Een speeldoos";2;12;12;NULL;NULL;0;0;NULL;NULL;"https://youtu.be/lWINVYSsrTU?si=55CwUCYWUl-DCbEa";NULL;NULL
-"1964";"Anneke Grönloh";"Jij bent mijn leven";2;9;9;NULL;NULL;2;2;NULL;NULL;"https://youtu.be/mT51r1Up21A?si=1S2p1dKo4XDltrrC";"https://music.apple.com/gb/album/jij-bent-mijn-leven/1434780045?i=1434780307";"https://open.spotify.com/track/45gyXIShQP2CAibAvNR35t?si=9cdde95dc6db4aa2"
-"1965";"Conny Vandenbos";"'T is genoeg";1;11;11;NULL;NULL;5;5;NULL;NULL;"https://youtu.be/A3e6RPue-WI?si=9p96LeNxmxljgLn4";"https://music.apple.com/gb/album/t-is-genoeg/1215327801?i=1215327814";NULL
-"1966";"Milly Scott";"Fernando en Philippo";16;11;11;NULL;NULL;2;2;NULL;NULL;"https://youtu.be/mVHqkE5Qx18?si=f_PserwOGSOCK3AN";"https://music.apple.com/gb/album/fernando-en-filippo/1344375140?i=1344375141";"https://open.spotify.com/track/3AmVKvtAS3OImFeqvVGuyB?si=8a9b312720ef4f32"
-"1967";"Thérèse Steinmetz";"Ring-dinge-ding";1;11;11;NULL;NULL;2;2;NULL;NULL;"https://youtu.be/_N2eamx50nU?si=6wtrzD8xpPfBjuXX";"https://music.apple.com/gb/album/ring-dinge-ding/1458618049?i=1458618051";"https://open.spotify.com/track/5jw0KaceCNXI3JAndQIqVh?si=04e0cc46be134aba"
-"1968";"Ronnie Tober";"Morgen";2;11;11;NULL;NULL;1;1;NULL;NULL;"https://youtu.be/dIRKl76BXRU?si=GcXjke_pEM7mI5ZW";"https://music.apple.com/gb/album/morgen/312898844?i=312898926";"https://open.spotify.com/track/6NqsonGA4xWZ1PxiLeEG2S?si=07aa86833bf54344"
-"1969";"Lenny Kuhr";"De troubadour";8;1;1;NULL;NULL;18;18;NULL;NULL;"https://youtu.be/dsP3lhz5J30?si=rmG9rDzT5AAMqmbJ";"https://music.apple.com/gb/album/de-troubadour-feat-piet-souer/1442813402?i=1442813455";"https://open.spotify.com/track/31VRNSB6FA4KP7TOkW3k3A?si=8c967ae39e794e2c"
-"1970";"Patricia and Hearts of Soul";"Waterman";1;5;5;NULL;NULL;7;7;NULL;NULL;"https://youtu.be/Hx54yQGRYS8?si=nIuq-ire-N5sI4yG";"https://music.apple.com/gb/album/waterman/1331500360?i=1331501041";"https://open.spotify.com/track/0wGVOAtui6Fj66JObm8c5m?si=79667b1447c943c9"
-"1971";"Saskia and Serge";"Tijd";14;6;6;NULL;NULL;85;85;NULL;NULL;"https://youtu.be/8gZFDQUtpj4?si=NQHCH5TeUMwhfDkM";NULL;NULL
-"1972";"Sandra and Andres";"Als het om de liefde gaat";18;4;4;NULL;NULL;106;106;NULL;NULL;"https://youtu.be/V5j9ALy5alQ?si=Ti2fntTShBG-xJlL";"https://music.apple.com/gb/album/als-het-om-de-liefde-gaat/1609526160?i=1609526162";"https://open.spotify.com/track/0EUjJWkCWNmdZmGCxzYZOH?si=2a14eb93831d47e2"
-"1973";"Ben Cramer";"De oude muzikant";13;12;12;NULL;NULL;69;69;NULL;NULL;"https://youtu.be/X6JqeLK3DQU?si=6TXYoEFoa0h8HMcB";"https://music.apple.com/gb/album/de-oude-muzikant/631200214?i=631201430";"https://open.spotify.com/track/76zJbjNJPN5Ma6oeApI4HB?si=a95f54ab2b8e4f6b"
-"1974";"Mouth and MacNeal";"I See a Star";12;3;3;NULL;NULL;15;15;NULL;NULL;"https://youtu.be/Hqj_UNeWA9w?si=Xb-VHdPcHZLgaLTb";"https://music.apple.com/gb/album/i-see-a-star/933922875?i=933922896";"https://open.spotify.com/track/3SmDP7wT0J7NTHtzB896PD?si=9be13c194b0f4f9a"
-"1975";"Teach-In";"Ding-a-dong";1;1;1;NULL;NULL;152;152;NULL;NULL;"https://youtu.be/BPxuq4uQ0OU?si=45gCfcyzLTSrQcA5";"https://music.apple.com/gb/album/ding-a-dong/545997746?i=545997858";"https://open.spotify.com/track/4ARCWS3l327M1YulCf74Uu?si=bf8010f541a04c82"
-"1976";"Sandra Reemer";"The Party Is Over Now";8;9;9;NULL;NULL;56;56;NULL;NULL;"https://youtu.be/_v7ncuK3-oI?si=VxUerOKRwH1N7J6m";"https://music.apple.com/gb/album/the-partys-over-remastered/1564090692?i=1564091036";"https://open.spotify.com/track/6rFONJTaRljmp7QNF9pePD?si=f892b02a2419427f"
-"1977";"Heddy Lester";"De mallemolen";3;12;12;NULL;NULL;35;35;NULL;NULL;"https://youtu.be/B27TwLxbWms?si=oxAi8LdsZmf-A0ps";NULL;NULL
-"1978";"Harmony";"'t Is OK";11;12;12;NULL;NULL;37;37;NULL;NULL;"https://youtu.be/pbmjQo8avVU?si=KVpj5lOB2BOVz9qS";"https://music.apple.com/gb/album/t-is-o-k/1072128761?i=1072128784";"https://open.spotify.com/track/2y5sjCY1qMqCRmWkx5EinU?si=e748268a31ba4ee6"
-"1979";"Xandra";"Colorado";14;12;12;NULL;NULL;51;51;NULL;NULL;"https://youtu.be/1TykShpnQFM?si=_ktmzglaa0g6OeRM";"https://music.apple.com/gb/album/colorado-german-version-bonus-track/1575202578?i=1575202983";"https://open.spotify.com/track/4FrrYRVQ6w4059ibhrApaL?si=09a8683174e44183"
-"1980";"Maggie MacNeal";"Amsterdam";15;5;5;NULL;NULL;93;93;NULL;NULL;"https://youtu.be/LqhRioBlRNk?si=XtatOXklRsK6eg-I";"https://music.apple.com/gb/album/amsterdam-eurovision-songcontest-dutch-version/462153574?i=462153593";"https://open.spotify.com/track/43WxDdzUmpiZZV45RLog5g?si=89aaa6500c1f498f"
-"1981";"Linda Williams";"Het is een wonder";11;9;9;NULL;NULL;51;51;NULL;NULL;"https://youtu.be/x7olEEGIWq8?si=6MqXp3TBe3zMsIj2";NULL;NULL
-"1982";"Bill van Dijk";"Jij en ik";16;16;16;NULL;NULL;8;8;NULL;NULL;"https://youtu.be/h2HmcLyluKw?si=GUuE_BIKOr088GW0";NULL;NULL
-"1983";"Bernadette";"Sing Me a Song";11;7;7;NULL;NULL;66;66;NULL;NULL;"https://youtu.be/fL9L_7pxO-I?si=Op_exMY1YYgj6Neg";NULL;NULL
-"1984";"Maribelle";"Ik hou van jou";11;12;12;NULL;NULL;34;34;NULL;NULL;"https://youtu.be/gPEBOXtGt04?si=tl7o7wGW5oUBsw0M";"https://music.apple.com/gb/album/ik-hou-van-jou/301626538?i=301626588";"https://open.spotify.com/track/0dfm6cBzAv8Q7tKswPXUcZ?si=28d4df72f9474320"
-"1986";"Frizzle Sizzle";"Alles heeft ritme";7;13;13;NULL;NULL;40;40;NULL;NULL;"https://youtu.be/TwdO6F6sRJs?si=7-K0Nz21oBnANUpH";"https://music.apple.com/gb/album/alles-heeft-ritme/1462347768?i=1462347770";"https://open.spotify.com/track/7hAURct0R4epbUylPxNB0N?si=6ebb24cc99244c6a"
-"1987";"Marcha";"Rechtop in de wind";12;5;5;NULL;NULL;83;83;NULL;NULL;"https://youtu.be/yXL6yOEzr9Q?si=dPomR_o1e-dycaUO";"https://music.apple.com/gb/album/rechtop-in-de-wind/641485786?i=641486454";"https://open.spotify.com/track/4rFhc427aocb0JIGGHeAO2?si=f639336e7b034620"
-"1988";"Gerard Joling";"Shangri-La";7;9;9;NULL;NULL;70;70;NULL;NULL;"https://youtu.be/_ws4OUmB9wk?si=HTR-c8mm40RoOBwC";"https://music.apple.com/gb/album/shangri-la-eurovision-song-contest-1988-dutch-version/1544755485?i=1544755963";"https://open.spotify.com/track/2AqaAh15cQjBhHcQ5fbzz4?si=56b750bd5a6048c8"
-"1989";"Justine Pelmelay";"Blijf zoals je bent";4;14;14;NULL;NULL;45;45;NULL;NULL;"https://youtu.be/65umTgQPsDw?si=QSxSASAKGuERAztv";"https://music.apple.com/gb/album/blijf-zoals-je-bent/641083046?i=641083280";"https://open.spotify.com/track/1HHgg5Tlf2U9z7vN8Y4OqA?si=6ba10f47e8fe4e12"
-"1990";"Maywood";"Ik wil alles met je delen";5;14;14;NULL;NULL;25;25;NULL;NULL;"https://youtu.be/m9upqK0D7Ms?si=ELxvWBR4cNtyQz4u";"https://music.apple.com/gb/album/ik-wil-alles-met-je-delen/1351772093?i=1351772102";"https://open.spotify.com/track/74P40WDPzmuSsrfP5nX9TU?si=e2d63fe43fea4e84"
-"1992";"Humphrey Campbell";"Wijs me de weg";23;9;9;NULL;NULL;67;67;NULL;NULL;"https://youtu.be/qLco1p2W6WM?si=jrT30yObEMQTgKSX";"https://music.apple.com/gb/album/wijs-me-de-weg/1357617729?i=1357617966";"https://open.spotify.com/track/2hVNKv5797OsBC4PxnwZdz?si=4eeba0e4a1354d78"
-"1993";"Ruth Jacott";"Vrede";20;6;6;NULL;NULL;92;92;NULL;NULL;"https://youtu.be/UaO0kAI6LGY?si=Cy3o5khmMRjcoQj8";"https://music.apple.com/gb/album/vrede-single-mix/723534493?i=723534676";"https://open.spotify.com/track/1ijSg7COGeKN7Cu9ejnPet?si=2ef1ad32059d46b8"
-"1994";"Willeke Alberti";"Waar is de zon";13;22;22;NULL;NULL;4;4;NULL;NULL;"https://youtu.be/QzufE1j3FgE?si=we-oVNBxTKBlmCvU";"https://music.apple.com/gb/album/waar-is-de-zon-live/1442469257?i=1442470084";"https://open.spotify.com/track/72WaXgWcQwiFNE6YWhsH3B?si=c7bfbeb57e314e57"
-"1996";"Maxine and Franklin Brown";"De eerste keer";15;7;7;NULL;NULL;78;78;NULL;NULL;"https://youtu.be/n9ZwWM1Bfas?si=NC1W9h-lnrl_k3kg";"https://music.apple.com/gb/album/de-eerste-keer/1447390723?i=1447390724";"https://open.spotify.com/track/16tt5gsCest1TGUDsbjxed?si=53366952836d4a36"
-"1997";"Mrs. Einstein";"Niemand heeft nog tijd";8;20;20;13;7;5;5;0;5;"https://youtu.be/r91fkxOkegY?si=zsHKg6jnYnoxb-zo";NULL;NULL
+"1956";"Corry Brokken";"Voorgoed voorbij";8;;;;;;;;;"https://www.youtube.com/watch?v=jD7bOZBj3Wo";"https://music.apple.com/gb/album/voorgoed-voorbij/1178864133?i=1178864692";"https://open.spotify.com/track/6wNxi3cb38lwlkgrOAJ9cc?si=8b20aa1bec0f4603"
+"1956";"Jetty Paerl";"De vogels van Holland";1;;;;;;;;;"https://www.youtube.com/watch?v=u45UQVGRVPA";;"https://open.spotify.com/track/0TwQ2TgfJxZbyeQvCzeMKY?si=ba3b5c7863c24b82"
+"1957";"Corry Brokken";"Net als toen";6;1;1;;;31;31;;;"https://www.youtube.com/watch?v=gTQtjqotFAg";"https://music.apple.com/gb/album/net-als-toen/1124428655?i=1124428783";"https://open.spotify.com/track/1I9fugKDEYETuxJME3aesv?si=f0ab64909db641bd"
+"1958";"Corry Brokken";"Heel de wereld";2;8;8;;;1;1;;;"https://youtu.be/yoiVXVA8fs8?si=qd-x0fY9d6EAM3kC";"https://music.apple.com/gb/album/heel-de-wereld/1553208117?i=1553208734";"https://open.spotify.com/track/6I0G0fiXZ81FgHTiXxPe2V?si=ea285ab1482b4fd8"
+"1959";"Teddy Scholten";"Een beetje";5;1;1;;;21;21;;;"https://youtu.be/nGAupVJSO0k?si=Qo4xwDZ0jltb3dBN";"https://music.apple.com/gb/album/n-beetje-remastered/541699279?i=541699670";"https://open.spotify.com/track/6fQfOgajFEdUTOvAQNoinK?si=10629f9d2e544976"
+"1960";"Rudi Carrell";"Wat een geluk";10;9;9;;;2;2;;;"https://youtu.be/eLx8spP9XwE?si=hvywbecCKEP85TBo";"https://music.apple.com/gb/album/wat-een-geluk/631134643?i=631136187";"https://open.spotify.com/track/5sGXjyFzCaXVr3hveCpq2O?si=bdb3331dd05043eb"
+"1961";"Greetje Kauffeld";"Wat een dag";6;9;9;;;6;6;;;"https://youtu.be/eBnIF9gQxkg?si=6i1qNJay-vZTZ5qv";;"https://open.spotify.com/track/6U0jLB9NlF9DdvHaV2Pi6O?si=091255f28f3b4ae4"
+"1962";"De Spelbrekers";"Katinka";8;9;9;;;0;0;;;"https://youtu.be/1lkUnankIuQ?si=rzdHdGNv8CKktxUL";"https://music.apple.com/gb/album/katinka/512737890?i=512737907";"https://open.spotify.com/track/13grDYFiVgr7JZYh5H1JvB?si=cc486645a1cc4b35"
+"1963";"Annie Palmen";"Een speeldoos";2;12;12;;;0;0;;;"https://youtu.be/lWINVYSsrTU?si=55CwUCYWUl-DCbEa";;
+"1964";"Anneke Grönloh";"Jij bent mijn leven";2;9;9;;;2;2;;;"https://youtu.be/mT51r1Up21A?si=1S2p1dKo4XDltrrC";"https://music.apple.com/gb/album/jij-bent-mijn-leven/1434780045?i=1434780307";"https://open.spotify.com/track/45gyXIShQP2CAibAvNR35t?si=9cdde95dc6db4aa2"
+"1965";"Conny Vandenbos";"'T is genoeg";1;11;11;;;5;5;;;"https://youtu.be/A3e6RPue-WI?si=9p96LeNxmxljgLn4";"https://music.apple.com/gb/album/t-is-genoeg/1215327801?i=1215327814";
+"1966";"Milly Scott";"Fernando en Philippo";16;11;11;;;2;2;;;"https://youtu.be/mVHqkE5Qx18?si=f_PserwOGSOCK3AN";"https://music.apple.com/gb/album/fernando-en-filippo/1344375140?i=1344375141";"https://open.spotify.com/track/3AmVKvtAS3OImFeqvVGuyB?si=8a9b312720ef4f32"
+"1967";"Thérèse Steinmetz";"Ring-dinge-ding";1;11;11;;;2;2;;;"https://youtu.be/_N2eamx50nU?si=6wtrzD8xpPfBjuXX";"https://music.apple.com/gb/album/ring-dinge-ding/1458618049?i=1458618051";"https://open.spotify.com/track/5jw0KaceCNXI3JAndQIqVh?si=04e0cc46be134aba"
+"1968";"Ronnie Tober";"Morgen";2;11;11;;;1;1;;;"https://youtu.be/dIRKl76BXRU?si=GcXjke_pEM7mI5ZW";"https://music.apple.com/gb/album/morgen/312898844?i=312898926";"https://open.spotify.com/track/6NqsonGA4xWZ1PxiLeEG2S?si=07aa86833bf54344"
+"1969";"Lenny Kuhr";"De troubadour";8;1;1;;;18;18;;;"https://youtu.be/dsP3lhz5J30?si=rmG9rDzT5AAMqmbJ";"https://music.apple.com/gb/album/de-troubadour-feat-piet-souer/1442813402?i=1442813455";"https://open.spotify.com/track/31VRNSB6FA4KP7TOkW3k3A?si=8c967ae39e794e2c"
+"1970";"Patricia and Hearts of Soul";"Waterman";1;5;5;;;7;7;;;"https://youtu.be/Hx54yQGRYS8?si=nIuq-ire-N5sI4yG";"https://music.apple.com/gb/album/waterman/1331500360?i=1331501041";"https://open.spotify.com/track/0wGVOAtui6Fj66JObm8c5m?si=79667b1447c943c9"
+"1971";"Saskia and Serge";"Tijd";14;6;6;;;85;85;;;"https://youtu.be/8gZFDQUtpj4?si=NQHCH5TeUMwhfDkM";;
+"1972";"Sandra and Andres";"Als het om de liefde gaat";18;4;4;;;106;106;;;"https://youtu.be/V5j9ALy5alQ?si=Ti2fntTShBG-xJlL";"https://music.apple.com/gb/album/als-het-om-de-liefde-gaat/1609526160?i=1609526162";"https://open.spotify.com/track/0EUjJWkCWNmdZmGCxzYZOH?si=2a14eb93831d47e2"
+"1973";"Ben Cramer";"De oude muzikant";13;12;12;;;69;69;;;"https://youtu.be/X6JqeLK3DQU?si=6TXYoEFoa0h8HMcB";"https://music.apple.com/gb/album/de-oude-muzikant/631200214?i=631201430";"https://open.spotify.com/track/76zJbjNJPN5Ma6oeApI4HB?si=a95f54ab2b8e4f6b"
+"1974";"Mouth and MacNeal";"I See a Star";12;3;3;;;15;15;;;"https://youtu.be/Hqj_UNeWA9w?si=Xb-VHdPcHZLgaLTb";"https://music.apple.com/gb/album/i-see-a-star/933922875?i=933922896";"https://open.spotify.com/track/3SmDP7wT0J7NTHtzB896PD?si=9be13c194b0f4f9a"
+"1975";"Teach-In";"Ding-a-dong";1;1;1;;;152;152;;;"https://youtu.be/BPxuq4uQ0OU?si=45gCfcyzLTSrQcA5";"https://music.apple.com/gb/album/ding-a-dong/545997746?i=545997858";"https://open.spotify.com/track/4ARCWS3l327M1YulCf74Uu?si=bf8010f541a04c82"
+"1976";"Sandra Reemer";"The Party Is Over Now";8;9;9;;;56;56;;;"https://youtu.be/_v7ncuK3-oI?si=VxUerOKRwH1N7J6m";"https://music.apple.com/gb/album/the-partys-over-remastered/1564090692?i=1564091036";"https://open.spotify.com/track/6rFONJTaRljmp7QNF9pePD?si=f892b02a2419427f"
+"1977";"Heddy Lester";"De mallemolen";3;12;12;;;35;35;;;"https://youtu.be/B27TwLxbWms?si=oxAi8LdsZmf-A0ps";;
+"1978";"Harmony";"'t Is OK";11;12;12;;;37;37;;;"https://youtu.be/pbmjQo8avVU?si=KVpj5lOB2BOVz9qS";"https://music.apple.com/gb/album/t-is-o-k/1072128761?i=1072128784";"https://open.spotify.com/track/2y5sjCY1qMqCRmWkx5EinU?si=e748268a31ba4ee6"
+"1979";"Xandra";"Colorado";14;12;12;;;51;51;;;"https://youtu.be/1TykShpnQFM?si=_ktmzglaa0g6OeRM";"https://music.apple.com/gb/album/colorado-german-version-bonus-track/1575202578?i=1575202983";"https://open.spotify.com/track/4FrrYRVQ6w4059ibhrApaL?si=09a8683174e44183"
+"1980";"Maggie MacNeal";"Amsterdam";15;5;5;;;93;93;;;"https://youtu.be/LqhRioBlRNk?si=XtatOXklRsK6eg-I";"https://music.apple.com/gb/album/amsterdam-eurovision-songcontest-dutch-version/462153574?i=462153593";"https://open.spotify.com/track/43WxDdzUmpiZZV45RLog5g?si=89aaa6500c1f498f"
+"1981";"Linda Williams";"Het is een wonder";11;9;9;;;51;51;;;"https://youtu.be/x7olEEGIWq8?si=6MqXp3TBe3zMsIj2";;
+"1982";"Bill van Dijk";"Jij en ik";16;16;16;;;8;8;;;"https://youtu.be/h2HmcLyluKw?si=GUuE_BIKOr088GW0";;
+"1983";"Bernadette";"Sing Me a Song";11;7;7;;;66;66;;;"https://youtu.be/fL9L_7pxO-I?si=Op_exMY1YYgj6Neg";;
+"1984";"Maribelle";"Ik hou van jou";11;12;12;;;34;34;;;"https://youtu.be/gPEBOXtGt04?si=tl7o7wGW5oUBsw0M";"https://music.apple.com/gb/album/ik-hou-van-jou/301626538?i=301626588";"https://open.spotify.com/track/0dfm6cBzAv8Q7tKswPXUcZ?si=28d4df72f9474320"
+"1986";"Frizzle Sizzle";"Alles heeft ritme";7;13;13;;;40;40;;;"https://youtu.be/TwdO6F6sRJs?si=7-K0Nz21oBnANUpH";"https://music.apple.com/gb/album/alles-heeft-ritme/1462347768?i=1462347770";"https://open.spotify.com/track/7hAURct0R4epbUylPxNB0N?si=6ebb24cc99244c6a"
+"1987";"Marcha";"Rechtop in de wind";12;5;5;;;83;83;;;"https://youtu.be/yXL6yOEzr9Q?si=dPomR_o1e-dycaUO";"https://music.apple.com/gb/album/rechtop-in-de-wind/641485786?i=641486454";"https://open.spotify.com/track/4rFhc427aocb0JIGGHeAO2?si=f639336e7b034620"
+"1988";"Gerard Joling";"Shangri-La";7;9;9;;;70;70;;;"https://youtu.be/_ws4OUmB9wk?si=HTR-c8mm40RoOBwC";"https://music.apple.com/gb/album/shangri-la-eurovision-song-contest-1988-dutch-version/1544755485?i=1544755963";"https://open.spotify.com/track/2AqaAh15cQjBhHcQ5fbzz4?si=56b750bd5a6048c8"
+"1989";"Justine Pelmelay";"Blijf zoals je bent";4;14;14;;;45;45;;;"https://youtu.be/65umTgQPsDw?si=QSxSASAKGuERAztv";"https://music.apple.com/gb/album/blijf-zoals-je-bent/641083046?i=641083280";"https://open.spotify.com/track/1HHgg5Tlf2U9z7vN8Y4OqA?si=6ba10f47e8fe4e12"
+"1990";"Maywood";"Ik wil alles met je delen";5;14;14;;;25;25;;;"https://youtu.be/m9upqK0D7Ms?si=ELxvWBR4cNtyQz4u";"https://music.apple.com/gb/album/ik-wil-alles-met-je-delen/1351772093?i=1351772102";"https://open.spotify.com/track/74P40WDPzmuSsrfP5nX9TU?si=e2d63fe43fea4e84"
+"1992";"Humphrey Campbell";"Wijs me de weg";23;9;9;;;67;67;;;"https://youtu.be/qLco1p2W6WM?si=jrT30yObEMQTgKSX";"https://music.apple.com/gb/album/wijs-me-de-weg/1357617729?i=1357617966";"https://open.spotify.com/track/2hVNKv5797OsBC4PxnwZdz?si=4eeba0e4a1354d78"
+"1993";"Ruth Jacott";"Vrede";20;6;6;;;92;92;;;"https://youtu.be/UaO0kAI6LGY?si=Cy3o5khmMRjcoQj8";"https://music.apple.com/gb/album/vrede-single-mix/723534493?i=723534676";"https://open.spotify.com/track/1ijSg7COGeKN7Cu9ejnPet?si=2ef1ad32059d46b8"
+"1994";"Willeke Alberti";"Waar is de zon";13;22;22;;;4;4;;;"https://youtu.be/QzufE1j3FgE?si=we-oVNBxTKBlmCvU";"https://music.apple.com/gb/album/waar-is-de-zon-live/1442469257?i=1442470084";"https://open.spotify.com/track/72WaXgWcQwiFNE6YWhsH3B?si=c7bfbeb57e314e57"
+"1996";"Maxine and Franklin Brown";"De eerste keer";15;7;7;;;78;78;;;"https://youtu.be/n9ZwWM1Bfas?si=NC1W9h-lnrl_k3kg";"https://music.apple.com/gb/album/de-eerste-keer/1447390723?i=1447390724";"https://open.spotify.com/track/16tt5gsCest1TGUDsbjxed?si=53366952836d4a36"
+"1997";"Mrs. Einstein";"Niemand heeft nog tijd";8;20;20;13;7;5;5;0;5;"https://youtu.be/r91fkxOkegY?si=zsHKg6jnYnoxb-zo";;
 "1998";"Edsilia";"Hemel en aarde";25;18;12;16;4;16;3;13;10;"https://youtu.be/O_TDK5Q4BjA?si=o3gy7Rg00xWtgcSq";"https://music.apple.com/gb/album/hemel-aarde/476565520?i=476565685";"https://open.spotify.com/track/5LVFTvXCObhitD5wDN799x?si=3822c8499a324019"
 "1999";"Marlayne";"One Good Reason";11;8;5;10;5;71;14;57;43;"https://youtu.be/0MjAGv4jws8?si=clCAVgPnQEyER5YE";"https://music.apple.com/gb/album/one-good-reason/359101302?i=359101307";"https://open.spotify.com/track/0nSf8MYs2vZvA4uhdO8AfA?si=58fd21f83fc34bfe"
 "2000";"Linda";"No Goodbyes";19;13;16;12;4;40;3;37;34;"https://youtu.be/uuDf5GBnGpA?si=kBZYIOZRx_RWMSYC";"https://music.apple.com/gb/album/no-goodbyes-radio-edit/1027974017?i=1027974025";"https://open.spotify.com/track/4OxAOffBcJqxGFn9R5KxYV?si=c3bab99eb3764c0f"
-"2001";"Michelle";"Out on My Own";1;18;14;16;2;16;1;15;14;"https://youtu.be/5h2Kbu-aPu0?si=zEb_-ZnZOBJ-QQgv";NULL;NULL
-"2003";"Esther Hart";"One More Night";14;11;3;13;10;45;17;28;11;NULL;NULL;NULL
-"2004";"Re-union";"Without You";7;18;NULL;18;NULL;11;NULL;11;NULL;NULL;NULL;NULL
-"2005";"Glennis Grace";"My Impossible Dream";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2006";"Treble";"Amambanda";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2007";"Edsilia Rombley";"On Top of the World";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2008";"Hind";"Your Heart Belongs to Me";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2009";"The Toppers";"Shine";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2010";"Sieneke";"Ik ben verliefd (Sha-la-lie)";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2011";"3JS";"Never Alone";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2012";"Joan Franka";"You and Me";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2013";"Anouk";"Birds";13;9;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2014";"The Common Linnets";"Calm After the Storm";24;2;3;2;1;422;200;222;22;NULL;NULL;NULL
-"2015";"Trijntje Oosterhuis";"Walk Along";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2016";"Douwe Bob";"Slow Down";3;11;10;17;7;153;114;39;75;NULL;NULL;NULL
-"2017";"OG3NE";"Lights and Shadows";6;11;5;18;13;150;135;15;120;NULL;NULL;NULL
-"2018";"Waylon";"Outlaw in 'Em";23;18;12;19;7;121;89;32;57;NULL;NULL;NULL
+"2001";"Michelle";"Out on My Own";1;18;14;16;2;16;1;15;14;"https://youtu.be/5h2Kbu-aPu0?si=zEb_-ZnZOBJ-QQgv";;
+"2003";"Esther Hart";"One More Night";14;11;3;13;10;45;17;28;11;;;
+"2004";"Re-union";"Without You";7;18;;18;;11;;11;;;;
+"2005";"Glennis Grace";"My Impossible Dream";;;;;;;;;;;;
+"2006";"Treble";"Amambanda";;;;;;;;;;;;
+"2007";"Edsilia Rombley";"On Top of the World";;;;;;;;;;;;
+"2008";"Hind";"Your Heart Belongs to Me";;;;;;;;;;;;
+"2009";"The Toppers";"Shine";;;;;;;;;;;;
+"2010";"Sieneke";"Ik ben verliefd (Sha-la-lie)";;;;;;;;;;;;
+"2011";"3JS";"Never Alone";;;;;;;;;;;;
+"2012";"Joan Franka";"You and Me";;;;;;;;;;;;
+"2013";"Anouk";"Birds";13;9;;;;;;;;;;
+"2014";"The Common Linnets";"Calm After the Storm";24;2;3;2;1;422;200;222;22;;;
+"2015";"Trijntje Oosterhuis";"Walk Along";;;;;;;;;;;;
+"2016";"Douwe Bob";"Slow Down";3;11;10;17;7;153;114;39;75;;;
+"2017";"OG3NE";"Lights and Shadows";6;11;5;18;13;150;135;15;120;;;
+"2018";"Waylon";"Outlaw in 'Em";23;18;12;19;7;121;89;32;57;;;
 "2019";"Duncan Laurence";"Arcade";12;1;3;2;1;498;237;261;24;"https://youtu.be/R3D-r4ogr7s?si=9K7FOCfmlDUCd_Fz";"https://music.apple.com/gb/album/arcade/1455089965?i=1455090089";"https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD?si=eaf9aac8be7f47c8"
-"2020";"Jeangu Macrooy";"Grow";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/sMcxWB90TTY?si=Jg-0d8GVu25abGPe";"https://music.apple.com/gb/album/grow/1499333178?i=1499333187";"https://open.spotify.com/track/2VkQOOtMhEkd2KF2AAGVKD?si=1e5c3c8b18ed4753"
+"2020";"Jeangu Macrooy";"Grow";;;;;;;;;;"https://youtu.be/sMcxWB90TTY?si=Jg-0d8GVu25abGPe";"https://music.apple.com/gb/album/grow/1499333178?i=1499333187";"https://open.spotify.com/track/2VkQOOtMhEkd2KF2AAGVKD?si=1e5c3c8b18ed4753"
 "2021";"Jeangu Macrooy";"Birth of a New Age";23;22;23;22;1;11;11;0;11;"https://youtu.be/o3Da5cr2fTs?si=JCMMrcQZAyIplT1e";"https://music.apple.com/gb/album/birth-of-a-new-age/1554475894?i=1554476318";"https://open.spotify.com/track/5GVMXVYBFyUeq1jz8IsGRq?si=94011fcab4b04b0d"
 "2022";"S10";"De diepte";11;11;7;14;7;171;129;42;87;"https://youtu.be/sgOnu7ux2-k?si=-U6bHNGvG3r7O8o7";"https://music.apple.com/gb/album/de-diepte/1612026238?i=1612026523";"https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z?si=46085d5d806c4988"
-"2023";"Mia Nicolai and Dion Cooper";"Burning Daylight";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/3XAsam043OY?si=x2NAer3bB8NVccPq";"https://music.apple.com/gb/album/burning-daylight/1674753437?i=1674753496";"https://open.spotify.com/track/5pjp1jN7hitQTuSlT2jOep?si=b031401933b24453"
-"2024";"Joost Klein";"Europapa";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/gT2wY0DjYGo?si=7hXEUaUzvsuYxDr3";"https://music.apple.com/gb/album/europapa/1732041797?i=1732041802";"https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR?si=1129718db4de4665"
+"2023";"Mia Nicolai and Dion Cooper";"Burning Daylight";;;;;;;;;;"https://youtu.be/3XAsam043OY?si=x2NAer3bB8NVccPq";"https://music.apple.com/gb/album/burning-daylight/1674753437?i=1674753496";"https://open.spotify.com/track/5pjp1jN7hitQTuSlT2jOep?si=b031401933b24453"
+"2024";"Joost Klein";"Europapa";;;;;;;;;;"https://youtu.be/gT2wY0DjYGo?si=7hXEUaUzvsuYxDr3";"https://music.apple.com/gb/album/europapa/1732041797?i=1732041802";"https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR?si=1129718db4de4665"

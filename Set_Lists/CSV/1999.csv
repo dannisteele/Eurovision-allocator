@@ -1,24 +1,24 @@
 "id";"country";"artist";"song";"countryId";"runningOrder";"placed";"placedJury";"placedTelevote";"placedDiff";"totalPoints";"pointsJury";"pointsTelevote";"pointsDiff";"youtubeLink";"appleMusicLink";"spotifyLink"
-1;"Austria";"Bobbie Singer";"Reflection";8;18;9;13;8;5;65;0;65;65;"https://youtu.be/w7-2edBlVoE?si=fqs-BUd7qvew4Dh7";NULL;NULL
+1;"Austria";"Bobbie Singer";"Reflection";8;18;9;13;8;5;65;0;65;65;"https://youtu.be/w7-2edBlVoE?si=fqs-BUd7qvew4Dh7";;
 2;"Belgium";"Vanessa Chinitor";"Like the Wind";1;2;11;8;12;4;38;10;28;18;"https://youtu.be/VlQhQN5joNA?si=jXzb5WezCCHelXZ6";"https://music.apple.com/gb/album/like-the-wind/1574957590?i=1574957598";"https://open.spotify.com/track/5JyGXQzARMUB9TMR4ogvyg?si=d92f78999dfb4b82"
 3;"Bosnia and Herzegovina";"Dino and Béatrice";"Putnici";26;22;7;9;6;3;86;7;79;72;"https://youtu.be/RRxgcossuOs?si=FNhJxu7f2aRDoRS-";"https://music.apple.com/gb/album/putnici-with-beatrice-poulot/486797541?i=486797632";"https://open.spotify.com/track/299hwAdhT3YRJ3DvGx6FTB?si=08220e1b58134d12"
 4;"Croatia";"Doris";"Marija Magdalena";27;4;4;1;5;4;118;28;90;62;"https://youtu.be/pH0SpZe9pos?si=fskE2m9Z8QZ0lPq0";"https://music.apple.com/gb/album/marija-magdalena/381924210?i=381924817";"https://open.spotify.com/track/7Gj6Wi9ZFoIMdf9i1f9Y8P?si=b78da36e4f244fc2"
-5;"Cyprus";"Marlain";"Tha'ne erotas";24;14;20;13;21;8;2;0;2;2;"https://youtu.be/ABU7gCbilS8?si=RXiEaUT-nkdwk6Pz";NULL;NULL
-6;"Denmark";"Trine Jepsen and Michael Teschl";"This Time I Mean It";9;9;8;9;9;0;71;7;64;57;"https://youtu.be/y3ZONZeWlgU?si=k4xerwAwYoRX9sb4";NULL;NULL
-7;"Estonia";"Evelin Samuel and Camille";"Diamond of Night";29;23;6;7;7;0;90;12;78;66;"https://youtu.be/GY4Vh-ROPu8?si=1lzenroAUwhdiy3p";NULL;NULL
+5;"Cyprus";"Marlain";"Tha'ne erotas";24;14;20;13;21;8;2;0;2;2;"https://youtu.be/ABU7gCbilS8?si=RXiEaUT-nkdwk6Pz";;
+6;"Denmark";"Trine Jepsen and Michael Teschl";"This Time I Mean It";9;9;8;9;9;0;71;7;64;57;"https://youtu.be/y3ZONZeWlgU?si=k4xerwAwYoRX9sb4";;
+7;"Estonia";"Evelin Samuel and Camille";"Diamond of Night";29;23;6;7;7;0;90;12;78;66;"https://youtu.be/GY4Vh-ROPu8?si=1lzenroAUwhdiy3p";;
 8;"France";"Nayah";"Je veux donner ma voix";2;10;17;10;18;8;14;6;8;2;"https://youtu.be/NFC_iDXYIdU?si=SWnsZLtk7mMBb233";"https://music.apple.com/gb/album/je-veux-donner-ma-voix-eurovision-1999-france/536801023?i=536801025";"https://open.spotify.com/track/6Pj2g4QOtfm7ET6NN4tmLg?si=2e2915c822be42ce"
 9;"Germany";"Sürpriz";"Journey to Jerusalem – Kudüs'e Seyahat";3;21;3;4;3;1;140;22;118;96;"https://youtu.be/pUcP3HWhmYo?si=QwmbZkRSxm8Lmyms";"https://music.apple.com/gb/album/reise-nach-jerusalem-kud%C3%BCse-seyahat/255640263?i=255640877";"https://open.spotify.com/track/0bzIaa3azbKw5CHX8bTQby?si=82dd487d94314156"
 10;"Iceland";"Selma";"All Out of Luck";25;13;2;4;2;2;146;22;124;102;"https://youtu.be/0c_2T-DZUe0?si=qySRxIPdipVvzmoB";"https://music.apple.com/gb/album/all-out-of-luck/527926951?i=527927235";"https://open.spotify.com/track/3F2vFcTAfL7jThy047uUrv?si=cc256f0cb08f49fd"
-11;"Ireland";"The Mullans";"When You Need Me";18;17;15;6;19;13;18;13;5;8;"https://youtu.be/2RWGVuvCCIs?si=R59XEpPW3lGGWqxK";NULL;NULL
-12;"Israel";"Eden";"Happy Birthday";20;19;5;11;4;7;104;5;99;94;"https://youtu.be/qox5LA_czAA?si=pd21K1q3JyqWAAcw";NULL;"https://open.spotify.com/track/0Ii7Omnl9BwzUiBj4DyhA2?si=0178762f01614f71"
+11;"Ireland";"The Mullans";"When You Need Me";18;17;15;6;19;13;18;13;5;8;"https://youtu.be/2RWGVuvCCIs?si=R59XEpPW3lGGWqxK";;
+12;"Israel";"Eden";"Happy Birthday";20;19;5;11;4;7;104;5;99;94;"https://youtu.be/qox5LA_czAA?si=pd21K1q3JyqWAAcw";;"https://open.spotify.com/track/0Ii7Omnl9BwzUiBj4DyhA2?si=0178762f01614f71"
 13;"Lithuania";"Aistė";"Strazdas";31;1;18;13;16;3;13;0;13;13;"https://youtu.be/pArN9mj3n9M?si=UHSItG-5V5kPK5fr";"https://music.apple.com/gb/album/strazdas/1463413380?i=1463413384";"https://open.spotify.com/track/7vgFvPtmPg8QPrOuudKgl1?si=0956a3aa364644ce"
 14;"Malta";"Times Three";"Believe 'n Peace";19;20;13;9;13;4;32;7;25;18;"https://youtu.be/8IphpO_T1LQ?si=vKeWl_AvgAzTxqXJ";"https://music.apple.com/gb/album/believe-n-peace-esc-1999/843614305?i=843614344";"https://open.spotify.com/track/10gJ58ztG2nBtv9U0pbHAK?si=fa06be50bc764780"
 15;"Netherlands";"Marlayne";"One Good Reason";6;11;8;5;10;5;71;14;57;43;"https://youtu.be/0MjAGv4jws8?si=clCAVgPnQEyER5YE";"https://music.apple.com/gb/album/one-good-reason/359101302?i=359101307";"https://open.spotify.com/track/0nSf8MYs2vZvA4uhdO8AfA?si=58fd21f83fc34bfe"
-16;"Norway";"Van Eijk";"Living My Life Without You";13;8;12;12;11;1;35;3;32;29;"https://youtu.be/UxffwUHTYhM?si=ZF0S9IYsLn1mPZCU";NULL;NULL
-17;"Poland";"Mietek Szcześniak";"Przytul mnie mocno";32;12;16;6;20;14;17;13;4;9;"https://youtu.be/SrqMUhruz3I?si=04H8MZP0onB--JHB";NULL;NULL
+16;"Norway";"Van Eijk";"Living My Life Without You";13;8;12;12;11;1;35;3;32;29;"https://youtu.be/UxffwUHTYhM?si=ZF0S9IYsLn1mPZCU";;
+17;"Poland";"Mietek Szcześniak";"Przytul mnie mocno";32;12;16;6;20;14;17;13;4;9;"https://youtu.be/SrqMUhruz3I?si=04H8MZP0onB--JHB";;
 18;"Portugal";"Rui Bandeira";"Como tudo começou";17;16;19;13;17;4;12;0;12;12;"https://youtu.be/a2DWFtylygA?si=gccATUJBy7ZFQY7x";"https://music.apple.com/gb/album/como-tudo-come%C3%A7ou/898584014?i=898584062";"https://open.spotify.com/track/61ExZgVw4snwzjSwIYNFm3?si=7224e61bf1474651"
 19;"Slovenia";"Darja Švajger";"For a Thousand Years";28;6;10;2;14;12;50;27;23;4;"https://youtu.be/kAvBKRB28Ho?si=BZDfLTiteX82kTrV";"https://music.apple.com/gb/album/for-a-thousand-years/1572520439?i=1572520440";"https://open.spotify.com/track/3Nun3F5Bs9F0RZwz2VifIV?si=c31197576d9e4f7c"
 20;"Spain";"Lydia";"No quiero escuchar";15;3;21;13;22;9;1;0;1;1;"https://youtu.be/bNwZVWBByIA?si=KnqGHjBIwtvmuqdw";"https://music.apple.com/gb/album/no-quiero-escuchar/257169149?i=257169246";"https://open.spotify.com/track/4bJI2YeaEzl20Sh21bh07C?si=c70a475421cf45e0"
 21;"Sweden";"Charlotte Nilsson";"Take Me to Your Heaven";11;15;1;3;1;2;163;26;137;111;"https://youtu.be/EpdLN9bbdVw?si=_rcboiGbxso-Vtiu";"https://music.apple.com/gb/album/take-me-to-your-heaven/1435495325?i=1435495945";"https://open.spotify.com/track/4omWhsNIPxarzpBgMsWBmB?si=2d437cea3a154b20"
-22;"Turkey";"Tuba Önal and Grup Mistik";"Dön Artık";22;7;14;13;15;2;21;0;21;21;"https://youtu.be/11niYpARszM?si=iPxy5TIJBrp-NmRc";NULL;NULL
+22;"Turkey";"Tuba Önal and Grup Mistik";"Dön Artık";22;7;14;13;15;2;21;0;21;21;"https://youtu.be/11niYpARszM?si=iPxy5TIJBrp-NmRc";;
 23;"United Kingdom";"Precious";"Say It Again";10;5;11;8;12;4;38;10;28;18;"https://youtu.be/6KE6d8ld6H0?si=Gzcm842wuGA207Hw";"https://music.apple.com/gb/album/say-it-again/1463047932?i=1463048152";"https://open.spotify.com/track/5b6EFdBDlLIWKFtUZvjYbB?si=8dd5405fa7b64847"

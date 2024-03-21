@@ -1,43 +1,43 @@
 "id";"country";"artist";"song";"countryId";"runningOrder";"placed";"placedJury";"placedTelevote";"placedDiff";"totalPoints";"pointsJury";"pointsTelevote";"pointsDiff";"youtubeLink";"appleMusicLink";"spotifyLink"
-1;"Albania";"Eneda Tarifa";"Fairytale";39;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-2;"Armenia";"Iveta Mukuchyan";"LoveWave";45;26;7;9;7;2;249;115;134;19;NULL;NULL;NULL
-3;"Australia";"Dami Im";"Sound of Silence";52;13;2;1;4;3;511;320;191;129;NULL;NULL;NULL
-4;"Austria";"Zoë";"Loin d'ici";8;24;12;23;8;15;151;31;120;89;NULL;NULL;NULL
-5;"Azerbaijan";"Samra";"Miracle";50;4;16;18;12;6;117;44;73;29;NULL;NULL;NULL
-6;"Belarus";"Ivan";"Help You Fly";41;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-7;"Belgium";"Laura Tesoro";"What's the Pressure";1;1;3;5;1;4;491;130;361;231;NULL;NULL;NULL
-8;"Bosnia and Herzegovina";"Dalal and Deen feat. Ana Rucner and Jala";"Ljubav je";26;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-9;"Bulgaria";"Poli Genova";"If Love Was a Crime";43;8;4;6;5;1;307;127;180;53;NULL;NULL;NULL
-10;"Croatia";"Nina Kraljić";"Lighthouse";27;17;22;21;19;2;73;40;33;7;NULL;NULL;NULL
-11;"Cyprus";"Minus One";"Alter Ego";24;14;20;19;15;4;96;43;53;10;NULL;NULL;NULL
-12;"Czechia";"Gabriela Gunčíková";"I Stand";46;2;24;20;25;5;41;41;0;41;NULL;NULL;NULL
-13;"Denmark";"Lighthouse X";"Soldiers of Love";9;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-14;"Estonia";"Jüri Pootsmann";"Play";29;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-15;"Finland";"Sandhja";"Sing It Away";14;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-16;"France";"Amir";"J'ai cherché";2;11;6;3;9;6;257;148;109;39;NULL;NULL;NULL
-17;"Georgia";"Nika Kocharov and Young Georgian Lolitaz";"Midnight Gold";47;23;19;13;20;7;104;80;24;56;NULL;NULL;NULL
-18;"Germany";"Jamie-Lee";"Ghost";3;10;25;25;23;2;11;1;10;9;NULL;NULL;NULL
-19;"Greece";"Argo";"Utopian Land";21;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-20;"Hungary";"Freddie";"Pioneer";30;5;18;17;14;3;108;52;56;4;NULL;NULL;NULL
-21;"Iceland";"Greta Salóme";"Hear Them Calling";25;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-22;"Ireland";"Nicky Byrne";"Sunlight";18;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-23;"Israel";"Hovi Star";"Made of Stars";20;7;13;7;22;15;135;124;11;113;NULL;NULL;NULL
-24;"Italy";"Francesca Michielin";"No Degree of Separation";4;6;15;12;18;6;124;90;34;56;NULL;NULL;NULL
-25;"Latvia";"Justs";"Heartbeat";37;20;14;14;13;1;132;69;63;6;NULL;NULL;NULL
-26;"Lithuania";"Donny Montell";"I've Been Waiting for This Night";31;16;9;11;10;1;200;104;96;8;NULL;NULL;NULL
-27;"North Macedonia";"Kaliopi";"Dona";36;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-28;"Malta";"Ira Losco";"Walk on Water";19;22;11;4;21;17;153;137;16;121;NULL;NULL;NULL
-29;"Moldova";"Lidia Isac";"Falling Stars";44;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-30;"Montenegro";"Highway";"The Real Thing";48;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-31;"Netherlands";"Douwe Bob";"Slow Down";6;3;11;10;17;7;153;114;39;75;NULL;NULL;NULL
-32;"Norway";"Agnete";"Icebreaker";13;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-33;"Poland";"Michał Szpak";"Color of Your Life";32;12;8;24;3;21;229;7;222;215;NULL;NULL;NULL
-34;"Russia";"Sergey Lazarev";"You Are the Only One";34;18;10;5;16;11;181;130;51;79;NULL;NULL;NULL
-35;"San Marino";"Serhat";"I Didn't Know";51;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-36;"Serbia";"Sanja Vučić Zaa";"Goodbye (Shelter)";49;15;17;22;11;11;115;35;80;45;NULL;NULL;NULL
-37;"Slovenia";"ManuElla";"Blue and Red";28;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-38;"Spain";"Barei";"Say Yay!";15;19;21;15;23;8;77;67;10;57;NULL;NULL;NULL
-39;"Sweden";"Frans";"If I Were Sorry";11;9;5;8;6;2;261;122;139;17;NULL;NULL;NULL
-40;"Switzerland";"Rykka";"The Last of Our Kind";7;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-41;"Ukraine";"Jamala";"1944";38;21;1;2;2;0;534;211;323;112;NULL;NULL;NULL
-42;"United Kingdom";"Joe and Jake";"You're Not Alone";10;25;23;16;24;8;62;54;8;46;NULL;NULL;NULL
+1;"Albania";"Eneda Tarifa";"Fairytale";39;;;;;;;;;;;;
+2;"Armenia";"Iveta Mukuchyan";"LoveWave";45;26;7;9;7;2;249;115;134;19;;;
+3;"Australia";"Dami Im";"Sound of Silence";52;13;2;1;4;3;511;320;191;129;;;
+4;"Austria";"Zoë";"Loin d'ici";8;24;12;23;8;15;151;31;120;89;;;
+5;"Azerbaijan";"Samra";"Miracle";50;4;16;18;12;6;117;44;73;29;;;
+6;"Belarus";"Ivan";"Help You Fly";41;;;;;;;;;;;;
+7;"Belgium";"Laura Tesoro";"What's the Pressure";1;1;3;5;1;4;491;130;361;231;;;
+8;"Bosnia and Herzegovina";"Dalal and Deen feat. Ana Rucner and Jala";"Ljubav je";26;;;;;;;;;;;;
+9;"Bulgaria";"Poli Genova";"If Love Was a Crime";43;8;4;6;5;1;307;127;180;53;;;
+10;"Croatia";"Nina Kraljić";"Lighthouse";27;17;22;21;19;2;73;40;33;7;;;
+11;"Cyprus";"Minus One";"Alter Ego";24;14;20;19;15;4;96;43;53;10;;;
+12;"Czechia";"Gabriela Gunčíková";"I Stand";46;2;24;20;25;5;41;41;0;41;;;
+13;"Denmark";"Lighthouse X";"Soldiers of Love";9;;;;;;;;;;;;
+14;"Estonia";"Jüri Pootsmann";"Play";29;;;;;;;;;;;;
+15;"Finland";"Sandhja";"Sing It Away";14;;;;;;;;;;;;
+16;"France";"Amir";"J'ai cherché";2;11;6;3;9;6;257;148;109;39;;;
+17;"Georgia";"Nika Kocharov and Young Georgian Lolitaz";"Midnight Gold";47;23;19;13;20;7;104;80;24;56;;;
+18;"Germany";"Jamie-Lee";"Ghost";3;10;25;25;23;2;11;1;10;9;;;
+19;"Greece";"Argo";"Utopian Land";21;;;;;;;;;;;;
+20;"Hungary";"Freddie";"Pioneer";30;5;18;17;14;3;108;52;56;4;;;
+21;"Iceland";"Greta Salóme";"Hear Them Calling";25;;;;;;;;;;;;
+22;"Ireland";"Nicky Byrne";"Sunlight";18;;;;;;;;;;;;
+23;"Israel";"Hovi Star";"Made of Stars";20;7;13;7;22;15;135;124;11;113;;;
+24;"Italy";"Francesca Michielin";"No Degree of Separation";4;6;15;12;18;6;124;90;34;56;;;
+25;"Latvia";"Justs";"Heartbeat";37;20;14;14;13;1;132;69;63;6;;;
+26;"Lithuania";"Donny Montell";"I've Been Waiting for This Night";31;16;9;11;10;1;200;104;96;8;;;
+27;"North Macedonia";"Kaliopi";"Dona";36;;;;;;;;;;;;
+28;"Malta";"Ira Losco";"Walk on Water";19;22;11;4;21;17;153;137;16;121;;;
+29;"Moldova";"Lidia Isac";"Falling Stars";44;;;;;;;;;;;;
+30;"Montenegro";"Highway";"The Real Thing";48;;;;;;;;;;;;
+31;"Netherlands";"Douwe Bob";"Slow Down";6;3;11;10;17;7;153;114;39;75;;;
+32;"Norway";"Agnete";"Icebreaker";13;;;;;;;;;;;;
+33;"Poland";"Michał Szpak";"Color of Your Life";32;12;8;24;3;21;229;7;222;215;;;
+34;"Russia";"Sergey Lazarev";"You Are the Only One";34;18;10;5;16;11;181;130;51;79;;;
+35;"San Marino";"Serhat";"I Didn't Know";51;;;;;;;;;;;;
+36;"Serbia";"Sanja Vučić Zaa";"Goodbye (Shelter)";49;15;17;22;11;11;115;35;80;45;;;
+37;"Slovenia";"ManuElla";"Blue and Red";28;;;;;;;;;;;;
+38;"Spain";"Barei";"Say Yay!";15;19;21;15;23;8;77;67;10;57;;;
+39;"Sweden";"Frans";"If I Were Sorry";11;9;5;8;6;2;261;122;139;17;;;
+40;"Switzerland";"Rykka";"The Last of Our Kind";7;;;;;;;;;;;;
+41;"Ukraine";"Jamala";"1944";38;21;1;2;2;0;534;211;323;112;;;
+42;"United Kingdom";"Joe and Jake";"You're Not Alone";10;25;23;16;24;8;62;54;8;46;;;

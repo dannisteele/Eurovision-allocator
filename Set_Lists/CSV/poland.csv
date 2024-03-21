@@ -1,28 +1,28 @@
 "sourceTable";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"placedDiff";"totalPoints";"pointsJury";"pointsTelevote";"pointsDiff";"youtubeLink";"appleMusicLink";"spotifyLink"
-"1994";"Edyta Górniak";"To nie ja!";24;2;2;NULL;NULL;166;166;NULL;NULL;"https://youtu.be/PrRJcZ7f6O8?si=XqafS1WnjihJS_Sj";"https://music.apple.com/gb/album/to-nie-ja-2020-remaster/1511028566?i=1511028617";"https://open.spotify.com/track/25zN3HNnNrhA3fXqsauv4g?si=3f23afefaee741e3"
-"1995";"Justyna";"Sama";1;17;17;NULL;NULL;15;15;NULL;NULL;"https://youtu.be/neM37hUsVDo?si=zJzP4t8nnNELGGtB";"https://music.apple.com/gb/album/sama-noc%C4%85/1389797504?i=1389797506";NULL
-"1996";"Kasia Kowalska";"Chcę znać swój grzech";20;14;14;NULL;NULL;31;31;NULL;NULL;"https://youtu.be/GATT2iJralY?si=X8FMhuu43gBL6qOn";NULL;NULL
+"1994";"Edyta Górniak";"To nie ja!";24;2;2;;;166;166;;;"https://youtu.be/PrRJcZ7f6O8?si=XqafS1WnjihJS_Sj";"https://music.apple.com/gb/album/to-nie-ja-2020-remaster/1511028566?i=1511028617";"https://open.spotify.com/track/25zN3HNnNrhA3fXqsauv4g?si=3f23afefaee741e3"
+"1995";"Justyna";"Sama";1;17;17;;;15;15;;;"https://youtu.be/neM37hUsVDo?si=zJzP4t8nnNELGGtB";"https://music.apple.com/gb/album/sama-noc%C4%85/1389797504?i=1389797506";
+"1996";"Kasia Kowalska";"Chcę znać swój grzech";20;14;14;;;31;31;;;"https://youtu.be/GATT2iJralY?si=X8FMhuu43gBL6qOn";;
 "1997";"Anna Maria Jopek";"Ale jestem";12;11;10;7;3;54;40;14;26;"https://youtu.be/m9DYL4B8OXA?si=OE0MWeYRNAtyf8Pa";"https://music.apple.com/gb/album/ale-jestem-live/1442936459?i=1442937530";"https://open.spotify.com/track/6uC8ZA5RPsgK5rgxbRHuRE?si=88c0e1164f8c438d"
-"1998";"Sixteen";"To takie proste";7;16;5;20;15;19;12;7;5;"https://youtu.be/1PLtGzUblEY?si=YCR5YxiovyRlqVRN";NULL;NULL
-"1999";"Mietek Szcześniak";"Przytul mnie mocno";12;16;6;20;14;17;13;4;9;"https://youtu.be/SrqMUhruz3I?si=04H8MZP0onB--JHB";NULL;NULL
-"2001";"Piasek";"2 Long";18;19;15;17;2;11;0;11;11;"https://youtu.be/ZRp_8JXsWmU?si=3ZVvdwS51cGZlWTN";NULL;NULL
-"2003";"Ich Troje";"Keine Grenzen – Żadnych granic";20;7;16;7;9;90;0;90;90;NULL;NULL;NULL
-"2004";"Blue Café";"Love Song";19;15;NULL;15;NULL;27;NULL;27;NULL;NULL;NULL;NULL
-"2005";"Ivan and Delfin";"Czarna dziewczyna";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2006";"Ich Troje";"Follow My Heart";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2007";"The Jet Set";"Time to Party";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2008";"Isis Gee";"For Life";10;20;11;19;8;14;0;14;14;NULL;NULL;NULL
-"2009";"Lidia Kopania";"I Don't Wanna Leave";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2010";"Marcin Mroziński";"Legenda";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2011";"Magdalena Tul";"Jestem";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2014";"Donatan and Cleo";"My Słowianie – We Are Slavic";9;8;23;5;18;185;23;162;139;NULL;NULL;NULL
-"2015";"Monika Kuszyńska";"In the Name of Love";18;21;23;15;8;49;2;47;45;NULL;NULL;NULL
-"2016";"Michał Szpak";"Color of Your Life";12;8;24;3;21;229;7;222;215;NULL;NULL;NULL
-"2017";"Kasia Moś";"Flashlight";2;21;21;12;9;64;23;41;18;NULL;NULL;NULL
-"2018";"Gromee feat. Lukas Meijer";"Light Me Up";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
-"2019";"Tulia";"Fire of Love (Pali się)";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/IEu0F5uobVo?si=PGLdV3ck0s-cwwXj";"https://music.apple.com/gb/album/fire-of-love-pali-si%C4%99/1455508037?i=1455508116";"https://open.spotify.com/track/39eYn0el1oFv3btrhTX74G?si=0cf7b9456c314831"
-"2020";"Alicja";"Empires";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/s_Y7mMka4SQ?si=MGyjN3mOvJofQ_tk";"https://music.apple.com/gb/album/empires/1500175092?i=1500175094";"https://open.spotify.com/track/2unNElroipge43kWLeI4cC?si=033be0dac2634c9d"
-"2021";"Rafał";"The Ride";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/Uy6TeDNvSGo?si=tYkbddu0h2hEeOcy";"https://music.apple.com/gb/album/the-ride/1557723275?i=1557723552";"https://open.spotify.com/track/3vTq9AmdeZt7QVslH68LK8?si=fdc32173256a4ff3"
+"1998";"Sixteen";"To takie proste";7;16;5;20;15;19;12;7;5;"https://youtu.be/1PLtGzUblEY?si=YCR5YxiovyRlqVRN";;
+"1999";"Mietek Szcześniak";"Przytul mnie mocno";12;16;6;20;14;17;13;4;9;"https://youtu.be/SrqMUhruz3I?si=04H8MZP0onB--JHB";;
+"2001";"Piasek";"2 Long";18;19;15;17;2;11;0;11;11;"https://youtu.be/ZRp_8JXsWmU?si=3ZVvdwS51cGZlWTN";;
+"2003";"Ich Troje";"Keine Grenzen – Żadnych granic";20;7;16;7;9;90;0;90;90;;;
+"2004";"Blue Café";"Love Song";19;15;;15;;27;;27;;;;
+"2005";"Ivan and Delfin";"Czarna dziewczyna";;;;;;;;;;;;
+"2006";"Ich Troje";"Follow My Heart";;;;;;;;;;;;
+"2007";"The Jet Set";"Time to Party";;;;;;;;;;;;
+"2008";"Isis Gee";"For Life";10;20;11;19;8;14;0;14;14;;;
+"2009";"Lidia Kopania";"I Don't Wanna Leave";;;;;;;;;;;;
+"2010";"Marcin Mroziński";"Legenda";;;;;;;;;;;;
+"2011";"Magdalena Tul";"Jestem";;;;;;;;;;;;
+"2014";"Donatan and Cleo";"My Słowianie – We Are Slavic";9;8;23;5;18;185;23;162;139;;;
+"2015";"Monika Kuszyńska";"In the Name of Love";18;21;23;15;8;49;2;47;45;;;
+"2016";"Michał Szpak";"Color of Your Life";12;8;24;3;21;229;7;222;215;;;
+"2017";"Kasia Moś";"Flashlight";2;21;21;12;9;64;23;41;18;;;
+"2018";"Gromee feat. Lukas Meijer";"Light Me Up";;;;;;;;;;;;
+"2019";"Tulia";"Fire of Love (Pali się)";;;;;;;;;;"https://youtu.be/IEu0F5uobVo?si=PGLdV3ck0s-cwwXj";"https://music.apple.com/gb/album/fire-of-love-pali-si%C4%99/1455508037?i=1455508116";"https://open.spotify.com/track/39eYn0el1oFv3btrhTX74G?si=0cf7b9456c314831"
+"2020";"Alicja";"Empires";;;;;;;;;;"https://youtu.be/s_Y7mMka4SQ?si=MGyjN3mOvJofQ_tk";"https://music.apple.com/gb/album/empires/1500175092?i=1500175094";"https://open.spotify.com/track/2unNElroipge43kWLeI4cC?si=033be0dac2634c9d"
+"2021";"Rafał";"The Ride";;;;;;;;;;"https://youtu.be/Uy6TeDNvSGo?si=tYkbddu0h2hEeOcy";"https://music.apple.com/gb/album/the-ride/1557723275?i=1557723552";"https://open.spotify.com/track/3vTq9AmdeZt7QVslH68LK8?si=fdc32173256a4ff3"
 "2022";"Ochman";"River";23;12;13;9;4;151;46;105;59;"https://youtu.be/jRVDZ6446eM?si=EuHvXJDk1Km6avvN";"https://music.apple.com/gb/album/river/1607357568?i=1607357579";"https://open.spotify.com/track/2fSz6MBKMPjOApUhGYfPid?si=d9df107aa3104a21"
 "2023";"Blanka";"Solo";4;19;23;8;15;93;12;81;69;"https://youtu.be/SEgF1aP-U1o?si=ivYpr-AX_MEAl4_C";"https://music.apple.com/gb/album/solo/1644690680?i=1644690682";"https://open.spotify.com/track/3xxjYOFR1y7By2wNDS51XV?si=a038ac81165e47d7"
-"2024";"Luna";"The Tower";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/IhvDkF9XZx0?si=wI44PCvlnEDb9Zuz";"https://music.apple.com/gb/album/the-tower/1724738381?i=1724738382";"https://open.spotify.com/track/4IUMSDTVvUellFQ7RxI3kZ?si=05ad22f935914b95"
+"2024";"Luna";"The Tower";;;;;;;;;;"https://youtu.be/IhvDkF9XZx0?si=wI44PCvlnEDb9Zuz";"https://music.apple.com/gb/album/the-tower/1724738381?i=1724738382";"https://open.spotify.com/track/4IUMSDTVvUellFQ7RxI3kZ?si=05ad22f935914b95"
