@@ -1,40 +1,40 @@
-"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-1,"Albania","Adrian Lulgjuraj and Bledar Sejko","Identitet",39,,,,,,,,,,,,
-2,"Armenia","Dorians","Lonely Planet",45,12,17,,,,,,,,,,
-3,"Austria","Natália Kelly","Shine",8,,,,,,,,,,,,
-4,"Azerbaijan","Farid Mammadov","Hold Me",50,20,2,,,,,,,,,,
-5,"Belarus","Alyona Lanskaya","Solayoh",41,8,15,,,,,,,,,,
-6,"Belgium","Roberto Bellarosa","Love Kills",1,6,8,,,,,,,,,,
-7,"Bulgaria","Elitsa Todorova and Stoyan Yankoulov","Samo shampioni",43,,,,,,,,,,,,
-8,"Croatia","Klapa s Mora","Mižerja",27,,,,,,,,,,,,
-9,"Cyprus","Despina Olympiou","An me thimasai",24,,,,,,,,,,,,
-10,"Denmark","Emmelie de Forest","Only Teardrops",9,18,1,,,,,,,,,,
-11,"Estonia","Birgit","Et uus saaks alguse",29,7,19,,,,,,,,,,
-12,"Finland","Krista Siegfrids","Marry Me",14,4,23,,,,,,,,,,
-13,"France","Amandine Bourgeois","L'enfer et moi",2,1,22,,,,,,,,,,
-14,"Georgia","Nodi Tatishvili and Sophie Gelovani","Waterfall",47,25,14,,,,,,,,,,
-15,"Germany","Cascada","Glorious",3,11,20,,,,,,,,,,
-16,"Greece","Koza Mostra feat. Agathon Iakovidis","Alcohol Is Free",21,21,6,,,,,,,,,,
-17,"Hungary","ByeAlex","Kedvesem",30,17,10,,,,,,,,,,
-18,"Iceland","Eythor Ingi","Ég á líf",25,19,16,,,,,,,,,,
-19,"Ireland","Ryan Dolan","Only Love Survives",18,26,25,,,,,,,,,,
-20,"Israel","Moran Mazor","Rak Bishvilo",20,,,,,,,,,,,,
-21,"Italy","Marco Mengoni","L'essenziale",4,23,7,,,,,,,,,,
-22,"Latvia","PeR","Here We Go",37,,,,,,,,,,,,
-23,"Lithuania","Andrius Pojavis","Something",31,2,21,,,,,,,,,,
-24,"Macedonia","Esma and Lozano","Pred da se razdeni",36,,,,,,,,,,,,
-25,"Malta","Gianluca","Tomorrow",19,9,8,,,,,,,,,,
-26,"Moldova","Aliona Moon","O mie",44,3,11,,,,,,,,,,
-27,"Montenegro","Who See","Igranka",48,,,,,,,,,,,,
-28,"Netherlands","Anouk","Birds",6,13,9,,,,,,,,,,
-29,"Norway","Margaret Berger","I Feed You My Love",13,24,4,,,,,,,,,,
-30,"Romania","Cezar","It's My Life",33,14,12,,,,,,,,,,
-31,"Russia","Dina Garipova","What If",34,10,5,,,,,,,,,,
-32,"San Marino","Valentina Monetta","Crisalide (Vola)",51,,,,,,,,,,,,
-33,"Serbia","Moje 3","Ljubav je svuda",49,,,,,,,,,,,,
-34,"Slovenia","Hannah","Straight into Love",28,,,,,,,,,,,,
-35,"Spain","ESDM","Contigo hasta el final",15,5,24,,,,,,,,,,
-36,"Sweden","Robin Stjernberg","You",11,16,13,,,,,,,,,,
-37,"Switzerland","Takasa","You and Me",7,,,,,,,,,,,,
-38,"Ukraine","Zlata Ognevich","Gravity",38,22,3,,,,,,,,,,
-39,"United Kingdom","Bonnie Tyler","Believe in Me",10,15,18,,,,,,,,,,
+"id";"country";"artist";"song";"countryId";"runningOrder";"placed";"placedJury";"placedTelevote";"placedDiff";"totalPoints";"pointsJury";"pointsTelevote";"pointsDiff";"youtubeLink";"appleMusicLink";"spotifyLink"
+1;"Albania";"Adrian Lulgjuraj and Bledar Sejko";"Identitet";39;;;;;;;;;;;;
+2;"Armenia";"Dorians";"Lonely Planet";45;12;17;;;;;;;;;;
+3;"Austria";"Natália Kelly";"Shine";8;;;;;;;;;;;;
+4;"Azerbaijan";"Farid Mammadov";"Hold Me";50;20;2;;;;;;;;;;
+5;"Belarus";"Alyona Lanskaya";"Solayoh";41;8;15;;;;;;;;;;
+6;"Belgium";"Roberto Bellarosa";"Love Kills";1;6;8;;;;;;;;;;
+7;"Bulgaria";"Elitsa Todorova and Stoyan Yankoulov";"Samo shampioni";43;;;;;;;;;;;;
+8;"Croatia";"Klapa s Mora";"Mižerja";27;;;;;;;;;;;;
+9;"Cyprus";"Despina Olympiou";"An me thimasai";24;;;;;;;;;;;;
+10;"Denmark";"Emmelie de Forest";"Only Teardrops";9;18;1;;;;;;;;;;
+11;"Estonia";"Birgit";"Et uus saaks alguse";29;7;19;;;;;;;;;;
+12;"Finland";"Krista Siegfrids";"Marry Me";14;4;23;;;;;;;;;;
+13;"France";"Amandine Bourgeois";"L'enfer et moi";2;1;22;;;;;;;;;;
+14;"Georgia";"Nodi Tatishvili and Sophie Gelovani";"Waterfall";47;25;14;;;;;;;;;;
+15;"Germany";"Cascada";"Glorious";3;11;20;;;;;;;;;;
+16;"Greece";"Koza Mostra feat. Agathon Iakovidis";"Alcohol Is Free";21;21;6;;;;;;;;;;
+17;"Hungary";"ByeAlex";"Kedvesem";30;17;10;;;;;;;;;;
+18;"Iceland";"Eythor Ingi";"Ég á líf";25;19;16;;;;;;;;;;
+19;"Ireland";"Ryan Dolan";"Only Love Survives";18;26;25;;;;;;;;;;
+20;"Israel";"Moran Mazor";"Rak Bishvilo";20;;;;;;;;;;;;
+21;"Italy";"Marco Mengoni";"L'essenziale";4;23;7;;;;;;;;;;
+22;"Latvia";"PeR";"Here We Go";37;;;;;;;;;;;;
+23;"Lithuania";"Andrius Pojavis";"Something";31;2;21;;;;;;;;;;
+24;"Macedonia";"Esma and Lozano";"Pred da se razdeni";36;;;;;;;;;;;;
+25;"Malta";"Gianluca";"Tomorrow";19;9;8;;;;;;;;;;
+26;"Moldova";"Aliona Moon";"O mie";44;3;11;;;;;;;;;;
+27;"Montenegro";"Who See";"Igranka";48;;;;;;;;;;;;
+28;"Netherlands";"Anouk";"Birds";6;13;9;;;;;;;;;;
+29;"Norway";"Margaret Berger";"I Feed You My Love";13;24;4;;;;;;;;;;
+30;"Romania";"Cezar";"It's My Life";33;14;12;;;;;;;;;;
+31;"Russia";"Dina Garipova";"What If";34;10;5;;;;;;;;;;
+32;"San Marino";"Valentina Monetta";"Crisalide (Vola)";51;;;;;;;;;;;;
+33;"Serbia";"Moje 3";"Ljubav je svuda";49;;;;;;;;;;;;
+34;"Slovenia";"Hannah";"Straight into Love";28;;;;;;;;;;;;
+35;"Spain";"ESDM";"Contigo hasta el final";15;5;24;;;;;;;;;;
+36;"Sweden";"Robin Stjernberg";"You";11;16;13;;;;;;;;;;
+37;"Switzerland";"Takasa";"You and Me";7;;;;;;;;;;;;
+38;"Ukraine";"Zlata Ognevich";"Gravity";38;22;3;;;;;;;;;;
+39;"United Kingdom";"Bonnie Tyler";"Believe in Me";10;15;18;;;;;;;;;;

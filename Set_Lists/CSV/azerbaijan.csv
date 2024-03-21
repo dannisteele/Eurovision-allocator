@@ -1,18 +1,18 @@
-"sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-"2008","Elnur and Samir","Day After Day",20,8,11,8,3,132,0,132,132,,,
-"2009","Aysel and Arash","Always",11,3,8,2,6,365,112,253,141,,,
-"2010","Safura","Drip Drop",1,6,9,4,5,282,116,166,50,,,
-"2011","Ell and Nikki","Running Scared",19,1,2,1,1,405,182,223,41,,,
-"2012","Sabina Babayeva","When the Music Dies",13,4,7,5,2,269,118,151,33,,,
-"2013","Farid Mammadov","Hold Me",20,2,,,,,,,,,,
-"2014","Dilara Kazimova","Start a Fire",3,13,8,20,12,134,108,26,82,,,
-"2015","Elnur Hüseynov","Hour of the Wolf",24,17,12,19,7,75,48,27,21,,,
-"2016","Samra","Miracle",4,16,18,12,6,117,44,73,29,,,
-"2017","Dihaj","Skeletons",12,14,12,11,1,120,78,42,36,,,
-"2018","Aisel","X My Heart",,,,,,,,,,,,
-"2019","Chingiz","Truth",20,8,5,8,3,302,202,100,102,"https://youtu.be/D6vvuCiHwSs?si=xflp6W06Rz-hIL_a",,
-"2020","Efendi","Cleopatra",,,,,,,,,,"https://youtu.be/I0VzBCvO1Wk?si=rQYKhI9P0dwjinwm","https://music.apple.com/gb/album/cleopatra/1502887890?i=1502887891","https://open.spotify.com/track/6Rt5DJgi7E2wETXueJF0XM?si=201434ed60b94cd9"
-"2021","Efendi","Mata Hari",21,19,19,16,3,65,32,33,1,"https://youtu.be/FTQ22S5YC7Q?si=XY17YFZHPiwRe96v","https://music.apple.com/gb/album/mata-hari/1556675266?i=1556675267","https://open.spotify.com/track/3wuvVwA5RaifHz1uqKac8P?si=69d26fe93c9440cb"
-"2022","Nadir Rustamli","Fade to Black",15,16,9,22,13,106,103,3,100,"https://youtu.be/tegPzHEL4ms?si=w2_eXfu-ueYOI8vf","https://music.apple.com/gb/album/fade-to-black/1617292305?i=1617292306","https://open.spotify.com/track/7aX4w6c7gSqbTBoU8g2lnm?si=6d6055ec0fbb4dfc"
-"2023","TuralTuranX","Tell Me More",,,,,,,,,,"https://youtu.be/8BNtaW1IEtA?si=xYEmm3nm3gMKTt32","https://music.apple.com/gb/album/tell-me-more/1676867360?i=1676867363","https://open.spotify.com/track/2pXSRhFrsoG57v4tZ36ogu?si=95a8f9ee7ccb41c5"
-"2024","Fahree feat. Ilkin Dovlatov","Özünlə Apar",,,,,,,,,,"https://youtu.be/NNhAk4rVgNc?si=0pJJuV8k8fLI00oX","https://music.apple.com/gb/album/%C3%B6z%C3%BCnl%C9%99-apar-feat-i-lkin-dovletov-single/1735937763","https://open.spotify.com/track/6EwXG9cPjesjehN0kw30xs?si=809fc58fe6d44c93"
+"sourceTable";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"placedDiff";"totalPoints";"pointsJury";"pointsTelevote";"pointsDiff";"youtubeLink";"appleMusicLink";"spotifyLink"
+"2008";"Elnur and Samir";"Day After Day";20;8;11;8;3;132;0;132;132;;;
+"2009";"Aysel and Arash";"Always";11;3;8;2;6;365;112;253;141;;;
+"2010";"Safura";"Drip Drop";1;6;9;4;5;282;116;166;50;;;
+"2011";"Ell and Nikki";"Running Scared";19;1;2;1;1;405;182;223;41;;;
+"2012";"Sabina Babayeva";"When the Music Dies";13;4;7;5;2;269;118;151;33;;;
+"2013";"Farid Mammadov";"Hold Me";20;2;;;;;;;;;;
+"2014";"Dilara Kazimova";"Start a Fire";3;13;8;20;12;134;108;26;82;;;
+"2015";"Elnur Hüseynov";"Hour of the Wolf";24;17;12;19;7;75;48;27;21;;;
+"2016";"Samra";"Miracle";4;16;18;12;6;117;44;73;29;;;
+"2017";"Dihaj";"Skeletons";12;14;12;11;1;120;78;42;36;;;
+"2018";"Aisel";"X My Heart";;;;;;;;;;;;
+"2019";"Chingiz";"Truth";20;8;5;8;3;302;202;100;102;"https://youtu.be/D6vvuCiHwSs?si=xflp6W06Rz-hIL_a";;
+"2020";"Efendi";"Cleopatra";;;;;;;;;;"https://youtu.be/I0VzBCvO1Wk?si=rQYKhI9P0dwjinwm";"https://music.apple.com/gb/album/cleopatra/1502887890?i=1502887891";"https://open.spotify.com/track/6Rt5DJgi7E2wETXueJF0XM?si=201434ed60b94cd9"
+"2021";"Efendi";"Mata Hari";21;19;19;16;3;65;32;33;1;"https://youtu.be/FTQ22S5YC7Q?si=XY17YFZHPiwRe96v";"https://music.apple.com/gb/album/mata-hari/1556675266?i=1556675267";"https://open.spotify.com/track/3wuvVwA5RaifHz1uqKac8P?si=69d26fe93c9440cb"
+"2022";"Nadir Rustamli";"Fade to Black";15;16;9;22;13;106;103;3;100;"https://youtu.be/tegPzHEL4ms?si=w2_eXfu-ueYOI8vf";"https://music.apple.com/gb/album/fade-to-black/1617292305?i=1617292306";"https://open.spotify.com/track/7aX4w6c7gSqbTBoU8g2lnm?si=6d6055ec0fbb4dfc"
+"2023";"TuralTuranX";"Tell Me More";;;;;;;;;;"https://youtu.be/8BNtaW1IEtA?si=xYEmm3nm3gMKTt32";"https://music.apple.com/gb/album/tell-me-more/1676867360?i=1676867363";"https://open.spotify.com/track/2pXSRhFrsoG57v4tZ36ogu?si=95a8f9ee7ccb41c5"
+"2024";"Fahree feat. Ilkin Dovlatov";"Özünlə Apar";;;;;;;;;;"https://youtu.be/NNhAk4rVgNc?si=0pJJuV8k8fLI00oX";"https://music.apple.com/gb/album/%C3%B6z%C3%BCnl%C9%99-apar-feat-i-lkin-dovletov-single/1735937763";"https://open.spotify.com/track/6EwXG9cPjesjehN0kw30xs?si=809fc58fe6d44c93"

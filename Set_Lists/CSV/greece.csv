@@ -1,46 +1,46 @@
-"sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-"1974","Marinella","Krassi, thalassa ke t' agori mou",5,7,7,,,7,7,,,"https://youtu.be/gG4SeyE05GQ?si=aOztHCqPtpR5M2Jq","https://music.apple.com/gb/album/krasi-thalassa-kai-t-agori-mou/1592501087?i=1592501287","https://open.spotify.com/track/0pvtrFkx4j5VbxnNBHmuzE?si=3f64a4a4749445ab"
-"1976","Mariza Koch","Panaghia mou, panaghia mou",10,13,13,,,20,20,,,"https://youtu.be/HiHObibSvmc?si=25lin9sFy3woQafT",,"https://open.spotify.com/track/3lcgn8yJcOPZtBpAnLe5ck?si=9a55851e75c94293"
-"1977","Pascalis, Marianna, Robert and Bessy","Mathema solfege",10,5,5,,,92,92,,,"https://youtu.be/ov6n4OkF7EE?si=s26E92C7YaWn2TYq","https://music.apple.com/gb/album/mathima-solfez-feat-paschalis-marianne-robert-bessy/1601763385?i=1601763392","https://open.spotify.com/track/3dbavuu1mHOSbm51LaYJ2W?si=d20cf5a7b46346ea"
-"1978","Tania Tsanaklidou","Charlie Chaplin",15,8,8,,,66,66,,,"https://youtu.be/iQAUlN2Cgps?si=uA7DwKO5vGLcpycK",,"https://open.spotify.com/track/2BcjzwGE9Nwoqe6rqplYxD?si=c15d71d5bcc548b3"
-"1979","Elpida","Socrates",7,8,8,,,69,69,,,"https://youtu.be/vx4Odfzrrzk?si=bHDZ9C9wZih97FHi",,"https://open.spotify.com/track/0Jd0462vatmBiMP1D0PeJA?si=28e6637f5f0f428d"
-"1980","Anna Vissi and the Epikouri","Autostop",3,13,13,,,30,30,,,"https://youtu.be/I0U-mcz286w?si=VfwVtd6X-ngGHWL_",,"https://open.spotify.com/track/5CJLIycRVcRIc4T9WfyVmM?si=7cd76427dfd64243"
-"1981","Yiannis Dimitras","Feggari kalokerino",17,8,8,,,55,55,,,"https://youtu.be/-cuf1yoHO0Y?si=BUpyfc3ewqHk8dmI","https://music.apple.com/gb/album/feggari-kalokairino/1736147616?i=1736149243",
-"1983","Christie","Mou les",10,12,12,,,32,32,,,"https://youtu.be/Bu2vkIBp64o?si=FFyWew7q0EFmNFy6",,
-"1985","Takis Biniaris","Miazoume",19,15,15,,,15,15,,,"https://youtu.be/_HIqrWzh75w?si=lvXcwAaSX-iP3GGO",,
-"1987","Bang","Stop",11,9,9,,,64,64,,,"https://youtu.be/IC_avvTCizY?si=5Q6f5NOCOFTjfOrV",,"https://open.spotify.com/track/4g4kkEPeUIMYplFu63Zg5D?si=d66cee6224634f5a"
-"1988","Afroditi Fryda","Clown",14,16,16,,,10,10,,,"https://youtu.be/H2HpvHVWJGg?si=fSn0agt04voAW5Q-",,
-"1989","Marianna","To diko sou asteri",19,9,9,,,56,56,,,"https://youtu.be/2qTBzFBOdBU?si=FpZ-l2EAw2CNQ-cR",,
-"1990","Christos Callow","Horis skopo",2,18,18,,,11,11,,,"https://youtu.be/_vN1T49wYg8?si=rqwWxiEKCoRfHLO6",,
-"1991","Sophia Vossou","Anixi",4,11,11,,,36,36,,,"https://youtu.be/PyjC9NWoeXk?si=fMBBmq2c7birb_TQ","https://music.apple.com/gb/album/anixi/408171971?i=408172003","https://open.spotify.com/track/4HibdCR6fMsbX9GFtiN3og?si=38e194d0b46041fb"
-"1992","Cleopatra","Olou tou kosmou i elpida",5,5,5,,,94,94,,,"https://youtu.be/nr1eFZVXAeE?si=mOzBzJGr96Rza3Rk","https://music.apple.com/gb/album/olou-tou-kosmou-i-elpida/715759976?i=715760228","https://open.spotify.com/track/2Qdpk0IJ7qi0UGbAfCeTxG?si=8f6528cb58644ece"
-"1993","Katerina Garbi","Ellada, hora tou fotos",6,9,9,,,64,64,,,"https://youtu.be/0aKWP2vs26M?si=UV6fNPdxa-ZitYXm","https://music.apple.com/gb/album/ellada-hora-tou-fotos/459513730?i=459513765","https://open.spotify.com/track/1LdcPlnSrcFVH7BLZK2bZe?si=86fab583ff1b47e1"
-"1994","Kostas Bigalis and the Sea Lovers","To trehandiri (Diri Diri)",19,14,14,,,44,44,,,"https://youtu.be/0lpwU9-2Y6Y?si=kBdxeEIglmDIDy1u","https://music.apple.com/gb/album/to-trehantiri/1496335575?i=1496335651","https://open.spotify.com/track/4vUlYrhHCeeE6PWcJTWKMz?si=ff14b001e4b04bc1"
-"1995","Elina Konstantopoulou","Pia prosefhi",23,11,11,,,68,68,,,"https://youtu.be/SrTLEZZEChw?si=pV2pUX_bhwr8_ily",,
-"1996","Marianna Efstratiou","Emis forame to himona anixiatika",10,13,13,,,36,36,,,"https://youtu.be/uBqXbubScaI?si=pS-CvoPd5Lx5vgqP",,
-"1997","Marianna Zorba","Horepse",17,12,11,13,2,39,39,0,39,"https://youtu.be/JE7z2PhlKNE?si=II0_0aj9okyYNE1Q","https://music.apple.com/gb/album/horepse/503484705?i=503484863","https://open.spotify.com/track/1apgG2i2HPhQNQN4GZEKpL?si=da9afac6aa7642e8"
-"1998","Thalassa","Mia krifi evaisthisia",2,19,15,17,2,12,0,12,12,"https://youtu.be/SAoLC9MCQcw?si=DxHowL7DbjKdxywS",,
-"2001","Antique","Die for You",22,3,4,3,1,147,24,123,99,,,
-"2002","Michalis Rakintzis","S.A.G.A.P.O.",4,14,10,20,10,27,21,6,15,,,
-"2003","Mando","Never Let You Go",17,15,14,15,1,25,2,23,21,,,
-"2004","Sakis Rouvas","Shake It",16,3,,3,,252,,252,,,,
-"2005","Helena Paparizou","My Number One",19,1,8,1,7,218,8,210,202,,,
-"2006","Anna Vissi","Everything",16,9,4,8,4,128,8,120,112,,,
-"2007","Sarbel","Yassou Maria",10,7,5,8,3,139,7,132,125,,,
-"2008","Kalomira","Secret Combination",21,3,1,3,2,218,12,206,194,,,
-"2009","Sakis Rouvas","This Is Our Night",8,13,10,13,3,159,93,66,27,,,
-"2010","Giorgos Alkaios and Friends","Opa",11,8,10,7,3,262,110,152,42,,,
-"2011","Loukas Yorkas feat. Stereo Mike","Watch My Dance",9,5,13,3,10,260,84,176,92,,,
-"2012","Eleftheria Eleftheriou","Aphrodisiac",16,15,16,9,7,149,60,89,29,,,
-"2013","Koza Mostra feat. Agathon Iakovidis","Alcohol Is Free",21,6,,,,,,,,,,
-"2014","Freaky Fortune feat. RiskyKidd","Rise Up",10,18,19,13,6,92,49,43,6,,,
-"2015","Maria Elena Kyriakou","One Last Breath",15,20,16,22,6,50,29,21,8,,,
-"2016","Argo","Utopian Land",,,,,,,,,,,,
-"2017","Demy","This Is Love",15,8,16,7,9,200,48,152,104,,,
-"2018","Yianna Terzi","Oniro mou (Όνειρό μου)",,,,,,,,,,,,
-"2019","Katerine Duska","Better Love",13,20,14,21,7,74,50,24,26,"https://youtu.be/5pQV_-40m_U?si=zOYsxLXSBDbz1ODG","https://music.apple.com/gb/album/better-love/1455395668?i=1455395757","https://open.spotify.com/track/0QvJ5pNWlnMiLIxr7M6t3N?si=7b0911107cdb4c2e"
-"2020","Stefania","Supergirl",,,,,,,,,,"https://youtu.be/dJxCINWp_j0?si=3OGmsHp9EoCwHK4F","https://music.apple.com/gb/album/superg-rl/1500416433?i=1500416434","https://open.spotify.com/track/5m2AUv2rdMUhGNJ0fDAbvD?si=4ee43f1f2ad94eb5"
-"2021","Stefania","Last Dance",10,10,10,9,1,170,91,79,12,"https://youtu.be/QhZhJFp0vVw?si=qPZ3KlKRuWTx_1vz","https://music.apple.com/gb/album/last-dance/1556022181?i=1556022182","https://open.spotify.com/track/0x4GMUtMeZAbti9fhDQnhj?si=c427b9a7908241a1"
-"2022","Amanda Georgiadi Tenfjord","Die Together",17,8,6,12,6,215,158,57,101,"https://youtu.be/BWeT0nJpB3Y?si=0uGG1yQOaoKEskg9","https://music.apple.com/gb/album/die-together/1611018558?i=1611018559","https://open.spotify.com/track/35b0iM96Uid8KI5s83IEHM?si=10713f9e5b0740ee"
-"2023","Victor Vernicos","What They Say",,,,,,,,,,"https://youtu.be/gJSZA0Zh2xU?si=vPnljE-pPU65OpGr","https://music.apple.com/gb/album/what-they-say/1674235550?i=1674235568","https://open.spotify.com/track/7DYkoGwnTbEMGiNuoiB1gs?si=354be777059e4e09"
-"2024","Marina Satti","ZARI",,,,,,,,,,"https://youtu.be/uTYalXf184A?si=rcuXIy0yoQEyUmqZ","https://music.apple.com/gb/album/zari/1734215972?i=1734216111","https://open.spotify.com/track/4sDLQ5atDUHhbikD1UQ2mW?si=a569db559d4547c9"
+"sourceTable";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"placedDiff";"totalPoints";"pointsJury";"pointsTelevote";"pointsDiff";"youtubeLink";"appleMusicLink";"spotifyLink"
+"1974";"Marinella";"Krassi, thalassa ke t' agori mou";5;7;7;;;7;7;;;"https://youtu.be/gG4SeyE05GQ?si=aOztHCqPtpR5M2Jq";"https://music.apple.com/gb/album/krasi-thalassa-kai-t-agori-mou/1592501087?i=1592501287";"https://open.spotify.com/track/0pvtrFkx4j5VbxnNBHmuzE?si=3f64a4a4749445ab"
+"1976";"Mariza Koch";"Panaghia mou, panaghia mou";10;13;13;;;20;20;;;"https://youtu.be/HiHObibSvmc?si=25lin9sFy3woQafT";;"https://open.spotify.com/track/3lcgn8yJcOPZtBpAnLe5ck?si=9a55851e75c94293"
+"1977";"Pascalis, Marianna, Robert and Bessy";"Mathema solfege";10;5;5;;;92;92;;;"https://youtu.be/ov6n4OkF7EE?si=s26E92C7YaWn2TYq";"https://music.apple.com/gb/album/mathima-solfez-feat-paschalis-marianne-robert-bessy/1601763385?i=1601763392";"https://open.spotify.com/track/3dbavuu1mHOSbm51LaYJ2W?si=d20cf5a7b46346ea"
+"1978";"Tania Tsanaklidou";"Charlie Chaplin";15;8;8;;;66;66;;;"https://youtu.be/iQAUlN2Cgps?si=uA7DwKO5vGLcpycK";;"https://open.spotify.com/track/2BcjzwGE9Nwoqe6rqplYxD?si=c15d71d5bcc548b3"
+"1979";"Elpida";"Socrates";7;8;8;;;69;69;;;"https://youtu.be/vx4Odfzrrzk?si=bHDZ9C9wZih97FHi";;"https://open.spotify.com/track/0Jd0462vatmBiMP1D0PeJA?si=28e6637f5f0f428d"
+"1980";"Anna Vissi and the Epikouri";"Autostop";3;13;13;;;30;30;;;"https://youtu.be/I0U-mcz286w?si=VfwVtd6X-ngGHWL_";;"https://open.spotify.com/track/5CJLIycRVcRIc4T9WfyVmM?si=7cd76427dfd64243"
+"1981";"Yiannis Dimitras";"Feggari kalokerino";17;8;8;;;55;55;;;"https://youtu.be/-cuf1yoHO0Y?si=BUpyfc3ewqHk8dmI";"https://music.apple.com/gb/album/feggari-kalokairino/1736147616?i=1736149243";
+"1983";"Christie";"Mou les";10;12;12;;;32;32;;;"https://youtu.be/Bu2vkIBp64o?si=FFyWew7q0EFmNFy6";;
+"1985";"Takis Biniaris";"Miazoume";19;15;15;;;15;15;;;"https://youtu.be/_HIqrWzh75w?si=lvXcwAaSX-iP3GGO";;
+"1987";"Bang";"Stop";11;9;9;;;64;64;;;"https://youtu.be/IC_avvTCizY?si=5Q6f5NOCOFTjfOrV";;"https://open.spotify.com/track/4g4kkEPeUIMYplFu63Zg5D?si=d66cee6224634f5a"
+"1988";"Afroditi Fryda";"Clown";14;16;16;;;10;10;;;"https://youtu.be/H2HpvHVWJGg?si=fSn0agt04voAW5Q-";;
+"1989";"Marianna";"To diko sou asteri";19;9;9;;;56;56;;;"https://youtu.be/2qTBzFBOdBU?si=FpZ-l2EAw2CNQ-cR";;
+"1990";"Christos Callow";"Horis skopo";2;18;18;;;11;11;;;"https://youtu.be/_vN1T49wYg8?si=rqwWxiEKCoRfHLO6";;
+"1991";"Sophia Vossou";"Anixi";4;11;11;;;36;36;;;"https://youtu.be/PyjC9NWoeXk?si=fMBBmq2c7birb_TQ";"https://music.apple.com/gb/album/anixi/408171971?i=408172003";"https://open.spotify.com/track/4HibdCR6fMsbX9GFtiN3og?si=38e194d0b46041fb"
+"1992";"Cleopatra";"Olou tou kosmou i elpida";5;5;5;;;94;94;;;"https://youtu.be/nr1eFZVXAeE?si=mOzBzJGr96Rza3Rk";"https://music.apple.com/gb/album/olou-tou-kosmou-i-elpida/715759976?i=715760228";"https://open.spotify.com/track/2Qdpk0IJ7qi0UGbAfCeTxG?si=8f6528cb58644ece"
+"1993";"Katerina Garbi";"Ellada, hora tou fotos";6;9;9;;;64;64;;;"https://youtu.be/0aKWP2vs26M?si=UV6fNPdxa-ZitYXm";"https://music.apple.com/gb/album/ellada-hora-tou-fotos/459513730?i=459513765";"https://open.spotify.com/track/1LdcPlnSrcFVH7BLZK2bZe?si=86fab583ff1b47e1"
+"1994";"Kostas Bigalis and the Sea Lovers";"To trehandiri (Diri Diri)";19;14;14;;;44;44;;;"https://youtu.be/0lpwU9-2Y6Y?si=kBdxeEIglmDIDy1u";"https://music.apple.com/gb/album/to-trehantiri/1496335575?i=1496335651";"https://open.spotify.com/track/4vUlYrhHCeeE6PWcJTWKMz?si=ff14b001e4b04bc1"
+"1995";"Elina Konstantopoulou";"Pia prosefhi";23;11;11;;;68;68;;;"https://youtu.be/SrTLEZZEChw?si=pV2pUX_bhwr8_ily";;
+"1996";"Marianna Efstratiou";"Emis forame to himona anixiatika";10;13;13;;;36;36;;;"https://youtu.be/uBqXbubScaI?si=pS-CvoPd5Lx5vgqP";;
+"1997";"Marianna Zorba";"Horepse";17;12;11;13;2;39;39;0;39;"https://youtu.be/JE7z2PhlKNE?si=II0_0aj9okyYNE1Q";"https://music.apple.com/gb/album/horepse/503484705?i=503484863";"https://open.spotify.com/track/1apgG2i2HPhQNQN4GZEKpL?si=da9afac6aa7642e8"
+"1998";"Thalassa";"Mia krifi evaisthisia";2;19;15;17;2;12;0;12;12;"https://youtu.be/SAoLC9MCQcw?si=DxHowL7DbjKdxywS";;
+"2001";"Antique";"Die for You";22;3;4;3;1;147;24;123;99;"https://youtu.be/H9z-Im59asU?si=f_gtoqtByzUspBxg";"https://music.apple.com/gb/album/i-would-die-for-you/375834795?i=375834808";"https://open.spotify.com/track/2byZAXWOqDx3w8suK3btui?si=cfd96c41561f4184"
+"2002";"Michalis Rakintzis";"S.A.G.A.P.O.";4;14;10;20;10;27;21;6;15;;;
+"2003";"Mando";"Never Let You Go";17;15;14;15;1;25;2;23;21;;;
+"2004";"Sakis Rouvas";"Shake It";16;3;;3;;252;;252;;;;
+"2005";"Helena Paparizou";"My Number One";19;1;8;1;7;218;8;210;202;;;
+"2006";"Anna Vissi";"Everything";16;9;4;8;4;128;8;120;112;;;
+"2007";"Sarbel";"Yassou Maria";10;7;5;8;3;139;7;132;125;;;
+"2008";"Kalomira";"Secret Combination";21;3;1;3;2;218;12;206;194;;;
+"2009";"Sakis Rouvas";"This Is Our Night";8;13;10;13;3;159;93;66;27;;;
+"2010";"Giorgos Alkaios and Friends";"Opa";11;8;10;7;3;262;110;152;42;;;
+"2011";"Loukas Yorkas feat. Stereo Mike";"Watch My Dance";9;5;13;3;10;260;84;176;92;;;
+"2012";"Eleftheria Eleftheriou";"Aphrodisiac";16;15;16;9;7;149;60;89;29;;;
+"2013";"Koza Mostra feat. Agathon Iakovidis";"Alcohol Is Free";21;6;;;;;;;;;;
+"2014";"Freaky Fortune feat. RiskyKidd";"Rise Up";10;18;19;13;6;92;49;43;6;;;
+"2015";"Maria Elena Kyriakou";"One Last Breath";15;20;16;22;6;50;29;21;8;;;
+"2016";"Argo";"Utopian Land";;;;;;;;;;;;
+"2017";"Demy";"This Is Love";15;8;16;7;9;200;48;152;104;;;
+"2018";"Yianna Terzi";"Oniro mou (Όνειρό μου)";;;;;;;;;;;;
+"2019";"Katerine Duska";"Better Love";13;20;14;21;7;74;50;24;26;"https://youtu.be/5pQV_-40m_U?si=zOYsxLXSBDbz1ODG";"https://music.apple.com/gb/album/better-love/1455395668?i=1455395757";"https://open.spotify.com/track/0QvJ5pNWlnMiLIxr7M6t3N?si=7b0911107cdb4c2e"
+"2020";"Stefania";"Supergirl";;;;;;;;;;"https://youtu.be/dJxCINWp_j0?si=3OGmsHp9EoCwHK4F";"https://music.apple.com/gb/album/superg-rl/1500416433?i=1500416434";"https://open.spotify.com/track/5m2AUv2rdMUhGNJ0fDAbvD?si=4ee43f1f2ad94eb5"
+"2021";"Stefania";"Last Dance";10;10;10;9;1;170;91;79;12;"https://youtu.be/QhZhJFp0vVw?si=qPZ3KlKRuWTx_1vz";"https://music.apple.com/gb/album/last-dance/1556022181?i=1556022182";"https://open.spotify.com/track/0x4GMUtMeZAbti9fhDQnhj?si=c427b9a7908241a1"
+"2022";"Amanda Georgiadi Tenfjord";"Die Together";17;8;6;12;6;215;158;57;101;"https://youtu.be/BWeT0nJpB3Y?si=0uGG1yQOaoKEskg9";"https://music.apple.com/gb/album/die-together/1611018558?i=1611018559";"https://open.spotify.com/track/35b0iM96Uid8KI5s83IEHM?si=10713f9e5b0740ee"
+"2023";"Victor Vernicos";"What They Say";;;;;;;;;;"https://youtu.be/gJSZA0Zh2xU?si=vPnljE-pPU65OpGr";"https://music.apple.com/gb/album/what-they-say/1674235550?i=1674235568";"https://open.spotify.com/track/7DYkoGwnTbEMGiNuoiB1gs?si=354be777059e4e09"
+"2024";"Marina Satti";"ZARI";;;;;;;;;;"https://youtu.be/uTYalXf184A?si=rcuXIy0yoQEyUmqZ";"https://music.apple.com/gb/album/zari/1734215972?i=1734216111";"https://open.spotify.com/track/4sDLQ5atDUHhbikD1UQ2mW?si=a569db559d4547c9"

@@ -1,18 +1,18 @@
-"sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-"2007","Marija Šerifović","Molitva",17,1,11,1,10,268,1,267,266,,,
-"2008","Jelena Tomašević feat. Bora Dugić","Oro",23,6,11,6,5,160,0,160,160,,,
-"2009","Marko Kon and Milaan","Cipela",,,,,,,,,,,,
-"2010","Milan Stanković","Ovo je Balkan",8,15,19,10,9,147,37,110,73,,,
-"2011","Nina","Čaroban",24,11,8,12,4,200,111,89,22,,,
-"2012","Željko Joksimović","Nije ljubav stvar",24,2,2,3,1,484,173,311,138,,,
-"2013","Moje 3","Ljubav je svuda",,,,,,,,,,,,
-"2015","Bojana Stamenov","Beauty Never Lies",8,10,14,10,4,120,34,86,52,,,
-"2016","Sanja Vučić Zaa","Goodbye (Shelter)",15,17,22,11,11,115,35,80,45,,,
-"2017","Tijana Bogićević","In Too Deep",,,,,,,,,,,,
-"2018","Sanja Ilić and Balkanika","Nova deca (Нова деца)",10,9,19,5,14,226,38,188,150,,,
-"2019","Nevena Božović","Kruna",23,17,18,13,5,89,35,54,19,"https://youtu.be/X0mdaeAyPvA?si=EAWyLTF8sGPgY8Yb","https://music.apple.com/gb/album/kruna/1584097419?i=1584097420","https://open.spotify.com/track/0D0yCWxBoaQb55KN3xtvpS?si=f71ff3f6627f4b0d"
-"2020","Hurricane","Hasta la vista",,,,,,,,,,"https://youtu.be/7fqZevYLUMs?si=_4IMBqFeXczsK-2t","https://music.apple.com/gb/album/hasta-la-vista/1572121157?i=1572121158","https://open.spotify.com/track/6lhcHjvp651xOq1vOqAdDe?si=96385f6640d14493"
-"2021","Hurricane","Loco loco",8,14,21,8,13,102,20,82,62,"https://youtu.be/Q1lkpIqf7a4?si=namT-m6JEDY3GezQ","https://music.apple.com/gb/album/loco-loco/1601804864?i=1601804865","https://open.spotify.com/track/3XsC53nR7WLjc3b1CAgXhB?si=96159a940b9243f8"
-"2022","Konstrakta","In corpore sano",24,5,10,4,6,312,87,225,138,"https://youtu.be/nBtQj1MfNYA?si=QtnKOGvuDR_FyBLP","https://music.apple.com/gb/album/in-corpore-sano/1610103738?i=1610103739","https://open.spotify.com/track/1JaOUMmaSZlWfONvT4HTlg?si=1bc324a821a7493a"
-"2023","Luke Black","Samo mi se spava",5,24,22,21,1,30,14,16,2,"https://youtu.be/gPRfg9wzbpw?si=R_8nvjLFJjx4bK3g","https://music.apple.com/gb/album/samo-mi-se-spava/1669728033?i=1669728034","https://open.spotify.com/track/7wLxoyWoClSUAlKGjaefQn?si=febfb41c501f4a28"
-"2024","Teya Dora","Ramonda",,,,,,,,,,"https://youtu.be/tJyBVRBiyKA?si=6NvpU9DnIH-_sFGq","https://music.apple.com/gb/album/ramonda/1727601676?i=1727601947","https://open.spotify.com/track/3q58lQ4ByWV5MR0VSeNer3?si=bbcf4ea3fbdc49be"
+"sourceTable";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"placedDiff";"totalPoints";"pointsJury";"pointsTelevote";"pointsDiff";"youtubeLink";"appleMusicLink";"spotifyLink"
+"2007";"Marija Šerifović";"Molitva";17;1;11;1;10;268;1;267;266;;;
+"2008";"Jelena Tomašević feat. Bora Dugić";"Oro";23;6;11;6;5;160;0;160;160;;;
+"2009";"Marko Kon and Milaan";"Cipela";;;;;;;;;;;;
+"2010";"Milan Stanković";"Ovo je Balkan";8;15;19;10;9;147;37;110;73;;;
+"2011";"Nina";"Čaroban";24;11;8;12;4;200;111;89;22;;;
+"2012";"Željko Joksimović";"Nije ljubav stvar";24;2;2;3;1;484;173;311;138;;;
+"2013";"Moje 3";"Ljubav je svuda";;;;;;;;;;;;
+"2015";"Bojana Stamenov";"Beauty Never Lies";8;10;14;10;4;120;34;86;52;;;
+"2016";"Sanja Vučić Zaa";"Goodbye (Shelter)";15;17;22;11;11;115;35;80;45;;;
+"2017";"Tijana Bogićević";"In Too Deep";;;;;;;;;;;;
+"2018";"Sanja Ilić and Balkanika";"Nova deca (Нова деца)";10;9;19;5;14;226;38;188;150;;;
+"2019";"Nevena Božović";"Kruna";23;17;18;13;5;89;35;54;19;"https://youtu.be/X0mdaeAyPvA?si=EAWyLTF8sGPgY8Yb";"https://music.apple.com/gb/album/kruna/1584097419?i=1584097420";"https://open.spotify.com/track/0D0yCWxBoaQb55KN3xtvpS?si=f71ff3f6627f4b0d"
+"2020";"Hurricane";"Hasta la vista";;;;;;;;;;"https://youtu.be/7fqZevYLUMs?si=_4IMBqFeXczsK-2t";"https://music.apple.com/gb/album/hasta-la-vista/1572121157?i=1572121158";"https://open.spotify.com/track/6lhcHjvp651xOq1vOqAdDe?si=96385f6640d14493"
+"2021";"Hurricane";"Loco loco";8;14;21;8;13;102;20;82;62;"https://youtu.be/Q1lkpIqf7a4?si=namT-m6JEDY3GezQ";"https://music.apple.com/gb/album/loco-loco/1601804864?i=1601804865";"https://open.spotify.com/track/3XsC53nR7WLjc3b1CAgXhB?si=96159a940b9243f8"
+"2022";"Konstrakta";"In corpore sano";24;5;10;4;6;312;87;225;138;"https://youtu.be/nBtQj1MfNYA?si=QtnKOGvuDR_FyBLP";"https://music.apple.com/gb/album/in-corpore-sano/1610103738?i=1610103739";"https://open.spotify.com/track/1JaOUMmaSZlWfONvT4HTlg?si=1bc324a821a7493a"
+"2023";"Luke Black";"Samo mi se spava";5;24;22;21;1;30;14;16;2;"https://youtu.be/gPRfg9wzbpw?si=R_8nvjLFJjx4bK3g";"https://music.apple.com/gb/album/samo-mi-se-spava/1669728033?i=1669728034";"https://open.spotify.com/track/7wLxoyWoClSUAlKGjaefQn?si=febfb41c501f4a28"
+"2024";"Teya Dora";"Ramonda";;;;;;;;;;"https://youtu.be/tJyBVRBiyKA?si=6NvpU9DnIH-_sFGq";"https://music.apple.com/gb/album/ramonda/1727601676?i=1727601947";"https://open.spotify.com/track/3q58lQ4ByWV5MR0VSeNer3?si=bbcf4ea3fbdc49be"
