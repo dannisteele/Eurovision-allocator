@@ -1,41 +1,41 @@
-"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-1,"Albania","Elhaida Dani","I'm Alive",39,26,11,17,9,8,119,26,93,67,,,
-2,"Armenia","Genealogy","Face the Shadow",45,6,14,20,11,9,95,18,77,59,,,
-3,"Australia","Guy Sebastian","Tonight Again",52,12,5,4,6,2,356,224,132,92,,,
-4,"Austria","The Makemakes","I Am Yours",8,14,22,13,27,14,40,40,0,40,,,
-5,"Azerbaijan","Elnur Hüseynov","Hour of the Wolf",50,24,17,12,19,7,75,48,27,21,,,
-6,"Belarus","Uzari and Maimuna","Time",41,,,,,,,,,,,,
-7,"Belgium","Loïc Nottet","Rhythm Inside",1,13,4,5,4,1,382,187,195,8,,,
-8,"Cyprus","John Karayiannis","One Thing I Should Have Done",24,11,18,9,23,14,71,63,8,55,,,
-9,"Czech Republic","Marta Jandová and Václav Noid Bárta","Hope Never Dies",46,,,,,,,,,,,,
-10,"Denmark","Anti Social Media","The Way You Are",9,,,,,,,,,,,,
-11,"Estonia","Elina Born and Stig Rästa","Goodbye to Yesterday",29,4,8,11,5,6,200,56,144,88,,,
-12,"Finland","Pertti Kurikan Nimipäivät","Aina mun pitää",14,,,,,,,,,,,,
-13,"France","Lisa Angell","N'oubliez pas",2,2,24,18,25,7,29,24,5,19,,,
-14,"Georgia","Nina Sublatti","Warrior",47,23,12,10,13,3,113,62,51,11,,,
-15,"Germany","Ann Sophie","Black Smoke",3,17,25,18,26,8,28,24,4,20,,,
-16,"Greece","Maria Elena Kyriakou","One Last Breath",21,15,20,16,22,6,50,29,21,8,,,
-17,"Hungary","Boggie","Wars for Nothing",30,22,19,16,21,5,53,29,24,5,,,
-18,"Iceland","Maria Olafs","Unbroken",25,,,,,,,,,,,,
-19,"Ireland","Molly Sterling","Playing with Numbers",18,,,,,,,,,,,,
-20,"Israel","Nadav Guedj","Golden Boy",20,3,9,8,7,1,184,80,104,24,,,
-21,"Italy","Il Volo","Grande Amore",4,27,2,6,1,5,550,184,366,182,,,
-22,"Latvia","Aminata","Love Injected",37,19,6,2,8,6,349,249,100,149,,,
-23,"Lithuania","Monika Linkytė and Vaidas Baumila","This Time",31,7,17,15,16,1,75,31,44,13,,,
-24,"Macedonia","Daniel Kajmakoski","Autumn Leaves",36,,,,,,,,,,,,
-25,"Malta","Amber","Warrior",19,,,,,,,,,,,,
-26,"Moldova","Eduard Romanyuta","I Want Your Love",44,,,,,,,,,,,,
-27,"Montenegro","Knez","Adio",48,16,13,12,14,2,96,48,48,0,,,
-28,"Netherlands","Trijntje Oosterhuis","Walk Along",6,,,,,,,,,,,,
-29,"Norway","Mørland and Debrah Scarlett","A Monster Like Me",13,9,7,7,17,10,206,163,43,120,,,
-30,"Poland","Monika Kuszyńska","In the Name of Love",32,18,21,23,15,8,49,2,47,45,,,
-31,"Portugal","Leonor Andrade","Há um mar que nos separa",17,,,,,,,,,,,,
-32,"Romania","Voltaj","De la capăt",33,20,15,19,12,7,90,21,69,48,,,
-33,"Russia","Polina Gagarina","A Million Voices",34,25,3,3,2,1,533,247,286,39,,,
-34,"San Marino","Anita Simoncini and Michele Perniola","Chain of Lights",51,,,,,,,,,,,,
-35,"Serbia","Bojana Stamenov","Beauty Never Lies",49,8,10,14,10,4,120,34,86,52,,,
-36,"Slovenia","Maraaya","Here for You",28,1,16,12,18,6,82,48,34,14,,,
-37,"Spain","Edurne","Amanecer",15,21,23,22,20,2,34,8,26,18,,,
-38,"Sweden","Måns Zelmerlöw","Heroes",11,10,1,1,3,2,642,363,279,84,,,
-39,"Switzerland","Mélanie René","Time to Shine",7,,,,,,,,,,,,
-40,"United Kingdom","Electro Velvet","Still in Love with You",10,5,26,21,24,3,19,12,7,5,,,
+"id";"country";"artist";"song";"countryId";"runningOrder";"placed";"placedJury";"placedTelevote";"placedDiff";"totalPoints";"pointsJury";"pointsTelevote";"pointsDiff";"youtubeLink";"appleMusicLink";"spotifyLink"
+1;"Albania";"Elhaida Dani";"I'm Alive";39;26;11;17;9;8;119;26;93;67;NULL;NULL;NULL
+2;"Armenia";"Genealogy";"Face the Shadow";45;6;14;20;11;9;95;18;77;59;NULL;NULL;NULL
+3;"Australia";"Guy Sebastian";"Tonight Again";52;12;5;4;6;2;356;224;132;92;NULL;NULL;NULL
+4;"Austria";"The Makemakes";"I Am Yours";8;14;22;13;27;14;40;40;0;40;NULL;NULL;NULL
+5;"Azerbaijan";"Elnur Hüseynov";"Hour of the Wolf";50;24;17;12;19;7;75;48;27;21;NULL;NULL;NULL
+6;"Belarus";"Uzari and Maimuna";"Time";41;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+7;"Belgium";"Loïc Nottet";"Rhythm Inside";1;13;4;5;4;1;382;187;195;8;NULL;NULL;NULL
+8;"Cyprus";"John Karayiannis";"One Thing I Should Have Done";24;11;18;9;23;14;71;63;8;55;NULL;NULL;NULL
+9;"Czech Republic";"Marta Jandová and Václav Noid Bárta";"Hope Never Dies";46;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+10;"Denmark";"Anti Social Media";"The Way You Are";9;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+11;"Estonia";"Elina Born and Stig Rästa";"Goodbye to Yesterday";29;4;8;11;5;6;200;56;144;88;NULL;NULL;NULL
+12;"Finland";"Pertti Kurikan Nimipäivät";"Aina mun pitää";14;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+13;"France";"Lisa Angell";"N'oubliez pas";2;2;24;18;25;7;29;24;5;19;NULL;NULL;NULL
+14;"Georgia";"Nina Sublatti";"Warrior";47;23;12;10;13;3;113;62;51;11;NULL;NULL;NULL
+15;"Germany";"Ann Sophie";"Black Smoke";3;17;25;18;26;8;28;24;4;20;NULL;NULL;NULL
+16;"Greece";"Maria Elena Kyriakou";"One Last Breath";21;15;20;16;22;6;50;29;21;8;NULL;NULL;NULL
+17;"Hungary";"Boggie";"Wars for Nothing";30;22;19;16;21;5;53;29;24;5;NULL;NULL;NULL
+18;"Iceland";"Maria Olafs";"Unbroken";25;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+19;"Ireland";"Molly Sterling";"Playing with Numbers";18;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+20;"Israel";"Nadav Guedj";"Golden Boy";20;3;9;8;7;1;184;80;104;24;NULL;NULL;NULL
+21;"Italy";"Il Volo";"Grande Amore";4;27;2;6;1;5;550;184;366;182;NULL;NULL;NULL
+22;"Latvia";"Aminata";"Love Injected";37;19;6;2;8;6;349;249;100;149;NULL;NULL;NULL
+23;"Lithuania";"Monika Linkytė and Vaidas Baumila";"This Time";31;7;17;15;16;1;75;31;44;13;NULL;NULL;NULL
+24;"Macedonia";"Daniel Kajmakoski";"Autumn Leaves";36;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+25;"Malta";"Amber";"Warrior";19;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+26;"Moldova";"Eduard Romanyuta";"I Want Your Love";44;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+27;"Montenegro";"Knez";"Adio";48;16;13;12;14;2;96;48;48;0;NULL;NULL;NULL
+28;"Netherlands";"Trijntje Oosterhuis";"Walk Along";6;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+29;"Norway";"Mørland and Debrah Scarlett";"A Monster Like Me";13;9;7;7;17;10;206;163;43;120;NULL;NULL;NULL
+30;"Poland";"Monika Kuszyńska";"In the Name of Love";32;18;21;23;15;8;49;2;47;45;NULL;NULL;NULL
+31;"Portugal";"Leonor Andrade";"Há um mar que nos separa";17;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+32;"Romania";"Voltaj";"De la capăt";33;20;15;19;12;7;90;21;69;48;NULL;NULL;NULL
+33;"Russia";"Polina Gagarina";"A Million Voices";34;25;3;3;2;1;533;247;286;39;NULL;NULL;NULL
+34;"San Marino";"Anita Simoncini and Michele Perniola";"Chain of Lights";51;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+35;"Serbia";"Bojana Stamenov";"Beauty Never Lies";49;8;10;14;10;4;120;34;86;52;NULL;NULL;NULL
+36;"Slovenia";"Maraaya";"Here for You";28;1;16;12;18;6;82;48;34;14;NULL;NULL;NULL
+37;"Spain";"Edurne";"Amanecer";15;21;23;22;20;2;34;8;26;18;NULL;NULL;NULL
+38;"Sweden";"Måns Zelmerlöw";"Heroes";11;10;1;1;3;2;642;363;279;84;NULL;NULL;NULL
+39;"Switzerland";"Mélanie René";"Time to Shine";7;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+40;"United Kingdom";"Electro Velvet";"Still in Love with You";10;5;26;21;24;3;19;12;7;5;NULL;NULL;NULL

@@ -1,25 +1,25 @@
-"sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-"1994","Youddiph","Vechny strannik",23,9,9,,,70,70,,,"https://youtu.be/IAnQRVRXSBs?si=NWgaNLQif_7Acnj0",,
-"1995","Philipp Kirkorov","Kolybelnaya dlya vulkana",6,16,16,,,17,17,,,"https://youtu.be/mZTZPE1mV2s?si=wbapOSqt2m7IrJaZ",,
-"1997","Alla Pugacheva","Primadonna",20,14,14,12,2,33,28,5,23,"https://youtu.be/QVJnjdROPOA?si=F9IykTsd-_lw8bQk","https://music.apple.com/gb/album/%D0%BF%D1%80%D0%B8%D0%BC%D0%B0%D0%B4%D0%BE%D0%BD%D0%BD%D0%B0/1140433765?i=1140433876","https://open.spotify.com/track/31Rjho6UM6CnYH2ZUvSFTO?si=14ea7ff86d7641c8"
-"2000","Alsou","Solo",9,2,5,2,3,155,19,136,117,"https://youtu.be/4HtYwbnihmo?si=nKcYzJdqw8F1iU7p","https://music.apple.com/gb/album/solo/1655971272?i=1655972157","https://open.spotify.com/track/6Tf3FCVDL3qDM7IiBjUZh6?si=eaef539d9ac84c37"
-"2001","Mumiy Troll","Lady Alpine Blue",6,12,13,10,3,37,4,33,29,"https://youtu.be/cI33ZG-vL1I?si=6yxpxw6QMGAKYUWb",,
-"2002","Prime Minister","Northern Girl",7,9,9,9,0,55,22,33,11,,,
-"2003","t.A.T.u.","Ne ver', ne boysia",11,3,13,1,12,164,3,161,158,,,
-"2004","Julia Savicheva","Believe Me",14,10,,10,,67,,67,,,,
-"2005","Natalia Podolskaya","Nobody Hurt No One",20,14,6,15,9,57,10,47,37,,,
-"2006","Dima Bilan","Never Let You Go",10,2,8,2,6,248,4,244,240,,,
-"2007","Serebro","Song #1",15,3,9,3,6,207,3,204,201,,,
-"2008","Dima Bilan","Believe",24,1,11,1,10,272,0,272,272,,,
-"2009","Anastasia Prikhodko","Mamo",10,10,16,8,8,185,67,118,51,,,
-"2010","Peter Nalitch and Friends","Lost and Forgotten",20,12,14,11,3,170,63,107,44,,,
-"2011","Alexey Vorobyov","Get You",10,17,24,7,17,163,25,138,113,,,
-"2012","Buranovskiye Babushki","Party for Everybody",6,3,10,2,8,426,94,332,238,,,
-"2013","Dina Garipova","What If",10,5,,,,,,,,,,
-"2014","Tolmachevy Sisters","Shine",15,6,13,6,7,202,70,132,62,,,
-"2015","Polina Gagarina","A Million Voices",25,3,3,2,1,533,247,286,39,,,
-"2016","Sergey Lazarev","You Are the Only One",18,10,5,16,11,181,130,51,79,,,
-"2018","Julia Samoylova","I Won't Break",,,,,,,,,,,,
-"2019","Sergey Lazarev","Scream",5,3,9,4,5,370,126,244,118,"https://youtu.be/eNzlxEZ_JG4?si=s4Fbtpb-X7DBEtWr","https://music.apple.com/gb/album/scream/1455365611?i=1455365616","https://open.spotify.com/track/3YZXQCUFSP8YffSegMm8xd?si=2164682d872d4c46"
-"2020","Little Big","Uno",,,,,,,,,,"https://youtu.be/L_dWvTCdDQ4?si=AGrEqD5eX2yhg2-i","https://music.apple.com/gb/album/uno/1502390329?i=1502390336","https://open.spotify.com/track/1ucAgkQ4EQDCSXQ2kEk99k?si=28a6bed4d9ac47dc"
-"2021","Manizha","Russian Woman",6,9,8,7,1,204,104,100,4,"https://youtu.be/V-Di9A28e5E?si=3Dusv8c9eW2TwkYS","https://music.apple.com/gb/album/russian-woman/1558497187?i=1558497274","https://open.spotify.com/track/6Dz383ZHSKzWh5ZTL7aRra?si=8fd35491314240aa"
+"sourceTable";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"placedDiff";"totalPoints";"pointsJury";"pointsTelevote";"pointsDiff";"youtubeLink";"appleMusicLink";"spotifyLink"
+"1994";"Youddiph";"Vechny strannik";23;9;9;NULL;NULL;70;70;NULL;NULL;"https://youtu.be/IAnQRVRXSBs?si=NWgaNLQif_7Acnj0";NULL;NULL
+"1995";"Philipp Kirkorov";"Kolybelnaya dlya vulkana";6;16;16;NULL;NULL;17;17;NULL;NULL;"https://youtu.be/mZTZPE1mV2s?si=wbapOSqt2m7IrJaZ";NULL;NULL
+"1997";"Alla Pugacheva";"Primadonna";20;14;14;12;2;33;28;5;23;"https://youtu.be/QVJnjdROPOA?si=F9IykTsd-_lw8bQk";"https://music.apple.com/gb/album/%D0%BF%D1%80%D0%B8%D0%BC%D0%B0%D0%B4%D0%BE%D0%BD%D0%BD%D0%B0/1140433765?i=1140433876";"https://open.spotify.com/track/31Rjho6UM6CnYH2ZUvSFTO?si=14ea7ff86d7641c8"
+"2000";"Alsou";"Solo";9;2;5;2;3;155;19;136;117;"https://youtu.be/4HtYwbnihmo?si=nKcYzJdqw8F1iU7p";"https://music.apple.com/gb/album/solo/1655971272?i=1655972157";"https://open.spotify.com/track/6Tf3FCVDL3qDM7IiBjUZh6?si=eaef539d9ac84c37"
+"2001";"Mumiy Troll";"Lady Alpine Blue";6;12;13;10;3;37;4;33;29;"https://youtu.be/cI33ZG-vL1I?si=6yxpxw6QMGAKYUWb";NULL;NULL
+"2002";"Prime Minister";"Northern Girl";7;9;9;9;0;55;22;33;11;NULL;NULL;NULL
+"2003";"t.A.T.u.";"Ne ver', ne boysia";11;3;13;1;12;164;3;161;158;NULL;NULL;NULL
+"2004";"Julia Savicheva";"Believe Me";14;10;NULL;10;NULL;67;NULL;67;NULL;NULL;NULL;NULL
+"2005";"Natalia Podolskaya";"Nobody Hurt No One";20;14;6;15;9;57;10;47;37;NULL;NULL;NULL
+"2006";"Dima Bilan";"Never Let You Go";10;2;8;2;6;248;4;244;240;NULL;NULL;NULL
+"2007";"Serebro";"Song #1";15;3;9;3;6;207;3;204;201;NULL;NULL;NULL
+"2008";"Dima Bilan";"Believe";24;1;11;1;10;272;0;272;272;NULL;NULL;NULL
+"2009";"Anastasia Prikhodko";"Mamo";10;10;16;8;8;185;67;118;51;NULL;NULL;NULL
+"2010";"Peter Nalitch and Friends";"Lost and Forgotten";20;12;14;11;3;170;63;107;44;NULL;NULL;NULL
+"2011";"Alexey Vorobyov";"Get You";10;17;24;7;17;163;25;138;113;NULL;NULL;NULL
+"2012";"Buranovskiye Babushki";"Party for Everybody";6;3;10;2;8;426;94;332;238;NULL;NULL;NULL
+"2013";"Dina Garipova";"What If";10;5;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+"2014";"Tolmachevy Sisters";"Shine";15;6;13;6;7;202;70;132;62;NULL;NULL;NULL
+"2015";"Polina Gagarina";"A Million Voices";25;3;3;2;1;533;247;286;39;NULL;NULL;NULL
+"2016";"Sergey Lazarev";"You Are the Only One";18;10;5;16;11;181;130;51;79;NULL;NULL;NULL
+"2018";"Julia Samoylova";"I Won't Break";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+"2019";"Sergey Lazarev";"Scream";5;3;9;4;5;370;126;244;118;"https://youtu.be/eNzlxEZ_JG4?si=s4Fbtpb-X7DBEtWr";"https://music.apple.com/gb/album/scream/1455365611?i=1455365616";"https://open.spotify.com/track/3YZXQCUFSP8YffSegMm8xd?si=2164682d872d4c46"
+"2020";"Little Big";"Uno";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/L_dWvTCdDQ4?si=AGrEqD5eX2yhg2-i";"https://music.apple.com/gb/album/uno/1502390329?i=1502390336";"https://open.spotify.com/track/1ucAgkQ4EQDCSXQ2kEk99k?si=28a6bed4d9ac47dc"
+"2021";"Manizha";"Russian Woman";6;9;8;7;1;204;104;100;4;"https://youtu.be/V-Di9A28e5E?si=3Dusv8c9eW2TwkYS";"https://music.apple.com/gb/album/russian-woman/1558497187?i=1558497274";"https://open.spotify.com/track/6Dz383ZHSKzWh5ZTL7aRra?si=8fd35491314240aa"

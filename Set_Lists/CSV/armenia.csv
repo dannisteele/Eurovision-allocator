@@ -1,18 +1,18 @@
-"sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-"2006","André","Without Your Love",24,8,12,7,5,129,0,129,129,,,
-"2007","Hayko","Anytime You Need",23,8,12,7,5,138,0,138,138,,,
-"2008","Sirusho","Qélé, Qélé",5,4,3,4,1,199,8,191,183,,,
-"2009","Inga and Anush","Jan Jan",9,11,14,9,5,182,71,111,40,,,
-"2010","Eva Rivas","Apricot Stone",21,7,9,5,4,277,116,161,45,,,
-"2011","Emmy","Boom Boom",,,,,,,,,,,,
-"2013","Dorians","Lonely Planet",12,17,,,,,,,,,,
-"2014","Aram Mp3","Not Alone",7,4,5,3,2,318,125,193,68,,,
-"2015","Genealogy","Face the Shadow",6,14,20,11,9,95,18,77,59,,,
-"2016","Iveta Mukuchyan","LoveWave",26,7,9,7,2,249,115,134,19,,,
-"2017","Artsvik","Fly with Me",5,7,14,5,9,282,58,224,166,,,
-"2018","Sevak Khanagyan","Qami (Քամի)",,,,,,,,,,,,
-"2019","Srbuk","Walking Out",,,,,,,,,,"https://youtu.be/avBwSUYlTtI?si=W0Rq-JZFnC3dJj4z","https://music.apple.com/gb/album/walking-out/1456627742?i=1456627743","https://open.spotify.com/track/5ilWyRLCjLzlWwjSwPasgl?si=bbb299f73d0a4463"
-"2020","Athena Manoukian","Chains on You",,,,,,,,,,"https://youtu.be/XpQHGMM8c5U?si=7t-ZO-YT-z2ELMGl","https://music.apple.com/gb/album/chains-on-you/1497877746?i=1497877747","https://open.spotify.com/track/25TXiqSP8luMwjvKU00EO3?si=b166644af71c475a"
-"2022","Rosa Linn","Snap",8,20,15,17,2,61,40,21,19,"https://youtu.be/DAJ6vfmD_ic?si=naYkOEo0_Ua6uS_F","https://music.apple.com/gb/album/snap/1646526226?i=1646526227","https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH?si=1285dc48e80546d3"
-"2023","Brunette","Future Lover",17,14,12,13,1,122,69,53,16,"https://youtu.be/h0q7AkYk2hY?si=PBn0enWTVPkdI2hX","https://music.apple.com/gb/album/future-lover/1678120573?i=1678121176","https://open.spotify.com/track/3MKTciJfDAJjO0SjFZQsVx?si=15830d52ed714f46"
-"2024","Ladaniva","Jako",,,,,,,,,,"https://youtu.be/_6xfmW0Fc40?si=sLHG6t_G3Olzk9vy","https://music.apple.com/gb/album/jako/1694486274?i=1694486616","https://open.spotify.com/track/2MiEtw8UquKvxOwu47oTMu?si=78092642cd084ee6"
+"sourceTable";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"placedDiff";"totalPoints";"pointsJury";"pointsTelevote";"pointsDiff";"youtubeLink";"appleMusicLink";"spotifyLink"
+"2006";"André";"Without Your Love";24;8;12;7;5;129;0;129;129;NULL;NULL;NULL
+"2007";"Hayko";"Anytime You Need";23;8;12;7;5;138;0;138;138;NULL;NULL;NULL
+"2008";"Sirusho";"Qélé, Qélé";5;4;3;4;1;199;8;191;183;NULL;NULL;NULL
+"2009";"Inga and Anush";"Jan Jan";9;11;14;9;5;182;71;111;40;NULL;NULL;NULL
+"2010";"Eva Rivas";"Apricot Stone";21;7;9;5;4;277;116;161;45;NULL;NULL;NULL
+"2011";"Emmy";"Boom Boom";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+"2013";"Dorians";"Lonely Planet";12;17;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+"2014";"Aram Mp3";"Not Alone";7;4;5;3;2;318;125;193;68;NULL;NULL;NULL
+"2015";"Genealogy";"Face the Shadow";6;14;20;11;9;95;18;77;59;NULL;NULL;NULL
+"2016";"Iveta Mukuchyan";"LoveWave";26;7;9;7;2;249;115;134;19;NULL;NULL;NULL
+"2017";"Artsvik";"Fly with Me";5;7;14;5;9;282;58;224;166;NULL;NULL;NULL
+"2018";"Sevak Khanagyan";"Qami (Քամի)";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+"2019";"Srbuk";"Walking Out";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/avBwSUYlTtI?si=W0Rq-JZFnC3dJj4z";"https://music.apple.com/gb/album/walking-out/1456627742?i=1456627743";"https://open.spotify.com/track/5ilWyRLCjLzlWwjSwPasgl?si=bbb299f73d0a4463"
+"2020";"Athena Manoukian";"Chains on You";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/XpQHGMM8c5U?si=7t-ZO-YT-z2ELMGl";"https://music.apple.com/gb/album/chains-on-you/1497877746?i=1497877747";"https://open.spotify.com/track/25TXiqSP8luMwjvKU00EO3?si=b166644af71c475a"
+"2022";"Rosa Linn";"Snap";8;20;15;17;2;61;40;21;19;"https://youtu.be/DAJ6vfmD_ic?si=naYkOEo0_Ua6uS_F";"https://music.apple.com/gb/album/snap/1646526226?i=1646526227";"https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH?si=1285dc48e80546d3"
+"2023";"Brunette";"Future Lover";17;14;12;13;1;122;69;53;16;"https://youtu.be/h0q7AkYk2hY?si=PBn0enWTVPkdI2hX";"https://music.apple.com/gb/album/future-lover/1678120573?i=1678121176";"https://open.spotify.com/track/3MKTciJfDAJjO0SjFZQsVx?si=15830d52ed714f46"
+"2024";"Ladaniva";"Jako";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/_6xfmW0Fc40?si=sLHG6t_G3Olzk9vy";"https://music.apple.com/gb/album/jako/1694486274?i=1694486616";"https://open.spotify.com/track/2MiEtw8UquKvxOwu47oTMu?si=78092642cd084ee6"

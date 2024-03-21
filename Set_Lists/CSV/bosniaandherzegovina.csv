@@ -1,20 +1,20 @@
-"sourceTable","artist","song","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-"1993","Fazla","Sva bol svijeta",18,16,16,,,27,27,,,"https://youtu.be/DREeDXs9ijc?si=WJ4YIp1fZRZRljyZ","https://music.apple.com/gb/album/sva-bol-svijeta-eurosong-1993/286503323?i=286503822","https://open.spotify.com/track/6phethNfdodlInhpLHxiWH?si=bf0f3feab0a0404f"
-"1994","Alma and Dejan","Ostani kraj mene",18,15,15,,,39,39,,,"https://youtu.be/9t-ptOfHvtQ?si=Y1AfaPssWDIhVdBd",,"https://open.spotify.com/track/4DDRFA6YSSVkJlUz8Ev1ia?si=f8e2abe6aa134747"
-"1995","Davor Popović","Dvadeset prvi vijek",4,18,18,,,14,14,,,"https://youtu.be/fGYt_iYm4_g?si=M0NYz8NvTUKgS2Ku","https://music.apple.com/gb/album/dvadeset-i-prvi-vijek/518579287?i=518579374",
-"1996","Amila Glamočak","Za našu ljubav",21,20,20,,,13,13,,,"https://youtu.be/3062NrjNusI?si=x6hSSqVR3n1B7mDP",,
-"1997","Alma Čardžić","Goodbye",14,17,19,8,11,22,9,13,4,"https://youtu.be/7mOjQiQZz2g?si=2lYeTFLNtdp_OhFh",,
-"1999","Dino and Béatrice","Putnici",22,7,9,6,3,86,7,79,72,"https://youtu.be/RRxgcossuOs?si=FNhJxu7f2aRDoRS-","https://music.apple.com/gb/album/putnici-with-beatrice-poulot/486797541?i=486797632","https://open.spotify.com/track/299hwAdhT3YRJ3DvGx6FTB?si=08220e1b58134d12"
-"2001","Nino","Hano",3,14,12,12,0,29,6,23,17,"https://youtu.be/7_D7uZ92Y00?si=IUdLvPtaksc0tN1R","https://music.apple.com/gb/album/hano/260009845?i=260011301",
-"2002","Maja","Na jastuku za dvoje",15,12,14,13,1,33,11,22,11,,,
-"2003","Mija Martina","Ne brini",6,14,16,14,2,27,0,27,27,,,
-"2004","Deen","In the Disco",12,8,,8,,91,,91,,,,
-"2005","Feminnem","Call Me",21,13,14,12,2,79,0,79,79,,,
-"2006","Hari Mata Hari","Lejla",13,3,1,3,2,229,24,205,181,,,
-"2007","Marija Šestić","Rijeka bez imena",1,11,4,11,7,106,8,98,90,,,
-"2008","Laka","Pokušaj",6,10,11,10,1,110,0,110,110,,,
-"2009","Regina","Bistra voda",12,9,11,7,4,214,90,124,34,,,
-"2010","Vukašin Brajić","Thunder and Lightning",6,17,13,16,3,100,65,35,30,,,
-"2011","Dino Merlin","Love in Rewind",2,6,11,6,5,241,90,151,61,,,
-"2012","Maya Sar","Korake ti znam",5,17,13,15,2,128,71,57,14,,,
-"2016","Dalal and Deen feat. Ana Rucner and Jala","Ljubav je",,,,,,,,,,,,
+"sourceTable";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"placedDiff";"totalPoints";"pointsJury";"pointsTelevote";"pointsDiff";"youtubeLink";"appleMusicLink";"spotifyLink"
+"1993";"Fazla";"Sva bol svijeta";18;16;16;NULL;NULL;27;27;NULL;NULL;"https://youtu.be/DREeDXs9ijc?si=WJ4YIp1fZRZRljyZ";"https://music.apple.com/gb/album/sva-bol-svijeta-eurosong-1993/286503323?i=286503822";"https://open.spotify.com/track/6phethNfdodlInhpLHxiWH?si=bf0f3feab0a0404f"
+"1994";"Alma and Dejan";"Ostani kraj mene";18;15;15;NULL;NULL;39;39;NULL;NULL;"https://youtu.be/9t-ptOfHvtQ?si=Y1AfaPssWDIhVdBd";NULL;"https://open.spotify.com/track/4DDRFA6YSSVkJlUz8Ev1ia?si=f8e2abe6aa134747"
+"1995";"Davor Popović";"Dvadeset prvi vijek";4;18;18;NULL;NULL;14;14;NULL;NULL;"https://youtu.be/fGYt_iYm4_g?si=M0NYz8NvTUKgS2Ku";"https://music.apple.com/gb/album/dvadeset-i-prvi-vijek/518579287?i=518579374";NULL
+"1996";"Amila Glamočak";"Za našu ljubav";21;20;20;NULL;NULL;13;13;NULL;NULL;"https://youtu.be/3062NrjNusI?si=x6hSSqVR3n1B7mDP";NULL;NULL
+"1997";"Alma Čardžić";"Goodbye";14;17;19;8;11;22;9;13;4;"https://youtu.be/7mOjQiQZz2g?si=2lYeTFLNtdp_OhFh";NULL;NULL
+"1999";"Dino and Béatrice";"Putnici";22;7;9;6;3;86;7;79;72;"https://youtu.be/RRxgcossuOs?si=FNhJxu7f2aRDoRS-";"https://music.apple.com/gb/album/putnici-with-beatrice-poulot/486797541?i=486797632";"https://open.spotify.com/track/299hwAdhT3YRJ3DvGx6FTB?si=08220e1b58134d12"
+"2001";"Nino";"Hano";3;14;12;12;0;29;6;23;17;"https://youtu.be/7_D7uZ92Y00?si=IUdLvPtaksc0tN1R";"https://music.apple.com/gb/album/hano/260009845?i=260011301";NULL
+"2002";"Maja";"Na jastuku za dvoje";15;12;14;13;1;33;11;22;11;NULL;NULL;NULL
+"2003";"Mija Martina";"Ne brini";6;14;16;14;2;27;0;27;27;NULL;NULL;NULL
+"2004";"Deen";"In the Disco";12;8;NULL;8;NULL;91;NULL;91;NULL;NULL;NULL;NULL
+"2005";"Feminnem";"Call Me";21;13;14;12;2;79;0;79;79;NULL;NULL;NULL
+"2006";"Hari Mata Hari";"Lejla";13;3;1;3;2;229;24;205;181;NULL;NULL;NULL
+"2007";"Marija Šestić";"Rijeka bez imena";1;11;4;11;7;106;8;98;90;NULL;NULL;NULL
+"2008";"Laka";"Pokušaj";6;10;11;10;1;110;0;110;110;NULL;NULL;NULL
+"2009";"Regina";"Bistra voda";12;9;11;7;4;214;90;124;34;NULL;NULL;NULL
+"2010";"Vukašin Brajić";"Thunder and Lightning";6;17;13;16;3;100;65;35;30;NULL;NULL;NULL
+"2011";"Dino Merlin";"Love in Rewind";2;6;11;6;5;241;90;151;61;NULL;NULL;NULL
+"2012";"Maya Sar";"Korake ti znam";5;17;13;15;2;128;71;57;14;NULL;NULL;NULL
+"2016";"Dalal and Deen feat. Ana Rucner and Jala";"Ljubav je";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL

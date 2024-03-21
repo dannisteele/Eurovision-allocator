@@ -1,43 +1,43 @@
-"id","country","artist","song","countryId","runningOrder","placed","placedJury","placedTelevote","placedDiff","totalPoints","pointsJury","pointsTelevote","pointsDiff","youtubeLink","appleMusicLink","spotifyLink"
-1,"Albania","Rona Nishliu","Suus",39,3,5,3,8,5,263,157,106,51,,,
-2,"Austria","Trackshittaz","Woki mit deim Popo",8,,,,,,,,,,,,
-3,"Azerbaijan","Sabina Babayeva","When the Music Dies",50,13,4,7,5,2,269,118,151,33,,,
-4,"Belarus","Litesound","We Are the Heroes",41,,,,,,,,,,,,
-5,"Belgium","Iris","Would You?",1,,,,,,,,,,,,
-6,"Bosnia and Herzegovina","Maya Sar","Korake ti znam",26,5,17,13,15,2,128,71,57,14,,,
-7,"Bulgaria","Sofi Marinova","Love Unlimited",43,,,,,,,,,,,,
-8,"Croatia","Nina Badrić","Nebo",27,,,,,,,,,,,,
-9,"Cyprus","Ivi Adamou","La La Love",24,8,16,11,14,3,148,85,63,22,,,
-10,"Denmark","Soluna Samay","Should've Known Better",9,15,22,18,22,4,69,51,18,33,,,
-11,"Estonia","Ott Lepland","Kuula",29,11,6,5,11,6,230,152,78,74,,,
-12,"Finland","Pernilla","När jag blundar",14,,,,,,,,,,,,
-13,"France","Anggun","Echo (You and I)",2,9,20,11,25,14,85,85,0,85,,,
-14,"Georgia","Anri Jokhadze","I'm a Joker",47,,,,,,,,,,,,
-15,"Germany","Roman Lob","Standing Still",3,20,8,9,6,3,223,98,125,27,,,
-16,"Greece","Eleftheria Eleftheriou","Aphrodisiac",21,16,15,16,9,7,149,60,89,29,,,
-17,"Hungary","Compact Disco","Sound of Our Hearts",30,2,23,20,21,1,50,30,20,10,,,
-18,"Iceland","Greta Salóme and Jónsi","Never Forget",25,7,12,17,7,10,170,53,117,64,,,
-19,"Ireland","Jedward","Waterline",18,23,18,22,9,13,103,14,89,75,,,
-20,"Israel","Izabo","Time",20,,,,,,,,,,,,
-21,"Italy","Nina Zilli","L'amore è femmina (Out of Love)",4,10,9,3,16,13,213,157,56,101,,,
-22,"Latvia","Anmary","Beautiful Song",37,,,,,,,,,,,,
-23,"Lithuania","Donny Montell","Love Is Blind",31,4,14,12,13,1,150,82,68,14,,,
-24,"North Macedonia","Kaliopi","Crno i belo",36,22,16,15,10,5,148,69,79,10,,,
-25,"Malta","Kurt Calleja","This Is the Night",19,21,21,14,24,10,80,70,10,60,,,
-26,"Moldova","Pasha Parfeny","Lăutar",44,26,11,8,12,4,179,104,75,29,,,
-27,"Montenegro","Rambo Amadeus","Euro Neuro",48,,,,,,,,,,,,
-28,"Netherlands","Joan Franka","You and Me",6,,,,,,,,,,,,
-29,"Norway","Tooji","Stay",13,12,25,21,23,2,40,24,16,8,,,
-30,"Portugal","Filipa Sousa","Vida minha",17,,,,,,,,,,,,
-31,"Romania","Mandinga","Zaleilah",33,14,19,17,18,1,92,53,39,14,,,
-32,"Russia","Buranovskiye Babushki","Party for Everybody",34,6,3,10,2,8,426,94,332,238,,,
-33,"San Marino","Valentina Monetta","The Social Network Song (Oh Oh – Uh – Oh Oh)",51,,,,,,,,,,,,
-34,"Serbia","Željko Joksimović","Nije ljubav stvar",49,24,2,2,3,1,484,173,311,138,,,
-35,"Slovakia","Max Jason Mai","Don't Close Your Eyes",35,,,,,,,,,,,,
-36,"Slovenia","Eva Boto","Verjamem",28,,,,,,,,,,,,
-37,"Spain","Pastora Soler","Quédate conmigo",15,19,10,4,17,13,199,154,45,109,,,
-38,"Sweden","Loreen","Euphoria",11,17,1,1,1,0,639,296,343,47,,,
-39,"Switzerland","Sinplus","Unbreakable",7,,,,,,,,,,,,
-40,"Turkey","Can Bonomo","Love Me Back",22,18,7,19,4,15,226,50,176,126,,,
-41,"Ukraine","Gaitana","Be My Guest",38,25,13,6,19,13,162,125,37,88,,,
-42,"United Kingdom","Engelbert Humperdinck","Love Will Set You Free",10,1,24,23,20,3,47,11,36,25,,,
+"id";"country";"artist";"song";"countryId";"runningOrder";"placed";"placedJury";"placedTelevote";"placedDiff";"totalPoints";"pointsJury";"pointsTelevote";"pointsDiff";"youtubeLink";"appleMusicLink";"spotifyLink"
+1;"Albania";"Rona Nishliu";"Suus";39;3;5;3;8;5;263;157;106;51;NULL;NULL;NULL
+2;"Austria";"Trackshittaz";"Woki mit deim Popo";8;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+3;"Azerbaijan";"Sabina Babayeva";"When the Music Dies";50;13;4;7;5;2;269;118;151;33;NULL;NULL;NULL
+4;"Belarus";"Litesound";"We Are the Heroes";41;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+5;"Belgium";"Iris";"Would You?";1;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+6;"Bosnia and Herzegovina";"Maya Sar";"Korake ti znam";26;5;17;13;15;2;128;71;57;14;NULL;NULL;NULL
+7;"Bulgaria";"Sofi Marinova";"Love Unlimited";43;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+8;"Croatia";"Nina Badrić";"Nebo";27;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+9;"Cyprus";"Ivi Adamou";"La La Love";24;8;16;11;14;3;148;85;63;22;NULL;NULL;NULL
+10;"Denmark";"Soluna Samay";"Should've Known Better";9;15;22;18;22;4;69;51;18;33;NULL;NULL;NULL
+11;"Estonia";"Ott Lepland";"Kuula";29;11;6;5;11;6;230;152;78;74;NULL;NULL;NULL
+12;"Finland";"Pernilla";"När jag blundar";14;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+13;"France";"Anggun";"Echo (You and I)";2;9;20;11;25;14;85;85;0;85;NULL;NULL;NULL
+14;"Georgia";"Anri Jokhadze";"I'm a Joker";47;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+15;"Germany";"Roman Lob";"Standing Still";3;20;8;9;6;3;223;98;125;27;NULL;NULL;NULL
+16;"Greece";"Eleftheria Eleftheriou";"Aphrodisiac";21;16;15;16;9;7;149;60;89;29;NULL;NULL;NULL
+17;"Hungary";"Compact Disco";"Sound of Our Hearts";30;2;23;20;21;1;50;30;20;10;NULL;NULL;NULL
+18;"Iceland";"Greta Salóme and Jónsi";"Never Forget";25;7;12;17;7;10;170;53;117;64;NULL;NULL;NULL
+19;"Ireland";"Jedward";"Waterline";18;23;18;22;9;13;103;14;89;75;NULL;NULL;NULL
+20;"Israel";"Izabo";"Time";20;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+21;"Italy";"Nina Zilli";"L'amore è femmina (Out of Love)";4;10;9;3;16;13;213;157;56;101;NULL;NULL;NULL
+22;"Latvia";"Anmary";"Beautiful Song";37;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+23;"Lithuania";"Donny Montell";"Love Is Blind";31;4;14;12;13;1;150;82;68;14;NULL;NULL;NULL
+24;"North Macedonia";"Kaliopi";"Crno i belo";36;22;16;15;10;5;148;69;79;10;NULL;NULL;NULL
+25;"Malta";"Kurt Calleja";"This Is the Night";19;21;21;14;24;10;80;70;10;60;NULL;NULL;NULL
+26;"Moldova";"Pasha Parfeny";"Lăutar";44;26;11;8;12;4;179;104;75;29;NULL;NULL;NULL
+27;"Montenegro";"Rambo Amadeus";"Euro Neuro";48;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+28;"Netherlands";"Joan Franka";"You and Me";6;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+29;"Norway";"Tooji";"Stay";13;12;25;21;23;2;40;24;16;8;NULL;NULL;NULL
+30;"Portugal";"Filipa Sousa";"Vida minha";17;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+31;"Romania";"Mandinga";"Zaleilah";33;14;19;17;18;1;92;53;39;14;NULL;NULL;NULL
+32;"Russia";"Buranovskiye Babushki";"Party for Everybody";34;6;3;10;2;8;426;94;332;238;NULL;NULL;NULL
+33;"San Marino";"Valentina Monetta";"The Social Network Song (Oh Oh – Uh – Oh Oh)";51;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+34;"Serbia";"Željko Joksimović";"Nije ljubav stvar";49;24;2;2;3;1;484;173;311;138;NULL;NULL;NULL
+35;"Slovakia";"Max Jason Mai";"Don't Close Your Eyes";35;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+36;"Slovenia";"Eva Boto";"Verjamem";28;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+37;"Spain";"Pastora Soler";"Quédate conmigo";15;19;10;4;17;13;199;154;45;109;NULL;NULL;NULL
+38;"Sweden";"Loreen";"Euphoria";11;17;1;1;1;0;639;296;343;47;NULL;NULL;NULL
+39;"Switzerland";"Sinplus";"Unbreakable";7;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+40;"Turkey";"Can Bonomo";"Love Me Back";22;18;7;19;4;15;226;50;176;126;NULL;NULL;NULL
+41;"Ukraine";"Gaitana";"Be My Guest";38;25;13;6;19;13;162;125;37;88;NULL;NULL;NULL
+42;"United Kingdom";"Engelbert Humperdinck";"Love Will Set You Free";10;1;24;23;20;3;47;11;36;25;NULL;NULL;NULL
