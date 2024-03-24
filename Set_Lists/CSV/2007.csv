@@ -1,43 +1,43 @@
 "id";"country";"artist";"song";"countryId";"runningOrder";"placed";"placedJury";"placedTelevote";"placedDiff";"totalPoints";"pointsJury";"pointsTelevote";"pointsDiff";"youtubeLink";"appleMusicLink";"spotifyLink"
-1;"Albania";"Frederik Ndoci";"Hear My Plea";39;;;;;;;;;;;;
-2;"Andorra";"Anonymous";"Salvem el món";40;;;;;;;;;;;;
-3;"Armenia";"Hayko";"Anytime You Need";45;23;8;12;7;5;138;0;138;138;;;
-4;"Austria";"Eric Papilaya";"Get a Life – Get Alive";8;;;;;;;;;;;;
-5;"Belarus";"Koldun";"Work Your Magic";41;3;6;10;6;4;145;2;143;141;;;
-6;"Belgium";"The KMG's";"LovePower";1;;;;;;;;;;;;
-7;"Bosnia and Herzegovina";"Marija Šestić";"Rijeka bez imena";26;1;11;4;11;7;106;8;98;90;;;
-8;"Bulgaria";"Elitsa Todorova and Stoyan Yankoulov";"Water";43;21;5;12;4;8;157;0;157;157;;;
-9;"Croatia";"Dragonfly feat. Dado Topić";"Vjerujem u ljubav";27;;;;;;;;;;;;
-10;"Cyprus";"Evridiki";"Comme ci, comme ça";24;;;;;;;;;;;;
-11;"Czech Republic";"Kabát";"Malá dáma";46;;;;;;;;;;;;
-12;"Denmark";"DQ";"Drama Queen";9;;;;;;;;;;;;
-13;"Estonia";"Gerli Padar";"Partners in Crime";29;;;;;;;;;;;;
-14;"Finland";"Hanna Pakarinen";"Leave Me Alone";14;5;17;5;18;13;53;7;46;39;;;
-15;"France";"Les Fatals Picards";"L'Amour à la française";2;13;22;1;23;22;19;12;7;5;;;
-16;"Georgia";"Sopho";"Visionary Dream";47;11;12;12;12;0;97;0;97;97;;;
-17;"Germany";"Roger Cicero";"Frauen regier'n die Welt";3;16;19;2;19;17;49;11;38;27;;;
-18;"Greece";"Sarbel";"Yassou Maria";21;10;7;5;8;3;139;7;132;125;;;
-19;"Hungary";"Magdi Rúzsa";"Unsubstantial Blues";30;8;9;6;9;3;128;6;122;116;;;
-20;"Iceland";"Eiríkur Hauksson";"Valentine Lost";25;;;;;;;;;;;;
-21;"Ireland";"Dervish";"They Can't Stop the Spring";18;4;23;7;24;17;5;5;0;5;;;
-22;"Israel";"Teapacks";"Push the Button";20;;;;;;;;;;;;
-23;"Latvia";"Bonaparti.lv";"Questa notte";37;14;16;12;16;4;54;0;54;54;;;
-24;"Lithuania";"4Fun";"Love or Leave";31;9;21;11;21;10;28;1;27;26;;;
-25;"North Macedonia";"Karolina";"Mojot svet";36;6;14;9;14;5;73;3;70;67;;;
-26;"Malta";"Olivia Lewis";"Vertigo";19;;;;;;;;;;;;
-27;"Moldova";"Natalia Barbu";"Fight";44;24;10;8;10;2;109;4;105;101;;;
-28;"Montenegro";"Stevan Faddy";"'Ajde, kroči";48;;;;;;;;;;;;
-29;"Netherlands";"Edsilia Rombley";"On Top of the World";6;;;;;;;;;;;;
-30;"Norway";"Guri Schanke";"Ven a bailar conmigo";13;;;;;;;;;;;;
-31;"Poland";"The Jet Set";"Time to Party";32;;;;;;;;;;;;
-32;"Portugal";"Sabrina";"Dança comigo";17;;;;;;;;;;;;
-33;"Romania";"Todomondo";"Liubi, Liubi, I Love You";33;20;13;3;13;10;84;10;74;64;;;
-34;"Russia";"Serebro";"Song #1";34;15;3;9;3;6;207;3;204;201;;;
-35;"Serbia";"Marija Šerifović";"Molitva";49;17;1;11;1;10;268;1;267;266;;;
-36;"Slovenia";"Alenka Gotar";"Cvet z juga";28;7;15;12;15;3;66;0;66;66;;;
-37;"Spain";"D'Nash";"I Love You Mi Vida";15;2;20;1;20;19;43;12;31;19;;;
-38;"Sweden";"The Ark";"The Worrying Kind";11;12;18;10;17;7;51;2;49;47;;;
-39;"Switzerland";"DJ BoBo";"Vampires Are Alive";7;;;;;;;;;;;;
-40;"Turkey";"Kenan Doğulu";"Shake It Up Şekerim";22;22;4;3;5;2;163;10;153;143;;;
-41;"Ukraine";"Verka Serduchka";"Dancing Lasha Tumbai";38;18;2;1;2;1;235;12;223;211;;;
-42;"United Kingdom";"Scooch";"Flying the Flag (For You)";10;19;22;12;22;10;19;0;19;19;;;
+1;"Albania";"Frederik Ndoci";"Hear My Plea";39;;;;;;;;;;"https://youtu.be/rP2OECgTA5k?si=-KfKAm97SpEk6OGX";;
+2;"Andorra";"Anonymous";"Salvem el món";40;;;;;;;;;;"https://youtu.be/RcbefpUPuLA?si=v3upBD713kpmnzzl";"https://music.apple.com/gb/album/salvem-el-m%C3%B3n-eurovision-song-contest-helsinki-2007/586245090?i=586245105";"https://open.spotify.com/track/62wriIS2h59GPkCko0KnVf?si=1eb0339ea35c4189"
+3;"Armenia";"Hayko";"Anytime You Need";45;23;8;12;7;5;138;0;138;138;"https://youtu.be/BgkFJD6F7wA?si=Bwc4FqezG5-HqZFi";"https://music.apple.com/gb/album/anytime-you-need/1320816742?i=1320817037";"https://open.spotify.com/track/6COUoYEPyrdfwSSsAZXoYt?si=d51c02acc2374a42"
+4;"Austria";"Eric Papilaya";"Get a Life – Get Alive";8;;;;;;;;;;"https://youtu.be/gydbp99tMlg?si=UVX9nGmel-wMYa3Y";"https://music.apple.com/gb/album/get-a-life-get-alive/1553283645?i=1553283791";"https://open.spotify.com/track/7LdSXT58e3lV2vu2BuY16l?si=f9dffecf6b2942c0"
+5;"Belarus";"Koldun";"Work Your Magic";41;3;6;10;6;4;145;2;143;141;"https://youtu.be/PxON-jTcBPA?si=cajbbxtmNdpMmhOO";;
+6;"Belgium";"The KMG's";"LovePower";1;;;;;;;;;;"https://youtu.be/qUK7lx0TSAI?si=5Bh7cNveW7PcR-fX";"https://music.apple.com/gb/album/lovepower/379750950?i=379751023";"https://open.spotify.com/track/56RSLwjb8A47Z9Jk6MjLDZ?si=40dbd7a13b874062"
+7;"Bosnia and Herzegovina";"Marija Šestić";"Rijeka bez imena";26;1;11;4;11;7;106;8;98;90;"https://youtu.be/b2h52r1oOYA?si=G0Pf-ULtcr09eCn0";"https://music.apple.com/gb/album/rijeka-bez-imena-radio-edit/1583230919?i=1583230922";"https://open.spotify.com/track/0zZIcUuI2QA5Qckvn5hlQa?si=c826b8c0c0c44b73"
+8;"Bulgaria";"Elitsa Todorova and Stoyan Yankoulov";"Water";43;21;5;12;4;8;157;0;157;157;"https://youtu.be/CVO3mEj8Udo?si=ggFq0Al_XNXqhH56";"https://music.apple.com/gb/album/water-bulgarian-eurovision-song-2007/335666051?i=335666821";"https://open.spotify.com/track/6MAsDFTzvqiRJaVRVUEAbG?si=67b33010b49d466b"
+9;"Croatia";"Dragonfly feat. Dado Topić";"Vjerujem u ljubav";27;;;;;;;;;;"https://youtu.be/orMSTz7povE?si=RPDeSbQ1n4mGhz_7";"https://music.apple.com/gb/album/vjerujem-u-ljubav/393380779?i=393380853";"https://open.spotify.com/track/3VgZvAcoinxKMthEdI5kjT?si=ec4286e7a64144c4"
+10;"Cyprus";"Evridiki";"Comme ci, comme ça";24;;;;;;;;;;"https://youtu.be/bLpM5gMpUkI?si=-trZO71-1RRp4OPK";"https://music.apple.com/gb/album/come-ci-comme-ca/1340470863?i=1340470870";"https://open.spotify.com/track/2eXl1sMHC1RSgefh32FyRA?si=5c98363591d342c9"
+11;"Czech Republic";"Kabát";"Malá dáma";46;;;;;;;;;;"https://youtu.be/iBZaVQ52RQY?si=R86g4DZeCzaaH0Lr";"https://music.apple.com/gb/album/mal%C3%A1-d%C3%A1ma/693555235?i=693555242";"https://open.spotify.com/track/0nVCQoIiDjnZWXHMRCD2Ko?si=503758a37aff4f58"
+12;"Denmark";"DQ";"Drama Queen";9;;;;;;;;;;"https://youtu.be/T_gQOqKJ9ck?si=tWk0GqtrTxbDnxc-";"https://music.apple.com/gb/album/drama-queen/1442524706?i=1442525058";"https://open.spotify.com/track/3KSTHtEyClTH0IWUS3A59P?si=b85c71d281cd4379"
+13;"Estonia";"Gerli Padar";"Partners in Crime";29;;;;;;;;;;"https://youtu.be/U_ESE5inG-I?si=H6iFnyLcfPqBKmrh";"https://music.apple.com/gb/album/partners-in-crime/898645654?i=898645662";"https://open.spotify.com/track/7zvIq9ZoCDxhG9Qf2esTUp?si=450d452ea3c74334"
+14;"Finland";"Hanna Pakarinen";"Leave Me Alone";14;5;17;5;18;13;53;7;46;39;"https://youtu.be/3ibC5pps0dA?si=ahW4w2kiMiTuqOHi";"https://music.apple.com/gb/album/leave-me-alone-eurovision-edit/252801591?i=252801615";"https://open.spotify.com/track/7wBrE6nWwhwtR7h4lvhCoj?si=24f527c8d8094a3d"
+15;"France";"Les Fatals Picards";"L'Amour à la française";2;13;22;1;23;22;19;12;7;5;"https://youtu.be/xjo3PIABpVQ?si=-ysvpYZO4EiLBmV7";"https://music.apple.com/gb/album/lamour-%C3%A0-la-fran%C3%A7aise/218398978?i=218398980";"https://open.spotify.com/track/6XGmPf0kuUwakHNnLB30mH?si=f37b795c5e3c45da"
+16;"Georgia";"Sopho";"Visionary Dream";47;11;12;12;12;0;97;0;97;97;"https://youtu.be/EHImNpPta7M?si=6rRdCuLxYeZEKrj3";;
+17;"Germany";"Roger Cicero";"Frauen regier'n die Welt";3;16;19;2;19;17;49;11;38;27;"https://youtu.be/9PiGGv3asug?si=DRzRbotEXjWwBb6B";"https://music.apple.com/gb/album/frauen-regiern-die-welt/1185531374?i=1185531522";"https://open.spotify.com/track/1mPCxdc4hpJ8r2qPnyMYcW?si=951149d0bd214edc"
+18;"Greece";"Sarbel";"Yassou Maria";21;10;7;5;8;3;139;7;132;125;"https://youtu.be/LebXvZtRMrE?si=dB45Uifw4kdyT5BI";"https://music.apple.com/gb/album/yassou-maria/256266722?i=256266768";"https://open.spotify.com/track/0MnEMgc0QNteB3ExmvJDZJ?si=6bae71ecb83b47de"
+19;"Hungary";"Magdi Rúzsa";"Unsubstantial Blues";30;8;9;6;9;3;128;6;122;116;"https://youtu.be/2WsuY94n06w?si=FYjNr_SoXZlNHkff";"https://music.apple.com/gb/album/apr%C3%B3cska-blues/1672094771?i=1672094772";"https://open.spotify.com/track/1AaWwpHkPTMkEjkcjLjEMQ?si=192abb9a48114a18"
+20;"Iceland";"Eiríkur Hauksson";"Valentine Lost";25;;;;;;;;;;"https://youtu.be/e2he47-SC1k?si=p7gsA1uqhlEDxxf2";"https://music.apple.com/gb/album/valentine-lost/527926951?i=527927239";"https://open.spotify.com/track/5UpETFvkAOLHzJdb5kQXh8?si=936f3b3e94f14bb0"
+21;"Ireland";"Dervish";"They Can't Stop the Spring";18;4;23;7;24;17;5;5;0;5;"https://youtu.be/N40wpl5m0UM?si=1VpHoySbJ0soklCE";;
+22;"Israel";"Teapacks";"Push the Button";20;;;;;;;;;;"https://youtu.be/5KhPzTLQBJE?si=EiIV2cMqLHA6sO7q";"https://music.apple.com/gb/album/push-the-button/219606293?i=219606332";"https://open.spotify.com/track/7bQ8jYLFJ5aNOzi5QYWvep?si=36b6f739f8a94629"
+23;"Latvia";"Bonaparti.lv";"Questa notte";37;14;16;12;16;4;54;0;54;54;"https://youtu.be/zghnafACJyE?si=fVBBJ4dsKRC-a5yC";"https://music.apple.com/gb/album/questa-notte/254649114?i=254649171";"https://open.spotify.com/track/1kcwsoWjmm9THtkhL1vQ7Y?si=6f28fc9b4cc844f9"
+24;"Lithuania";"4Fun";"Love or Leave";31;9;21;11;21;10;28;1;27;26;"https://youtu.be/Rebt7qd-HcI?si=o7mTp_5quJqhODEz";"https://music.apple.com/gb/album/love-or-leave/347757270?i=347757855";"https://open.spotify.com/track/0Kd8LZOl5NH5ZBYMhuVM1P?si=02374565b29a456a"
+25;"North Macedonia";"Karolina";"Mojot svet";36;6;14;9;14;5;73;3;70;67;"https://youtu.be/NsXxHFEbiI0?si=wJcvAK231UmR1a8d";;
+26;"Malta";"Olivia Lewis";"Vertigo";19;;;;;;;;;;"https://youtu.be/vhy-c5XMFks?si=C-zC8XS0vE4BX-Ud";"https://music.apple.com/gb/album/vertigo-esc-2007/843614305?i=843614352";"https://open.spotify.com/track/0sQBamaf9Hb8XoJ79CfK3S?si=bc72fe7930c24d31"
+27;"Moldova";"Natalia Barbu";"Fight";44;24;10;8;10;2;109;4;105;101;"https://youtu.be/SZzcIOvoIfo?si=4v3GAxQCeqZh5DuM";"https://music.apple.com/gb/album/fight/1693669563?i=1693670751";"https://open.spotify.com/track/00ZMcosmawMNp7SWdpvjQX?si=6f544713c26f4262"
+28;"Montenegro";"Stevan Faddy";"'Ajde, kroči";48;;;;;;;;;;"https://youtu.be/mNXURugfanw?si=hRMMNpFiv0P9sr75";;
+29;"Netherlands";"Edsilia Rombley";"On Top of the World";6;;;;;;;;;;"https://youtu.be/k2IPKCOixtE?si=yZLC8fpV4oMH0uBC";"https://music.apple.com/gb/album/on-top-of-the-world/1444331694?i=1444331699";"https://open.spotify.com/track/0y2frDpPtKFcP8ZNbS1gmJ?si=90ba9c28d7464d5f"
+30;"Norway";"Guri Schanke";"Ven a bailar conmigo";13;;;;;;;;;;"https://youtu.be/hNjMDNxNIr4?si=7jl5hwPFz4gS8AP0";"https://music.apple.com/gb/album/ven-a-bailar-conmigo/1442668328?i=1442668447";"https://open.spotify.com/track/5bXM19OwYUHrAISrVnYjxi?si=b7aac26247324165"
+31;"Poland";"The Jet Set";"Time to Party";32;;;;;;;;;;"https://youtu.be/lYBuHhT4q_Y?si=S-NT8n7r5IyKh2w_";"https://music.apple.com/gb/album/time-to-party/385054775?i=385054878";"https://open.spotify.com/track/74G1N0XIQzdKF1xtO4vcDR?si=fcc2dd6eda034123"
+32;"Portugal";"Sabrina";"Dança comigo";17;;;;;;;;;;"https://youtu.be/YaUROb43iDo?si=YarjmMOfZMjuMYJf";"https://music.apple.com/gb/album/dan%C3%A7a-comigo-vem-ser-feliz/956053546?i=956053547";"https://open.spotify.com/track/6VL6D7483NnvBMRcvACxis?si=ff931e71b39e480a"
+33;"Romania";"Todomondo";"Liubi, Liubi, I Love You";33;20;13;3;13;10;84;10;74;64;"https://youtu.be/Y96QWdyx5TQ?si=POJbovX0k9baoz99";;
+34;"Russia";"Serebro";"Song #1";34;15;3;9;3;6;207;3;204;201;"https://youtu.be/MVPez6Zvr8g?si=8A8HKVdPfPTVT3xV";"https://music.apple.com/gb/album/song-1-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F/1311600272?i=1311600585";"https://open.spotify.com/track/6UYZElHRYzX5cCnROcG7QX?si=62e55288387d4a05"
+35;"Serbia";"Marija Šerifović";"Molitva";49;17;1;11;1;10;268;1;267;266;"https://youtu.be/FSueQN1QvV4?si=kLyUOBBuUitW92dC";"https://music.apple.com/gb/album/molitva-esc-serbian-version/259891927?i=259891955";"https://open.spotify.com/track/1ue71r2sNUvl4LSqvgVVcZ?si=c20aad907b844965"
+36;"Slovenia";"Alenka Gotar";"Cvet z juga";28;7;15;12;15;3;66;0;66;66;"https://youtu.be/KKrOMagZnMI?si=_-NAYDJK4QuCTfeX";"https://music.apple.com/gb/album/cvet-z-juga/1572326170?i=1572326171";"https://open.spotify.com/track/5TyLmF69awrR61SO4v0NT4?si=2ab49fb5dbf94fb2"
+37;"Spain";"D'Nash";"I Love You Mi Vida";15;2;20;1;20;19;43;12;31;19;"https://youtu.be/ze5uXuSSqgg?si=GTxZ7xLZrGunDkhe";"https://music.apple.com/gb/album/i-love-you-mi-vida/250985605?i=250985612";"https://open.spotify.com/track/5gyRR6ktWPnqOPQg6A459n?si=15f84562e3e641c3"
+38;"Sweden";"The Ark";"The Worrying Kind";11;12;18;10;17;7;51;2;49;47;"https://youtu.be/r02Lg8JIco0?si=4IQbJCX6aYWllXcc";"https://music.apple.com/gb/album/the-worrying-kind/667416447?i=667418737";"https://open.spotify.com/track/5zIxRPGxiOBNRDBu2Upk4i?si=e47b6faea0c3478c"
+39;"Switzerland";"DJ BoBo";"Vampires Are Alive";7;;;;;;;;;;"https://youtu.be/h9YTasUpAjw?si=e5y45-eLZJ6R_BQT";"https://music.apple.com/gb/album/vampires-are-alive/1505978632?i=1505978641";"https://open.spotify.com/track/6IYkxYHWrcWEtgSAzjtBb8?si=ba2b93abe4af43d0"
+40;"Turkey";"Kenan Doğulu";"Shake It Up Şekerim";22;22;4;3;5;2;163;10;153;143;"https://youtu.be/pSs1XHuFfuQ?si=JMwGPGqRXmBnkr8t";"https://music.apple.com/gb/album/shake-it-up-original-version/1593999646?i=1593999648v";"https://open.spotify.com/track/3qZPi3ikzBtPt2gQuLGbmT?si=a1cdb9646e72452b"
+41;"Ukraine";"Verka Serduchka";"Dancing Lasha Tumbai";38;18;2;1;2;1;235;12;223;211;"https://youtu.be/hfjHJneVonE?si=wMjLXd0L_m9qcR49";"https://music.apple.com/gb/album/dancing-lasha-tumbai/998110853?i=998110862";"https://open.spotify.com/track/47WBIz3j4GI7qYHVuMRHVT?si=e616fdc6741f4716"
+42;"United Kingdom";"Scooch";"Flying the Flag (For You)";10;19;22;12;22;10;19;0;19;19;"https://youtu.be/XT6yOIC6ihI?si=aSfV5UPSNkV4Fs6o";"https://music.apple.com/gb/album/flying-the-flag-for-you-eurovision-2007-uk-version/253338206?i=253338210";"https://open.spotify.com/track/6UFFiCbEkd5p2XULVLOSVQ?si=cb77378e4d9b4b79"
