@@ -1,44 +1,44 @@
-"id";"country";"artist";"song";"countryId";"runningOrder";"placed";"placedJury";"placedTelevote";"placedDiff";"totalPoints";"pointsJury";"pointsTelevote";"pointsDiff";"youtubeLink";"appleMusicLink";"spotifyLink"
-1;"Albania";"Eugent Bushpepa";"Mall";39;12;11;7;18;11;184;126;58;68;;;
-2;"Armenia";"Sevak Khanagyan";"Qami (Քամի)";45;;;;;;;;;;;;
-3;"Australia";"Jessica Mauboy";"We Got Love";52;16;12;11;10;1;181;90;91;1;;;
-4;"Austria";"Cesár Sampson";"Nobody but You";8;5;3;1;13;12;342;271;71;200;;;
-5;"Azerbaijan";"Aisel";"X My Heart";50;;;;;;;;;;;;
-6;"Belarus";"Alekseev";"Forever";41;;;;;;;;;;;;
-7;"Belgium";"Sennek";"A Matter of Time";1;;;;;;;;;;;;
-8;"Bulgaria";"Equinox";"Bones";43;18;14;9;14;5;166;100;66;34;;;
-9;"Croatia";"Franka";"Crazy";27;;;;;;;;;;;;
-10;"Cyprus";"Eleni Foureira";"Fuego";24;25;2;5;2;3;436;183;253;70;;;
-11;"Czechia";"Mikolas Josef";"Lie to Me";46;14;6;14;4;10;281;66;215;149;;;
-12;"Denmark";"Rasmussen";"Higher Ground";9;15;19;19;12;7;113;38;75;37;;;
-13;"Estonia";"Elina Nechayeva";"La forza";29;6;8;6;9;3;245;143;102;41;;;
-14;"Finland";"Saara Aalto";"Monsters";14;17;25;21;21;0;46;23;23;0;;;
-15;"France";"Madame Monsieur";"Mercy";2;13;13;8;17;9;173;114;59;55;;;
-16;"Georgia";"Ethno-Jazz Band Iriao";"For You";47;;;;;;;;;;;;
-17;"Germany";"Michael Schulte";"You Let Me Walk Alone";3;11;4;4;6;2;340;204;136;68;;;
-18;"Greece";"Yianna Terzi";"Oniro mou (Όνειρό μου)";21;;;;;;;;;;;;
-19;"Hungary";"AWS";"Viszlát nyár";30;21;21;20;15;5;93;28;65;37;;;
-20;"Iceland";"Ari Ólafsson";"Our Choice";25;;;;;;;;;;;;
-21;"Ireland";"Ryan O'Shaughnessy";"Together";18;24;16;13;16;3;136;74;62;12;;;
-22;"Israel";"Netta";"Toy";20;22;1;3;1;2;529;212;317;105;;;
-23;"Italy";"Ermal Meta and Fabrizio Moro";"Non mi avete fatto niente";4;26;5;16;3;13;308;59;249;190;;;
-24;"Latvia";"Laura Rizzotto";"Funny Girl";37;;;;;;;;;;;;
-25;"Lithuania";"Ieva Zasimauskaitė";"When We're Old";31;4;20;11;24;13;99;90;9;81;;;
-26;"Macedonia";"Eye Cue";"Lost and Found";36;;;;;;;;;;;;
-27;"Malta";"Christabelle";"Taboo";19;;;;;;;;;;;;
-28;"Moldova";"DoReDoS";"My Lucky Day";44;19;10;10;8;2;209;94;115;21;;;
-29;"Montenegro";"Vanja Radovanović";"Inje (Иње)";48;;;;;;;;;;;;
-30;"Netherlands";"Waylon";"Outlaw in 'Em";6;23;18;12;19;7;121;89;32;57;;;
-31;"Norway";"Alexander Rybak";"That's How You Write a Song";13;7;15;15;11;4;144;60;84;24;;;
-32;"Poland";"Gromee feat. Lukas Meijer";"Light Me Up";32;;;;;;;;;;;;
-33;"Portugal";"Cláudia Pascoal";"O jardim";17;8;26;22;23;1;39;21;18;3;;;
-34;"Romania";"The Humans";"Goodbye";33;;;;;;;;;;;;
-35;"Russia";"Julia Samoylova";"I Won't Break";34;;;;;;;;;;;;
-36;"San Marino";"Jessika feat. Jenifer Brening";"Who We Are";51;;;;;;;;;;;;
-37;"Serbia";"Sanja Ilić and Balkanika";"Nova deca (Нова деца)";49;10;9;19;5;14;226;38;188;150;;;
-38;"Slovenia";"Lea Sirk";"Hvala, ne!";28;3;22;18;21;3;64;41;23;18;;;
-39;"Spain";"Amaia and Alfred";"Tu canción";15;2;23;17;23;6;61;43;18;25;;;
-40;"Sweden";"Benjamin Ingrosso";"Dance You Off";11;20;7;2;22;20;274;253;21;232;;;
-41;"Switzerland";"Zibbz";"Stones";7;;;;;;;;;;;;
-42;"Ukraine";"Mélovin";"Under the Ladder";38;1;17;23;7;16;130;11;119;108;;;
-43;"United Kingdom";"SuRie";"Storm";10;9;24;21;20;1;48;23;25;2;;;
+"year";"venue";"countryname";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
+2018;"Lisbon Arena";"Ukraine";"Mélovin";"Under the Ladder";1;17;26;7;11;119;"https://youtu.be/lhOuMYtQ94M?si=V2kaxmfl8mBBECkN";"https://music.apple.com/gb/album/under-the-ladder/1641471359?i=1641471372";"https://open.spotify.com/track/0a4eEfoZEYCXte9Zk1r7YG?si=1ad7a3314ac743ae"
+2018;"Lisbon Arena";"Spain";"Amaia and Alfred";"Tu canción";2;23;18;25;43;18;"https://youtu.be/28oMEFgSoyk?si=aTVwi5rboA8NnHjX";"https://music.apple.com/gb/album/tu-canci%C3%B3n/1355888789?i=1355889686";"https://open.spotify.com/track/5tNSU1bJKn1S42NyGSzShg?si=42bdcf0f52bf45bf"
+2018;"Lisbon Arena";"Slovenia";"Lea Sirk";"Hvala, ne!";3;22;19;22;41;23;"https://youtu.be/fBU0_hfST_o?si=foBRnf3X24NdutnU";"https://music.apple.com/gb/album/hvala-ne/1355442388?i=1355442399";"https://open.spotify.com/track/28J9JZ6boWgzviW7Ut3TMN?si=a9c3cbbbb5554858"
+2018;"Lisbon Arena";"Lithuania";"Ieva Zasimauskaitė";"When We're Old";4;12;12;10;90;91;"https://youtu.be/pPDFhfU25go?si=gzObTK5HjBf3wHSn";"https://music.apple.com/gb/album/when-were-old/1358919320?i=1358919323";"https://open.spotify.com/track/3M1LYpZ8JzzIopbjLETqgP?si=151d30aa3cca4ce9"
+2018;"Lisbon Arena";"Austria";"Cesár Sampson";"Nobody but You";5;3;1;13;271;71;"https://youtu.be/a8Yvzo1puoE?si=0lfK5q63OuVYf52-";"https://music.apple.com/gb/album/nobody-but-you/1377194575?i=1377194962";"https://open.spotify.com/track/41gxXNTTz6LNVY2LIKoRHn?si=1c736d96f40f466b"
+2018;"Lisbon Arena";"Estonia";"Elina Nechayeva";"La forza";6;8;6;9;143;102;"https://youtu.be/ImawXdXIGd8?si=PotqMixawZfRcKNf";"https://music.apple.com/gb/album/la-forza/1342010983?i=1342011000";"https://open.spotify.com/track/32GxSibwrYAGW4ZZ45CGHA?si=b05c864722fc4667"
+2018;"Lisbon Arena";"Norway";"Alexander Rybak";"That's How You Write a Song";7;15;16;11;60;84;"https://youtu.be/N17BdRwOvBA?si=lSKalwBpoDkvkQ-Z";"https://music.apple.com/gb/album/thats-how-you-write-a-song/1328986174?i=1328986178";"https://open.spotify.com/track/4RgfBil6aN3o26M8t3KjGH?si=9a907885b3cf44fd"
+2018;"Lisbon Arena";"Portugal";"Cláudia Pascoal";"O jardim";8;26;25;24;21;18;"https://youtu.be/mHjGbADMcOI?si=GpW_pQ0AQXmh-k0k";"https://music.apple.com/gb/album/o-jardim-feat-isaura/1356288573?i=1356288859";"https://open.spotify.com/track/6OuxT3FPHvfoJ0zAypjCdE?si=5dae915f6470484d"
+2018;"Lisbon Arena";"United Kingdom";"SuRie";"Storm";9;24;24;20;23;25;"https://youtu.be/n0ydtXG-tqY?si=gIMgt_QNiTKLpDR1";"https://music.apple.com/gb/album/storm/1355767547?i=1355767558";"https://open.spotify.com/track/5MpHIqC75MbPp1PFkljSFz?si=e4480a3ea6e440ce"
+2018;"Lisbon Arena";"Serbia";"Sanja Ilić and Balkanika";"Nova deca";10;19;21;12;38;75;"https://youtu.be/WRQWQShbPHU?si=hnvAgNmZjQHQXm6M";"https://music.apple.com/gb/album/nova-deca/1370304765?i=1370304768";"https://open.spotify.com/track/7i4FrliOhykU6yxoue8Y9e?si=cd4b000d9f274c5c"
+2018;"Lisbon Arena";"Germany";"Michael Schulte";"You Let Me Walk Alone";11;4;4;6;204;136;"https://youtu.be/N4YwSy4Q9k0?si=SZDIG-x5KvJ1KCpW";"https://music.apple.com/gb/album/you-let-me-walk-alone/1348798190?i=1348798208";"https://open.spotify.com/track/1i31AKvYOI4b5FCU1cEHqU?si=fcb5794a5edd46a9"
+2018;"Lisbon Arena";"Albania";"Eugent Bushpepa";"Mall";12;11;7;18;126;58;"https://youtu.be/uyl1b1fVmdU?si=WChxIs4s9AzqIzzI";"https://music.apple.com/gb/album/mall/1368358788?i=1368358796";"https://open.spotify.com/track/6vGLWavGUuAs9vpZyprUl0?si=3be7f07515cc4816"
+2018;"Lisbon Arena";"France";"Madame Monsieur";"Mercy";13;13;8;17;114;59;"https://youtu.be/vjLuTtUv0Ns?si=8sGqfM9wskg6ErJM";"https://music.apple.com/gb/album/mercy/1330164202?i=1330164204";"https://open.spotify.com/track/2LnEOvKciVfIxLTEqBysBq?si=186f5cf72aa84867"
+2018;"Lisbon Arena";"Czechia";"Mikolas Josef";"Lie to Me";14;6;15;4;66;215;"https://youtu.be/w0ZUuQe0shk?si=5DjUUf_oCd23aLiy";"https://music.apple.com/gb/album/lie-to-me/1368012412?i=1368013812";"https://open.spotify.com/track/5bCztCNsrQPQ2yvLUaMCMa?si=f1d737e1c442446d"
+2018;"Lisbon Arena";"Denmark";"Rasmussen";"Higher Ground";15;9;20;5;38;188;"https://youtu.be/c0kP074Mw0k?si=pzkpw1gWTgzzX3G5";"https://music.apple.com/gb/album/higher-ground/1347179466?i=1347179467";"https://open.spotify.com/track/6SCl3S0IAbPX7cLE6LjEOt?si=55e1ab1c6b774270"
+2018;"Lisbon Arena";"Australia";"Jessica Mauboy";"We Got Love";16;20;11;26;90;9;"https://youtu.be/2BBLTY6T2Ck?si=UP6FXmeYM9O-0TIT";"https://music.apple.com/gb/album/we-got-love/1355539448?i=1355539449";"https://open.spotify.com/track/7kqujRWNEBhrpYt0eV0uw5?si=7e5e7a63ce7a457a"
+2018;"Lisbon Arena";"Finland";"Saara Aalto";"Monsters";17;25;23;21;23;23;"https://youtu.be/hdjiuCUUpPc?si=8UITfykUqR_vqXbb";"https://music.apple.com/gb/album/monsters/1343894213?i=1343894215";"https://open.spotify.com/track/0JGbU6NlewrskD138Wq04b?si=19b03f3eb3214268"
+2018;"Lisbon Arena";"Bulgaria";"Equinox";"Bones";18;14;9;14;100;66;"https://youtu.be/vC-1tdGDFQc?si=lOXjcnCIP12Y_UeN";"https://music.apple.com/gb/album/bones/1377200843?i=1377200849";"https://open.spotify.com/track/39qWzdNJSioJzfemhwXtDw?si=bb015f53bf7f4ff2"
+2018;"Lisbon Arena";"Moldova";"DoReDoS";"My Lucky Day";19;10;10;8;94;115;"https://youtu.be/m1kjPaVAeeE?si=9mA0nJTHvIBv4hwf";"https://music.apple.com/gb/album/my-lucky-day/1725651191?i=1725651192";"https://open.spotify.com/track/0ThWw4Mty8Sb0mzaXyFvt8?si=f4cfacc07e0f45b5"
+2018;"Lisbon Arena";"Sweden";"Benjamin Ingrosso";"Dance You Off";20;7;2;23;253;21;"https://youtu.be/z101xtUBflU?si=GjpuHfdrCy5Y4ePw";"https://music.apple.com/gb/album/dance-you-off/1340825986?i=1340825991";"https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D?si=0c5f0b91d4c34849"
+2018;"Lisbon Arena";"Hungary";"AWS";"Viszlát nyár";21;21;22;15;28;65;"https://youtu.be/p6e1TmYb33w?si=zx4zG_ewfs3jYxSC";"https://music.apple.com/gb/album/viszl%C3%A1t-ny%C3%A1r/1298569315?i=1298569319";"https://open.spotify.com/track/5hC0zQNulh7R4R8pM6gCJ9?si=f9aaab37f2a84312"
+2018;"Lisbon Arena";"Israel";"Netta";"Toy";22;1;3;1;212;317;"https://youtu.be/84LBjXaeKk4?si=BGrpaOFBEgJK_kGr";"https://music.apple.com/gb/album/toy-music-video-version/1393107600?i=1393107604";"https://open.spotify.com/track/0y8Xwpsof5R8TDftRyitKg?si=c2f2602049fb4129"
+2018;"Lisbon Arena";"Netherlands";"Waylon";"Outlaw in 'Em";23;18;13;19;89;32;"https://youtu.be/p7jHz5asMs8?si=TaVEli6WBHROxIST";"https://music.apple.com/gb/album/outlaw-in-em/1355052378?i=1355052754";"https://open.spotify.com/track/1Ryw2NPudgM1SRGZx91RbL?si=81aca6229ae445f8"
+2018;"Lisbon Arena";"Ireland";"Ryan O'Shaughnessy";"Together";24;16;14;16;74;62;"https://youtu.be/QD1cQ2wZ1dk?si=BJARsQRkZGzAjrC7";"https://music.apple.com/gb/album/together/1367431807?i=1367432095";"https://open.spotify.com/track/7jYLCd1CafwKxbuXgRc2rs?si=3df5ba8a4af44929"
+2018;"Lisbon Arena";"Cyprus";"Eleni Foureira";"Fuego";25;2;5;2;183;253;"https://youtu.be/vyDTbJ4wenY?si=M9xrI3JylTv3lxcT";"https://music.apple.com/gb/album/fuego-spanish-version/1386541148?i=1386542103";"https://open.spotify.com/track/22ppznuzVF9LKamaaqMMqu?si=90e46b704dba4597"
+2018;"Lisbon Arena";"Italy";"Ermal Meta and Fabrizio Moro";"Non mi avete fatto niente";26;5;17;3;59;249;"https://youtu.be/81M-mp5t8uM?si=tIHHwmu5lEROOs6I";"https://music.apple.com/gb/album/non-mi-avete-fatto-niente-esc-version/1363199574?i=1363199575";"https://open.spotify.com/track/1SI3Ukzq9vbi6d50pnczCN?si=132435ba86a74245"
+2018;"Lisbon Arena";"Latvia";"Laura Rizzotto";"Funny Girl";;;;;;;"https://youtu.be/KGxANwWKz3U?si=_HRXW8ik8vTBxp7R";"https://music.apple.com/gb/album/funny-girl/1320514443?i=1320514448";"https://open.spotify.com/track/04H79umZ9AxBj5MeTw6gAK?si=07a369a9542d4acc"
+2018;"Lisbon Arena";"Malta";"Christabelle";"Taboo";;;;;;;"https://youtu.be/d52ViPImdls?si=O7Kc7vTu0ckeljlg";"https://music.apple.com/gb/album/taboo/1364165507?i=1364165527";"https://open.spotify.com/track/0peNaLeCABe70ovtFgGENP?si=ad4f2f8b114940ba"
+2018;"Lisbon Arena";"Iceland";"Ari Ólafsson";"Our Choice";;;;;;;"https://youtu.be/RQytWeg9CzE?si=RySKvciD512-N4mn";"https://music.apple.com/gb/album/our-choice/1384056291?i=1384056458";"https://open.spotify.com/track/2he61MJyMIOj8enfDmLxRI?si=912d721f8b8743f7"
+2018;"Lisbon Arena";"Montenegro";"Vanja Radovanović";"Inje";;;;;;;"https://youtu.be/XEi080yOuB8?si=Eym3jLbm00RXfIJA";"https://music.apple.com/gb/album/inje/1368357725?i=1368357727";"https://open.spotify.com/track/4AQX7Nbg0ZuiA763Y6N8Uk?si=382897f0d0aa4cfe"
+2018;"Lisbon Arena";"Greece";"Yianna Terzi";"Oniro mou";;;;;;;"https://youtu.be/-XOR1DhtDC0?si=u45HB4j1t9ItEiaq";"https://music.apple.com/gb/album/oniro-mou/1437171792?i=1437171799";"https://open.spotify.com/track/6fbY4PL1W2ew1M3SwCHL2j?si=141dccd7aff845bb"
+2018;"Lisbon Arena";"Poland";"Gromee feat. Lukas Meijer";"Light Me Up";;;;;;;"https://youtu.be/oyoiCyP4Bkg?si=QY91ST9btQ5ECyyU";"https://music.apple.com/gb/album/light-me-up-feat-lukas-meijer/1347327014?i=1347327021";"https://open.spotify.com/track/5GXNpvgo6UtLhe2wYBYWy1?si=48c2b056c06545e6"
+2018;"Lisbon Arena";"Georgia";"Ethno-Jazz Band Iriao";"For You";;;;;;;"https://youtu.be/FvVx5-mzmm0?si=mkPfBQWzvujWE3G7";"https://music.apple.com/gb/album/for-you/1364173637?i=1364173641";"https://open.spotify.com/track/6qE0K1nD4YlXup3KCcP9Qw?si=e8bd20b4d4cd4809"
+2018;"Lisbon Arena";"Russia";"Julia Samoylova";"I Won't Break";;;;;;;"https://youtu.be/KujGHwyfMWM?si=pT-nlZiB9mS3mZjG";;
+2018;"Lisbon Arena";"San Marino";"Jessika feat. Jenifer Brening";"Who We Are";;;;;;;"https://youtu.be/66D0pKVdA-4?si=lgTE6aJ_FcCrGmdd";"https://music.apple.com/gb/album/who-we-are-feat-jenifer-brening/1654843858?i=1654843859";"https://open.spotify.com/track/0dew6JXEmJOo8nRbPp9M6Y?si=b6c935f7836c46e3"
+2018;"Lisbon Arena";"Croatia";"Franka";"Crazy";;;;;;;"https://youtu.be/YxBLFbW5BqE?si=UxMqHhjHzVD7c8_H";"https://music.apple.com/gb/album/crazy/1356348468?i=1356348469";"https://open.spotify.com/track/3C0Jl08p5aXD0MckMqBFmx?si=3316c65e3391487e"
+2018;"Lisbon Arena";"Belgium";"Sennek";"A Matter of Time";;;;;;;"https://youtu.be/Z2cZE2gCfWg?si=9ouiSnlgt0nYXW99";"https://music.apple.com/gb/album/a-matter-of-time/1354438270?i=1354438835";"https://open.spotify.com/track/2776nsJOmk3psqGSocg6lK?si=06b3cfd9e5f94ac9"
+2018;"Lisbon Arena";"Belarus";"Alekseev";"Forever";;;;;;;"https://youtu.be/ywy_y24v_ao?si=D787P8itXwxGjAkY";"https://music.apple.com/gb/album/forever/1363774379?i=1363774384";"https://open.spotify.com/track/4whyGYFECu1EEQ0qAHJfjy?si=62546eecb00147b8"
+2018;"Lisbon Arena";"Switzerland";"Zibbz";"Stones";;;;;;;"https://youtu.be/wJGTVsluHkw?si=0OPdx8BS3InPwxGT";"https://music.apple.com/gb/album/stones/1725506339?i=1725506340";"https://open.spotify.com/track/1Y5zsF5NQ1dvncnhPLb7K3?si=4b61a7369dd943c6"
+2018;"Lisbon Arena";"Azerbaijan";"Aisel";"X My Heart";;;;;;;"https://youtu.be/1CUwlpqUuvA?si=JRVLjaEzXTCr0rwo";"https://music.apple.com/gb/album/x-my-heart/1359435120?i=1359435601";"https://open.spotify.com/track/1P5JWcZw3zATCqSKMdHLKv?si=d3ee605bd7714608"
+2018;"Lisbon Arena";"Armenia";"Sevak Khanagyan";"Qami";;;;;;;"https://youtu.be/CYlWiHjUK0c?si=nGVrmdenn9anS8rp";"https://music.apple.com/gb/album/qami/1364165489?i=1364165669";"https://open.spotify.com/track/2zO4FXoBn1hseWJmjzGpcM?si=1286c50cbeb84540"
+2018;"Lisbon Arena";"North Macedonia";"Eye Cue";"Lost and Found";;;;;;;"https://youtu.be/MV_cR_Qb2Cg?si=NREcm3U3ADv0GRIl";"https://music.apple.com/gb/album/lost-found/1359253329?i=1359254223";"https://open.spotify.com/track/5pr2apsKCrMhoAwQ5ESJym?si=bcc8b984e52b422c"
+2018;"Lisbon Arena";"Romania";"The Humans";"Goodbye";;;;;;;"https://youtu.be/DGR4S3y7qcw?si=QPt-ZlI54GMQeZEV";"https://music.apple.com/gb/album/goodbye/1334671177?i=1334671257";"https://open.spotify.com/track/6uUkAk16Tf2AV681mvzTjR?si=6eb0e8c693ab4a07"
