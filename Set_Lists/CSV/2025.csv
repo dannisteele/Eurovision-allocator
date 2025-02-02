@@ -1,13 +1,13 @@
-"year","venue","countryname","artist","song","runningOrder","placed","placedJury","placedTelevote","pointsJury","pointsTelevote","youtubeLink","appleMusicLink","spotifyLink"
-2025,"Basel","Albania","Shkodra Elektronike","Zjerm",NULL,NULL,NULL,NULL,NULL,NULL,"https://www.youtube.com/watch?v=RNT1SmmxuIk","https://music.apple.com/gb/album/zjerm/1784283561?i=1784283562","https://open.spotify.com/track/34ozWcKZQ0RvV9td8EHfXO?si=afb18a5ff072446a"
-2025,"Basel","Cyprus","Theo Evan",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-2025,"Basel","Czechia","ADONXS",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-2025,"Basel","Montenegro","Nina Žižić","Dobrodošli",NULL,NULL,NULL,NULL,NULL,NULL,"https://www.youtube.com/watch?v=_zs0yq39aFA","https://music.apple.com/gb/album/dobrodo%C5%A1li/1779194821?i=1779194822","https://open.spotify.com/track/5UspyMgNKogZTVNc9Ptl9P?si=934cc767a1244480"
-2025,"Basel","Netherlands","Claude",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-2025,"Basel","Austria","JJ",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-2025,"Basel","France","Louane",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-2025,"Basel","Greece","Klavdia","Asteromáta",NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/UxzeTezgey4?si=7zXb-fc53-1MUpDx","https://music.apple.com/gb/album/asteromata/1791841422?i=1791841428","https://open.spotify.com/track/2aE2SRm4QraCuDBNnBsRIz?si=35eec0bef499457d"
-2025,"Basel","Israel","Yuval Raphael",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-2025,"Basel","Luxembourg","Laura Thorn","La Poupée Monte Le Son",NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/LVHu_KwHiKY?si=ZOUPeichv4ypaxbB","https://music.apple.com/gb/album/la-poup%C3%A9e-monte-le-son/1785952116?i=1785952117","https://open.spotify.com/track/7uUZf0d7YEFvfEspnYopXN?si=37c42181e77246c4"
-2025,"Basel","Slovenia","Klemen","How Much Time Do We Have Left?",NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/fsCc3ukABOA?si=VfCg9ZA6MMDY_a3A","https://music.apple.com/gb/album/how-much-time-do-we-have-left/1793535327?i=1793535343","https://open.spotify.com/track/104QgPphJUPg86IWYnAnL7?si=0b1ddd86573549e7"
-2025,"Basel","Spain","Melody","Esa Diva",NULL,NULL,NULL,NULL,NULL,NULL,"https://youtu.be/H46FB-rLh04?si=c9eHi9KH32nuS3EI","https://music.apple.com/gb/album/esa-diva/1782936322?i=1782936323","https://open.spotify.com/track/5MOZUwlA3LPWFVhHNxWCfh?si=faa7898988844bef"
+"year";"venue";"countryname";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
+2025;"Basel";"Albania";"Shkodra Elektronike";"Zjerm";NULL;NULL;NULL;NULL;NULL;NULL;"https://www.youtube.com/watch?v=RNT1SmmxuIk";"https://music.apple.com/gb/album/zjerm/1784283561?i=1784283562";"https://open.spotify.com/track/34ozWcKZQ0RvV9td8EHfXO?si=afb18a5ff072446a"
+2025;"Basel";"Cyprus";"Theo Evan";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+2025;"Basel";"Czechia";"ADONXS";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+2025;"Basel";"Montenegro";"Nina Žižić";"Dobrodošli";NULL;NULL;NULL;NULL;NULL;NULL;"https://www.youtube.com/watch?v=_zs0yq39aFA";"https://music.apple.com/gb/album/dobrodo%C5%A1li/1779194821?i=1779194822";"https://open.spotify.com/track/5UspyMgNKogZTVNc9Ptl9P?si=934cc767a1244480"
+2025;"Basel";"Netherlands";"Claude";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+2025;"Basel";"Austria";"JJ";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+2025;"Basel";"France";"Louane";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+2025;"Basel";"Greece";"Klavdia";"Asteromáta";NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/UxzeTezgey4?si=7zXb-fc53-1MUpDx";"https://music.apple.com/gb/album/asteromata/1791841422?i=1791841428";"https://open.spotify.com/track/2aE2SRm4QraCuDBNnBsRIz?si=35eec0bef499457d"
+2025;"Basel";"Israel";"Yuval Raphael";NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+2025;"Basel";"Luxembourg";"Laura Thorn";"La Poupée Monte Le Son";NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/LVHu_KwHiKY?si=ZOUPeichv4ypaxbB";"https://music.apple.com/gb/album/la-poup%C3%A9e-monte-le-son/1785952116?i=1785952117";"https://open.spotify.com/track/7uUZf0d7YEFvfEspnYopXN?si=37c42181e77246c4"
+2025;"Basel";"Slovenia";"Klemen";"How Much Time Do We Have Left?";NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/fsCc3ukABOA?si=VfCg9ZA6MMDY_a3A";"https://music.apple.com/gb/album/how-much-time-do-we-have-left/1793535327?i=1793535343";"https://open.spotify.com/track/104QgPphJUPg86IWYnAnL7?si=0b1ddd86573549e7"
+2025;"Basel";"Spain";"Melody";"Esa Diva";NULL;NULL;NULL;NULL;NULL;NULL;"https://youtu.be/H46FB-rLh04?si=c9eHi9KH32nuS3EI";"https://music.apple.com/gb/album/esa-diva/1782936322?i=1782936323";"https://open.spotify.com/track/5MOZUwlA3LPWFVhHNxWCfh?si=faa7898988844bef"
