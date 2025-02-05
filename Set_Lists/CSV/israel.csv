@@ -1,4 +1,4 @@
-"year";"venue";"countryname";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
+"year";"venue_name";"country_name";"artist_name";"song_name";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
 1973;"Théâtre Municipal";"Israel";"Ilanit";"Ey Sham";17;4;4;;97;;"https://youtu.be/6N8SwfYRGWU?si=VED08nUPQ-pA1UzB";"https://music.apple.com/gb/album/ey-sham/1227895070?i=1227895088";"https://open.spotify.com/track/6XTFPBCx1F8q9V2CgXnUWO?si=ab9762edf33f4ff3"
 1974;"Brighton Dome";"Israel";"Poogy";"Natati La Khaiai";6;7;7;;11;;"https://youtu.be/dCjTzgaiW7Y?si=rqaiy9h7ZOm-3NgQ";;
 1975;"St. Eriks Mässan";"Israel";"Shlomo Artzi";"At Ve'Ani";12;11;11;;40;;"https://youtu.be/N3R_TMUK80A?si=GjBIIbi2nKMETrW1";"https://music.apple.com/gb/album/%D7%90%D7%AA-%D7%95%D7%90%D7%A0%D7%99/486194289?i=486194300";"https://open.spotify.com/track/6PnmAOXm7mExJKvz93iOaW?si=0b76dad0c6c4422d"

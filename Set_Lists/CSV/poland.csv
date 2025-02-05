@@ -1,4 +1,4 @@
-"year";"venue";"countryname";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
+"year";"venue_name";"country_name";"artist_name";"song_name";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
 1994;"Point Theatre";"Poland";"Edyta Górniak";"To nie ja!";24;2;2;;166;;"https://youtu.be/PrRJcZ7f6O8?si=XqafS1WnjihJS_Sj";"https://music.apple.com/gb/album/to-nie-ja-2020-remaster/1511028566?i=1511028617";"https://open.spotify.com/track/25zN3HNnNrhA3fXqsauv4g?si=3f23afefaee741e3"
 1995;"Point Theatre";"Poland";"Justyna";"Sama";1;18;18;;15;;"https://youtu.be/neM37hUsVDo?si=zJzP4t8nnNELGGtB";"https://music.apple.com/gb/album/sama-noc%C4%85/1389797504?i=1389797506";
 1996;"Oslo Spektrum";"Poland";"Kasia Kowalska";"Chcę znać swój grzech";20;15;15;;31;;"https://youtu.be/GATT2iJralY?si=X8FMhuu43gBL6qOn";;

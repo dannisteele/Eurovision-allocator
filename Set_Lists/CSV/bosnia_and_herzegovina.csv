@@ -1,4 +1,4 @@
-"year";"venue";"countryname";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
+"year";"venue_name";"country_name";"artist_name";"song_name";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
 1993;"Green Glens Arena";"Bosnia and Herzegovina";"Fazla";"Sva bol svijeta";18;16;16;;27;;"https://youtu.be/DREeDXs9ijc?si=WJ4YIp1fZRZRljyZ";"https://music.apple.com/gb/album/sva-bol-svijeta-eurosong-1993/286503323?i=286503822";"https://open.spotify.com/track/6phethNfdodlInhpLHxiWH?si=bf0f3feab0a0404f"
 1994;"Point Theatre";"Bosnia and Herzegovina";"Alma and Dejan";"Ostani kraj mene";18;15;15;;39;;"https://youtu.be/9t-ptOfHvtQ?si=Y1AfaPssWDIhVdBd";;"https://open.spotify.com/track/4DDRFA6YSSVkJlUz8Ev1ia?si=f8e2abe6aa134747"
 1995;"Point Theatre";"Bosnia and Herzegovina";"Davor Popović";"Dvadeset prvi vijek";4;19;19;;14;;"https://youtu.be/fGYt_iYm4_g?si=M0NYz8NvTUKgS2Ku";"https://music.apple.com/gb/album/dvadeset-i-prvi-vijek/518579287?i=518579374";

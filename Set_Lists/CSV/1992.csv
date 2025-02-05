@@ -1,4 +1,4 @@
-"year";"venue";"countryname";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
+"year";"venue";"country";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
 1992;"Malmö Isstadion";"Spain";"Serafín";"Todo esto es la música";1;14;14;;37;;"https://youtu.be/TDd4AtDiQmU?si=OTi78lCWWItHsA7z";"https://music.apple.com/gb/album/todo-esto-es-la-m%C3%BAsica/1189607160?i=1189607380";"https://open.spotify.com/track/53U4TjKYfE6h5rDVM8R2zS?si=c57e5b4528c44448"
 1992;"Malmö Isstadion";"Belgium";"Morgane";"Nous on veut des violons";2;20;20;;11;;"https://youtu.be/CA87nQYuWVk?si=a2Hva3QiZwQWfjQe";;
 1992;"Malmö Isstadion";"Israel";"Dafna";"Ze Rak Sport";3;6;6;;85;;"https://youtu.be/V-heNOz1Wbs?si=_eYF8t3yVlF6vA4j";;"https://open.spotify.com/track/4imgLZu0HU4xUROyf9Cmxk?si=b19a6044c18e4654"

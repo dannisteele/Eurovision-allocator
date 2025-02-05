@@ -1,4 +1,4 @@
-"year";"venue";"countryname";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
+"year";"venue_name";"country_name";"artist_name";"song_name";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
 2007;"Hartwall Arena";"Czechia";"Kabát";"Malá dáma";;;;;;;"https://youtu.be/iBZaVQ52RQY?si=KRabDJTH7gob_yaG";"https://music.apple.com/gb/album/mal%C3%A1-d%C3%A1ma/693555235?i=693555242";"https://open.spotify.com/track/6Le5KOUhQgU4PQNkcX6sP4?si=cd292302252643d6"
 2008;"Belgrade Arena";"Czechia";"Tereza Kerndlová";"Have Some Fun";;;;;;;"https://youtu.be/RqYgZKpMhh4?si=YJQ6SoHPycTptVv-";"https://music.apple.com/gb/album/have-some-fun/1443302474?i=1443302846";"https://open.spotify.com/track/1RLmD2HP8XSyTEqwGbfFjx?si=445730cd9bcc4af4"
 2009;"Olimpiysky Arena";"Czechia";"Gipsy.cz";"Aven Romale";;;;;;;"https://youtu.be/JsjBPt-GeFc?si=Jr7r3V1jEqTSxj3i";"https://music.apple.com/gb/album/aven-romale/315751191?i=315751579";"https://open.spotify.com/track/3pVzMndOJpKfQEJkzXi43a?si=5c7f4b86a4664984"

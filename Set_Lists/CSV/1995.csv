@@ -1,4 +1,4 @@
-"year";"venue";"countryname";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
+"year";"venue";"country";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
 1995;"Point Theatre";"Poland";"Justyna";"Sama";1;18;18;;15;;"https://youtu.be/neM37hUsVDo?si=zJzP4t8nnNELGGtB";"https://music.apple.com/gb/album/sama-noc%C4%85/1389797504?i=1389797506";
 1995;"Point Theatre";"Ireland";"Eddie Friel";"Dreamin'";2;14;14;;44;;"https://youtu.be/CRZxY4rLbvM?si=17Fa8MpAcFOihj3x";;
 1995;"Point Theatre";"Germany";"Stone and Stone";"Verliebt in Dich";3;23;23;;1;;"https://youtu.be/3jGi32Xqg8g?si=YgD-nTrhYEdcaznI";;

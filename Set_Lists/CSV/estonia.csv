@@ -1,4 +1,4 @@
-"year";"venue";"countryname";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
+"year";"venue_name";"country_name";"artist_name";"song_name";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
 1994;"Point Theatre";"Estonia";"Silvi Vrait";"Nagu merelaine";10;24;24;;2;;"https://youtu.be/6kcB60LSXj0?si=4wYt6TKSVLmx2PKr";;
 1996;"Oslo Spektrum";"Estonia";"Maarja-Liis Ilus and Ivo Linna";"Kaelakee hääl";11;5;5;;94;;"https://youtu.be/0rRMOaZ_RpA?si=UcZRcCi6LJqxJULw";;
 1997;"Point Theatre";"Estonia";"Maarja";"Keelatud maa";13;8;10;4;58;24;"https://youtu.be/3Ry_q3ZrlHk?si=HfRJqlihBLVehWMv";"https://music.apple.com/gb/album/keelatud-maa/736088135?i=736088407";"https://open.spotify.com/track/5y4iUZqghKCbLCLwPNNVIm?si=6598bdbe7f1443f4"

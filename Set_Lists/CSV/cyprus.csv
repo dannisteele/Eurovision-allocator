@@ -1,4 +1,4 @@
-"year";"venue";"countryname";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
+"year";"venue_name";"country_name";"artist_name";"song_name";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
 1981;"RDS Simmonscourt Pavilion";"Cyprus";"Island";"Monika";18;6;6;;69;;"https://youtu.be/3I_HvhqYLHA?si=jKMhXIAWvu5x1D75";;
 1982;"Harrogate Conference Centre";"Cyprus";"Anna Vissi";"Mono i agapi";8;5;5;;85;;"https://youtu.be/S8HVS1DePZk?si=UB2-ESGlnNhaWH0a";"https://music.apple.com/gb/album/mono-i-agapi/724765925?i=724766030";"https://open.spotify.com/track/2fBgBl0dSwiUAVHxG6LVat?si=069762a26c8f478c"
 1983;"Rudi-Sedlmayer-Halle";"Cyprus";"Stavros and Constantina";"I agapi akoma zi";13;16;16;;26;;"https://youtu.be/trLm7dIJPW0?si=coepBCsyy12BW_VO";;

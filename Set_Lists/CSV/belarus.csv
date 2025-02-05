@@ -1,4 +1,4 @@
-"year";"venue";"countryname";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
+"year";"venue_name";"country_name";"artist_name";"song_name";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
 2004;"Abdi İpekçi Arena";"Belarus";"Aleksandra and Konstantin";"My Galileo";;;;;;;"https://youtu.be/bINn55fuScE?si=_l4l_T2Q5SiEYKPD";;
 2005;"Palace of Sports";"Belarus";"Angelica Agurbash";"Love Me Tonight";;;;;;;"https://youtu.be/lnY0HbiuiX4?si=9Wg15Yi-eaZKVvXH";;
 2006;"Olympic Indoor Hall";"Belarus";"Polina Smolova";"Mum";;;;;;;"https://youtu.be/jkGqAU3m-jw?si=IYyrhaXTv7qZ772c";;

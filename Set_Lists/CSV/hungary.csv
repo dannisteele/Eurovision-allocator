@@ -1,4 +1,4 @@
-"year";"venue";"countryname";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
+"year";"venue_name";"country_name";"artist_name";"song_name";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
 1994;"Point Theatre";"Hungary";"Friderika";"Kinek mondjam el vétkeimet?";22;4;4;;122;;"https://youtu.be/fHdjqtSECPw?si=WEe4wUXVzioz9fhT";"https://music.apple.com/gb/album/kinek-mondjam-el-v%C3%A9tkeimet/712176029?i=712176304";"https://open.spotify.com/track/0CaFSDIraBEVmqIzp4Dozl?si=a8690289681045bd"
 1995;"Point Theatre";"Hungary";"Csaba Szigeti";"Új név egy régi ház falán";13;22;22;;3;;"https://youtu.be/hYSS_V4w3a8?si=kkpGHEo-jij9omA6";;
 1997;"Point Theatre";"Hungary";"V.I.P.";"Miért kell, hogy elmenj?";19;12;13;12;31;8;"https://youtu.be/Nqjz3jGnxuY?si=G4vPH7wnwAcwr_Gy";"https://music.apple.com/gb/album/mi%C3%A9rt-kell-hogy-elmenj/778110884?i=778110886";"https://open.spotify.com/track/0uYGxekOvECcGJeCMWFybR?si=28ee86da635b4e7b"

@@ -1,4 +1,4 @@
-"year";"venue";"countryname";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
+"year";"venue_name";"country_name";"artist_name";"song_name";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
 2003;"Skonto Olympic Hall";"Ukraine";"Olexandr";"Hasta la vista";16;14;9;16;8;22;"https://youtu.be/C0r1Vh4hbFc?si=yH1XJ7H1jhF6IkD8";;
 2004;"Abdi İpekçi Arena";"Ukraine";"Ruslana";"Wild Dances";10;1;;1;;280;"https://youtu.be/10XR67NQcAc?si=_H4dJAXaQkafD3yF";"https://music.apple.com/gb/album/wild-dances/724020681?i=724020692";"https://open.spotify.com/track/1Lav2Z3RKu71MJLIjQz4dQ?si=33d8cae1f8954d27"
 2005;"Palace of Sports";"Ukraine";"GreenJolly";"Razom nas bahato";16;19;8;19;8;22;"https://youtu.be/N5u6J_mbhLU?si=IkeOa_qpEytvsDUF";"https://music.apple.com/gb/album/razom-nas-bagato/112569024?i=112568879";"https://open.spotify.com/track/2oSsrTivauS9o3nkauX8v5?si=002d875ba81c4a03"

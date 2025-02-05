@@ -1,4 +1,4 @@
-"year";"venue";"countryname";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
+"year";"venue_name";"country_name";"artist_name";"song_name";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
 2000;"Globe Arena";"Latvia";"Brainstorm";"My Star";21;3;17;3;8;128;"https://youtu.be/DqFwe0PHwgc?si=3vUR5AreDXimsVOg";"https://music.apple.com/gb/album/my-star/901441114?i=901441130";"https://open.spotify.com/track/4R2tCloerHegAfPWjR3o7d?si=bafcd6734f3e403e"
 2001;"Parken Stadium";"Latvia";"Arnis Mednis";"Too Much";9;18;18;16;0;16;"https://youtu.be/uN0WwwEL81I?si=djW_VOuA158EKu4j";"https://music.apple.com/gb/album/too-much-eurovision-mix/903636767?i=903636846";"https://open.spotify.com/track/3XJ8YC4wks6m14Jy2p6QNQ?si=fe1998bb85b942f2"
 2002;"Saku Suurhall";"Latvia";"Marie N";"I Wanna";23;1;1;1;57;119;"https://youtu.be/_cCUrEIpSJQ?si=vCBUE6U5B1S9bBa7";"https://music.apple.com/gb/album/i-wanna-radio-version/260662884?i=260662904";"https://open.spotify.com/track/70tFqMdkFXCPeirRaLAKKM?si=fa14ae4299ed4afb"

@@ -1,4 +1,4 @@
-"year";"venue";"countryname";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
+"year";"venue_name";"country_name";"artist_name";"song_name";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
 1971;"Gaiety Theatre";"Malta";"Joe Grech";"Marija l-Maltija";2;18;18;;52;;"https://youtu.be/IyCkJkD9InQ?si=KocOvlA5fHDa_rjh";"https://music.apple.com/gb/album/marija-l-maltija-esc-1971/843614305?i=843614317";"https://open.spotify.com/track/3vO7n5l3c0Wa1ycc7DIgtT?si=f129cf896f2f4d41"
 1972;"Usher Hall";"Malta";"Helen and Joseph";"L-imħabba";9;18;18;;48;;"https://youtu.be/pxBXNX8ZZLM?si=c8udww7CYeTfsy1t";"https://music.apple.com/gb/album/lim%C4%A7abba-esc-1972/843614305?i=843614322";"https://open.spotify.com/track/3lPcK9X0uudmYsz0dvshWo?si=759304e153f24f48"
 1975;"St. Eriks Mässan";"Malta";"Renato";"Singing This Song";10;12;12;;32;;"https://youtu.be/wdv7tNUfu2A?si=VghjuJn_xSSk-nzM";;

@@ -1,4 +1,4 @@
-"year";"venue";"countryname";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
+"year";"venue_name";"country_name";"artist_name";"song_name";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
 1961;"Palais des Festivals";"Spain";"Conchita Bautista";"Estando contigo";1;9;9;;8;;"https://youtu.be/qPOP5gTnGcY?si=C44TC1iMQZLcvnYl";"https://music.apple.com/gb/album/estando-contigo/168755567?i=168756231";"https://open.spotify.com/track/5DIovqjO8pCMkA6L1FXrXl?si=cc9e86ccdee841cf"
 1962;"Villa Louvigny";"Spain";"Víctor Balaguer";"Llámame";3;13;13;;0;;"https://youtu.be/klMKcdPXH7c?si=kigbobd2X4qrt2mS";;"https://open.spotify.com/track/5NIOZIbuLhFO1PQNv3pHhl?si=d39a309ab0c84bdf"
 1963;"BBC Television Centre";"Spain";"José Guardiola";"Algo prodigioso";12;12;12;;2;;"https://youtu.be/YSrbG8DrGBA?si=ydBE0ruItEf6kMQE";"https://music.apple.com/gb/album/algo-prodigioso/690459012?i=690460175";"https://open.spotify.com/track/08lZvHPOvP3MsGpxZlZ9Up?si=30aaa043200b4112"

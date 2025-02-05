@@ -1,4 +1,4 @@
-"year";"venue";"countryname";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
+"year";"venue_name";"country_name";"artist_name";"song_name";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
 1958;"AVRO Studios";"Sweden";"Alice Babs";"Lilla stjärna";5;4;4;;10;;"https://youtu.be/f5DNvsB94uI?si=7-6UwHW2iGRskWeo";"https://music.apple.com/gb/album/lilla-stj%C3%A4rna/889660639?i=889660658";"https://open.spotify.com/track/1VrHijWfzrqYM9A76u1zBA?si=7374f8793ca6492d"
 1959;"Palais des Festivals";"Sweden";"Brita Borg";"Augustin";7;9;9;;4;;"https://youtu.be/BG_hh_f9ANg?si=yso5DhfMsnKCD5en";;"https://open.spotify.com/track/3Slc76uWyTN3eMt4L8aIv1?si=965e78583ca94962"
 1960;"Royal Festival Hall";"Sweden";"Siw Malmkvist";"Alla andra får varann";2;10;10;;4;;"https://youtu.be/Vb8o-fBkXnA?si=lmK9_-dAINPMoQ-A";;

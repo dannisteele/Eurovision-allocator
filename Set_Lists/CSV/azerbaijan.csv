@@ -1,4 +1,4 @@
-"year";"venue";"countryname";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
+"year";"venue_name";"country_name";"artist_name";"song_name";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
 2008;"Belgrade Arena";"Azerbaijan";"Elnur and Samir";"Day After Day";20;8;11;8;0;132;"https://youtu.be/6OGVL_9P5fw?si=fk90upG17ndTyn_8";;
 2009;"Olimpiysky Arena";"Azerbaijan";"Aysel and Arash";"Always";11;3;8;2;112;253;"https://youtu.be/9OEIOS1oUeY?si=pqTutuoO3kQYVL4i";"https://music.apple.com/gb/album/always/310537995?i=310538004";"https://open.spotify.com/track/4xMRFkFYufAuTEKR0YMN3Z?si=0bcb76a5467c4a83"
 2010;"Telenor Arena";"Azerbaijan";"Safura";"Drip Drop";1;6;9;4;116;166;"https://youtu.be/SOKGZb38e5c?si=cgLwO8DHAofCsaGS";"https://music.apple.com/gb/album/drip-drop/368931476?i=368931486";"https://open.spotify.com/track/38hIyhovrQzznCiNjnG5LI?si=a474c14e29904669"

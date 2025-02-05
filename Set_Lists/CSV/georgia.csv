@@ -1,4 +1,4 @@
-"year";"venue";"countryname";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
+"year";"venue_name";"country_name";"artist_name";"song_name";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
 2007;"Hartwall Arena";"Georgia";"Sopho";"Visionary Dream";11;12;19;12;0;97;"https://youtu.be/EHImNpPta7M?si=6rRdCuLxYeZEKrj3";;
 2008;"Belgrade Arena";"Georgia";"Diana Gurtskaya";"Peace Will Come";17;11;11;11;0;83;"https://youtu.be/paPjkp6s2u8?si=1uM4lo-kVPa6Uuyc";;
 2010;"Telenor Arena";"Georgia";"Sofia Nizharadze";"Shine";13;5;4;9;160;127;"https://youtu.be/y5yTMGxFiPw?si=n5M5o3yU7kcat9f3";"https://music.apple.com/gb/album/shine/811936965?i=811936984";"https://open.spotify.com/track/4X2DjLtq0XEj4ukogWZCAv?si=430656392156489b"

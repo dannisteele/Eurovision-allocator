@@ -1,4 +1,4 @@
-"year";"venue";"countryname";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
+"year";"venue_name";"country_name";"artist_name";"song_name";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
 1957;"Großer Sendesaal des Hessischen Rundfunks";"Austria";"Bob Martin";"Wohin, kleines Pony?";5;10;10;;3;;"https://www.youtube.com/watch?v=tegONpmFvGY";;"https://open.spotify.com/track/0mLmt6DBB2QITlKPXLwSxn?si=cb816364f8db4717"
 1958;"AVRO Studios";"Austria";"Liane Augustin";"Die ganze Welt braucht Liebe";9;5;5;;8;;"https://youtu.be/AC5E7tl7juU?si=NicdJL_uudh41cel";;"https://open.spotify.com/track/17C4megGZBj2LGMxngDGfY?si=96b76b22e3c44d06"
 1959;"Palais des Festivals";"Austria";"Ferry Graf";"Der K. und K. Kalypso aus Wien";9;9;9;;4;;"https://youtu.be/_PMFkXaW090?si=_cv_u5K-3X_NwkWu";;"https://open.spotify.com/track/3vds04DhVDdLqtgHwFA2GY?si=cb7ca2dee6134cac"

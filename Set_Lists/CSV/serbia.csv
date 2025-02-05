@@ -1,4 +1,4 @@
-"year";"venue";"countryname";"artist";"song";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
+"year";"venue_name";"country_name";"artist_name";"song_name";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
 2007;"Hartwall Arena";"Serbia";"Marija Šerifović";"Molitva";17;1;17;1;1;267;"https://youtu.be/FSueQN1QvV4?si=kLyUOBBuUitW92dC";"https://music.apple.com/gb/album/molitva-esc-serbian-version/259891927?i=259891955";"https://open.spotify.com/track/1ue71r2sNUvl4LSqvgVVcZ?si=c20aad907b844965"
 2008;"Belgrade Arena";"Serbia";"Jelena Tomašević feat. Bora Dugić";"Oro";23;6;11;6;0;160;"https://youtu.be/d3NMkyDSEb0?si=0wZxgcbmOVI-lLqh";"https://music.apple.com/gb/album/oro/1578004612?i=1578004843";"https://open.spotify.com/track/593IpDx3kxrBMeGQ0LLGYl?si=c3da67b677cb4b0c"
 2009;"Olimpiysky Arena";"Serbia";"Marko Kon and Milaan";"Cipela";;;;;;;"https://youtu.be/DRObP8XE4Ko?si=RjPaG0lYt-93l2xC";;"https://open.spotify.com/track/0btQr6pGSvF2OTBvwJsiBx?si=279a79a87d424c58"

@@ -1,4 +1,4 @@
-"performanceId";"runningOrder";"placed";"placedJury";"placedTelevote";"placedDiff";"totalPoints";"pointsJury";"pointsTelevote";"pointsDiff";"youtubeLink";"appleMusicLink";"spotifyLink";"venueId";"countryId";"artistId";"songId";"year"
+"id";"runningOrder";"placed";"placedJury";"placedTelevote";"placedDiff";"totalPoints";"pointsJury";"pointsTelevote";"pointsDiff";"youtubeLink";"appleMusicLink";"spotifyLink";"venue_id";"country_id";"artist_id";"song_id";"year"
 64;3;;;;;;;;;"https://www.youtube.com/watch?v=qFgBJwyKSGg";;;1;1;1;1;1956
 65;10;;;;;;;;;"https://www.youtube.com/watch?v=9ICOEka_Jqg";;;1;1;2;2;1956
 66;5;;;;;;;;;"https://www.youtube.com/watch?v=x1e8gPquGVY";;;1;2;3;3;1956
