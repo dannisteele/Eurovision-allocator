@@ -1,59 +1,59 @@
-"venueId";"venue";"hostCountry"
-1;"Teatro Kursaal";7
-2;"Großer Sendesaal des Hessischen Rundfunks";3
-3;"AVRO Studios";6
-4;"Palais des Festivals";2
-5;"Royal Festival Hall";10
-8;"BBC Television Centre";10
-9;"Tivolis Koncertsal";9
-10;"Sala di Concerto della RAI";4
-11;"Villa Louvigny";5
-12;"Großer Festsaal der Wiener Hofburg";8
-13;"Royal Albert Hall";10
-14;"Teatro Real";15
-15;"RAI Congrescentrum";6
-16;"Gaiety Theatre";18
-17;"Usher Hall";10
-18;"Théâtre Municipal";5
-19;"Brighton Dome";10
-20;"St. Eriks Mässan";11
-21;"Nederlands Congresgebouw";6
-22;"Wembley Conference Centre";10
-23;"Palais des Congrès";2
-24;"International Convention Center";20
-25;"RDS Simmonscourt Pavilion";18
-26;"Harrogate Conference Centre";10
-27;"Rudi-Sedlmayer-Halle";3
-28;"Scandinavium";11
-29;"Grieghallen";13
-30;"Palais de Centenaire";1
-31;"Palais de Beaulieu";7
-32;"Koncertna Dvorana Vatroslav Lisinski";16
-33;"Studio 15 di Cinecittà";4
-34;"Malmö Isstadion";11
-35;"Green Glens Arena";18
-36;"Point Theatre";18
-37;"Oslo Spektrum";13
-38;"National Indoor Arena";10
-39;"Globe Arena";11
-40;"Parken Stadium";9
-41;"Saku Suurhall";29
-42;"Skonto Olympic Hall";37
-43;"Abdi İpekçi Arena";22
-44;"Palace of Sports";38
-45;"Olympic Indoor Hall";21
-46;"Hartwall Arena";14
-47;"Belgrade Arena";49
-48;"Olimpiysky Arena";34
-49;"Telenor Arena";13
-50;"Düsseldorf Arena";3
-51;"Baku Crystal Hall";50
-52;"B&W Hallerne";9
-53;"Wiener Stadthalle";8
-54;"International Exhibition Centre";38
-55;"Lisbon Arena";17
-56;"Expo Tel Aviv";20
-57;"Rotterdam Ahoy";6
-58;"PalaOlimpico";4
-59;"Liverpool Arena";10
-60;"Basel";7
+"id","name","hostCountry_id"
+1,"Teatro Kursaal",7
+2,"Großer Sendesaal des Hessischen Rundfunks",3
+3,"AVRO Studios",6
+4,"Palais des Festivals",2
+5,"Royal Festival Hall",10
+8,"BBC Television Centre",10
+9,"Tivolis Koncertsal",9
+10,"Sala di Concerto della RAI",4
+11,"Villa Louvigny",5
+12,"Großer Festsaal der Wiener Hofburg",8
+13,"Royal Albert Hall",10
+14,"Teatro Real",15
+15,"RAI Congrescentrum",6
+16,"Gaiety Theatre",18
+17,"Usher Hall",10
+18,"Théâtre Municipal",5
+19,"Brighton Dome",10
+20,"St. Eriks Mässan",11
+21,"Nederlands Congresgebouw",6
+22,"Wembley Conference Centre",10
+23,"Palais des Congrès",2
+24,"International Convention Center",20
+25,"RDS Simmonscourt Pavilion",18
+26,"Harrogate Conference Centre",10
+27,"Rudi-Sedlmayer-Halle",3
+28,"Scandinavium",11
+29,"Grieghallen",13
+30,"Palais de Centenaire",1
+31,"Palais de Beaulieu",7
+32,"Koncertna Dvorana Vatroslav Lisinski",16
+33,"Studio 15 di Cinecittà",4
+34,"Malmö Isstadion",11
+35,"Green Glens Arena",18
+36,"Point Theatre",18
+37,"Oslo Spektrum",13
+38,"National Indoor Arena",10
+39,"Globe Arena",11
+40,"Parken Stadium",9
+41,"Saku Suurhall",29
+42,"Skonto Olympic Hall",37
+43,"Abdi İpekçi Arena",22
+44,"Palace of Sports",38
+45,"Olympic Indoor Hall",21
+46,"Hartwall Arena",14
+47,"Belgrade Arena",49
+48,"Olimpiysky Arena",34
+49,"Telenor Arena",13
+50,"Düsseldorf Arena",3
+51,"Baku Crystal Hall",50
+52,"B&W Hallerne",9
+53,"Wiener Stadthalle",8
+54,"International Exhibition Centre",38
+55,"Lisbon Arena",17
+56,"Expo Tel Aviv",20
+57,"Rotterdam Ahoy",6
+58,"PalaOlimpico",4
+59,"Liverpool Arena",10
+60,"Basel",7
