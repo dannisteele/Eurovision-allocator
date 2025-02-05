@@ -1,2 +1,2 @@
-"year","venue_name","country_name","artist_name","song_name","runningOrder","placed","placedJury","placedTelevote","pointsJury","pointsTelevote","youtubeLink","appleMusicLink","spotifyLink"
-1980,"Nederlands Congresgebouw","Morocco","Samira Bensaïd","Bitakat Hob",5,18,18,NULL,7,NULL,"https://youtu.be/jypM1GgfBFk?si=lmwkuJlI-tXvyrIu",NULL,NULL
+"year";"venue_name";"country_name";"artist_name";"song_name";"runningOrder";"placed";"placedJury";"placedTelevote";"pointsJury";"pointsTelevote";"youtubeLink";"appleMusicLink";"spotifyLink"
+1980;"Nederlands Congresgebouw";"Morocco";"Samira Bensaïd";"Bitakat Hob";5;18;18;;7;;"https://youtu.be/jypM1GgfBFk?si=lmwkuJlI-tXvyrIu";;
